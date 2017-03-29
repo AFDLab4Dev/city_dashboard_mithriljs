@@ -6,17 +6,72 @@ var root = document.body;
 
 //request url for wikipedia component
 
-function showOptions(s) {
-  console.log(s[s.selectedIndex].value); // get value
-}
+function addmap(gps){
+		// At the creation of component, we create the map
+		var mymap = L.map("mapid", {
+			center: gps,
+			zoom: 13,
+			minZoom: 12
+		});
+
+		L.tileLayer('https://api.mapbox.com/styles/v1/etibdv/cj0kv2vnc003a2rt8m01gpf4h/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+			id: 'mapbox.streets'
+		}).addTo(mymap);
+	};
 //"https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=text&section=0&page=Agadir&callback=?&origin=*";
 
 //variable for request
+
+var City = {
+	mymap: "",
+
+	list: [
+	{id:1, name:"Agadir"},
+	{id:2,name:"Casablanca"},
+	],
+
+	dict: {1:"Agadir", 2:"Casablanca"},
+	dict_gps: {1:[30.4277547, -9.5981072] ,2:[33.58831, -7.61138] },
+	selected: "Agadir",
+	selectedgps: [30.4277547, -9.5981072],
+	refresh: function() {
+		{
+			m.mount(document.getElementById("leafletmap"), null);
+			m.mount(document.getElementById("leafletmap"), Map);
+
+
+
+		// At the creation of component, we create the map
+		this.mymap = L.map("mapid", {
+			center: this.selectedgps,
+			zoom: 13,
+			minZoom: 12
+		});
+
+		L.tileLayer('https://api.mapbox.com/styles/v1/etibdv/cj0kv2vnc003a2rt8m01gpf4h/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+			id: 'mapbox.streets'
+		}).addTo(this.mymap);
+	};
+}
+
+
+
+};
+
+
 var Data = {
 	wiki: {
 		fetch: function() {
 			m.jsonp({
-				url: "https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=text&section=0&page=Agadir&callback=?&origin=*",
+				url: "https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=text&section=0&page="+City.selected+"&callback=?&origin=*",
 			})
 			.then(function(data) {
 				// fonction de parsing
@@ -37,17 +92,6 @@ var Data = {
 	}
 }
 
-var City = {
-
-	list: [
-	{id:1, name:"Agadir"},
-	{id:2,name:"Casablanca"},
-	],
-	selected: 1
-	
-	
-};
-console.log(City)
 
 
 //Declaration of components
@@ -127,24 +171,7 @@ var Menuafd = {
 
 
 //Map component
-var Map = {
-	oncreate: function(vnode){
-		// At the creation of component, we create the map
-		var mymap = L.map("mapid", {
-			center: [30.4277547, -9.5981072],
-			zoom: 13,
-			minZoom: 12
-		});
-
-		L.tileLayer('https://api.mapbox.com/styles/v1/etibdv/cj0kv2vnc003a2rt8m01gpf4h/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw', {
-			maxZoom: 18,
-			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-			id: 'mapbox.streets'
-		}).addTo(mymap);
-	},
-
+var Map = {	
 	view: function(){
 		return (m("div",  {id:"mapid"}))
 	}
@@ -155,6 +182,7 @@ var Map = {
 var Wiki = {
 	oninit: Data.wiki.fetch,
 
+
 	view: function(vnode) {
 		return Data.wiki.error ? [m(".error", Data.wiki.error)
 		] : Data.wiki.content? [ 			
@@ -163,21 +191,58 @@ var Wiki = {
 	}
 }
 
+var App = {
+	oninit: City.refresh(),
 
+	view: function() {
+    // Create a DIV.container
+    return m('.container', [
+      // Add <h1>Countries</h1>
+      m('h1', 'City selected'),
+      // Add a Select component
+      m(Select, { 
+        // CSS classes
+        className: 'form-control',
+    }),
+      // Add a horizontal rule
+      m('hr'),
+      m('#country', m(Country, { name: City.selected }))
+      ]);
+}
+}
+
+var Country = {
+	view: function(vnode) {
+		return m("h3", { className: 'text-primary' }, vnode.attrs.name);
+	}
+}
 
 var Select = {
 
-	view: function(ctrl) {
-		return m("select", {onchange : function(){  City.selected = this.value;}},
-      City.list.map(function(option) {
-				return m("option", { value: option.id }, option.name );
-			})
-		);
+
+	view: function() {
+		return m("select", {onchange : function(){ 
+			City.selected = City.dict[this.value]; 
+			console.log(City.selectedgps)
+			City.selectedgps = City.dict_gps[this.value];
+			Data.wiki.fetch(); 
+			City.refresh();
+		}
+	},
+	City.list.map(function(option) {
+		return m("option", { value: option.id }, option.name );
+	})
+	);
 	}
 };
 
 //Select city
 /*
+
+	onchange: function() {
+		console.log("Its working");
+		m.render(document.getElementById('country'), m(Country, { name: City.selected })) ;
+	},
 var App = {
   view: function() {
     // Create a DIV.container
@@ -246,6 +311,7 @@ m.mount(document.getElementById("afdmenu"), Menuafd);
 
 m.mount(document.getElementById("leafletmap"), Map);
 
-m.mount(document.getElementById("selectcities"), Select);
+m.mount(document.getElementById("selectcities"), App);
+
 
 
