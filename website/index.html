@@ -1,25 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!-- Déclaration des dépendances. Faire un fichier config à long terme -->
 
 	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 	<meta content="utf-8" http-equiv="encoding">
 	<script src="//unpkg.com/mithril/mithril.js"></script>
 	<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
-	<link rel="stylesheet" href="style.css"  type="text/css"/>
-	<link rel="stylesheet" href="menu.css"  type="text/css"/>
-	<link rel="stylesheet" href="common.css"  type="text/css"/>
+	<link rel="stylesheet" href="css/style.css"  type="text/css"/>
+	<link rel="stylesheet" href="css/menu.css"  type="text/css"/>
+	<link rel="stylesheet" href="css/common.css"  type="text/css"/>
 
 
 	<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"/>
 
 	<script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
 
 
 
 </head>
 <body>
+
+	<!-- Déclaration des "ancres" html qui vont servir à mithril. A changer dans une prochaine consolidation (devrait être une composition de composants mithrils plutôt ) -->
 	<div id="afdmenu" class="menu"></div>
 	<div id="selectcities"></div>
 	<div class="mainafd">
