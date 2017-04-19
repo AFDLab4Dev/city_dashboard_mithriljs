@@ -6,7 +6,7 @@
 	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 	<meta content="utf-8" http-equiv="encoding">
 	<script src="//unpkg.com/mithril/mithril.js"></script>
-	<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>	<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
 	<link rel="stylesheet" href="css/style.css"  type="text/css"/>
 	<link rel="stylesheet" href="css/menu.css"  type="text/css"/>
 	<link rel="stylesheet" href="css/common.css"  type="text/css"/>
@@ -24,7 +24,7 @@
 </head>
 <body>
 
-	<!-- Déclaration des "ancres" html qui vont servir à mithril. A changer dans une prochaine consolidation (devrait être une composition de composants mithrils plutôt ) -->
+	<!-- Déclaration des "ancres" html qui vont servir à mithril. Nécessaire de fixer un certain template du DOM, notamment pour gérer Leaflet-->
 	<div id="afdmenu" class="menu"></div>
 	<div id="selectcities"></div>
 	<div class="mainafd">
@@ -32,6 +32,7 @@
 		<div id="leafletmap"></div>
 	</div>
 	<script src="main.js"></script>
+
 </body>
 <html>
 
