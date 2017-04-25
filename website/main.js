@@ -1,11 +1,52 @@
 //Declaration of useful functions. To be set in an other js file in the future.
 var country_dict = {"Arab World":"ARB", "Central Europe and the Baltics":"CEB", "Caribbean small states":"CSS", "East Asia & Pacific":"EAP", "East Asia & Pacific (all income levels)":"EAS", "Europe & Central Asia":"ECA", "Europe & Central Asia (all income levels)":"ECS", "Euro area":"EMU", "European Union":"EUU", "Fragile and conflict affected situations":"FCS", "High income":"HIC", "Heavily indebted poor countries (HIPC)":"HPC", "Latin America & Caribbean":"LAC", "Latin America & Caribbean (all income levels)":"LCN", "Least developed countries: UN classification":"LDC", "Low income":"LIC", "Lower middle income":"LMC", "Low & middle income":"LMY", "Middle East & North Africa (all income levels)":"MEA", "Middle income":"MIC", "Middle East & North Africa":"MNA", "North America":"NAC","High income":"HIC","High income: nonOECD":"NOC", "High income: OECD":"OEC", "OECD members":"OED", "Other small states":"OSS", "Pacific island small states":"PSS", "South Asia":"SAS", "Sub-Saharan Africa":"SSA", "Sub-Saharan Africa (all income levels)":"SSF", "Small states":"SST", "Upper middle income":"UMC", "World":"WLD","Ivory Coast":"CIV","Curacao":"CUW","Sao Tome and Principe":"STP","American Samoa":"ASM","Australia":"AUS","Brunei Darussalam":"BRN","China":"CHN","Fiji":"FJI","Micronesia, Fed. Sts.":"FSM","Guam":"GUM","Hong Kong SAR, China":"HKG","Indonesia":"IDN","Japan":"JPN","Cambodia":"KHM","Kiribati":"KIR","Korea, Rep.":"KOR","Lao PDR":"LAO","Macao SAR, China":"MAC","Marshall Islands":"MHL","Myanmar":"MMR","Mongolia":"MNG","Northern Mariana Islands":"MNP","Malaysia":"MYS","New Caledonia":"NCL","New Zealand":"NZL","Philippines":"PHL","Palau":"PLW","Papua New Guinea":"PNG","Korea, Dem. Rep.":"PRK","French Polynesia":"PYF","Singapore":"SGP","Solomon Islands":"SLB","Thailand":"THA","Timor-Leste":"TLS","Tonga":"TON","Tuvalu":"TUV","Taiwan, China":"TWN","Vietnam":"VNM","Vanuatu":"VUT","Samoa":"WSM","Albania":"ALB","Andorra":"AND","Armenia":"ARM","Austria":"AUT","Azerbaijan":"AZE","Belgium":"BEL","Bulgaria":"BGR","Bosnia and Herzegovina":"BIH","Belarus":"BLR","Switzerland":"CHE","Channel Islands":"CHI","Cyprus":"CYP","Czech Republic":"CZE","Germany":"DEU","Denmark":"DNK","Spain":"ESP","Estonia":"EST","Finland":"FIN","France":"FRA","Faeroe Islands":"FRO","United Kingdom":"GBR","Georgia":"GEO","Greece":"GRC","Greenland":"GRL","Croatia":"HRV","Hungary":"HUN","Isle of Man":"IMN","Ireland":"IRL","Iceland":"ISL","Italy":"ITA","Kazakhstan":"KAZ","Kyrgyz Republic":"KGZ","Liechtenstein":"LIE","Lithuania":"LTU","Luxembourg":"LUX","Latvia":"LVA","Monaco":"MCO","Moldova":"MDA","Macedonia, FYR":"MKD","Montenegro":"MNE","Netherlands":"NLD","Norway":"NOR","Poland":"POL","Portugal":"PRT","Romania":"ROU","Russian Federation":"RUS","San Marino":"SMR","Serbia":"SRB","Slovak Republic":"SVK","Slovenia":"SVN","Sweden":"SWE","Tajikistan":"TJK","Turkmenistan":"TKM","Turkey":"TUR","Ukraine":"UKR","Uzbekistan":"UZB","Aruba":"ABW","Argentina":"ARG","Antigua and Barbuda":"ATG","Bahamas, The":"BHS","Belize":"BLZ","Bolivia":"BOL","Brazil":"BRA","Barbados":"BRB","Chile":"CHL","Colombia":"COL","Costa Rica":"CRI","Cuba":"CUB","Curaçao":"CUW","Cayman Islands":"CYM","Dominica":"DMA","Dominican Republic":"DOM","Ecuador":"ECU","Grenada":"GRD","Guatemala":"GTM","Guyana":"GUY","Honduras":"HND","Haiti":"HTI","Jamaica":"JAM","St. Kitts and Nevis":"KNA","St. Lucia":"LCA","St. Martin (French part)":"MAF","Mexico":"MEX","Nicaragua":"NIC","Panama":"PAN","Peru":"PER","Puerto Rico":"PRI","Paraguay":"PRY","El Salvador":"SLV","Suriname":"SUR","Sint Maarten (Dutch part)":"SXM","Turks and Caicos Islands":"TCA","Trinidad and Tobago":"TTO","Uruguay":"URY","St. Vincent and the Grenadines":"VCT","Venezuela, RB":"VEN","Virgin Islands (U.S.)":"VIR","United Arab Emirates":"ARE","Bahrain":"BHR","Djibouti":"DJI","Algeria":"DZA","Egypt, Arab Rep.":"EGY","Iran, Islamic Rep.":"IRN","Iraq":"IRQ","Israel":"ISR","Jordan":"JOR","Kuwait":"KWT","Lebanon":"LBN","Libya":"LBY","Morocco":"MAR","Malta":"MLT","Oman":"OMN","West Bank and Gaza":"PSE","Qatar":"QAT","Saudi Arabia":"SAU","Syrian Arab Republic":"SYR","Tunisia":"TUN","Yemen, Rep.":"YEM","Bermuda":"BMU","Canada":"CAN","United States":"USA","Afghanistan":"AFG","Bangladesh":"BGD","Bhutan":"BTN","India":"IND","Sri Lanka":"LKA","Maldives":"MDV","Nepal":"NPL","Pakistan":"PAK","Angola":"AGO","Burundi":"BDI","Benin":"BEN","Burkina Faso":"BFA","Botswana":"BWA","Central African Republic":"CAF","Cote d'Ivoire":"CIV","Cameroon":"CMR","Congo, Dem. Rep.":"COD","Congo, Rep.":"COG","Comoros":"COM","Cabo Verde":"CPV","Eritrea":"ERI","Ethiopia":"ETH","Gabon":"GAB","Ghana":"GHA","Guinea":"GIN","Gambia, The":"GMB","Guinea-Bissau":"GNB","Equatorial Guinea":"GNQ","Kenya":"KEN","Liberia":"LBR","Lesotho":"LSO","Madagascar":"MDG","Mali":"MLI","Mozambique":"MOZ","Mauritania":"MRT","Mauritius":"MUS","Malawi":"MWI","Namibia":"NAM","Niger":"NER","Nigeria":"NGA","Rwanda":"RWA","Sudan":"SDN","Senegal":"SEN","Sierra Leone":"SLE","Somalia":"SOM","South Sudan":"SSD","São Tomé and Principe":"STP","Swaziland":"SWZ","Seychelles":"SYC","Chad":"TCD","Togo":"TGO","Tanzania":"TZA","Uganda":"UGA","South Africa":"ZAF","Zambia":"ZMB","Zimbabwe":"ZWE"} 
+
+
+function create_featurelayer(iconUrl, color, kind,identity){
+	var style = {
+		"color": color,
+		"backgroundColor": "#f00000",
+		"weight": 5,
+		"opacity": 0.65
+	};
+
+	var Icon = L.icon({
+		iconUrl: iconUrl,
+		iconSize: [32, 32],
+		iconAnchor: [16, 37],
+		popupAnchor: [0, -28]
+	});
+
+	var poly = new L.GeoJSON.AJAX("json/"+identity+"-"+kind+".geojson", {
+		style: style,
+		onEachFeature: onEachFeature,
+		pointToLayer: function(feature, latlng) {
+			return L.marker(latlng, {
+				icon: Icon
+			});
+		}
+
+	});
+
+	var center = new L.GeoJSON.AJAX("json/"+identity+"-"+kind+"-center.geojson", {
+		style: style,
+		onEachFeature: onEachFeature,
+
+		pointToLayer: function(feature, latlng) {
+			return L.marker(latlng, {
+				icon: Icon
+			});
+		}
+	});
+
+	return L.layerGroup([poly, center]);
+}
+	
 function addmap(gps, identity, arguments){
 // This function create the map with gps coordinates, add the layers (today hospital/ uni/market/ townhall), add a scale
 
 
 	// Add baselayer
-
 	var satellite = L.tileLayer("https://api.mapbox.com/styles/v1/etibdv/cj0kv2vnc003a2rt8m01gpf4h/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw", {
 		maxZoom: 18,
 		attribution: "Map data &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors, " +
@@ -15,12 +56,12 @@ function addmap(gps, identity, arguments){
 	});
 
 	var carte = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw", {
-		maxZoom: 18,
-		attribution: "Map data &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors, " +
-		"<a href='http://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, " +
-		"Imagery © <a href='http://mapbox.com'>Mapbox</a>",
-		id: "mapbox.streets"
-	});
+			maxZoom: 18,
+			attribution: "Map data &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors, " +
+			"<a href='http://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, " +
+			"Imagery © <a href='http://mapbox.com'>Mapbox</a>",
+			id: "mapbox.streets"
+		});
 
 	var worldpop = L.tileLayer("https://api.mapbox.com/styles/v1/etibdv/cj1g3m3um000m2rmthg1f63pe/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw", {
 		maxZoom: 18,
@@ -29,21 +70,23 @@ function addmap(gps, identity, arguments){
 		"Imagery © <a href='http://mapbox.com'>Mapbox</a>",
 		id: "mapbox.streets"
 	});
-	//Creation of the map
-	var mymap = L.map("mapid", {
-		zoom: 13,
-		minZoom: 11,
-		layers: [carte]
-	});
 
 	var guflayer = L.tileLayer.wms('http://geoservice.dlr.de/eoc/land/ows?service=WMS', {
 		layers: 'GUF28_DLR_v1_Mosaic',
 		format: 'image/png',
 		transparent: true,
 		attribution:"Global Urban Footprint - DLR",
-		opacity: 0.5,
+
+	});
 
 
+
+
+	//Creation of the map
+	var mymap = L.map("mapid", {
+		zoom: 13,
+		minZoom: 11,
+		layers: [worldpop, guflayer, carte, satellite]
 	});
 
 
@@ -51,161 +94,16 @@ function addmap(gps, identity, arguments){
 
 
 	//Add hospital layer + icon
-	var hospital = new L.FeatureGroup();
-	var uni = new L.FeatureGroup();
-	var market = new L.FeatureGroup();
-	var townhall = new L.FeatureGroup();
-
-	var style_hospital = {
-		"color": "#f00000",
-		"backgroundColor": "#f00000",
-		"weight": 5,
-		"opacity": 0.65
-	};
-
-	var hospitalIcon = L.icon({
-		iconUrl: "icons/hospitalicon.png",
-		iconSize: [32, 32],
-		iconAnchor: [16, 37],
-		popupAnchor: [0, -28]
-	});
-
-	var hospital_poly = new L.GeoJSON.AJAX("json/"+identity+"-hospital.geojson", {
-		style: style_hospital,
-		onEachFeature: onEachFeature,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: hospitalIcon
-			});
-		}
-
-	});
-
-	var hospital_center = new L.GeoJSON.AJAX("json/"+identity+"-hospital-center.geojson", {
-		style: style_hospital,
-		onEachFeature: onEachFeature,
-
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: hospitalIcon
-			});
-		}
-	});
-
-	var hospital = L.layerGroup([hospital_poly, hospital_center]);
-
-	//Add university layer + icon
-
-	var style_uni = {
-		"color": "#12a81c",
-		"weight": 5,
-		"opacity": 0.65
-	};
-
-	var uniIcon = L.icon({
-		iconUrl: "icons/uniicon.png",
-		iconSize: [32, 32],
-		iconAnchor: [16, 37],
-		popupAnchor: [0, -28]
-	});
-
-	var uni_poly = new L.GeoJSON.AJAX("json/"+identity+"-uni.geojson", {
-		onEachFeature: onEachFeature,
-		style: style_uni,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: uniIcon
-			});
-		}
-
-	});
-
-	var uni_center = new L.GeoJSON.AJAX("json/"+identity+"-uni-center.geojson", {
-		onEachFeature: onEachFeature,
-		style: style_uni,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: uniIcon
-			});
-		}
-	});
-
-	var uni = L.layerGroup([uni_poly, uni_center]);
-
-	//Add townhall layer + icon
+	var hospital = create_featurelayer("icons/hospitalicon.png",  "#f00000", "hospital", identity)
+	var uni = create_featurelayer("icons/uniicon.png",  "#12a81c", "uni",identity)
+	var market = create_featurelayer( "icons/marketicon.png",  "#e9e223", "marketplace", identity)
+	var townhall = create_featurelayer("icons/townhallicon.png",  "#0000ff", "townhall", identity)
 
 
-	var townhallIcon = L.icon({
-		iconUrl: "icons/townhallicon.png",
-		iconSize: [32, 32],
-		iconAnchor: [16, 37],
-		popupAnchor: [0, -28]
-	});
-	var townhall_poly = new L.GeoJSON.AJAX("json/"+identity+"-townhall.geojson", {
-		onEachFeature: onEachFeature,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: townhallIcon
-			});
-		}
+	// Creation of controller 1: BaseLayers
+	// Creation of controller 2: FeatureLayers
 
-	});
-
-	var townhall_center = new L.GeoJSON.AJAX("json/"+identity+"-townhall-center.geojson", {
-		onEachFeature: onEachFeature,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: townhallIcon
-			});
-		}
-	});
-	var townhall = L.layerGroup([townhall_poly, townhall_center]);
-
-
-	//Add marketplace layer + icon
-
-	var style_marketplace = {
-		"color": "#e9e223",
-		"weight": 5,
-		"opacity": 0.65
-	};
-
-	var marketIcon = L.icon({
-		iconUrl: "icons/marketicon.png",
-		iconSize: [32, 32],
-		iconAnchor: [16, 37],
-		popupAnchor: [0, -28]
-	});
-
-	var market_poly = new L.GeoJSON.AJAX("json/"+identity+"-marketplace.geojson", {
-		onEachFeature: onEachFeature,
-		style: style_marketplace,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: marketIcon
-			});
-		}
-
-	});
-
-	var market_center = new L.GeoJSON.AJAX("json/"+identity+"-marketplace-center.geojson", {
-		onEachFeature: onEachFeature,
-		style: style_marketplace,
-		pointToLayer: function(feature, latlng) {
-			return L.marker(latlng, {
-				icon: marketIcon
-			});
-		}
-	});
-
-	var market = L.layerGroup([market_poly, market_center]);
-
-
-
-
-	// Creation of controller
-
-	var overlayMaps = {"Bassins de population (>50pph)":worldpop,"Global Urban Footprint":guflayer,"Marchés":market," Universités":uni,"Mairie(s)":townhall,"Hôpitaux":hospital}
+	var overlayMaps = {"Marchés":market," Universités":uni,"Mairie(s)":townhall,"Hôpitaux":hospital}
 
 
 	if (arguments != undefined) {
@@ -218,44 +116,13 @@ function addmap(gps, identity, arguments){
 					"opacity": 0.03,
 				},
 				onEachFeature: onEachFeature,
-
 			});
-			routes.addTo(mymap);
-
 			overlayMaps["Transports en commun"] = routes;
-
-			carte.addTo(mymap)
-
-			/*
-
-			var terminus = new L.GeoJSON.AJAX("json/"+identity+"-terminus.geojson", {
-
-
-				onEachFeature: onEachFeature,
-			});
-			terminus.addTo(mymap);
-
-
-			overlayMaps["Terminus"] = terminus
-			*/
-
-
-
 			break;
-
 		}
-
-
-
-
-
 	}
 
-	var baseMaps ={
-		"Carte": carte,
-		"Satellite" : satellite,
-		
-	};
+	var baseMaps ={};
 
 
 
@@ -264,9 +131,49 @@ function addmap(gps, identity, arguments){
 
 	L.control.layers(baseMaps, overlayMaps, {
 		collapsed:true,
-		position:'topright'
+		position:'topleft'
 	}).addTo(mymap);
+	var control = L.geoportalControl.LayerSwitcher({
+	        layers : [{
+	            layer : carte,
+	            config : {
+	                title : "Vue carte",
+	                description : "Carte OpenStreetMap",
+	            }
+	        },
+	       	{layer : satellite,
+	            config : {
+	                title : "Vue Satellite",
+	                description : "Mapbox/Digital Globe",
 
+	            }
+	        },
+	       	{layer : worldpop,
+	            config : {
+	                title : "Bassins de population (>50pph)",
+	                description : "Données issues de Worldpop (www.worlpop.co.uk). Ce modèle créé à partir d'images satellites et de statistiques nationales et infra-national permet une estimation de la densité à l'hectare. La fiabilité est donc à prendre avec du recul, de nombreux points aberrants pouvant apparaitre.",
+
+	            }
+	        },
+	       	{layer : guflayer,
+	            config : {
+	                title : "Global Urban Footprint",
+	                description : "Issue de l'analyse d'image satellite par l'Agence Spatiale Allemande (DLR), cette couche présente les territoires urbanisés en 2012.",
+
+	            }
+	        },
+	        ],
+	        options : {
+	            collapsed : true,
+	        },
+	        position:'topleft'
+
+	    })
+
+	mymap.addControl(
+		control
+	    
+	);
 	// Add scale to the map
 
 	L.control.scale({"imperial": false, "maxWidth" : 200}).addTo(mymap);
@@ -449,10 +356,15 @@ var Wiki = {
 
 	view: function(vnode) {
 		return Data.error ? [m(".error", Data.error)
-		] : Data.wiki? [ 			
-		m.trust(Data.wiki),
+		] : Data.wiki? [m.trust(Data.wiki)] : m("a","Loading Data from wikipedia")
+	}
+}
+
+var Cityinfo = {
+	view: function(){
+		return [m(Selector), 			
 		m("a", {href: "http://afd.countrydashboards.com/Country_dashboard"+country_dict[Country.selected]+".html"}, "Lien vers AFD Country Dashboard"),
-		] : m("a","Loading Data from wikipedia")
+		]
 	}
 }
 
@@ -468,7 +380,6 @@ var Selector = {
 
 
     	return m(".container", [
-    		m("#country", m(Print_Country, { name: "Country: "+ Country.selected+" City: "+City.selected })),
     		m(Selectcountry),
     		m(Selectcity)
 
@@ -477,7 +388,6 @@ var Selector = {
     } else {
 
     	return m(".container", [
-    		m("#country", m(Print_Country, { name: "Country: "+ Country.selected+" City: "+City.selected })),
     		m(Selectcountry),
     		m(Selectcity),
     		m(Selectcategory)
@@ -488,11 +398,7 @@ var Selector = {
 }
 }
 
-var Print_Country = {
-	view: function(vnode) {
-		return m("h3", { className: "text-primary"}, vnode.attrs.name);
-	}
-}
+
 
 // Select menu component
 var Selectcity = {
@@ -570,14 +476,14 @@ var Selectcategory = {
 
 
 
-
-
-m.mount(document.getElementById("wikiintro"),Wiki);
-
 m.mount(document.getElementById("afdmenu"), Menuafd);
 
 m.mount(document.getElementById("leafletmap"), Map);
 
-m.mount(document.getElementById("selectcities"), Selector);
+
+
+m.mount(document.getElementById("wikintro"),Wiki);
+m.mount(document.getElementById("selectcities"), Cityinfo);
+
 
 

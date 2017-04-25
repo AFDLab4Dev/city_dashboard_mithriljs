@@ -1,20 +1,14 @@
 	html,
 	body {
-		display: flex;
-		flex-direction: column;
+
 		height: 100%;
 		margin-left: 0;
 		margin-right: 0;
 		margin-top: 0;
 	}
 
-	.mainafd {
-		height: 95%;
-	}
-
 	#leafletmap {
 		height: 100%;
-		position: relative;
 		z-index:0;
 
 	}
@@ -23,7 +17,23 @@
 		height: 100%;
 	}
 
-	.wikiintro {
-
-		width: 150px;
+	#cityinfo {
+		position: absolute;
+		right: 50px;
+		top: 100px;
+		z-index:10000;
+		width:320px;
+		background-color: white;
 	}
+
+	#afdmenu{
+		position: absolute;
+		z-index:10002;
+	}
+
+	.leaflet-control-layers-toggle {
+    background-image: url(img/control.png);
+    width: 36px;
+    height: 36px;
+}
+

@@ -17,6 +17,8 @@
 
 	<script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+	<script src="js/GpPluginLeaflet-src.js"></script>
+	<link rel="stylesheet" href="js/GpPluginLeaflet-src.css" />
 
 
 
@@ -26,14 +28,15 @@
 
 	<!-- Déclaration des "ancres" html qui vont servir à mithril. Nécessaire de fixer un certain template du DOM, notamment pour gérer Leaflet-->
 	<div id="afdmenu" class="menu"></div>
-	<div id="selectcities"></div>
-	<div class="mainafd">
-		<div id="wikiintro"></div>
-		<div id="leafletmap"></div>
+	<div id="cityinfo">
+		<div id="selectcities"></div>
+		<div id="wikintro"></div>
 	</div>
+
+
+	<div id="leafletmap"></div>
 	<script src="main.js"></script>
 
 </body>
-<html>
-
+</html>
 
