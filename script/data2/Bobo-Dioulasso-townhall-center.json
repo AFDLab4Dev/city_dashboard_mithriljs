@@ -1,0 +1,157 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 647225512,
+  "lat": 11.1761522,
+  "lon": -4.2962634,
+  "tags": {
+    "amenity": "townhall",
+    "name": "HOTEL DE VILLE",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1270461778,
+  "lat": 11.1620683,
+  "lon": -4.2794329,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 5"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296796,
+  "lat": 11.1698862,
+  "lon": -4.2931386,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 1"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296807,
+  "lat": 11.1740538,
+  "lon": -4.2544057,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 4"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296811,
+  "lat": 11.1805861,
+  "lon": -4.3333004,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 7"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296814,
+  "lat": 11.2001547,
+  "lon": -4.2978589,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 2"
+  }
+},
+{
+  "type": "way",
+  "id": 352617036,
+  "center": {
+    "lat": 11.1863757,
+    "lon": -4.3312147
+  },
+  "nodes": [
+    3583784931,
+    3583784937,
+    3583784936,
+    3583784930,
+    3583784931
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de l'arrondissement 07",
+    "source": "NextView"
+  }
+},
+{
+  "type": "way",
+  "id": 338639768,
+  "center": {
+    "lat": 11.1761591,
+    "lon": -4.2962459
+  },
+  "nodes": [
+    3457447123,
+    3457447133,
+    3457447131,
+    3457447136,
+    3457447135,
+    3457447132,
+    3457447130,
+    3457447115,
+    3457447123
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie centrale de bobo",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 352617036,
+  "nodes": [
+    3583784931,
+    3583784937,
+    3583784936,
+    3583784930,
+    3583784931
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de l'arrondissement 07",
+    "source": "NextView"
+  }
+},
+{
+  "type": "way",
+  "id": 338639768,
+  "nodes": [
+    3457447123,
+    3457447133,
+    3457447131,
+    3457447136,
+    3457447135,
+    3457447132,
+    3457447130,
+    3457447115,
+    3457447123
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie centrale de bobo",
+    "source": "bing"
+  }
+}
+
+  ]
+}

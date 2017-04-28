@@ -1,0 +1,88 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:40:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3677850255,
+  "lat": 33.8632065,
+  "lon": -5.5332579,
+  "tags": {
+    "amenity": "bus_station",
+    "bench": "yes",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3685416400,
+  "lat": 33.8977553,
+  "lon": -5.5368259,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare CTM Meknès",
+    "operator": "CTM"
+  }
+},
+{
+  "type": "way",
+  "id": 307349038,
+  "center": {
+    "lat": 33.8904208,
+    "lon": -5.5749180
+  },
+  "nodes": [
+    3124573778,
+    3124573777,
+    3124573779,
+    3124573774,
+    3142398294,
+    3142398293,
+    3124573773,
+    3124573775,
+    3124573776,
+    4743241673,
+    3124573771,
+    3124573772,
+    3124573778
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Sidi Saïd المحطة الطرقية",
+    "name:ar": "المحطة الطرقية",
+    "name:fr": "Gare Routière Sidi Saïd"
+  }
+},
+{
+  "type": "way",
+  "id": 307349038,
+  "nodes": [
+    3124573778,
+    3124573777,
+    3124573779,
+    3124573774,
+    3142398294,
+    3142398293,
+    3124573773,
+    3124573775,
+    3124573776,
+    4743241673,
+    3124573771,
+    3124573772,
+    3124573778
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Sidi Saïd المحطة الطرقية",
+    "name:ar": "المحطة الطرقية",
+    "name:fr": "Gare Routière Sidi Saïd"
+  }
+}
+
+  ]
+}

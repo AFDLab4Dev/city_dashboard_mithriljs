@@ -1,0 +1,144 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:36:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4321193219,
+  "lat": 0.3394468,
+  "lon": 9.4822130,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie d'Owendo"
+  }
+},
+{
+  "type": "way",
+  "id": 249526244,
+  "center": {
+    "lat": 0.4079906,
+    "lon": 9.4391878
+  },
+  "nodes": [
+    2561162723,
+    2561162663,
+    2561162656,
+    2561162655,
+    2561162659,
+    2561162666,
+    2561162679,
+    2561162717,
+    2561162727,
+    2561162736,
+    2561162738,
+    2561162732,
+    2561162723
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Govt1"
+  }
+},
+{
+  "type": "relation",
+  "id": 2804205,
+  "center": {
+    "lat": 0.4104625,
+    "lon": 9.4444889
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 208495218,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 208495219,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 208495221,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 208495220,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Hotel de Ville",
+    "source": "bing",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "way",
+  "id": 249526244,
+  "nodes": [
+    2561162723,
+    2561162663,
+    2561162656,
+    2561162655,
+    2561162659,
+    2561162666,
+    2561162679,
+    2561162717,
+    2561162727,
+    2561162736,
+    2561162738,
+    2561162732,
+    2561162723
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Govt1"
+  }
+},
+{
+  "type": "relation",
+  "id": 2804205,
+  "members": [
+    {
+      "type": "way",
+      "ref": 208495218,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 208495219,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 208495221,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 208495220,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Hotel de Ville",
+    "source": "bing",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

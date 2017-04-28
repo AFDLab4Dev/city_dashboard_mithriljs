@@ -1,0 +1,33 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:38:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4725995190,
+  "lat": 32.3373852,
+  "lon": -6.3526375,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "طاكسيات",
+    "name:ar": "طاكسيات"
+  }
+},
+{
+  "type": "node",
+  "id": 4749306079,
+  "lat": 32.3435133,
+  "lon": -6.3585261,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "gare routière"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4783618421,
+  "lat": 7.0612630,
+  "lon": -4.5030601,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Général de Bocanda",
+    "name:fr": "Hôpital Général de Bocanda"
+  }
+}
+
+  ]
+}

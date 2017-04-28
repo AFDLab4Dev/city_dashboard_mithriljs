@@ -1,0 +1,401 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/114869455",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Stationnement Avaratra",
+    "network": "mg:regional",
+    "public_transport": "station",
+    "id": "way/114869455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0896466,
+      -21.449293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/114984519",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Stationnement Atsimo",
+    "network": "mg:national",
+    "public_transport": "station",
+    "id": "way/114984519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0905042,
+      -21.452314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1298638322",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 21 (Tambohobe)",
+    "public_transport": "station",
+    "id": "node/1298638322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0855186,
+      -21.4432413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1298750580",
+  "properties": {
+    "alt_name": "Lapan'ny Tanàna",
+    "amenity": "bus_station",
+    "name": "Terminus ligne 33 (Lapan'ny Tanàna)",
+    "public_transport": "station",
+    "id": "node/1298750580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0850736,
+      -21.4561601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1300926164",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 36 Idanda",
+    "public_transport": "station",
+    "id": "node/1300926164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1056342,
+      -21.4416874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1300926485",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 36 (Ambatovory)",
+    "public_transport": "station",
+    "id": "node/1300926485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0894305,
+      -21.4655121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1300926503",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 28 (SEMIPI Beravina)",
+    "public_transport": "station",
+    "id": "node/1300926503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1123149,
+      -21.4366897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1885440263",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 24 (Andriamboasary)",
+    "public_transport": "station",
+    "id": "node/1885440263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0743729,
+      -21.4086197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1886740480",
+  "properties": {
+    "amenity": "bus_station",
+    "public_transport": "station",
+    "id": "node/1886740480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1067784,
+      -21.4274585
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2026587900",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 34 (Ankazobe)",
+    "public_transport": "station",
+    "id": "node/2026587900"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0647758,
+      -21.4668651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2027759768",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 26 (Beravina)",
+    "public_transport": "station",
+    "id": "node/2027759768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1146331,
+      -21.4373967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2577101897",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 29 (Ankofafa Andrefana)",
+    "public_transport": "station",
+    "source": "Bing",
+    "id": "node/2577101897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1013682,
+      -21.4268038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3677903817",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 34 (Sahalava)",
+    "public_transport": "station",
+    "id": "node/3677903817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0889748,
+      -21.4366501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3688282619",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus lignes 22 et 29 (Ambozontany)",
+    "public_transport": "station",
+    "id": "node/3688282619"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0761265,
+      -21.457376
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3688282620",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus Anjoma",
+    "public_transport": "station",
+    "id": "node/3688282620"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0878525,
+      -21.4536448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3688293832",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 32 (Ambodirano)",
+    "public_transport": "station",
+    "id": "node/3688293832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1058277,
+      -21.4455004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3696893901",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Stationnement Ikalamavony",
+    "network": "mg:regional",
+    "public_transport": "station",
+    "source": "Bing",
+    "id": "node/3696893901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1012339,
+      -21.4264404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3698747659",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 21 (Mahazengy)",
+    "public_transport": "station",
+    "id": "node/3698747659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0595588,
+      -21.4815268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3700732310",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 24 (Lapan'ny Tanàna)",
+    "public_transport": "station",
+    "id": "node/3700732310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0859065,
+      -21.4563453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3705311194",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 22 (Ampopoka)",
+    "public_transport": "station",
+    "id": "node/3705311194"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1254274,
+      -21.4287411
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3710249156",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 23 (Ankofafa)",
+    "public_transport": "station",
+    "id": "node/3710249156"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1174739,
+      -21.4237945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3875755113",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 28 (Tsaramandroso)",
+    "public_transport": "station",
+    "id": "node/3875755113"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0808492,
+      -21.4640377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4790428597",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 32 (Tsianolondroa)",
+    "public_transport": "station",
+    "id": "node/4790428597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0823964,
+      -21.4556956
+    ]
+  }
+}
+]
+}

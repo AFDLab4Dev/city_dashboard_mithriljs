@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/316659021",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "id": "way/316659021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1843779,
+      27.1524433
+    ]
+  }
+}
+]
+}

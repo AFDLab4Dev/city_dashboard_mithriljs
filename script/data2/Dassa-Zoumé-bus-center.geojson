@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/215390762",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere",
+    "id": "way/215390762"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1845697,
+      7.7723935
+    ]
+  }
+}
+]
+}

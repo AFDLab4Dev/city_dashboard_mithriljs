@@ -1,0 +1,101 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2776947893,
+  "lat": -4.3248095,
+  "lon": 15.3065017,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007966,
+  "lat": -4.2667890,
+  "lon": 15.2680771,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CHU"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007967,
+  "lat": -4.2689689,
+  "lon": 15.2645768,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Nganga Edouard"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007968,
+  "lat": -4.2695039,
+  "lon": 15.2639438,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Nganga Edouard"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007969,
+  "lat": -4.2757038,
+  "lon": 15.2790760,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Congo Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007970,
+  "lat": -4.2752862,
+  "lon": 15.2793281,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Congo Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007971,
+  "lat": -4.2699465,
+  "lon": 15.2882717,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare CFCO"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007972,
+  "lat": -4.2806656,
+  "lon": 15.2592605,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CCF"
+  }
+},
+{
+  "type": "node",
+  "id": 3748007973,
+  "lat": -4.2804873,
+  "lon": 15.2590491,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CCF"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,55 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/276992681",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Woïla voyage",
+    "id": "way/276992681"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5881231,
+      7.3382884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3116256076",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Narral Voyages",
+    "id": "node/3116256076"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5767915,
+      7.3192939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4674898192",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Danay express",
+    "name:fr": "Danay express",
+    "id": "node/4674898192"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5869247,
+      7.3377948
+    ]
+  }
+}
+]
+}

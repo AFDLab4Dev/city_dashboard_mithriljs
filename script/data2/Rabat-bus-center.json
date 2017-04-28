@@ -1,0 +1,233 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 444379304,
+  "lat": 34.0356280,
+  "lon": -6.8021620,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere Salé"
+  }
+},
+{
+  "type": "node",
+  "id": 1631787343,
+  "lat": 33.9906746,
+  "lon": -6.7362742,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Station Bus Terminus"
+  }
+},
+{
+  "type": "node",
+  "id": 3922706118,
+  "lat": 33.9906537,
+  "lon": -6.8674058,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "gare routière de Rabat (Kamra)"
+  }
+},
+{
+  "type": "node",
+  "id": 4460652430,
+  "lat": 33.9798740,
+  "lon": -6.8747320,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CTM"
+  }
+},
+{
+  "type": "node",
+  "id": 4460652431,
+  "lat": 33.9898400,
+  "lon": -6.8682518,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 252637980,
+  "center": {
+    "lat": 33.9905843,
+    "lon": -6.8673567
+  },
+  "nodes": [
+    2586846402,
+    2586846404,
+    2586861026,
+    2586861028,
+    2586861030,
+    2586861032,
+    2586861034,
+    2586861036,
+    2586846415,
+    2586846416,
+    2586846418,
+    2586846420,
+    2586846422,
+    2586846424,
+    2586846426,
+    2586846428,
+    2586846430,
+    2586846431,
+    2586846433,
+    2586846435,
+    2586846437,
+    2586846439,
+    2586846441,
+    2586861039,
+    2586846443,
+    2586861049,
+    2586861047,
+    2586861043,
+    2586861045,
+    2586861041,
+    2586846402
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Gare routière de Rabat"
+  }
+},
+{
+  "type": "way",
+  "id": 150143088,
+  "center": {
+    "lat": 33.9902703,
+    "lon": -6.7247018
+  },
+  "nodes": [
+    1630604779,
+    1630604784,
+    4556298580,
+    1630604776,
+    1630604767,
+    1630604779
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt de bus Technopolis"
+  }
+},
+{
+  "type": "relation",
+  "id": 3646162,
+  "center": {
+    "lat": 33.9869299,
+    "lon": -6.8698356
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 273653269,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 273653268,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare CTM de Rabat",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "way",
+  "id": 252637980,
+  "nodes": [
+    2586846402,
+    2586846404,
+    2586861026,
+    2586861028,
+    2586861030,
+    2586861032,
+    2586861034,
+    2586861036,
+    2586846415,
+    2586846416,
+    2586846418,
+    2586846420,
+    2586846422,
+    2586846424,
+    2586846426,
+    2586846428,
+    2586846430,
+    2586846431,
+    2586846433,
+    2586846435,
+    2586846437,
+    2586846439,
+    2586846441,
+    2586861039,
+    2586846443,
+    2586861049,
+    2586861047,
+    2586861043,
+    2586861045,
+    2586861041,
+    2586846402
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Gare routière de Rabat"
+  }
+},
+{
+  "type": "way",
+  "id": 150143088,
+  "nodes": [
+    1630604779,
+    1630604784,
+    4556298580,
+    1630604776,
+    1630604767,
+    1630604779
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt de bus Technopolis"
+  }
+},
+{
+  "type": "relation",
+  "id": 3646162,
+  "members": [
+    {
+      "type": "way",
+      "ref": 273653269,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 273653268,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare CTM de Rabat",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 647225514,
+  "lat": 11.1793441,
+  "lon": -4.2991977,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "la meilleure compagnie de cars nationale",
+    "name": "Gare routière TCV",
+    "operator": "TCV"
+  }
+},
+{
+  "type": "node",
+  "id": 3743424430,
+  "lat": 11.1768477,
+  "lon": -4.3034316,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Rakieta",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4465438289,
+  "lat": 11.1692668,
+  "lon": -4.3068561,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GARE RAHIMO",
+    "name:fr": "GARE RAHIMO",
+    "phone": "79745939"
+  }
+},
+{
+  "type": "way",
+  "id": 357506526,
+  "center": {
+    "lat": 11.1632496,
+    "lon": -4.3140635
+  },
+  "nodes": [
+    3627332792,
+    3627332893,
+    3627332791,
+    3627332790,
+    3627332792
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transport Sana Rasmané",
+    "short_name": "TSR",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 357506526,
+  "nodes": [
+    3627332792,
+    3627332893,
+    3627332791,
+    3627332790,
+    3627332792
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transport Sana Rasmané",
+    "short_name": "TSR",
+    "source": "bing;survey"
+  }
+}
+
+  ]
+}

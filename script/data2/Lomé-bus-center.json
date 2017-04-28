@@ -1,0 +1,271 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:36:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2603797334,
+  "lat": 6.1497600,
+  "lon": 1.2306550,
+  "tags": {
+    "amenity": "bus_station",
+    "contact:email": "ovoyages.tg@olinet.net",
+    "name": "O-voyages",
+    "office": "travel_agent",
+    "operator": "Olizair",
+    "phone": "+228 22 056 66",
+    "source": "Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2736170604,
+  "lat": 6.2022688,
+  "lon": 1.2067831,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "Lomé-Kara",
+    "name": "LK"
+  }
+},
+{
+  "type": "node",
+  "id": 2943388367,
+  "lat": 6.1648891,
+  "lon": 1.2202649,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Société Adji Transport",
+    "source": "Bing;Server"
+  }
+},
+{
+  "type": "node",
+  "id": 3188482429,
+  "lat": 6.1130384,
+  "lon": 1.1952511,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Aflao Lorry Station"
+  }
+},
+{
+  "type": "node",
+  "id": 3404443417,
+  "lat": 6.1332221,
+  "lon": 1.2233542,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "La Poste"
+  }
+},
+{
+  "type": "node",
+  "id": 3458599452,
+  "lat": 6.1278966,
+  "lon": 1.2364802,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "UTB Lomé"
+  }
+},
+{
+  "type": "node",
+  "id": 3469719094,
+  "lat": 6.2076080,
+  "lon": 1.1854136,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "ETRAB",
+    "office": "company"
+  }
+},
+{
+  "type": "node",
+  "id": 3642962058,
+  "lat": 6.1159835,
+  "lon": 1.1332061,
+  "tags": {
+    "amenity": "bus_station",
+    "source": "survey; Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3692007497,
+  "lat": 6.1021456,
+  "lon": 1.1467291,
+  "tags": {
+    "amenity": "bus_station",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3759807724,
+  "lat": 6.1350015,
+  "lon": 1.2199112,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GH. Express",
+    "source": "Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3869318130,
+  "lat": 6.1317134,
+  "lon": 1.2266143,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Sonef"
+  }
+},
+{
+  "type": "node",
+  "id": 3936144949,
+  "lat": 6.1521299,
+  "lon": 1.2626584,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "RTV RAMBO TRANSPORT VOYAGE"
+  }
+},
+{
+  "type": "node",
+  "id": 4087011324,
+  "lat": 6.1355032,
+  "lon": 1.2330750,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Africa Tours Trans",
+    "phone": "0022891979741",
+    "website": "africa-tours-trans.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4157073419,
+  "lat": 6.2201955,
+  "lon": 1.1906240,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4160190701,
+  "lat": 6.2275423,
+  "lon": 1.1938872,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "D-Dos Transport",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4278032841,
+  "lat": 6.1448912,
+  "lon": 1.2299365,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt de bus Sotral",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4488862119,
+  "lat": 6.1340401,
+  "lon": 1.2343691,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Fts"
+  }
+},
+{
+  "type": "node",
+  "id": 4564168045,
+  "lat": 6.1747806,
+  "lon": 1.2050793,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Rakiéta",
+    "source": "Survey;Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4566768341,
+  "lat": 6.1521140,
+  "lon": 1.2677273,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "La gare dessert Aného, Cotonou, Lagos",
+    "name": "Gare de l'Est",
+    "source": "Survey; bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4566819407,
+  "lat": 6.1140820,
+  "lon": 1.2030190,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "La gare dessert le Ghana, la Côte d'Ivoire",
+    "name": "Gare de Kodjoviakopé",
+    "source": "Survey; bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4623471464,
+  "lat": 6.1124851,
+  "lon": 1.1951635,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4725955086,
+  "lat": 6.1341598,
+  "lon": 1.2340936,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "lomé ouaga bamako",
+    "name": "Fairless Transport ans Services FTS"
+  }
+},
+{
+  "type": "node",
+  "id": 4725956107,
+  "lat": 6.1343806,
+  "lon": 1.2338142,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Tcv lome ouaga bamako"
+  }
+},
+{
+  "type": "node",
+  "id": 4778918848,
+  "lat": 6.2142204,
+  "lon": 1.1853172,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GSE Sarl",
+    "name:fr": "GSE Sarl"
+  }
+}
+
+  ]
+}

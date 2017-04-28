@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4725995190",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "طاكسيات",
+    "name:ar": "طاكسيات",
+    "id": "node/4725995190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.3526375,
+      32.3373852
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4749306079",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "gare routière",
+    "id": "node/4749306079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.3585261,
+      32.3435133
+    ]
+  }
+}
+]
+}

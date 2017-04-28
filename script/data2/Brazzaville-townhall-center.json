@@ -1,0 +1,340 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 440012908,
+  "lat": -4.3965806,
+  "lon": 15.3922286,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Maison communale de Masina"
+  }
+},
+{
+  "type": "node",
+  "id": 1368355243,
+  "lat": -4.3592402,
+  "lon": 15.2981127,
+  "tags": {
+    "amenity": "townhall",
+    "is_in": "Ngiri Ngiri",
+    "name": "Maison communale"
+  }
+},
+{
+  "type": "node",
+  "id": 2273811594,
+  "lat": -4.4002594,
+  "lon": 15.3715427,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Maison Communale de N'djili",
+    "source": "MSF survey 2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2299738133,
+  "lat": -4.3484958,
+  "lon": 15.2823616,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Maison communale Bandalungwa"
+  }
+},
+{
+  "type": "node",
+  "id": 3291519892,
+  "lat": -4.2666469,
+  "lon": 15.2846793,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Poto-Poto"
+  }
+},
+{
+  "type": "node",
+  "id": 3291519937,
+  "lat": -4.2796172,
+  "lon": 15.2776170,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Brazzaville (Annexe Léon)"
+  }
+},
+{
+  "type": "node",
+  "id": 4562373899,
+  "lat": -4.3967777,
+  "lon": 15.3680845,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 4701499749,
+  "lat": -4.3061362,
+  "lon": 15.3084719,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Hotel de ville de Kinshasa"
+  }
+},
+{
+  "type": "node",
+  "id": 4784531130,
+  "lat": -4.4054680,
+  "lon": 15.3680485,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Salle des fetes",
+    "source": "MSF survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 341027474,
+  "center": {
+    "lat": -4.3422907,
+    "lon": 15.3024669
+  },
+  "nodes": [
+    3482499504,
+    3482499505,
+    3482499506,
+    3482499507,
+    3482499508,
+    3482499509,
+    3482499510,
+    3482499511,
+    3482499512,
+    3482499513,
+    3482499514,
+    3482499515,
+    3482499516,
+    3482499517,
+    3482499518,
+    3482499519,
+    3482499520,
+    3482499521,
+    3482499522,
+    3482499523,
+    3482499504
+  ],
+  "tags": {
+    "addr:city": "Kasa-Vubu",
+    "addr:street": "Avenue des Sports",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Maison communale de Kasa Vubu",
+    "office": "administrative"
+  }
+},
+{
+  "type": "way",
+  "id": 370986947,
+  "center": {
+    "lat": -4.2789606,
+    "lon": 15.2784422
+  },
+  "nodes": [
+    3746392870,
+    3746392871,
+    3746392872,
+    3746392873,
+    3746392874,
+    3746392875,
+    3746392876,
+    3746392877,
+    3746392878,
+    3746392879,
+    3746392880,
+    3746392881,
+    3746392882,
+    3746392883,
+    3746392884,
+    3746392885,
+    3746392886,
+    3746392887,
+    3746392888,
+    3746392889,
+    3746392890,
+    3746392891,
+    3746392892,
+    3746392893,
+    3746392894,
+    3746392895,
+    3746392896,
+    3746392897,
+    3746392870
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville - Mairie de Brazzaville"
+  }
+},
+{
+  "type": "way",
+  "id": 64044252,
+  "center": {
+    "lat": -4.3750152,
+    "lon": 15.3189093
+  },
+  "nodes": [
+    790013737,
+    790013738,
+    790013739,
+    790013740,
+    790013741,
+    790013742,
+    790013737
+  ],
+  "tags": {
+    "addr:street": "Avenue Kianza",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Commune de Ngaba"
+  }
+},
+{
+  "type": "way",
+  "id": 67371794,
+  "center": {
+    "lat": -4.3548501,
+    "lon": 15.3231226
+  },
+  "nodes": [
+    813664739,
+    813664746,
+    813664751,
+    813664754,
+    813664739
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Bureau de Quartier Yolo Nord"
+  }
+},
+{
+  "type": "way",
+  "id": 341027474,
+  "nodes": [
+    3482499504,
+    3482499505,
+    3482499506,
+    3482499507,
+    3482499508,
+    3482499509,
+    3482499510,
+    3482499511,
+    3482499512,
+    3482499513,
+    3482499514,
+    3482499515,
+    3482499516,
+    3482499517,
+    3482499518,
+    3482499519,
+    3482499520,
+    3482499521,
+    3482499522,
+    3482499523,
+    3482499504
+  ],
+  "tags": {
+    "addr:city": "Kasa-Vubu",
+    "addr:street": "Avenue des Sports",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Maison communale de Kasa Vubu",
+    "office": "administrative"
+  }
+},
+{
+  "type": "way",
+  "id": 370986947,
+  "nodes": [
+    3746392870,
+    3746392871,
+    3746392872,
+    3746392873,
+    3746392874,
+    3746392875,
+    3746392876,
+    3746392877,
+    3746392878,
+    3746392879,
+    3746392880,
+    3746392881,
+    3746392882,
+    3746392883,
+    3746392884,
+    3746392885,
+    3746392886,
+    3746392887,
+    3746392888,
+    3746392889,
+    3746392890,
+    3746392891,
+    3746392892,
+    3746392893,
+    3746392894,
+    3746392895,
+    3746392896,
+    3746392897,
+    3746392870
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville - Mairie de Brazzaville"
+  }
+},
+{
+  "type": "way",
+  "id": 64044252,
+  "nodes": [
+    790013737,
+    790013738,
+    790013739,
+    790013740,
+    790013741,
+    790013742,
+    790013737
+  ],
+  "tags": {
+    "addr:street": "Avenue Kianza",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Commune de Ngaba"
+  }
+},
+{
+  "type": "way",
+  "id": 67371794,
+  "nodes": [
+    813664739,
+    813664746,
+    813664751,
+    813664754,
+    813664739
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Bureau de Quartier Yolo Nord"
+  }
+}
+
+  ]
+}

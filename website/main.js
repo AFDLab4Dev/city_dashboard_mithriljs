@@ -17,6 +17,8 @@ function create_featurelayer(iconUrl, color, kind,identity){
 		popupAnchor: [0, -28]
 	});
 
+	/*
+
 	var poly = new L.GeoJSON.AJAX("json/"+identity+"-"+kind+".geojson", {
 		style: style,
 		onEachFeature: onEachFeature,
@@ -27,6 +29,8 @@ function create_featurelayer(iconUrl, color, kind,identity){
 		}
 
 	});
+
+	*/
 
 	var center = new L.GeoJSON.AJAX("json/"+identity+"-"+kind+"-center.geojson", {
 		style: style,
@@ -39,7 +43,7 @@ function create_featurelayer(iconUrl, color, kind,identity){
 		}
 	});
 
-	return L.layerGroup([poly, center]);
+	return L.layerGroup([center]);
 }
 	
 function addmap(gps, identity, arguments){
@@ -63,8 +67,7 @@ function addmap(gps, identity, arguments){
 			id: "mapbox.streets"
 		});
 
-	var worldpop = L.tileLayer("https://api.mapbox.com/styles/v1/etibdv/cj1g3m3um000m2rmthg1f63pe/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw", {
-		maxZoom: 18,
+	var worldpop = L.tileLayer("https://api.mapbox.com/styles/v1/etibdv/cj1f6c58g00iu2smfbwp8yslt/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXRpYmR2IiwiYSI6ImNpejhvdWJmcjAwMW8yd28weTkzMnA1aDkifQ.i8UKq0M_sIN1qq8F6UAgFw",{
 		attribution: "Map data &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors, " +
 		"<a href='http://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, " +
 		"Imagery © <a href='http://mapbox.com'>Mapbox</a>",
@@ -98,12 +101,14 @@ function addmap(gps, identity, arguments){
 	var uni = create_featurelayer("icons/uniicon.png",  "#12a81c", "uni",identity)
 	var market = create_featurelayer( "icons/marketicon.png",  "#e9e223", "marketplace", identity)
 	var townhall = create_featurelayer("icons/townhallicon.png",  "#0000ff", "townhall", identity)
+	var bus = create_featurelayer("icons/busstationicon.png",  "#333333", "bus", identity)
+
 
 
 	// Creation of controller 1: BaseLayers
 	// Creation of controller 2: FeatureLayers
 
-	var overlayMaps = {"Marchés":market," Universités":uni,"Mairie(s)":townhall,"Hôpitaux":hospital}
+	var overlayMaps = {"Marchés":market," Universités":uni,"Mairie(s)":townhall,"Hôpitaux":hospital, "Gare routière":bus}
 
 
 	if (arguments != undefined) {
@@ -174,6 +179,16 @@ function addmap(gps, identity, arguments){
 		control
 	    
 	);
+	 var drawnItems = new L.FeatureGroup();
+     mymap.addLayer(drawnItems);
+     var drawControl = new L.Control.Draw({
+         edit: {
+             featureGroup: drawnItems
+         }
+     });
+    mymap.addControl(drawControl);
+
+     
 	// Add scale to the map
 
 	L.control.scale({"imperial": false, "maxWidth" : 200}).addTo(mymap);

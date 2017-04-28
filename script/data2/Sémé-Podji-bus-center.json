@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3927623421,
+  "lat": 6.4781591,
+  "lon": 2.6211607,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "KPOBE LA GARE"
+  }
+}
+
+  ]
+}

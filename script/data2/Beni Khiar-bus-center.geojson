@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/244661410",
+  "properties": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "id": "way/244661410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7254819,
+      36.4611593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/244662755",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/244662755"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7297707,
+      36.451446
+    ]
+  }
+}
+]
+}

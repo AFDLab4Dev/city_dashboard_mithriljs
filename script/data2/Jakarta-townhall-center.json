@@ -1,0 +1,1427 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:45:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1308663671,
+  "lat": -6.1860896,
+  "lon": 106.7376610,
+  "tags": {
+    "amenity": "townhall",
+    "is_in:country": "Indonesia",
+    "is_in:county": "Kembangan",
+    "is_in:region": "Jakarta Barat",
+    "is_in:state": "Dki Jakarta",
+    "name": "Kantor Walikota Jakarta Barat"
+  }
+},
+{
+  "type": "node",
+  "id": 2090882757,
+  "lat": -6.1814454,
+  "lon": 106.8289784,
+  "tags": {
+    "addr:city": "Gambir, Central Jakarta",
+    "addr:housenumber": "No. 8-9",
+    "addr:postcode": "10110",
+    "addr:street": "Jl. Medan Merdeka Selatan",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Balaikota DKI Jakarta",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 2479742645,
+  "lat": -6.1107002,
+  "lon": 106.7721970,
+  "tags": {
+    "addr:full": "MUARA ANGKE BLOK AMBALAT",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "potensi dapur umum",
+    "name": "KANTOR RW 021"
+  }
+},
+{
+  "type": "node",
+  "id": 2479749120,
+  "lat": -6.1045182,
+  "lon": 106.7956952,
+  "tags": {
+    "addr:full": "pantai mutiara",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "baik",
+    "building:levels": "1",
+    "building:use": "Pengungsian/tempat evakuasi",
+    "name": "kantor sekretariat RW.016"
+  }
+},
+{
+  "type": "node",
+  "id": 2479751947,
+  "lat": -6.1091287,
+  "lon": 106.7702282,
+  "tags": {
+    "addr:full": "Jl.Pengasinan",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Posko Logistik",
+    "name": "Kantor RW.01"
+  }
+},
+{
+  "type": "node",
+  "id": 2479751948,
+  "lat": -6.1083891,
+  "lon": 106.7714765,
+  "tags": {
+    "addr:full": "Jl.Rumah Susun Cinta kasih II Muara Angke",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Posko Logistik",
+    "name": "Kantor RW.020"
+  }
+},
+{
+  "type": "node",
+  "id": 2479751964,
+  "lat": -6.1101936,
+  "lon": 106.7740683,
+  "tags": {
+    "addr:full": "Taman Bawal Putih",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "tempat evakuasi, posko logistik dan dapur umum",
+    "name": "kantor RW.011"
+  }
+},
+{
+  "type": "node",
+  "id": 2479752640,
+  "lat": -6.1240181,
+  "lon": 106.7949037,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "name": "kantor RW 09"
+  }
+},
+{
+  "type": "node",
+  "id": 2479752934,
+  "lat": -6.1046135,
+  "lon": 106.7762188,
+  "tags": {
+    "addr:full": "Jl. Dermaga Lama Muara Angke",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:use": "potensi tempat evakuasi",
+    "name": "Kantor Dishub Pel. Muara Angke"
+  }
+},
+{
+  "type": "node",
+  "id": 2479752938,
+  "lat": -6.1061176,
+  "lon": 106.7748801,
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Muara Angke",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "4-7",
+    "building:use": "potensi tempat evakuasi",
+    "name": "UPT PKPP & PPI"
+  }
+},
+{
+  "type": "node",
+  "id": 2479753532,
+  "lat": -6.1130413,
+  "lon": 106.7917122,
+  "tags": {
+    "addr:full": "Jln pluit",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Tempat Evakuasi",
+    "name": "Kantor Rw 04"
+  }
+},
+{
+  "type": "node",
+  "id": 2479756269,
+  "lat": -6.1219775,
+  "lon": 106.7756578,
+  "tags": {
+    "addr:full": "Jl Pluit Karang Permai NO1",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:use": "tempat evakuasi, posko logistik dan dapur umum",
+    "name": "Kelurahan Pluit"
+  }
+},
+{
+  "type": "node",
+  "id": 2479756273,
+  "lat": -6.1109604,
+  "lon": 106.7793674,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:levels": "1",
+    "name": "Pos Rw"
+  }
+},
+{
+  "type": "node",
+  "id": 2479762062,
+  "lat": -6.1204209,
+  "lon": 106.7887140,
+  "tags": {
+    "addr:full": "tmn pluit kencana utara",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:levels": "1",
+    "name": "kantor rw o6 pluit"
+  }
+},
+{
+  "type": "node",
+  "id": 2479762063,
+  "lat": -6.1201691,
+  "lon": 106.7860296,
+  "tags": {
+    "addr:full": "jalan pluit sakiti 5 no.17a",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:levels": "1",
+    "name": "kantor rw. 07 pluit"
+  }
+},
+{
+  "type": "node",
+  "id": 2479762409,
+  "lat": -6.1123172,
+  "lon": 106.7733283,
+  "tags": {
+    "addr:full": "jl.pluit karang molek",
+    "admin_level": "RW O2",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "name": "KANTOR RW"
+  }
+},
+{
+  "type": "node",
+  "id": 2479762410,
+  "lat": -6.1137369,
+  "lon": 106.7734537,
+  "tags": {
+    "addr:full": "JL.PLUIT karang asri blok 10",
+    "admin_level": "RW O13",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Posko Logistik",
+    "name": "KANTOR RW 013"
+  }
+},
+{
+  "type": "node",
+  "id": 2479762411,
+  "lat": -6.1148314,
+  "lon": 106.7764501,
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "jl.muara karang",
+    "admin_level": "RW O18",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "baik",
+    "building:levels": "1",
+    "building:use": "Tempat Evakuasi/Dapur umum/Posko kesehatan dll.",
+    "name": "KANTOR RW"
+  }
+},
+{
+  "type": "node",
+  "id": 2479781171,
+  "lat": -6.1155656,
+  "lon": 106.7856117,
+  "tags": {
+    "addr:full": "Pluit Permai",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:use": "Tempat Evakuasi",
+    "name": "Balai Pengujian Pengolahan Hasil Perikanan"
+  }
+},
+{
+  "type": "node",
+  "id": 2490615825,
+  "lat": -6.1104461,
+  "lon": 106.8019699,
+  "tags": {
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:levels": "2",
+    "name": "Kantor Kementrian dan Perikanan"
+  }
+},
+{
+  "type": "node",
+  "id": 2490616679,
+  "lat": -6.1221996,
+  "lon": 106.8039228,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:use": "Tempat Evakuasi",
+    "name": "Kantor RW.017"
+  }
+},
+{
+  "type": "node",
+  "id": 2490616702,
+  "lat": -6.1286241,
+  "lon": 106.7964163,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:use": "Dapur Umum, Posko Kesehatan, Posko Logistik",
+    "name": "Kantor RW 08"
+  }
+},
+{
+  "type": "node",
+  "id": 2490616733,
+  "lat": -6.1109630,
+  "lon": 106.8030026,
+  "tags": {
+    "amenity": "townhall",
+    "building:levels": "2",
+    "name": "Kantor Kementrian Kelautan dan Perikanan"
+  }
+},
+{
+  "type": "node",
+  "id": 2490617750,
+  "lat": -6.1287781,
+  "lon": 106.8038204,
+  "tags": {
+    "addr:full": "Jalan Bakti",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:use": "Tempat Evakuasi",
+    "name": "Kantor RW 07"
+  }
+},
+{
+  "type": "node",
+  "id": 2490617751,
+  "lat": -6.1296717,
+  "lon": 106.8027041,
+  "tags": {
+    "addr:full": "Jalan Tanah Pasir",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "poor",
+    "building:levels": "2",
+    "building:use": "Tempat Evakuasi",
+    "name": "Kantor Rw 09"
+  }
+},
+{
+  "type": "node",
+  "id": 2490620013,
+  "lat": -6.1316245,
+  "lon": 106.7997146,
+  "tags": {
+    "addr:full": "Jalan Rawa Bebek 1",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:use": "Tempat Evakuasi, Dapur Umum",
+    "name": "Kantor Rw. 11"
+  }
+},
+{
+  "type": "node",
+  "id": 2500253635,
+  "lat": -6.1079788,
+  "lon": 106.7717811,
+  "tags": {
+    "amenity": "townhall",
+    "building": "residential",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "tempat evakuasi, posko logistik dan dapur umum",
+    "name": "Aula Perumahan Budha Tzu Chi"
+  }
+},
+{
+  "type": "node",
+  "id": 2511084653,
+  "lat": -6.1311983,
+  "lon": 106.7961052,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:levels": "1",
+    "name": "Kantor RW 06"
+  }
+},
+{
+  "type": "node",
+  "id": 2511084655,
+  "lat": -6.1313310,
+  "lon": 106.8018816,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:levels": "1",
+    "name": "Kantor RW 10"
+  }
+},
+{
+  "type": "node",
+  "id": 2511088310,
+  "lat": -6.1317947,
+  "lon": 106.7978003,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building:condition": "good",
+    "building:levels": "2",
+    "name": "Kantor RW 12"
+  }
+},
+{
+  "type": "node",
+  "id": 2540909792,
+  "lat": -6.1077196,
+  "lon": 106.7714306,
+  "tags": {
+    "addr:full": "rusub buda sutji",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Posko Kesehatan",
+    "name": "kantor rw 020"
+  }
+},
+{
+  "type": "node",
+  "id": 3813490553,
+  "lat": -6.0998406,
+  "lon": 106.9636886,
+  "tags": {
+    "admin_level": "8",
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 3816551185,
+  "lat": -6.0968928,
+  "lon": 106.9585267,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "way",
+  "id": 362090048,
+  "center": {
+    "lat": -6.2750422,
+    "lon": 106.6921854
+  },
+  "nodes": [
+    3664675914,
+    3664675915,
+    3664675916,
+    3664675917,
+    3664675918,
+    3664675919,
+    3664675920,
+    3664675921,
+    3664675922,
+    3664675923,
+    3664675924,
+    3664676225,
+    3664675914
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:street": "Jalan Graha Bintaro Utama",
+    "admin_level": "6",
+    "amenity": "townhall",
+    "building": "public",
+    "building:levels": "2",
+    "name": "Kantor Kecamatan Pondok Aren",
+    "townhall:type": "town"
+  }
+},
+{
+  "type": "way",
+  "id": 155904754,
+  "center": {
+    "lat": -6.2969550,
+    "lon": 106.8736054
+  },
+  "nodes": [
+    1682477253,
+    1682477257,
+    1682477255,
+    1682477246,
+    1682477258,
+    1682477253
+  ],
+  "tags": {
+    "addr:full": "Jl. Puskesmas Rambutan Rt 012/01",
+    "addr:housename": "KANTOR SEKRETARIAT RW 01",
+    "addr:postcode": "13830",
+    "addr:street": "JL.PUSKESMAS RAMBUTAN RT.012/01",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "designation": "POSKO BENCANA BANJIR RW 01",
+    "name": "KANTOR SEKRETARIAT RW 01",
+    "office": "government",
+    "source": "DAPUR UMUM DAN POS PENGUNGSIAN"
+  }
+},
+{
+  "type": "way",
+  "id": 362087526,
+  "center": {
+    "lat": -6.2558893,
+    "lon": 106.6894315
+  },
+  "nodes": [
+    3664651925,
+    3664651926,
+    3664651927,
+    3664651928,
+    3664651925
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:housenumber": "1",
+    "addr:postcode": "15226",
+    "addr:street": "Jalan Pondok Kacang Raya",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Kantor Kelurahan Pondok Kacang Timur",
+    "townhall:type": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 362092698,
+  "center": {
+    "lat": -6.2730045,
+    "lon": 106.7084330
+  },
+  "nodes": [
+    3664701629,
+    3664701630,
+    3664701631,
+    3664701632,
+    3664701634,
+    3664701633,
+    3664701636,
+    3664701637,
+    3664701638,
+    3664701635,
+    3664701629
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:street": "Jalan Jombang Raya",
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Kantor Kelurahan Pondok Pucung",
+    "townhall:type": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 362085905,
+  "center": {
+    "lat": -6.2631984,
+    "lon": 106.7169497
+  },
+  "nodes": [
+    3664637443,
+    3664637444,
+    3664637445,
+    3664637446,
+    3664637447,
+    3664637452,
+    3664637451,
+    3664637448,
+    3664637450,
+    3664637449,
+    3664637443
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:street": "Jalan Pondok Aren Raya",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Kantor Kelurahan Pondok Aren",
+    "townhall:type": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 362355921,
+  "center": {
+    "lat": -6.1357758,
+    "lon": 106.7317102
+  },
+  "nodes": [
+    3666812810,
+    3666812811,
+    3666812812,
+    3666812813,
+    3666812814,
+    3666812815,
+    3666812816,
+    3666812817,
+    3666812810
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 483347300,
+  "center": {
+    "lat": -6.2110957,
+    "lon": 106.8419789
+  },
+  "nodes": [
+    4761013258,
+    4761013255,
+    4761013256,
+    4761013257,
+    4761013258
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Mengteng Wadas Timur",
+    "amenity": "townhall",
+    "backup_generator": "no",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Gedung SAS",
+    "source": "Hot_inAWARESurvey_2017"
+  }
+},
+{
+  "type": "way",
+  "id": 484861499,
+  "center": {
+    "lat": -6.2120374,
+    "lon": 106.8447985
+  },
+  "nodes": [
+    4776074349,
+    4776074346,
+    4776074347,
+    4776074348,
+    4776074349
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Minangkabau Timur Raya",
+    "amenity": "townhall",
+    "building": "government_office",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Kantor Pusat Parishadha Buddha Dharma Niciren Syosyu Indonesia",
+    "office": "government",
+    "source": "Hot_inAWARESurvey_2017"
+  }
+},
+{
+  "type": "way",
+  "id": 231290862,
+  "center": {
+    "lat": -6.1727171,
+    "lon": 106.8384507
+  },
+  "nodes": [
+    2396923161,
+    2396923159,
+    2396923164,
+    2710881320,
+    2396923166,
+    2396923161
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Dhanapala"
+  }
+},
+{
+  "type": "way",
+  "id": 451349915,
+  "center": {
+    "lat": -6.2086321,
+    "lon": 106.8579390
+  },
+  "nodes": [
+    4481775685,
+    4481775688,
+    4481776989,
+    4481775686,
+    4481775687,
+    4481775680,
+    4481775678,
+    4481775672,
+    4481775671,
+    4481775676,
+    4481775677,
+    4481775679,
+    4481775681,
+    4481775684,
+    4481775685
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Matraman Raya",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "1000",
+    "name": "Graha Zeni AD Matraman"
+  }
+},
+{
+  "type": "way",
+  "id": 246963403,
+  "center": {
+    "lat": -6.1234156,
+    "lon": 106.7778833
+  },
+  "nodes": [
+    2539203041,
+    2539203042,
+    2539203044,
+    2539203043,
+    2539203041
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Pluit Karang Permai",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Kantor RW 15",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 246963876,
+  "center": {
+    "lat": -6.1176940,
+    "lon": 106.7788724
+  },
+  "nodes": [
+    2539215186,
+    2539215187,
+    2539215189,
+    2539215188,
+    2539215186
+  ],
+  "tags": {
+    "addr:full": "Jalan Pluit Karang Sari 13",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Kantor RW 08",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 246972845,
+  "center": {
+    "lat": -6.1217216,
+    "lon": 106.7751063
+  },
+  "nodes": [
+    2539291648,
+    2539291650,
+    2539291651,
+    2539291649,
+    2539291648
+  ],
+  "tags": {
+    "addr:full": "Jalan Pluit Karang Permai",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Kantor Sekretariat Karang Taruna Pluit",
+    "office": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 154830068,
+  "center": {
+    "lat": -6.1391985,
+    "lon": 106.8712381
+  },
+  "nodes": [
+    1672998233,
+    1672998235,
+    1672998234,
+    1672998232,
+    1672998233
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "KANTOR LURAH SUNTER AGUNG"
+  }
+},
+{
+  "type": "way",
+  "id": 377941793,
+  "center": {
+    "lat": -6.0998260,
+    "lon": 106.9637032
+  },
+  "nodes": [
+    3813490552,
+    3813490547,
+    3813490664,
+    3813490671,
+    3814959735,
+    3813490552
+  ],
+  "tags": {
+    "addr:full": "Jalan Marunda Empang",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "asbestos",
+    "building:walls": "brick",
+    "flood_prone": "yes",
+    "name": "Kantor RW",
+    "water_source:id": "PDAM"
+  }
+},
+{
+  "type": "way",
+  "id": 376783081,
+  "center": {
+    "lat": -6.0968934,
+    "lon": 106.9585266
+  },
+  "nodes": [
+    3801704503,
+    3801704507,
+    3801704505,
+    3801704502,
+    3801704503
+  ],
+  "tags": {
+    "addr:full": "Jalan Marunda Pulo RT 01",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "asbestos",
+    "building:walls": "brick",
+    "name": "Kantor Sekretaris Simpan Pinjam Danamon",
+    "water_source:id": "PDAM"
+  }
+},
+{
+  "type": "relation",
+  "id": 6697467,
+  "center": {
+    "lat": -6.2077117,
+    "lon": 106.8584065
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 451992084,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 451992085,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992090,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992088,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992086,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992087,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992089,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Matraman Raya",
+    "amenity": "townhall",
+    "name": "Wisma PPAD",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "way",
+  "id": 362090048,
+  "nodes": [
+    3664675914,
+    3664675915,
+    3664675916,
+    3664675917,
+    3664675918,
+    3664675919,
+    3664675920,
+    3664675921,
+    3664675922,
+    3664675923,
+    3664675924,
+    3664676225,
+    3664675914
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:street": "Jalan Graha Bintaro Utama",
+    "admin_level": "6",
+    "amenity": "townhall",
+    "building": "public",
+    "building:levels": "2",
+    "name": "Kantor Kecamatan Pondok Aren",
+    "townhall:type": "town"
+  }
+},
+{
+  "type": "way",
+  "id": 155904754,
+  "nodes": [
+    1682477253,
+    1682477257,
+    1682477255,
+    1682477246,
+    1682477258,
+    1682477253
+  ],
+  "tags": {
+    "addr:full": "Jl. Puskesmas Rambutan Rt 012/01",
+    "addr:housename": "KANTOR SEKRETARIAT RW 01",
+    "addr:postcode": "13830",
+    "addr:street": "JL.PUSKESMAS RAMBUTAN RT.012/01",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "designation": "POSKO BENCANA BANJIR RW 01",
+    "name": "KANTOR SEKRETARIAT RW 01",
+    "office": "government",
+    "source": "DAPUR UMUM DAN POS PENGUNGSIAN"
+  }
+},
+{
+  "type": "way",
+  "id": 362087526,
+  "nodes": [
+    3664651925,
+    3664651926,
+    3664651927,
+    3664651928,
+    3664651925
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:housenumber": "1",
+    "addr:postcode": "15226",
+    "addr:street": "Jalan Pondok Kacang Raya",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Kantor Kelurahan Pondok Kacang Timur",
+    "townhall:type": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 362092698,
+  "nodes": [
+    3664701629,
+    3664701630,
+    3664701631,
+    3664701632,
+    3664701634,
+    3664701633,
+    3664701636,
+    3664701637,
+    3664701638,
+    3664701635,
+    3664701629
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:street": "Jalan Jombang Raya",
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Kantor Kelurahan Pondok Pucung",
+    "townhall:type": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 362085905,
+  "nodes": [
+    3664637443,
+    3664637444,
+    3664637445,
+    3664637446,
+    3664637447,
+    3664637452,
+    3664637451,
+    3664637448,
+    3664637450,
+    3664637449,
+    3664637443
+  ],
+  "tags": {
+    "addr:city": "Tangerang Selatan",
+    "addr:street": "Jalan Pondok Aren Raya",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Kantor Kelurahan Pondok Aren",
+    "townhall:type": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 362355921,
+  "nodes": [
+    3666812810,
+    3666812811,
+    3666812812,
+    3666812813,
+    3666812814,
+    3666812815,
+    3666812816,
+    3666812817,
+    3666812810
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 483347300,
+  "nodes": [
+    4761013258,
+    4761013255,
+    4761013256,
+    4761013257,
+    4761013258
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Mengteng Wadas Timur",
+    "amenity": "townhall",
+    "backup_generator": "no",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Gedung SAS",
+    "source": "Hot_inAWARESurvey_2017"
+  }
+},
+{
+  "type": "way",
+  "id": 484861499,
+  "nodes": [
+    4776074349,
+    4776074346,
+    4776074347,
+    4776074348,
+    4776074349
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Minangkabau Timur Raya",
+    "amenity": "townhall",
+    "building": "government_office",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Kantor Pusat Parishadha Buddha Dharma Niciren Syosyu Indonesia",
+    "office": "government",
+    "source": "Hot_inAWARESurvey_2017"
+  }
+},
+{
+  "type": "way",
+  "id": 231290862,
+  "nodes": [
+    2396923161,
+    2396923159,
+    2396923164,
+    2710881320,
+    2396923166,
+    2396923161
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Dhanapala"
+  }
+},
+{
+  "type": "way",
+  "id": 451349915,
+  "nodes": [
+    4481775685,
+    4481775688,
+    4481776989,
+    4481775686,
+    4481775687,
+    4481775680,
+    4481775678,
+    4481775672,
+    4481775671,
+    4481775676,
+    4481775677,
+    4481775679,
+    4481775681,
+    4481775684,
+    4481775685
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Matraman Raya",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "1000",
+    "name": "Graha Zeni AD Matraman"
+  }
+},
+{
+  "type": "way",
+  "id": 246963403,
+  "nodes": [
+    2539203041,
+    2539203042,
+    2539203044,
+    2539203043,
+    2539203041
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Pluit Karang Permai",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Kantor RW 15",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 246963876,
+  "nodes": [
+    2539215186,
+    2539215187,
+    2539215189,
+    2539215188,
+    2539215186
+  ],
+  "tags": {
+    "addr:full": "Jalan Pluit Karang Sari 13",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Kantor RW 08",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 246972845,
+  "nodes": [
+    2539291648,
+    2539291650,
+    2539291651,
+    2539291649,
+    2539291648
+  ],
+  "tags": {
+    "addr:full": "Jalan Pluit Karang Permai",
+    "admin_level": "7",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Kantor Sekretariat Karang Taruna Pluit",
+    "office": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 154830068,
+  "nodes": [
+    1672998233,
+    1672998235,
+    1672998234,
+    1672998232,
+    1672998233
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "KANTOR LURAH SUNTER AGUNG"
+  }
+},
+{
+  "type": "way",
+  "id": 377941793,
+  "nodes": [
+    3813490552,
+    3813490547,
+    3813490664,
+    3813490671,
+    3814959735,
+    3813490552
+  ],
+  "tags": {
+    "addr:full": "Jalan Marunda Empang",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "asbestos",
+    "building:walls": "brick",
+    "flood_prone": "yes",
+    "name": "Kantor RW",
+    "water_source:id": "PDAM"
+  }
+},
+{
+  "type": "way",
+  "id": 376783081,
+  "nodes": [
+    3801704503,
+    3801704507,
+    3801704505,
+    3801704502,
+    3801704503
+  ],
+  "tags": {
+    "addr:full": "Jalan Marunda Pulo RT 01",
+    "admin_level": "8",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "asbestos",
+    "building:walls": "brick",
+    "name": "Kantor Sekretaris Simpan Pinjam Danamon",
+    "water_source:id": "PDAM"
+  }
+},
+{
+  "type": "relation",
+  "id": 6697467,
+  "members": [
+    {
+      "type": "way",
+      "ref": 451992084,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 451992085,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992090,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992088,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992086,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992087,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451992089,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Matraman Raya",
+    "amenity": "townhall",
+    "name": "Wisma PPAD",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

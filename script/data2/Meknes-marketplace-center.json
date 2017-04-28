@@ -1,0 +1,241 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:40:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2437755877,
+  "lat": 33.9000955,
+  "lon": -5.5508996,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché central"
+  }
+},
+{
+  "type": "node",
+  "id": 3125474816,
+  "lat": 33.8602546,
+  "lon": -5.5359846,
+  "tags": {
+    "amenity": "marketplace",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 3214364991,
+  "lat": 33.8975445,
+  "lon": -5.5535078,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Palais de la Foire"
+  }
+},
+{
+  "type": "node",
+  "id": 4769756655,
+  "lat": 33.8948029,
+  "lon": -5.5771797,
+  "tags": {
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "marché du grain",
+    "name:ar": "رحبة الزرع",
+    "shop": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 307411007,
+  "center": {
+    "lat": 33.8612223,
+    "lon": -5.5365054
+  },
+  "nodes": [
+    3125474803,
+    3125474804,
+    3125474805,
+    3125474806,
+    3125474803
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk al Had (Dimanche)"
+  }
+},
+{
+  "type": "way",
+  "id": 308773008,
+  "center": {
+    "lat": 33.8884045,
+    "lon": -5.5709952
+  },
+  "nodes": [
+    3140416966,
+    3140416967,
+    3140416968,
+    3140416969,
+    3140416966
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché Mellah"
+  }
+},
+{
+  "type": "way",
+  "id": 153353181,
+  "center": {
+    "lat": 33.8924587,
+    "lon": -5.5663080
+  },
+  "nodes": [
+    1660602665,
+    1660602676,
+    1660602690,
+    3219202454,
+    1660602683,
+    1660602665
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "vegetable souk"
+  }
+},
+{
+  "type": "way",
+  "id": 307419705,
+  "center": {
+    "lat": 33.8926213,
+    "lon": -5.5661343
+  },
+  "nodes": [
+    1551789011,
+    3219202457,
+    3125610719,
+    3219202454,
+    3219202455,
+    3125610720,
+    566450828,
+    1551789011
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 315785563,
+  "center": {
+    "lat": 33.8928702,
+    "lon": -5.5664161
+  },
+  "nodes": [
+    3219202456,
+    3219202457,
+    1551789011,
+    3219202458,
+    3219202456
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché de poison"
+  }
+},
+{
+  "type": "way",
+  "id": 307411007,
+  "nodes": [
+    3125474803,
+    3125474804,
+    3125474805,
+    3125474806,
+    3125474803
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk al Had (Dimanche)"
+  }
+},
+{
+  "type": "way",
+  "id": 308773008,
+  "nodes": [
+    3140416966,
+    3140416967,
+    3140416968,
+    3140416969,
+    3140416966
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché Mellah"
+  }
+},
+{
+  "type": "way",
+  "id": 153353181,
+  "nodes": [
+    1660602665,
+    1660602676,
+    1660602690,
+    3219202454,
+    1660602683,
+    1660602665
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "vegetable souk"
+  }
+},
+{
+  "type": "way",
+  "id": 307419705,
+  "nodes": [
+    1551789011,
+    3219202457,
+    3125610719,
+    3219202454,
+    3219202455,
+    3125610720,
+    566450828,
+    1551789011
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 315785563,
+  "nodes": [
+    3219202456,
+    3219202457,
+    1551789011,
+    3219202458,
+    3219202456
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché de poison"
+  }
+}
+
+  ]
+}

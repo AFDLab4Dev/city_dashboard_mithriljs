@@ -1,0 +1,258 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:39:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1357929879,
+  "lat": 32.2940781,
+  "lon": -9.2240194,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929910,
+  "lat": 32.3068377,
+  "lon": -9.2346413,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929914,
+  "lat": 32.2865344,
+  "lon": -9.2288699,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929918,
+  "lat": 32.3091409,
+  "lon": -9.2308326,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929932,
+  "lat": 32.3000228,
+  "lon": -9.2213214,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929976,
+  "lat": 32.3072911,
+  "lon": -9.2288745,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929979,
+  "lat": 32.2890853,
+  "lon": -9.2279998,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17"
+  }
+},
+{
+  "type": "node",
+  "id": 1357929999,
+  "lat": 32.3073500,
+  "lon": -9.2280752,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930010,
+  "lat": 32.3077714,
+  "lon": -9.2284988,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930029,
+  "lat": 32.3063480,
+  "lon": -9.2302264,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930080,
+  "lat": 32.3062755,
+  "lon": -9.2301244,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930106,
+  "lat": 32.3091863,
+  "lon": -9.2310203,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930109,
+  "lat": 32.2942731,
+  "lon": -9.2242071,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930123,
+  "lat": 32.3098799,
+  "lon": -9.2327101,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "4.6.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930147,
+  "lat": 32.3063478,
+  "lon": -9.2341690,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930155,
+  "lat": 32.3026935,
+  "lon": -9.2213644,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930166,
+  "lat": 32.3097008,
+  "lon": -9.2329770,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "4.6"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930179,
+  "lat": 32.2889130,
+  "lon": -9.2276243,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930184,
+  "lat": 32.3000636,
+  "lon": -9.2209084,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1357930191,
+  "lat": 32.3027343,
+  "lon": -9.2209406,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17.18"
+  }
+},
+{
+  "type": "node",
+  "id": 1363052408,
+  "lat": 32.2866983,
+  "lon": -9.2294417,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "8.12.17"
+  }
+},
+{
+  "type": "way",
+  "id": 182833478,
+  "center": {
+    "lat": 32.2892273,
+    "lon": -9.2355639
+  },
+  "nodes": [
+    1932011940,
+    1932011941,
+    1932011939,
+    1932011938,
+    1932011940
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "gare routière de Safi"
+  }
+},
+{
+  "type": "way",
+  "id": 182833478,
+  "nodes": [
+    1932011940,
+    1932011941,
+    1932011939,
+    1932011938,
+    1932011940
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "gare routière de Safi"
+  }
+}
+
+  ]
+}

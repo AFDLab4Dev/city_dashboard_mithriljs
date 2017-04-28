@@ -1,0 +1,326 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:36:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1298638322,
+  "lat": -21.4432413,
+  "lon": 47.0855186,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 21 (Tambohobe)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1298750580,
+  "lat": -21.4561601,
+  "lon": 47.0850736,
+  "tags": {
+    "alt_name": "Lapan'ny Tanàna",
+    "amenity": "bus_station",
+    "name": "Terminus ligne 33 (Lapan'ny Tanàna)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1300926164,
+  "lat": -21.4416874,
+  "lon": 47.1056342,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 36 Idanda",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1300926485,
+  "lat": -21.4655121,
+  "lon": 47.0894305,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 36 (Ambatovory)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1300926503,
+  "lat": -21.4366897,
+  "lon": 47.1123149,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 28 (SEMIPI Beravina)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1885440263,
+  "lat": -21.4086197,
+  "lon": 47.0743729,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 24 (Andriamboasary)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1886740480,
+  "lat": -21.4274585,
+  "lon": 47.1067784,
+  "tags": {
+    "amenity": "bus_station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2026587900,
+  "lat": -21.4668651,
+  "lon": 47.0647758,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 34 (Ankazobe)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2027759768,
+  "lat": -21.4373967,
+  "lon": 47.1146331,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 26 (Beravina)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2577101897,
+  "lat": -21.4268038,
+  "lon": 47.1013682,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 29 (Ankofafa Andrefana)",
+    "public_transport": "station",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3677903817,
+  "lat": -21.4366501,
+  "lon": 47.0889748,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 34 (Sahalava)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3688282619,
+  "lat": -21.4573760,
+  "lon": 47.0761265,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus lignes 22 et 29 (Ambozontany)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3688282620,
+  "lat": -21.4536448,
+  "lon": 47.0878525,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus Anjoma",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3688293832,
+  "lat": -21.4455004,
+  "lon": 47.1058277,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 32 (Ambodirano)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3696893901,
+  "lat": -21.4264404,
+  "lon": 47.1012339,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Stationnement Ikalamavony",
+    "network": "mg:regional",
+    "public_transport": "station",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3698747659,
+  "lat": -21.4815268,
+  "lon": 47.0595588,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 21 (Mahazengy)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3700732310,
+  "lat": -21.4563453,
+  "lon": 47.0859065,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 24 (Lapan'ny Tanàna)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3705311194,
+  "lat": -21.4287411,
+  "lon": 47.1254274,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 22 (Ampopoka)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3710249156,
+  "lat": -21.4237945,
+  "lon": 47.1174739,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 23 (Ankofafa)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3875755113,
+  "lat": -21.4640377,
+  "lon": 47.0808492,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 28 (Tsaramandroso)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4790428597,
+  "lat": -21.4556956,
+  "lon": 47.0823964,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminus ligne 32 (Tsianolondroa)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 114869455,
+  "center": {
+    "lat": -21.4492930,
+    "lon": 47.0896466
+  },
+  "nodes": [
+    1300054944,
+    3812445959,
+    1300055152,
+    1300054976,
+    1300054944
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Stationnement Avaratra",
+    "network": "mg:regional",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 114984519,
+  "center": {
+    "lat": -21.4523140,
+    "lon": 47.0905042
+  },
+  "nodes": [
+    3701697126,
+    1300926248,
+    1300926126,
+    1300926008,
+    3701695817,
+    3701697127,
+    3701697126
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Stationnement Atsimo",
+    "network": "mg:national",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 114869455,
+  "nodes": [
+    1300054944,
+    3812445959,
+    1300055152,
+    1300054976,
+    1300054944
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Stationnement Avaratra",
+    "network": "mg:regional",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 114984519,
+  "nodes": [
+    3701697126,
+    1300926248,
+    1300926126,
+    1300926008,
+    3701695817,
+    3701697127,
+    3701697126
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Stationnement Atsimo",
+    "network": "mg:national",
+    "public_transport": "station"
+  }
+}
+
+  ]
+}

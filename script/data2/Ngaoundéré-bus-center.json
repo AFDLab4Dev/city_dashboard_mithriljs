@@ -1,0 +1,69 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:43:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3116256076,
+  "lat": 7.3192939,
+  "lon": 13.5767915,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Narral Voyages"
+  }
+},
+{
+  "type": "node",
+  "id": 4674898192,
+  "lat": 7.3377948,
+  "lon": 13.5869247,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Danay express",
+    "name:fr": "Danay express"
+  }
+},
+{
+  "type": "way",
+  "id": 276992681,
+  "center": {
+    "lat": 7.3382884,
+    "lon": 13.5881231
+  },
+  "nodes": [
+    2815476632,
+    2815476630,
+    2815476631,
+    2815476633,
+    2815476632
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Woïla voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 276992681,
+  "nodes": [
+    2815476632,
+    2815476630,
+    2815476631,
+    2815476633,
+    2815476632
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Woïla voyage"
+  }
+}
+
+  ]
+}

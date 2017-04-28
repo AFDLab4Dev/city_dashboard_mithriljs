@@ -1,0 +1,160 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:38:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4494540883,
+  "lat": 34.2470030,
+  "lon": -6.5758600,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Régional de Kénitra"
+  }
+},
+{
+  "type": "node",
+  "id": 4515651181,
+  "lat": 34.2630264,
+  "lon": -6.5725199,
+  "tags": {
+    "amenity": "hospital",
+    "name": "مستودع الأموات"
+  }
+},
+{
+  "type": "node",
+  "id": 4811307060,
+  "lat": 34.2466553,
+  "lon": -6.5809379,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Psychatrie Kenitra (Chantier)"
+  }
+},
+{
+  "type": "way",
+  "id": 451977575,
+  "center": {
+    "lat": 34.2483198,
+    "lon": -6.5782073
+  },
+  "nodes": [
+    4487822685,
+    4487822686,
+    4497392591,
+    4487822688,
+    4487822989,
+    4487822990,
+    4487822991,
+    4487822992,
+    4487822685
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital EL IDRISSI",
+    "phone": "+212 537 373111"
+  }
+},
+{
+  "type": "way",
+  "id": 452143297,
+  "center": {
+    "lat": 34.2518462,
+    "lon": -6.5747815
+  },
+  "nodes": [
+    4489461593,
+    4489461594,
+    4489461595,
+    4489461596,
+    4489461593
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique de Kenitra",
+    "phone": "+212 537 373635"
+  }
+},
+{
+  "type": "way",
+  "id": 452738714,
+  "center": {
+    "lat": 34.2544386,
+    "lon": -6.5432781
+  },
+  "nodes": [
+    4494832996,
+    4494832997,
+    4494832998,
+    4494832999,
+    4494833000,
+    4494833001,
+    4494832996
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital"
+  }
+},
+{
+  "type": "way",
+  "id": 451977575,
+  "nodes": [
+    4487822685,
+    4487822686,
+    4497392591,
+    4487822688,
+    4487822989,
+    4487822990,
+    4487822991,
+    4487822992,
+    4487822685
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital EL IDRISSI",
+    "phone": "+212 537 373111"
+  }
+},
+{
+  "type": "way",
+  "id": 452143297,
+  "nodes": [
+    4489461593,
+    4489461594,
+    4489461595,
+    4489461596,
+    4489461593
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique de Kenitra",
+    "phone": "+212 537 373635"
+  }
+},
+{
+  "type": "way",
+  "id": 452738714,
+  "nodes": [
+    4494832996,
+    4494832997,
+    4494832998,
+    4494832999,
+    4494833000,
+    4494833001,
+    4494832996
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital"
+  }
+}
+
+  ]
+}

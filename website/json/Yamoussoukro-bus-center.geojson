@@ -1,0 +1,56 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1625189809",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare UTB",
+    "id": "node/1625189809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2648453,
+      6.8123178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323552994",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare des villages ",
+    "id": "node/4323552994"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2798647,
+      6.8194438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4744660221",
+  "properties": {
+    "addr:postcode": "225",
+    "addr:street": "Rue  des Banques",
+    "amenity": "bus_station",
+    "name": "CTE",
+    "name:fr": "CTE",
+    "id": "node/4744660221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2625795,
+      6.8097013
+    ]
+  }
+}
+]
+}

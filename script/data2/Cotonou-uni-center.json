@@ -1,0 +1,641 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:36:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2348384279,
+  "lat": 6.3555293,
+  "lon": 2.4080904,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculte des Sciences de la Sante"
+  }
+},
+{
+  "type": "node",
+  "id": 2348404297,
+  "lat": 6.4139788,
+  "lon": 2.3435683,
+  "tags": {
+    "amenity": "university",
+    "name": "Université d'Abomey-Calavi"
+  }
+},
+{
+  "type": "node",
+  "id": 2432223441,
+  "lat": 6.3663177,
+  "lon": 2.5208533,
+  "tags": {
+    "amenity": "university",
+    "name": "Houdegbe North American University",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2441339000,
+  "lat": 6.3538326,
+  "lon": 2.4097639,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut National Medico Sanitaire (INMeS)",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3091038115,
+  "lat": 6.4185720,
+  "lon": 2.3404080,
+  "tags": {
+    "amenity": "university",
+    "name": "École Nationale d’Administartion et de Magistrature",
+    "operator:type": "public",
+    "source": "gps;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3091038116,
+  "lat": 6.4160030,
+  "lon": 2.3422000,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté de Droit et Sciences Politiques"
+  }
+},
+{
+  "type": "node",
+  "id": 3091038117,
+  "lat": 6.4154003,
+  "lon": 2.3432936,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté de Lettres, Arts et Sciences Humaines"
+  }
+},
+{
+  "type": "node",
+  "id": 3091038118,
+  "lat": 6.4162880,
+  "lon": 2.3419170,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté des Sciences Agronomiques"
+  }
+},
+{
+  "type": "node",
+  "id": 3091038119,
+  "lat": 6.4198676,
+  "lon": 2.3409163,
+  "tags": {
+    "amenity": "university",
+    "name": "Administration FASEG"
+  }
+},
+{
+  "type": "node",
+  "id": 3091038120,
+  "lat": 6.4203385,
+  "lon": 2.3418725,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté des Sciences Techniques"
+  }
+},
+{
+  "type": "node",
+  "id": 3501350701,
+  "lat": 6.3656234,
+  "lon": 2.4520836,
+  "tags": {
+    "amenity": "university",
+    "building": "university",
+    "name": "Irgib Africa University"
+  }
+},
+{
+  "type": "node",
+  "id": 3539471178,
+  "lat": 6.4118343,
+  "lon": 2.3398385,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut Confucius"
+  }
+},
+{
+  "type": "node",
+  "id": 3539471179,
+  "lat": 6.4127469,
+  "lon": 2.3410377,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut National de l' Eau"
+  }
+},
+{
+  "type": "node",
+  "id": 3934003783,
+  "lat": 6.3686241,
+  "lon": 2.4151837,
+  "tags": {
+    "amenity": "university",
+    "name": "ISM ADONAI"
+  }
+},
+{
+  "type": "node",
+  "id": 3955170264,
+  "lat": 6.3869416,
+  "lon": 2.3225793,
+  "tags": {
+    "amenity": "university",
+    "name": "HECM",
+    "phone": "(+229) 96167979",
+    "source": "gps,survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4054382540,
+  "lat": 6.3626300,
+  "lon": 2.4620683,
+  "tags": {
+    "amenity": "university",
+    "name": "UNIVERSITÉ DE DÉVELOPPEMENT COOPERATIF"
+  }
+},
+{
+  "type": "node",
+  "id": 4210159888,
+  "lat": 6.3664706,
+  "lon": 2.4465763,
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "node",
+  "id": 4210160433,
+  "lat": 6.3716326,
+  "lon": 2.4514640,
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "node",
+  "id": 4210802375,
+  "lat": 6.3609372,
+  "lon": 2.4073536,
+  "tags": {
+    "amenity": "university",
+    "name": "Vérichaguine"
+  }
+},
+{
+  "type": "node",
+  "id": 4210802376,
+  "lat": 6.3614591,
+  "lon": 2.4074060,
+  "tags": {
+    "amenity": "university",
+    "name": "Vérichaguine"
+  }
+},
+{
+  "type": "node",
+  "id": 4234176384,
+  "lat": 6.3718105,
+  "lon": 2.4632254,
+  "tags": {
+    "amenity": "university",
+    "name": "HILL University"
+  }
+},
+{
+  "type": "node",
+  "id": 4235638567,
+  "lat": 6.3827909,
+  "lon": 2.4567030,
+  "tags": {
+    "addr:full": "40 lot 413 bis domaine Universitaire de Kpondéhou situé à côté du Lycée Technique de Kpondehou, Akpakpa, Cotonou, Bénin",
+    "amenity": "university",
+    "contact:phone": "+229 21336011",
+    "contact:website": "ustbenin.org",
+    "description": "L'université des sciences et technologies du Bénin (USTB) est une université privée d'Afrique de l'Ouest dont le siège est situé sur le domaine universitaire de Kpondehou à Cotonou, la capitale économique du Bénin.",
+    "id:uuid": "urn:fonderie_ile-de-france_pnt_id:universite-des-sciences-et-technologie-du-benin",
+    "name": "Université des Sciences et Technologies du Bénin",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "USTB",
+    "source": "local_knowledge;oif-dfen_carteinnov;fonderie_ile-de-france",
+    "source:date": "2016-09-08",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2002"
+  }
+},
+{
+  "type": "node",
+  "id": 4340730328,
+  "lat": 6.4078350,
+  "lon": 2.3399217,
+  "tags": {
+    "amenity": "university",
+    "name": "African School of Economics",
+    "phone": "(+229)21500482/94550706",
+    "website": "www.africanshoolofeconomics.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4380879058,
+  "lat": 6.3644287,
+  "lon": 2.4084594,
+  "tags": {
+    "addr:full": "1235 Av 11007 Avenue Dorothée LIMA Gbégamey, Cotonou, Bénin",
+    "amenity": "university",
+    "contact:email": "eneam.uac@eneam.uac.bj",
+    "contact:facebook": "www.facebook.com/UAC-149347968464013",
+    "contact:phone": "+229 21304168",
+    "contact:twitter": "https://twitter.com/uacbenin",
+    "contact:website": "eneam.uac.bj",
+    "description": "Sa vocation est de mettre à la disposition du marché les meilleurs cadres dont les entreprises, les administrations et les autres organisations nationales et internationales, ont besoin pour participer au développement économique et social du Bénin",
+    "name": "Ecole Nationale d'Economie Appliquée et de Management",
+    "operator": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "ENEAM",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-02",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2002"
+  }
+},
+{
+  "type": "node",
+  "id": 4389290238,
+  "lat": 6.3542179,
+  "lon": 2.3968150,
+  "tags": {
+    "addr:full": "Rue 12.207 en face Assurance Colina, derrière nouvel immeuble Air France, Cotonou, Bénin",
+    "amenity": "university",
+    "contact:email": "contacts@irgibafrica.com",
+    "contact:facebook": "www.facebook.com/irgibafricauniv",
+    "contact:phone": "+229 67296464",
+    "contact:website": "http://irgibafrica.com/",
+    "description": "Institut Régional du Génie Industriel, des Biotechnologies et Sciences Appliquées",
+    "name": "Institut Régional du Génie Industriel, des Biotechnologies et Sciences Appliquées",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "IRGIB-Africa",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-07",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2006"
+  }
+},
+{
+  "type": "node",
+  "id": 4389290239,
+  "lat": 6.3572955,
+  "lon": 2.3982353,
+  "tags": {
+    "addr:full": "A l'intérieure de la Paroisse Bon Pasteur Cadjèhoun, Cotonou, Bénin",
+    "amenity": "university",
+    "contact:email": "ucaobenin@ucaobenin.com",
+    "contact:phone": "+229 21305118",
+    "contact:website": "http://ucaobenin.com/",
+    "description": "UCAO a pour vocation de couvrir le champ le plus large possible des Sciences et de la Technologie, avec le plus grand souci d'efficience et de fidélité au dialogue entre la raison et la foi.",
+    "name": "Université Catholique de l'Afrique de l'Ouest",
+    "operator": "Conférence Episcopale Régionale de l'Afrique de l'Ouest",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UCAO",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-07",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2002"
+  }
+},
+{
+  "type": "node",
+  "id": 4401032990,
+  "lat": 6.4142818,
+  "lon": 2.3423477,
+  "tags": {
+    "addr:full": "Université d'Abomey Calavi, derriere le batiment du CNF et la bibliotheque universitaire, Calavi, Bénin",
+    "amenity": "university",
+    "contact:email": "epac.uac@epac.uac.bj",
+    "contact:facebook": "www.facebook.com/UACBENIN",
+    "contact:phone": "+229 21360993",
+    "contact:twitter": "https://twitter.com/uacbenin",
+    "contact:website": "http://epac.uac.bj/",
+    "description": "EPAC donne des formations dans le département du Génie de la Biologie Humaine (GBH), le département de l’Environnement, etc… et le secteur industriel tel que GC, GEI et télécommunication, etc…",
+    "id:uuid": "urn:fonderie_ile-de-france_pnt_id:ecole-polytechnique-d-abomey-calavi",
+    "name": "Ecole Polytechnique d’Abomey Calavi",
+    "operator": "Université d'abomey Calavi",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "EPAC",
+    "source": "local_knowledge;oif-dfen_carteinnov;fonderie_ile-de-france",
+    "source:date": "2016-09-13",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2005"
+  }
+},
+{
+  "type": "node",
+  "id": 4401314589,
+  "lat": 6.4163194,
+  "lon": 2.3401684,
+  "tags": {
+    "addr:full": "Siège Campus d'Abomey-Calavi, Rue de l'Iran derriere le batiment H FSA, Calavi, Bénin",
+    "amenity": "university",
+    "contact:email": "contact@ifri-uac.net",
+    "contact:facebook": "www.facebook.com/Institut-de-Formation-et-de-Recherche-en-Informatique-697568330297547",
+    "contact:phone": "+229 21141988",
+    "contact:website": "http://ifri-uac.net/",
+    "description": "IFRI a pour vocation de former des apprenants capables de devenir des acteurs pour des solutions informatiques aux différents problèmes de développement.",
+    "id:uuid": "urn:fonderie_ile-de-france_pnt_id:institut-de-formation-et-de-recherche-en-informatique",
+    "name": "Institut de Formation et de Recherche en Informatique",
+    "operator": "Université d'Abomey Calavi",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "IFRI",
+    "source": "local_knowledge;oif-dfen_carteinnov;fonderie_ile-de-france",
+    "source:date": "2016-09-13",
+    "source:geometry": "survey;oif-dfen_carteinnov"
+  }
+},
+{
+  "type": "node",
+  "id": 4403228628,
+  "lat": 6.4162884,
+  "lon": 2.3401975,
+  "tags": {
+    "amenity": "university",
+    "description": "Formation à distance, salle de ressources numériques, bibliothèque virtuelle",
+    "name": "Université Virtuelle Africaine (UVA)",
+    "phone": "+229 21141988",
+    "website": "http://uva.uac.bj"
+  }
+},
+{
+  "type": "node",
+  "id": 4457963493,
+  "lat": 6.3592392,
+  "lon": 2.4059844,
+  "tags": {
+    "amenity": "university",
+    "name": "Cycle Préparatoire Père Aupiais"
+  }
+},
+{
+  "type": "way",
+  "id": 418176358,
+  "center": {
+    "lat": 6.3542183,
+    "lon": 2.4093987
+  },
+  "nodes": [
+    4186202097,
+    4186202099,
+    4186202090,
+    4186201974,
+    4186201972,
+    4186202097
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut National Medico Sanitaire (INMeS)",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 347695356,
+  "center": {
+    "lat": 6.4124815,
+    "lon": 2.3386689
+  },
+  "nodes": [
+    3539474161,
+    3539474157,
+    3539471181,
+    3539474102,
+    3539474161
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "EPAC Village"
+  }
+},
+{
+  "type": "way",
+  "id": 234098281,
+  "center": {
+    "lat": 6.3598722,
+    "lon": 2.4131832
+  },
+  "nodes": [
+    2424009569,
+    2424009571,
+    4185908207,
+    4185937178,
+    4185908204,
+    4185908213,
+    2424009572,
+    2424009570,
+    4185937177,
+    4185908196,
+    4185937174,
+    4185937151,
+    2424009569
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Université Africaine de Technologie et de Management",
+    "short_name": "UATM GASA FORMATION",
+    "source": "survey;GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 347661222,
+  "center": {
+    "lat": 6.4216037,
+    "lon": 2.3401683
+  },
+  "nodes": [
+    3539036404,
+    3539036445,
+    3539036448,
+    3539036424,
+    3539036404
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Zone Masters"
+  }
+},
+{
+  "type": "way",
+  "id": 347695368,
+  "center": {
+    "lat": 6.4163118,
+    "lon": 2.3395711
+  },
+  "nodes": [
+    3539474343,
+    3539474342,
+    3539474305,
+    3539474316,
+    3539474343
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Zone Masters"
+  }
+},
+{
+  "type": "way",
+  "id": 347676675,
+  "center": {
+    "lat": 6.4183549,
+    "lon": 2.3402151
+  },
+  "nodes": [
+    3539256971,
+    3539256922,
+    3539256973,
+    3539256968,
+    3539245461,
+    3539245459,
+    3539245460,
+    3539256971
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "École Nationale d'Administartion et de Magistrature"
+  }
+},
+{
+  "type": "way",
+  "id": 418176358,
+  "nodes": [
+    4186202097,
+    4186202099,
+    4186202090,
+    4186201974,
+    4186201972,
+    4186202097
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut National Medico Sanitaire (INMeS)",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 347695356,
+  "nodes": [
+    3539474161,
+    3539474157,
+    3539471181,
+    3539474102,
+    3539474161
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "EPAC Village"
+  }
+},
+{
+  "type": "way",
+  "id": 234098281,
+  "nodes": [
+    2424009569,
+    2424009571,
+    4185908207,
+    4185937178,
+    4185908204,
+    4185908213,
+    2424009572,
+    2424009570,
+    4185937177,
+    4185908196,
+    4185937174,
+    4185937151,
+    2424009569
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Université Africaine de Technologie et de Management",
+    "short_name": "UATM GASA FORMATION",
+    "source": "survey;GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 347661222,
+  "nodes": [
+    3539036404,
+    3539036445,
+    3539036448,
+    3539036424,
+    3539036404
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Zone Masters"
+  }
+},
+{
+  "type": "way",
+  "id": 347695368,
+  "nodes": [
+    3539474343,
+    3539474342,
+    3539474305,
+    3539474316,
+    3539474343
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Zone Masters"
+  }
+},
+{
+  "type": "way",
+  "id": 347676675,
+  "nodes": [
+    3539256971,
+    3539256922,
+    3539256973,
+    3539256968,
+    3539245461,
+    3539245459,
+    3539245460,
+    3539256971
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "École Nationale d'Administartion et de Magistrature"
+  }
+}
+
+  ]
+}

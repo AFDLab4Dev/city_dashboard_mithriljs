@@ -1,0 +1,1074 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:47:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 480790475,
+  "center": {
+    "lat": -7.3511131,
+    "lon": 112.7238631
+  },
+  "nodes": [
+    4737559906,
+    4737559907,
+    4737559908,
+    4737559909,
+    4737559910,
+    4737559911,
+    4737559912,
+    4737559913,
+    4737559914,
+    4737559915,
+    4737559916,
+    4737559917,
+    4737559918,
+    4737559919,
+    4737559920,
+    4737561021,
+    4737561022,
+    4737561023,
+    4737561024,
+    4737561025,
+    4737561026,
+    4737561027,
+    4737561028,
+    4737561029,
+    4737559906
+  ],
+  "tags": {
+    "addr:city": "Bungurasih, Waru, Surabaya, East Java",
+    "addr:postcode": "61256",
+    "addr:street": "Jl. Pintu Masuk Ramayana Terminal Bungurasih",
+    "amenity": "bus_station",
+    "building": "bus_station",
+    "name": "Shelter Bus Damri Purabaya-Juanda"
+  }
+},
+{
+  "type": "way",
+  "id": 485783915,
+  "center": {
+    "lat": -7.3510700,
+    "lon": 112.7247512
+  },
+  "nodes": [
+    4785489542,
+    4785489543,
+    4785489545,
+    4785489544,
+    4737559887,
+    4737559888,
+    4737559889,
+    4737559890,
+    4737559891,
+    4737559892,
+    4737559893,
+    4737561033,
+    4737561030,
+    4737559894,
+    4737559895,
+    4737559896,
+    4737559897,
+    4737559898,
+    4737559899,
+    4737559900,
+    4737559901,
+    4737561034,
+    4737561035,
+    4737559902,
+    4785489542
+  ],
+  "tags": {
+    "alt_name": "Terminal Bungurasih",
+    "amenity": "bus_station",
+    "building": "bus_station",
+    "name": "Terminal Purabaya"
+  }
+},
+{
+  "type": "way",
+  "id": 486886496,
+  "center": {
+    "lat": -7.2988780,
+    "lon": 112.7615479
+  },
+  "nodes": [
+    4794304254,
+    4794304696,
+    4794304695,
+    4794304694,
+    4794304776,
+    4794304775,
+    4794304774,
+    4794304253,
+    4794304252,
+    4794304251,
+    4794304254
+  ],
+  "tags": {
+    "addr:full": "jalan bratang jaya",
+    "amenity": "bus_station",
+    "name": "Terminal Bus Bratang Jaya"
+  }
+},
+{
+  "type": "relation",
+  "id": 6892085,
+  "center": {
+    "lat": -7.3415822,
+    "lon": 112.7225351
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 467064615,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 455255052,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466569815,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Menanggal",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6908245,
+  "center": {
+    "lat": -7.2355939,
+    "lon": 112.6078970
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 320141897,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459920899,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 459920845,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Benowo",
+    "amenity": "bus_station",
+    "name": "Terminal Benowo",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7147897,
+  "center": {
+    "lat": -7.2813878,
+    "lon": 112.7119748
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 459921946,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 485782424,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Dukuh Kupang XXV",
+    "amenity": "bus_station",
+    "name": "Terminal Dukuh Kupang",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7158966,
+  "center": {
+    "lat": -7.2681430,
+    "lon": 112.6667056
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 486892144,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 461310689,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461310707,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Manukan",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6852560,
+  "center": {
+    "lat": -7.2180814,
+    "lon": 112.6531744
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 262540013,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457148662,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148660,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148659,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148654,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148661,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148658,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457149778,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457149780,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457149777,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Tambakoso Wilangon",
+    "alt_name": "Terminal Osowilangun",
+    "amenity": "bus_station",
+    "name": "Terminal Tambak Osowilangon",
+    "type": "multipolygon",
+    "wikidata": "Q20427658",
+    "wikipedia": "id:Terminal Tambak"
+  }
+},
+{
+  "type": "relation",
+  "id": 7158883,
+  "center": {
+    "lat": -7.2592365,
+    "lon": 112.6786652
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 486883056,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459961148,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 459961049,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Balongsari",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6902194,
+  "center": {
+    "lat": -7.2989293,
+    "lon": 112.7366755
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 467845208,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 466854240,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466854216,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466854271,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466862702,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451857611,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:full": "Jalan Joyoboyo",
+    "addr:street": "Jl. Jayabaya",
+    "amenity": "bus_station",
+    "name": "Terminal Joyoboyo",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7147931,
+  "center": {
+    "lat": -7.2946104,
+    "lon": 112.8018345
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 485783914,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 447161931,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447161970,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447161927,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447161902,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Keputih Tegal",
+    "amenity": "bus_station",
+    "name": "Terminal Keputih",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6719287,
+  "center": {
+    "lat": -7.2231606,
+    "lon": 112.7378401
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 454173811,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 450712870,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kalimas Barat",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7158965,
+  "center": {
+    "lat": -7.2405641,
+    "lon": 112.7945524
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 486891854,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 448294345,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448294360,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448294311,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448294300,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 486891851,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kenjeran",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6730893,
+  "center": {
+    "lat": -7.1989272,
+    "lon": 112.7345311
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 455261261,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 453430161,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 453430149,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kalimas",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7147898,
+  "center": {
+    "lat": -7.2127926,
+    "lon": 112.7793549
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 275493021,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 447608389,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 485782423,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 485782425,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608382,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608362,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Kali Kedinding",
+    "amenity": "bus_station",
+    "name": "Terminal Kedung Cowek",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "way",
+  "id": 480790475,
+  "nodes": [
+    4737559906,
+    4737559907,
+    4737559908,
+    4737559909,
+    4737559910,
+    4737559911,
+    4737559912,
+    4737559913,
+    4737559914,
+    4737559915,
+    4737559916,
+    4737559917,
+    4737559918,
+    4737559919,
+    4737559920,
+    4737561021,
+    4737561022,
+    4737561023,
+    4737561024,
+    4737561025,
+    4737561026,
+    4737561027,
+    4737561028,
+    4737561029,
+    4737559906
+  ],
+  "tags": {
+    "addr:city": "Bungurasih, Waru, Surabaya, East Java",
+    "addr:postcode": "61256",
+    "addr:street": "Jl. Pintu Masuk Ramayana Terminal Bungurasih",
+    "amenity": "bus_station",
+    "building": "bus_station",
+    "name": "Shelter Bus Damri Purabaya-Juanda"
+  }
+},
+{
+  "type": "way",
+  "id": 485783915,
+  "nodes": [
+    4785489542,
+    4785489543,
+    4785489545,
+    4785489544,
+    4737559887,
+    4737559888,
+    4737559889,
+    4737559890,
+    4737559891,
+    4737559892,
+    4737559893,
+    4737561033,
+    4737561030,
+    4737559894,
+    4737559895,
+    4737559896,
+    4737559897,
+    4737559898,
+    4737559899,
+    4737559900,
+    4737559901,
+    4737561034,
+    4737561035,
+    4737559902,
+    4785489542
+  ],
+  "tags": {
+    "alt_name": "Terminal Bungurasih",
+    "amenity": "bus_station",
+    "building": "bus_station",
+    "name": "Terminal Purabaya"
+  }
+},
+{
+  "type": "way",
+  "id": 486886496,
+  "nodes": [
+    4794304254,
+    4794304696,
+    4794304695,
+    4794304694,
+    4794304776,
+    4794304775,
+    4794304774,
+    4794304253,
+    4794304252,
+    4794304251,
+    4794304254
+  ],
+  "tags": {
+    "addr:full": "jalan bratang jaya",
+    "amenity": "bus_station",
+    "name": "Terminal Bus Bratang Jaya"
+  }
+},
+{
+  "type": "relation",
+  "id": 6892085,
+  "members": [
+    {
+      "type": "way",
+      "ref": 467064615,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 455255052,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466569815,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Menanggal",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6908245,
+  "members": [
+    {
+      "type": "way",
+      "ref": 320141897,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459920899,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 459920845,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Benowo",
+    "amenity": "bus_station",
+    "name": "Terminal Benowo",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7147897,
+  "members": [
+    {
+      "type": "way",
+      "ref": 459921946,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 485782424,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Dukuh Kupang XXV",
+    "amenity": "bus_station",
+    "name": "Terminal Dukuh Kupang",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7158966,
+  "members": [
+    {
+      "type": "way",
+      "ref": 486892144,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 461310689,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461310707,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Manukan",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6852560,
+  "members": [
+    {
+      "type": "way",
+      "ref": 262540013,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457148662,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148660,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148659,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148654,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148661,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457148658,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457149778,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457149780,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457149777,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Tambakoso Wilangon",
+    "alt_name": "Terminal Osowilangun",
+    "amenity": "bus_station",
+    "name": "Terminal Tambak Osowilangon",
+    "type": "multipolygon",
+    "wikidata": "Q20427658",
+    "wikipedia": "id:Terminal Tambak"
+  }
+},
+{
+  "type": "relation",
+  "id": 7158883,
+  "members": [
+    {
+      "type": "way",
+      "ref": 486883056,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459961148,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 459961049,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Balongsari",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6902194,
+  "members": [
+    {
+      "type": "way",
+      "ref": 467845208,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 466854240,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466854216,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466854271,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 466862702,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451857611,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:full": "Jalan Joyoboyo",
+    "addr:street": "Jl. Jayabaya",
+    "amenity": "bus_station",
+    "name": "Terminal Joyoboyo",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7147931,
+  "members": [
+    {
+      "type": "way",
+      "ref": 485783914,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 447161931,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447161970,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447161927,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447161902,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Keputih Tegal",
+    "amenity": "bus_station",
+    "name": "Terminal Keputih",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6719287,
+  "members": [
+    {
+      "type": "way",
+      "ref": 454173811,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 450712870,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kalimas Barat",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7158965,
+  "members": [
+    {
+      "type": "way",
+      "ref": 486891854,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 448294345,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448294360,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448294311,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448294300,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 486891851,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kenjeran",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6730893,
+  "members": [
+    {
+      "type": "way",
+      "ref": 455261261,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 453430161,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 453430149,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kalimas",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7147898,
+  "members": [
+    {
+      "type": "way",
+      "ref": 275493021,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 447608389,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 485782423,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 485782425,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608382,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608362,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Kali Kedinding",
+    "amenity": "bus_station",
+    "name": "Terminal Kedung Cowek",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

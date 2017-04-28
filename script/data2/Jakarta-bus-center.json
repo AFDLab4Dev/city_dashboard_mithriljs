@@ -1,0 +1,1685 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:46:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1272931997,
+  "lat": -6.1266847,
+  "lon": 106.8938410,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "halte pelumpang pertamina"
+  }
+},
+{
+  "type": "node",
+  "id": 1272932569,
+  "lat": -6.1205868,
+  "lon": 106.8931124,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "halte walikota jakarta utara"
+  }
+},
+{
+  "type": "node",
+  "id": 1282441011,
+  "lat": -6.1743333,
+  "lon": 106.8535906,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "halte Busway Senen"
+  }
+},
+{
+  "type": "node",
+  "id": 1402564088,
+  "lat": -6.1830245,
+  "lon": 106.9085516,
+  "tags": {
+    "addr:city": "east jakarta",
+    "addr:postcode": "13260",
+    "addr:street": "Pulo Gadung",
+    "amenity": "bus_station",
+    "name": "Terminal Pulo Gadung"
+  }
+},
+{
+  "type": "node",
+  "id": 1691620906,
+  "lat": -6.1601013,
+  "lon": 106.7248225,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Rawa Buaya"
+  }
+},
+{
+  "type": "node",
+  "id": 2111399048,
+  "lat": -6.1764373,
+  "lon": 106.8301367,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Bis Gambir",
+    "note": "Bus Damri to Airport",
+    "operator": "Damri"
+  }
+},
+{
+  "type": "node",
+  "id": 2323138582,
+  "lat": -6.2690755,
+  "lon": 106.9716251,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Trans Galaxi"
+  }
+},
+{
+  "type": "node",
+  "id": 2372055093,
+  "lat": -6.2605311,
+  "lon": 106.7102725,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arinda"
+  }
+},
+{
+  "type": "node",
+  "id": 2372055097,
+  "lat": -6.2623596,
+  "lon": 106.7209725,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ceger"
+  }
+},
+{
+  "type": "node",
+  "id": 3249167275,
+  "lat": -6.2167424,
+  "lon": 106.9310233,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Halte Busway Buaran"
+  }
+},
+{
+  "type": "node",
+  "id": 3415431380,
+  "lat": -6.2018216,
+  "lon": 106.7997412,
+  "tags": {
+    "amenity": "bus_station",
+    "bench": "yes",
+    "corridor9": "yes",
+    "covered": "yes",
+    "name": "Halte Busway TransJakarta Slipi Petamburan",
+    "network": "Transjakarta",
+    "operator": "PT. Transportasi Jakarta",
+    "service": "TransJakarta",
+    "shelter": "yes",
+    "shelter_tj": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3910151496,
+  "lat": -6.1665428,
+  "lon": 106.7933001,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Jalan Kyai Tapa",
+    "amenity": "bus_station",
+    "name": "Halte Sumber Waras"
+  }
+},
+{
+  "type": "node",
+  "id": 4146157406,
+  "lat": -6.2580929,
+  "lon": 106.8694609,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "32",
+    "addr:postcode": "13630",
+    "addr:street": "Jalan Mayjend. Sutoyo",
+    "amenity": "bus_station",
+    "name": "Pool Bis Primajasa Cililitan",
+    "operator": "Primajasa",
+    "phone": "021-8009547"
+  }
+},
+{
+  "type": "node",
+  "id": 4150482218,
+  "lat": -6.2437020,
+  "lon": 106.8009032,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Bus Blok M"
+  }
+},
+{
+  "type": "node",
+  "id": 4150488749,
+  "lat": -6.1666461,
+  "lon": 106.7902784,
+  "tags": {
+    "addr:city": "Grogol, Petamburan, West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Kelurahan Grogol No.1",
+    "amenity": "bus_station",
+    "name": "Terminal Bus Grogol"
+  }
+},
+{
+  "type": "node",
+  "id": 4150491503,
+  "lat": -6.1545208,
+  "lon": 106.7058600,
+  "tags": {
+    "addr:city": "west jakarta",
+    "addr:postcode": "11820",
+    "addr:street": "Daan Mogot",
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4150507511,
+  "lat": -6.2894489,
+  "lon": 106.7742161,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Lebak Bulus"
+  }
+},
+{
+  "type": "node",
+  "id": 4150519000,
+  "lat": -6.1736915,
+  "lon": 106.8412754,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Bus Senen"
+  }
+},
+{
+  "type": "node",
+  "id": 4152579289,
+  "lat": -6.2946705,
+  "lon": 106.8221221,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4153062588,
+  "lat": -6.2911917,
+  "lon": 106.8857791,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "RT.14/RW.2",
+    "addr:postcode": "13560",
+    "addr:street": "Jalan Raya Pondok Gede",
+    "amenity": "bus_station",
+    "name": "Terminal Pinang Ranti"
+  }
+},
+{
+  "type": "node",
+  "id": 4153124157,
+  "lat": -6.2503653,
+  "lon": 106.8772087,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "RT.5/RW.11",
+    "addr:postcode": "11470",
+    "addr:street": "Cawang, Kramatjati",
+    "amenity": "bus_station",
+    "name": "Halte Busway Cawang Uki Arah Tanjung Priuk"
+  }
+},
+{
+  "type": "node",
+  "id": 4168497289,
+  "lat": -6.2577817,
+  "lon": 106.8691803,
+  "tags": {
+    "addr:street": "Jalan Mayjend. Sutoyo",
+    "amenity": "bus_station",
+    "name": "Pool Primajasa"
+  }
+},
+{
+  "type": "node",
+  "id": 4235133190,
+  "lat": -6.2299026,
+  "lon": 106.8672300,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13930",
+    "addr:street": "Kp. Melayu, Jatinegara",
+    "amenity": "bus_station",
+    "name": "Halte Bidara Cina"
+  }
+},
+{
+  "type": "node",
+  "id": 4235135320,
+  "lat": -6.2231832,
+  "lon": 106.8093561,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12190",
+    "addr:street": "Senayan, Kby. Baru",
+    "amenity": "bus_station",
+    "name": "Halte BEI"
+  }
+},
+{
+  "type": "node",
+  "id": 4235139419,
+  "lat": -6.2172115,
+  "lon": 106.8308448,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12920",
+    "addr:street": "Jalan Haji R. Rasuna Said",
+    "amenity": "bus_station",
+    "name": "Halte Karet Kuningan"
+  }
+},
+{
+  "type": "node",
+  "id": 4235139589,
+  "lat": -6.2053487,
+  "lon": 106.8167213,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10220",
+    "addr:street": "Jl. Kh. Mas Mansyur",
+    "amenity": "bus_station",
+    "name": "Halte London School"
+  }
+},
+{
+  "type": "node",
+  "id": 4235143060,
+  "lat": -6.1717890,
+  "lon": 106.8888413,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "14250",
+    "addr:street": "Klp. Gading Bar., Klp. Gading",
+    "amenity": "bus_station",
+    "name": "Halte Asmi"
+  }
+},
+{
+  "type": "node",
+  "id": 4235146807,
+  "lat": -6.2438404,
+  "lon": 106.8033007,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12160",
+    "addr:street": "Jalan Sultan Iskandarsyah",
+    "amenity": "bus_station",
+    "name": "Halte Busway Blok M"
+  }
+},
+{
+  "type": "node",
+  "id": 4235169895,
+  "lat": -6.1547534,
+  "lon": 106.7332490,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11470",
+    "addr:street": "Daan Mogot",
+    "amenity": "bus_station",
+    "name": "Halte Sumur Bor"
+  }
+},
+{
+  "type": "node",
+  "id": 4235172920,
+  "lat": -6.2243170,
+  "lon": 106.8670296,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13930",
+    "addr:street": "Jalan Jatinegara Timur",
+    "amenity": "bus_station",
+    "name": "Halte Kampung Melayu"
+  }
+},
+{
+  "type": "node",
+  "id": 4235174796,
+  "lat": -6.1880787,
+  "lon": 106.8460309,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10430",
+    "addr:street": "Jalan Keramat Raya",
+    "amenity": "bus_station",
+    "name": "Halte Kramat Sentiong Nu"
+  }
+},
+{
+  "type": "node",
+  "id": 4235174967,
+  "lat": -6.2420827,
+  "lon": 106.8257218,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12790",
+    "addr:street": "Mampang Prapatan",
+    "amenity": "bus_station",
+    "name": "Halte Busway Mampang Prapatan"
+  }
+},
+{
+  "type": "node",
+  "id": 4235175230,
+  "lat": -6.1816483,
+  "lon": 106.8428742,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10420",
+    "addr:street": "Jalan Kramat Raya",
+    "amenity": "bus_station",
+    "name": "Halte Pal Putih"
+  }
+},
+{
+  "type": "node",
+  "id": 4235200076,
+  "lat": -6.2213804,
+  "lon": 106.8138941,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12930",
+    "addr:street": "Jalan Jenderal Gatot Subroto",
+    "amenity": "bus_station",
+    "name": "Halte Semanggi"
+  }
+},
+{
+  "type": "node",
+  "id": 4235205554,
+  "lat": -6.1546696,
+  "lon": 106.7332742,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11470",
+    "addr:street": "Daan Mogot",
+    "amenity": "bus_station",
+    "name": "Halte Jembatan Baru"
+  }
+},
+{
+  "type": "node",
+  "id": 4235207829,
+  "lat": -6.3076085,
+  "lon": 106.8703611,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13830",
+    "addr:street": "Jalan Tol Lingkar Luar Jakarta",
+    "amenity": "bus_station",
+    "name": "Halte Tanah Merdeka"
+  }
+},
+{
+  "type": "node",
+  "id": 4235222728,
+  "lat": -6.2075322,
+  "lon": 106.7971714,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11410",
+    "addr:street": "Palmerah Barat",
+    "amenity": "bus_station",
+    "name": "Halte Stasiun"
+  }
+},
+{
+  "type": "node",
+  "id": 4242435294,
+  "lat": -6.2088365,
+  "lon": 106.8474547,
+  "tags": {
+    "addr:city": "south jakarta",
+    "addr:postcode": "12850",
+    "addr:street": "Jalan Sultan Agung",
+    "amenity": "bus_station",
+    "name": "Terminal Manggarai"
+  }
+},
+{
+  "type": "node",
+  "id": 4242446428,
+  "lat": -6.1980618,
+  "lon": 106.8907196,
+  "tags": {
+    "addr:city": "east jakarta",
+    "addr:postcode": "13220",
+    "addr:street": "Jalan Perserikatan",
+    "amenity": "bus_station",
+    "name": "Terminal Rawamangun"
+  }
+},
+{
+  "type": "node",
+  "id": 4242452723,
+  "lat": -6.1097870,
+  "lon": 106.8814035,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "14350",
+    "addr:street": "Jl. Enggano",
+    "amenity": "bus_station",
+    "name": "Terminal Tanjung Priok"
+  }
+},
+{
+  "type": "node",
+  "id": 4242459999,
+  "lat": -6.2831767,
+  "lon": 106.8436449,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12520",
+    "addr:street": "Jalan Raya Pasar Minggu",
+    "amenity": "bus_station",
+    "name": "Terminal Pasar Minggu"
+  }
+},
+{
+  "type": "node",
+  "id": 4243825205,
+  "lat": -6.1597202,
+  "lon": 106.8485238,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:housenumber": "17",
+    "addr:postcode": "10620",
+    "addr:street": "Jalan Angkasa, Kemayoran, Gn. Sahari Sel., Kemayoran",
+    "amenity": "bus_station",
+    "name": "Pool Damri Kemayoran"
+  }
+},
+{
+  "type": "node",
+  "id": 4244042439,
+  "lat": -6.3097983,
+  "lon": 106.8823114,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kampung Rambutan"
+  }
+},
+{
+  "type": "node",
+  "id": 4255831646,
+  "lat": -6.2282196,
+  "lon": 106.7968270,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:housenumber": "19",
+    "addr:postcode": "10270",
+    "addr:street": "Lobby Selatan Senayan City, Jl. Asia Afrika",
+    "amenity": "bus_station",
+    "name": "DayTrans Senayan City"
+  }
+},
+{
+  "type": "node",
+  "id": 4255868207,
+  "lat": -6.2005923,
+  "lon": 106.7826809,
+  "tags": {
+    "addr:city": "Kemanggisan, West Jakarta",
+    "addr:housenumber": "11",
+    "addr:postcode": "11480",
+    "addr:street": "Jl. Kb. Jeruk RayaRT.6/RW.12",
+    "amenity": "bus_station",
+    "name": "DayTrans Binus Kebon Jeruk"
+  }
+},
+{
+  "type": "node",
+  "id": 4255911140,
+  "lat": -6.2055780,
+  "lon": 106.8165051,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:housenumber": "14D",
+    "addr:postcode": "10220",
+    "addr:street": "Jl. Karet Pasar Baru Barat",
+    "amenity": "bus_station",
+    "name": "DayTrans Karet"
+  }
+},
+{
+  "type": "node",
+  "id": 4255948334,
+  "lat": -6.2734290,
+  "lon": 106.7249983,
+  "tags": {
+    "addr:city": "Bintaro",
+    "addr:postcode": "15224",
+    "addr:street": "Taman Menteng Sektor 7, Jl. Wahid Hasyim",
+    "amenity": "bus_station",
+    "name": "DayTrans Bintaro"
+  }
+},
+{
+  "type": "node",
+  "id": 4407828998,
+  "lat": -6.1871336,
+  "lon": 106.9615621,
+  "tags": {
+    "addr:street": "Bekasi Raya",
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 364865974,
+  "center": {
+    "lat": -6.3057553,
+    "lon": 106.6798870
+  },
+  "nodes": [
+    3688966532,
+    3688966533,
+    3688966534,
+    3688966535,
+    3688966536,
+    3688966537,
+    3688966538,
+    3688966539,
+    3688966540,
+    3688966541,
+    3688966542,
+    3688966543,
+    3688966544,
+    3688966532
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "garages",
+    "name": "Terminal Feeder Busway Trans BSD"
+  }
+},
+{
+  "type": "way",
+  "id": 157363152,
+  "center": {
+    "lat": -6.2899423,
+    "lon": 106.7739768
+  },
+  "nodes": [
+    1695821677,
+    1695821678,
+    1695821681,
+    1695821685,
+    1695821684,
+    1695821677
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Lebak Bulus"
+  }
+},
+{
+  "type": "way",
+  "id": 120161346,
+  "center": {
+    "lat": -6.3180042,
+    "lon": 106.8653255
+  },
+  "nodes": [
+    1347935600,
+    1347935910,
+    1347935939,
+    1347935525,
+    1347935818,
+    1347935413,
+    1347935438,
+    1347935737,
+    1347936057,
+    1347935630,
+    1347935655,
+    1347935600
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Pool Bis Mayasari Bakti"
+  }
+},
+{
+  "type": "way",
+  "id": 126546821,
+  "center": {
+    "lat": -6.3108163,
+    "lon": 106.8830717
+  },
+  "nodes": [
+    1402581984,
+    1402581986,
+    1402581990,
+    1402581987,
+    1402581989,
+    1402581992,
+    1402581995,
+    1402581996,
+    1402581998,
+    1402581999,
+    1402582001,
+    1402582002,
+    1402582006,
+    1402582026,
+    1402582027,
+    1402582030,
+    1402582032,
+    1402582034,
+    1402582042,
+    1402582043,
+    1402582041,
+    1402582040,
+    1682985446,
+    1402582036,
+    1402582039,
+    1402582038,
+    1402582037,
+    1402582035,
+    1402582033,
+    1402582031,
+    1402582029,
+    1402582028,
+    1402582025,
+    1402582024,
+    1402582014,
+    1402582011,
+    1402582009,
+    1402582010,
+    1402582012,
+    1402582015,
+    1402582017,
+    1402582019,
+    1402582021,
+    1402582022,
+    1402582023,
+    1402582020,
+    1402582018,
+    1402582016,
+    1402582013,
+    1402582008,
+    1402582007,
+    1402582005,
+    1402582004,
+    1402582003,
+    1402582000,
+    1402581997,
+    1402581994,
+    1402581993,
+    1402581991,
+    1402581988,
+    1402581985,
+    1402581984
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kampung Rambutan"
+  }
+},
+{
+  "type": "way",
+  "id": 155930203,
+  "center": {
+    "lat": -6.2919786,
+    "lon": 106.8866702
+  },
+  "nodes": [
+    1682733693,
+    1682733708,
+    4462833228,
+    1682733717,
+    4462833227,
+    1682733720,
+    1682733725,
+    1682733727,
+    4462833229,
+    4462833230,
+    1682733702,
+    4462833232,
+    4462833231,
+    4462833233,
+    4462833234,
+    1682733693
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "TERMINAL BIS PINANG RANTI"
+  }
+},
+{
+  "type": "way",
+  "id": 436695369,
+  "center": {
+    "lat": -6.1898478,
+    "lon": 106.7969790
+  },
+  "nodes": [
+    4345732163,
+    4345732162,
+    4345732164,
+    4345732165,
+    4345732166,
+    4345732163
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Slipi Kemanggisan (Arah Pluit)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436695370,
+  "center": {
+    "lat": -6.1898384,
+    "lon": 106.7972616
+  },
+  "nodes": [
+    4345732167,
+    4345732171,
+    4345732168,
+    4345732169,
+    4345732170,
+    4345732167
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Slipi Kemanggisan (Arah PGC)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436537359,
+  "center": {
+    "lat": -6.1758231,
+    "lon": 106.7931095
+  },
+  "nodes": [
+    4344270854,
+    4345732152,
+    4345732153,
+    4344270874,
+    4344270856,
+    4344270854
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway S. Parman Podomoro City (Arah PGC)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436537360,
+  "center": {
+    "lat": -6.1754886,
+    "lon": 106.7922098
+  },
+  "nodes": [
+    4344270857,
+    4344270872,
+    4344270858,
+    4344270859,
+    4344270860,
+    4344270857
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway S. Parman Podomoro City (Arah Pluit)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436716808,
+  "center": {
+    "lat": -6.2171414,
+    "lon": 106.8152731
+  },
+  "nodes": [
+    4345978931,
+    4345978942,
+    4345978932,
+    4345978933,
+    4345978935,
+    4345978934,
+    4345978931
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Bendungan Hilir (Arah Kota dan Blok M)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436726858,
+  "center": {
+    "lat": -6.2206275,
+    "lon": 106.8130240
+  },
+  "nodes": [
+    4346024087,
+    4346024088,
+    4346025289,
+    4346024082,
+    4346025290,
+    4346024087
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Semanggi (Arah Pluit)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436726857,
+  "center": {
+    "lat": -6.2204563,
+    "lon": 106.8132580
+  },
+  "nodes": [
+    4346024083,
+    4346024081,
+    4346024084,
+    4346024085,
+    4346024086,
+    4346024083
+  ],
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12930",
+    "addr:street": "Jl. Jend. Gatot Subroto, RT.1/RW.4, Karet Semanggi, Kecamatan Setiabudi",
+    "amenity": "bus_station",
+    "building": "yes",
+    "corridor9": "yes",
+    "highway": "bus_stop",
+    "name": "Semanggi",
+    "network": "Transjakarta",
+    "operator": "Transjakarta",
+    "service": "TransJakarta",
+    "shelter": "yes",
+    "shelter_tj": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 119784641,
+  "center": {
+    "lat": -6.1741496,
+    "lon": 106.8420712
+  },
+  "nodes": [
+    1344944489,
+    1344944504,
+    1344944506,
+    1344944502,
+    1344944489
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "building": "yes",
+    "name": "Terminal Senen"
+  }
+},
+{
+  "type": "way",
+  "id": 188727020,
+  "center": {
+    "lat": -6.2430200,
+    "lon": 106.8520979
+  },
+  "nodes": [
+    1993475634,
+    1993475628,
+    1993475629,
+    1993475635,
+    1993475634
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 188728074,
+  "center": {
+    "lat": -6.2430612,
+    "lon": 106.8579754
+  },
+  "nodes": [
+    1993497209,
+    1993497205,
+    1993497207,
+    1993497211,
+    1993497209
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 188728075,
+  "center": {
+    "lat": -6.2433702,
+    "lon": 106.8579304
+  },
+  "nodes": [
+    1993497219,
+    1993497215,
+    1993497216,
+    1993497220,
+    1993497219
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 119777111,
+  "center": {
+    "lat": -6.2248720,
+    "lon": 106.8670027
+  },
+  "nodes": [
+    1344839077,
+    4800878490,
+    4800878488,
+    1344839079,
+    1344839078,
+    1344839080,
+    4800878489,
+    1344839077
+  ],
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:full": "Jalan Otto Iskandardinata",
+    "addr:postcode": "13320",
+    "addr:street": "Jl. Jatinegara Barat Raya",
+    "amenity": "bus_station",
+    "name": "Terminal Bus Kampung Melayu",
+    "source": "HOT_InAWARESurvey_2017"
+  }
+},
+{
+  "type": "way",
+  "id": 155954024,
+  "center": {
+    "lat": -6.2120234,
+    "lon": 106.9524670
+  },
+  "nodes": [
+    1682878580,
+    1682878577,
+    1682878604,
+    1682878612,
+    1682878620,
+    1682878622,
+    1682878621,
+    1682878615,
+    1682878598,
+    1682878581,
+    1682878580
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal modern Pulo Gebang"
+  }
+},
+{
+  "type": "way",
+  "id": 126541926,
+  "center": {
+    "lat": -6.1832604,
+    "lon": 106.9086148
+  },
+  "nodes": [
+    1402564143,
+    4544817838,
+    1402564145,
+    1402564127,
+    1402564107,
+    1402564104,
+    1402564100,
+    1402564095,
+    1402564090,
+    1402564089,
+    1402564097,
+    1402564096,
+    1402564092,
+    1402564094,
+    1402564091,
+    1402564099,
+    1402564102,
+    1402564103,
+    1402564106,
+    1402564110,
+    1402564112,
+    1402564116,
+    1402564114,
+    1402564113,
+    1402564111,
+    1402564119,
+    1402564121,
+    1402564128,
+    1402564129,
+    1402564130,
+    1402564131,
+    1402564134,
+    1402564133,
+    1402564135,
+    1402564143
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 436716807,
+  "center": {
+    "lat": -6.1665685,
+    "lon": 106.7867204
+  },
+  "nodes": [
+    4345978927,
+    4345978928,
+    4345978929,
+    4345978930,
+    4345978927
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Jelambar (Arah Kalideres dan Pasar Baru)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 156270925,
+  "center": {
+    "lat": -6.1087203,
+    "lon": 106.7734593
+  },
+  "nodes": [
+    1685303598,
+    1685303599,
+    1685303606,
+    1685303604,
+    1685303598
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "man_made": "works",
+    "name": "Kantor Terminal Muara Angke"
+  }
+},
+{
+  "type": "way",
+  "id": 156271009,
+  "center": {
+    "lat": -6.1090568,
+    "lon": 106.7733651
+  },
+  "nodes": [
+    1685303609,
+    1685303655,
+    1685303645,
+    1685303624,
+    1685303607,
+    1685303609
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Muara Angke"
+  }
+},
+{
+  "type": "way",
+  "id": 364865974,
+  "nodes": [
+    3688966532,
+    3688966533,
+    3688966534,
+    3688966535,
+    3688966536,
+    3688966537,
+    3688966538,
+    3688966539,
+    3688966540,
+    3688966541,
+    3688966542,
+    3688966543,
+    3688966544,
+    3688966532
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "garages",
+    "name": "Terminal Feeder Busway Trans BSD"
+  }
+},
+{
+  "type": "way",
+  "id": 157363152,
+  "nodes": [
+    1695821677,
+    1695821678,
+    1695821681,
+    1695821685,
+    1695821684,
+    1695821677
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Lebak Bulus"
+  }
+},
+{
+  "type": "way",
+  "id": 120161346,
+  "nodes": [
+    1347935600,
+    1347935910,
+    1347935939,
+    1347935525,
+    1347935818,
+    1347935413,
+    1347935438,
+    1347935737,
+    1347936057,
+    1347935630,
+    1347935655,
+    1347935600
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Pool Bis Mayasari Bakti"
+  }
+},
+{
+  "type": "way",
+  "id": 126546821,
+  "nodes": [
+    1402581984,
+    1402581986,
+    1402581990,
+    1402581987,
+    1402581989,
+    1402581992,
+    1402581995,
+    1402581996,
+    1402581998,
+    1402581999,
+    1402582001,
+    1402582002,
+    1402582006,
+    1402582026,
+    1402582027,
+    1402582030,
+    1402582032,
+    1402582034,
+    1402582042,
+    1402582043,
+    1402582041,
+    1402582040,
+    1682985446,
+    1402582036,
+    1402582039,
+    1402582038,
+    1402582037,
+    1402582035,
+    1402582033,
+    1402582031,
+    1402582029,
+    1402582028,
+    1402582025,
+    1402582024,
+    1402582014,
+    1402582011,
+    1402582009,
+    1402582010,
+    1402582012,
+    1402582015,
+    1402582017,
+    1402582019,
+    1402582021,
+    1402582022,
+    1402582023,
+    1402582020,
+    1402582018,
+    1402582016,
+    1402582013,
+    1402582008,
+    1402582007,
+    1402582005,
+    1402582004,
+    1402582003,
+    1402582000,
+    1402581997,
+    1402581994,
+    1402581993,
+    1402581991,
+    1402581988,
+    1402581985,
+    1402581984
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kampung Rambutan"
+  }
+},
+{
+  "type": "way",
+  "id": 155930203,
+  "nodes": [
+    1682733693,
+    1682733708,
+    4462833228,
+    1682733717,
+    4462833227,
+    1682733720,
+    1682733725,
+    1682733727,
+    4462833229,
+    4462833230,
+    1682733702,
+    4462833232,
+    4462833231,
+    4462833233,
+    4462833234,
+    1682733693
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "TERMINAL BIS PINANG RANTI"
+  }
+},
+{
+  "type": "way",
+  "id": 436695369,
+  "nodes": [
+    4345732163,
+    4345732162,
+    4345732164,
+    4345732165,
+    4345732166,
+    4345732163
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Slipi Kemanggisan (Arah Pluit)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436695370,
+  "nodes": [
+    4345732167,
+    4345732171,
+    4345732168,
+    4345732169,
+    4345732170,
+    4345732167
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Slipi Kemanggisan (Arah PGC)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436537359,
+  "nodes": [
+    4344270854,
+    4345732152,
+    4345732153,
+    4344270874,
+    4344270856,
+    4344270854
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway S. Parman Podomoro City (Arah PGC)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436537360,
+  "nodes": [
+    4344270857,
+    4344270872,
+    4344270858,
+    4344270859,
+    4344270860,
+    4344270857
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway S. Parman Podomoro City (Arah Pluit)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436716808,
+  "nodes": [
+    4345978931,
+    4345978942,
+    4345978932,
+    4345978933,
+    4345978935,
+    4345978934,
+    4345978931
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Bendungan Hilir (Arah Kota dan Blok M)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436726858,
+  "nodes": [
+    4346024087,
+    4346024088,
+    4346025289,
+    4346024082,
+    4346025290,
+    4346024087
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Semanggi (Arah Pluit)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 436726857,
+  "nodes": [
+    4346024083,
+    4346024081,
+    4346024084,
+    4346024085,
+    4346024086,
+    4346024083
+  ],
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12930",
+    "addr:street": "Jl. Jend. Gatot Subroto, RT.1/RW.4, Karet Semanggi, Kecamatan Setiabudi",
+    "amenity": "bus_station",
+    "building": "yes",
+    "corridor9": "yes",
+    "highway": "bus_stop",
+    "name": "Semanggi",
+    "network": "Transjakarta",
+    "operator": "Transjakarta",
+    "service": "TransJakarta",
+    "shelter": "yes",
+    "shelter_tj": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 119784641,
+  "nodes": [
+    1344944489,
+    1344944504,
+    1344944506,
+    1344944502,
+    1344944489
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "building": "yes",
+    "name": "Terminal Senen"
+  }
+},
+{
+  "type": "way",
+  "id": 188727020,
+  "nodes": [
+    1993475634,
+    1993475628,
+    1993475629,
+    1993475635,
+    1993475634
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 188728074,
+  "nodes": [
+    1993497209,
+    1993497205,
+    1993497207,
+    1993497211,
+    1993497209
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 188728075,
+  "nodes": [
+    1993497219,
+    1993497215,
+    1993497216,
+    1993497220,
+    1993497219
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 119777111,
+  "nodes": [
+    1344839077,
+    4800878490,
+    4800878488,
+    1344839079,
+    1344839078,
+    1344839080,
+    4800878489,
+    1344839077
+  ],
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:full": "Jalan Otto Iskandardinata",
+    "addr:postcode": "13320",
+    "addr:street": "Jl. Jatinegara Barat Raya",
+    "amenity": "bus_station",
+    "name": "Terminal Bus Kampung Melayu",
+    "source": "HOT_InAWARESurvey_2017"
+  }
+},
+{
+  "type": "way",
+  "id": 155954024,
+  "nodes": [
+    1682878580,
+    1682878577,
+    1682878604,
+    1682878612,
+    1682878620,
+    1682878622,
+    1682878621,
+    1682878615,
+    1682878598,
+    1682878581,
+    1682878580
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal modern Pulo Gebang"
+  }
+},
+{
+  "type": "way",
+  "id": 126541926,
+  "nodes": [
+    1402564143,
+    4544817838,
+    1402564145,
+    1402564127,
+    1402564107,
+    1402564104,
+    1402564100,
+    1402564095,
+    1402564090,
+    1402564089,
+    1402564097,
+    1402564096,
+    1402564092,
+    1402564094,
+    1402564091,
+    1402564099,
+    1402564102,
+    1402564103,
+    1402564106,
+    1402564110,
+    1402564112,
+    1402564116,
+    1402564114,
+    1402564113,
+    1402564111,
+    1402564119,
+    1402564121,
+    1402564128,
+    1402564129,
+    1402564130,
+    1402564131,
+    1402564134,
+    1402564133,
+    1402564135,
+    1402564143
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 436716807,
+  "nodes": [
+    4345978927,
+    4345978928,
+    4345978929,
+    4345978930,
+    4345978927
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Halte Busway Jelambar (Arah Kalideres dan Pasar Baru)",
+    "operator": "PT. Transportasi Jakarta (Transjakarta)"
+  }
+},
+{
+  "type": "way",
+  "id": 156270925,
+  "nodes": [
+    1685303598,
+    1685303599,
+    1685303606,
+    1685303604,
+    1685303598
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "man_made": "works",
+    "name": "Kantor Terminal Muara Angke"
+  }
+},
+{
+  "type": "way",
+  "id": 156271009,
+  "nodes": [
+    1685303609,
+    1685303655,
+    1685303645,
+    1685303624,
+    1685303607,
+    1685303609
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Muara Angke"
+  }
+}
+
+  ]
+}

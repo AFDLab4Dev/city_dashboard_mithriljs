@@ -1,0 +1,124 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:39:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1787451898,
+  "lat": 33.2449483,
+  "lon": -8.5000458,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CTM Bus Station"
+  }
+},
+{
+  "type": "way",
+  "id": 322430822,
+  "center": {
+    "lat": 33.2186041,
+    "lon": -8.5105236
+  },
+  "nodes": [
+    3292013532,
+    3292013548,
+    3292015302,
+    3292015261,
+    3292013532
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 320833369,
+  "center": {
+    "lat": 33.2345057,
+    "lon": -8.4934998
+  },
+  "nodes": [
+    3274781764,
+    3274781875,
+    3274781854,
+    3274781763,
+    3274781852,
+    3274781764
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Station Haj Abd Allah"
+  }
+},
+{
+  "type": "way",
+  "id": 167345505,
+  "center": {
+    "lat": 33.2448811,
+    "lon": -8.4999654
+  },
+  "nodes": [
+    1787451914,
+    1787451902,
+    1787451903,
+    1787451891,
+    1787451914
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 322430822,
+  "nodes": [
+    3292013532,
+    3292013548,
+    3292015302,
+    3292015261,
+    3292013532
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 320833369,
+  "nodes": [
+    3274781764,
+    3274781875,
+    3274781854,
+    3274781763,
+    3274781852,
+    3274781764
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Station Haj Abd Allah"
+  }
+},
+{
+  "type": "way",
+  "id": 167345505,
+  "nodes": [
+    1787451914,
+    1787451902,
+    1787451903,
+    1787451891,
+    1787451914
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+}
+
+  ]
+}

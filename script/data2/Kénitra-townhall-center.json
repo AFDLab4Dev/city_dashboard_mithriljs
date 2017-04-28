@@ -1,0 +1,62 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:38:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4743686354,
+  "lat": 34.2556808,
+  "lon": -6.5787042,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Province de Kénitra"
+  }
+},
+{
+  "type": "way",
+  "id": 331932604,
+  "center": {
+    "lat": 34.2624410,
+    "lon": -6.5824761
+  },
+  "nodes": [
+    3390339953,
+    3390339960,
+    3390339969,
+    3390339962,
+    3390339953
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Municipalité de Kénitra بلدية القنيطرة",
+    "name:ar": "بلدية القنيطرة",
+    "name:fr": "Municipalité de Kénitra"
+  }
+},
+{
+  "type": "way",
+  "id": 331932604,
+  "nodes": [
+    3390339953,
+    3390339960,
+    3390339969,
+    3390339962,
+    3390339953
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Municipalité de Kénitra بلدية القنيطرة",
+    "name:ar": "بلدية القنيطرة",
+    "name:fr": "Municipalité de Kénitra"
+  }
+}
+
+  ]
+}

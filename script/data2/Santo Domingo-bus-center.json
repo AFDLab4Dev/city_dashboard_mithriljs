@@ -1,0 +1,477 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:47:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1680210546,
+  "lat": 18.4378900,
+  "lon": -69.9520710,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estacion Shell Las Antillas"
+  }
+},
+{
+  "type": "node",
+  "id": 1851632501,
+  "lat": 18.4803539,
+  "lon": -69.8886810,
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "SD - Higüey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1851635842,
+  "lat": 18.4847438,
+  "lon": -69.9152400,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transporte Cibao"
+  }
+},
+{
+  "type": "node",
+  "id": 1851637520,
+  "lat": 18.4844946,
+  "lon": -69.9154599,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transporte Perla Masiel"
+  }
+},
+{
+  "type": "node",
+  "id": 3547794486,
+  "lat": 18.4806240,
+  "lon": -69.9717107,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transporte Espinal"
+  }
+},
+{
+  "type": "node",
+  "id": 3557404581,
+  "lat": 18.5055483,
+  "lon": -69.8911631,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Sitranido Ruta 29"
+  }
+},
+{
+  "type": "node",
+  "id": 3900241860,
+  "lat": 18.4546450,
+  "lon": -69.9554634,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terra Bus",
+    "operator": "Terra Bus"
+  }
+},
+{
+  "type": "node",
+  "id": 3919558329,
+  "lat": 18.4797927,
+  "lon": -69.8895716,
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Sichoem - La Romana"
+  }
+},
+{
+  "type": "node",
+  "id": 3919567320,
+  "lat": 18.4805900,
+  "lon": -69.8906640,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Expreso Romana"
+  }
+},
+{
+  "type": "node",
+  "id": 4454225092,
+  "lat": 18.5140403,
+  "lon": -69.8626349,
+  "tags": {
+    "addr:street": "Calle Wenceslao de la Concha",
+    "amenity": "bus_station",
+    "name": "Estación de Autobuses Ruta 40B",
+    "name:es": "Estación de Autobuses Ruta 40B",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4543367592,
+  "lat": 18.4590111,
+  "lon": -69.9170237,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Estación metro amin abel",
+    "name:es": "Estación metro amin abel"
+  }
+},
+{
+  "type": "node",
+  "id": 4543367593,
+  "lat": 18.4588699,
+  "lon": -69.9169181,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Amin abel metro",
+    "name:es": "Amin abel metro"
+  }
+},
+{
+  "type": "node",
+  "id": 4584682189,
+  "lat": 18.5463002,
+  "lon": -69.9008551,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Mamá tingo",
+    "name:es": "Mamá tingo"
+  }
+},
+{
+  "type": "node",
+  "id": 4623559490,
+  "lat": 18.5169423,
+  "lon": -69.8047669,
+  "tags": {
+    "addr:street": "Calle Duarte",
+    "amenity": "bus_station",
+    "name": "Estacion de ruta 99",
+    "name:en": "Station route 99",
+    "name:es": "Estacion de ruta 99"
+  }
+},
+{
+  "type": "way",
+  "id": 408340893,
+  "center": {
+    "lat": 18.4527930,
+    "lon": -69.9798596
+  },
+  "nodes": [
+    4102941159,
+    4102941160,
+    4102941161,
+    4102941162,
+    4102941159
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Prolong Avenida 27 De Febrero",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Parada Del Sur Fetrapasur",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 408755146,
+  "center": {
+    "lat": 18.4543619,
+    "lon": -69.9561651
+  },
+  "nodes": [
+    4106730079,
+    4106730080,
+    4106730081,
+    4106730082,
+    4106730079
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:housenumber": "455",
+    "addr:street": "Avenida 27 de Febrero",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Capital Coach Line",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 46689432,
+  "center": {
+    "lat": 18.4763711,
+    "lon": -69.9071618
+  },
+  "nodes": [
+    596693465,
+    4100826893,
+    4100826894,
+    4100826895,
+    596693468,
+    3042179114,
+    596693469,
+    3042179115,
+    3042179116,
+    596693462,
+    596693465
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:postcode": "10203",
+    "addr:street": "Avenida 27 de Febrero",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Caribe Tours",
+    "phone": "809-221-4422",
+    "source": "KG Ground Survey 2016",
+    "website": "http://www.caribetours.com.do/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 408342626,
+  "center": {
+    "lat": 18.4841579,
+    "lon": -69.8933892
+  },
+  "nodes": [
+    4102957677,
+    4102957683,
+    4102957678,
+    4102957679,
+    4102957680,
+    4102957677
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Calle La Filantropica",
+    "amenity": "bus_station",
+    "building": "roof",
+    "name": "Empresa del Sur",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 408342624,
+  "center": {
+    "lat": 18.4846585,
+    "lon": -69.8925595
+  },
+  "nodes": [
+    4102957669,
+    4102957670,
+    4102957671,
+    4102957672,
+    4102957669
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Avenida Duarte",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Parada del Sur",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 248099631,
+  "center": {
+    "lat": 18.5064426,
+    "lon": -69.8128110
+  },
+  "nodes": [
+    2549448173,
+    2549448176,
+    2549448179,
+    2549448171,
+    2549448172,
+    2549448174,
+    2549448177,
+    2549448178,
+    2549448175,
+    2549448173
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Caribe Tours Urbano"
+  }
+},
+{
+  "type": "way",
+  "id": 248264497,
+  "center": {
+    "lat": 18.5308930,
+    "lon": -69.8203702
+  },
+  "nodes": [
+    2550770716,
+    2550770686,
+    2550770703,
+    2550770712,
+    2550770716
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "OMSA"
+  }
+},
+{
+  "type": "way",
+  "id": 408340893,
+  "nodes": [
+    4102941159,
+    4102941160,
+    4102941161,
+    4102941162,
+    4102941159
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Prolong Avenida 27 De Febrero",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Parada Del Sur Fetrapasur",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 408755146,
+  "nodes": [
+    4106730079,
+    4106730080,
+    4106730081,
+    4106730082,
+    4106730079
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:housenumber": "455",
+    "addr:street": "Avenida 27 de Febrero",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Capital Coach Line",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 46689432,
+  "nodes": [
+    596693465,
+    4100826893,
+    4100826894,
+    4100826895,
+    596693468,
+    3042179114,
+    596693469,
+    3042179115,
+    3042179116,
+    596693462,
+    596693465
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:postcode": "10203",
+    "addr:street": "Avenida 27 de Febrero",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Caribe Tours",
+    "phone": "809-221-4422",
+    "source": "KG Ground Survey 2016",
+    "website": "http://www.caribetours.com.do/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 408342626,
+  "nodes": [
+    4102957677,
+    4102957683,
+    4102957678,
+    4102957679,
+    4102957680,
+    4102957677
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Calle La Filantropica",
+    "amenity": "bus_station",
+    "building": "roof",
+    "name": "Empresa del Sur",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 408342624,
+  "nodes": [
+    4102957669,
+    4102957670,
+    4102957671,
+    4102957672,
+    4102957669
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Avenida Duarte",
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Parada del Sur",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 248099631,
+  "nodes": [
+    2549448173,
+    2549448176,
+    2549448179,
+    2549448171,
+    2549448172,
+    2549448174,
+    2549448177,
+    2549448178,
+    2549448175,
+    2549448173
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Caribe Tours Urbano"
+  }
+},
+{
+  "type": "way",
+  "id": 248264497,
+  "nodes": [
+    2550770716,
+    2550770686,
+    2550770703,
+    2550770712,
+    2550770716
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "OMSA"
+  }
+}
+
+  ]
+}

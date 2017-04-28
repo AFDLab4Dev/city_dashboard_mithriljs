@@ -1,0 +1,408 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2603797334",
+  "properties": {
+    "amenity": "bus_station",
+    "contact:email": "ovoyages.tg@olinet.net",
+    "name": "O-voyages",
+    "office": "travel_agent",
+    "operator": "Olizair",
+    "phone": "+228 22 056 66",
+    "source": "Survey",
+    "id": "node/2603797334"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.230655,
+      6.14976
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2736170604",
+  "properties": {
+    "amenity": "bus_station",
+    "description": "Lomé-Kara",
+    "name": "LK",
+    "id": "node/2736170604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2067831,
+      6.2022688
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2943388367",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Société Adji Transport",
+    "source": "Bing;Server",
+    "id": "node/2943388367"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2202649,
+      6.1648891
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3188482429",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Aflao Lorry Station",
+    "id": "node/3188482429"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1952511,
+      6.1130384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3404443417",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La Poste",
+    "id": "node/3404443417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2233542,
+      6.1332221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3458599452",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "UTB Lomé",
+    "id": "node/3458599452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2364802,
+      6.1278966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3469719094",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "ETRAB",
+    "office": "company",
+    "id": "node/3469719094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1854136,
+      6.207608
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3642962058",
+  "properties": {
+    "amenity": "bus_station",
+    "source": "survey; Bing",
+    "id": "node/3642962058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1332061,
+      6.1159835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3692007497",
+  "properties": {
+    "amenity": "bus_station",
+    "source": "survey",
+    "id": "node/3692007497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1467291,
+      6.1021456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3759807724",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "GH. Express",
+    "source": "Survey",
+    "id": "node/3759807724"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2199112,
+      6.1350015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3869318130",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Sonef",
+    "id": "node/3869318130"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2266143,
+      6.1317134
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3936144949",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "RTV RAMBO TRANSPORT VOYAGE",
+    "id": "node/3936144949"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2626584,
+      6.1521299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4087011324",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Africa Tours Trans",
+    "phone": "0022891979741",
+    "website": "africa-tours-trans.com",
+    "id": "node/4087011324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.233075,
+      6.1355032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4157073419",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4157073419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.190624,
+      6.2201955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4160190701",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "D-Dos Transport",
+    "source": "Bing;Survey",
+    "id": "node/4160190701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1938872,
+      6.2275423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4278032841",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Arrêt de bus Sotral",
+    "source": "Bing;Survey",
+    "id": "node/4278032841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2299365,
+      6.1448912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4488862119",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Fts",
+    "id": "node/4488862119"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2343691,
+      6.1340401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4564168045",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Rakiéta",
+    "source": "Survey;Bing",
+    "id": "node/4564168045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2050793,
+      6.1747806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4566768341",
+  "properties": {
+    "amenity": "bus_station",
+    "description": "La gare dessert Aného, Cotonou, Lagos",
+    "name": "Gare de l'Est",
+    "source": "Survey; bing",
+    "id": "node/4566768341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2677273,
+      6.152114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4566819407",
+  "properties": {
+    "amenity": "bus_station",
+    "description": "La gare dessert le Ghana, la Côte d'Ivoire",
+    "name": "Gare de Kodjoviakopé",
+    "source": "Survey; bing",
+    "id": "node/4566819407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.203019,
+      6.114082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4623471464",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit Limited",
+    "id": "node/4623471464"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1951635,
+      6.1124851
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4725955086",
+  "properties": {
+    "amenity": "bus_station",
+    "description": "lomé ouaga bamako",
+    "name": "Fairless Transport ans Services FTS",
+    "id": "node/4725955086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2340936,
+      6.1341598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4725956107",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tcv lome ouaga bamako",
+    "id": "node/4725956107"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2338142,
+      6.1343806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4778918848",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "GSE Sarl",
+    "name:fr": "GSE Sarl",
+    "id": "node/4778918848"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1853172,
+      6.2142204
+    ]
+  }
+}
+]
+}

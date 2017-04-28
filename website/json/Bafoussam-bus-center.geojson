@@ -1,0 +1,287 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/372967186",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Avenir du Noun",
+    "id": "way/372967186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4210737,
+      5.4794168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480895",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Avenir du Haut-Kam",
+    "id": "way/397480895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4275329,
+      5.4550431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480897",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Bansoa Voyage",
+    "id": "way/397480897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.422543,
+      5.4464517
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480899",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Binan Voyage",
+    "id": "way/397480899"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.424575,
+      5.4472537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480901",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Confort Voyage",
+    "id": "way/397480901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4270713,
+      5.453525
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480906",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "FERIC Voyage",
+    "id": "way/397480906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4266874,
+      5.4542668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480908",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere de Ndiandam",
+    "id": "way/397480908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.427479,
+      5.4572428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480910",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Géneral Voyage",
+    "id": "way/397480910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4263807,
+      5.454034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480916",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Noblesse Voyage",
+    "id": "way/397480916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4268916,
+      5.4527294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480917",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Pacifique Voyage",
+    "id": "way/397480917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.427354,
+      5.4539078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480919",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Super Grand MIFI Voyage",
+    "id": "way/397480919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4273486,
+      5.4535707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480921",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Tresor Voyage",
+    "id": "way/397480921"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4272947,
+      5.4540756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480923",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tresor Voyages",
+    "id": "way/397480923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4239208,
+      5.4629487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397480925",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Visite Technique",
+    "id": "way/397480925"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4253394,
+      5.4496516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424919431",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Super Salamoun",
+    "id": "way/424919431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4220351,
+      5.4795068
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424919665",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Mayo-Bnyo Voyages",
+    "id": "way/424919665"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.426359,
+      5.4813713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424919666",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Narral Voyages",
+    "id": "way/424919666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4263569,
+      5.4808212
+    ]
+  }
+}
+]
+}

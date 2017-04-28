@@ -1,0 +1,291 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:43:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2340217604,
+  "lat": 5.3552444,
+  "lon": 10.4260175,
+  "tags": {
+    "amenity": "university",
+    "name": "IUT Victor FOTSO"
+  }
+},
+{
+  "type": "node",
+  "id": 4404320254,
+  "lat": 5.4380528,
+  "lon": 10.4149959,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Evangélique du Cameroun (UEC)",
+    "website": "http://www.uecam.org"
+  }
+},
+{
+  "type": "way",
+  "id": 424953417,
+  "center": {
+    "lat": 5.4615822,
+    "lon": 10.4280023
+  },
+  "nodes": [
+    4243083478,
+    4243083474,
+    4243083475,
+    4243083477,
+    4243083476,
+    4243083479,
+    4243083478
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSSAS"
+  }
+},
+{
+  "type": "way",
+  "id": 424953418,
+  "center": {
+    "lat": 5.4620089,
+    "lon": 10.4271556
+  },
+  "nodes": [
+    4243083482,
+    4243083485,
+    4243083481,
+    4243083480,
+    4243083482
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "ISSTECO"
+  }
+},
+{
+  "type": "way",
+  "id": 425061004,
+  "center": {
+    "lat": 5.4702365,
+    "lon": 10.4306440
+  },
+  "nodes": [
+    4243974075,
+    4243974074,
+    4243974071,
+    4243974073,
+    4243974075
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institu Nanfah"
+  }
+},
+{
+  "type": "way",
+  "id": 425061005,
+  "center": {
+    "lat": 5.4702383,
+    "lon": 10.4304943
+  },
+  "nodes": [
+    4243974077,
+    4243974076,
+    4243974070,
+    4243974072,
+    4243974077
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut Money Keng"
+  }
+},
+{
+  "type": "way",
+  "id": 425302882,
+  "center": {
+    "lat": 5.5013383,
+    "lon": 10.4051215
+  },
+  "nodes": [
+    4246170404,
+    4246170405,
+    4246170406,
+    4246170407,
+    4246170408,
+    4246170409,
+    4246170404
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ENIEG Saint Andre"
+  }
+},
+{
+  "type": "way",
+  "id": 425070172,
+  "center": {
+    "lat": 5.4786883,
+    "lon": 10.4445353
+  },
+  "nodes": [
+    4244018640,
+    4244018639,
+    4244018637,
+    4244018636,
+    4244018638,
+    4244018640
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Complexe 3i Santé"
+  }
+},
+{
+  "type": "way",
+  "id": 425076238,
+  "center": {
+    "lat": 5.4743035,
+    "lon": 10.4496985
+  },
+  "nodes": [
+    4244066132,
+    4244066129,
+    4244066122,
+    4244066124,
+    4244066132
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSAM"
+  }
+},
+{
+  "type": "way",
+  "id": 424953417,
+  "nodes": [
+    4243083478,
+    4243083474,
+    4243083475,
+    4243083477,
+    4243083476,
+    4243083479,
+    4243083478
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSSAS"
+  }
+},
+{
+  "type": "way",
+  "id": 424953418,
+  "nodes": [
+    4243083482,
+    4243083485,
+    4243083481,
+    4243083480,
+    4243083482
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "ISSTECO"
+  }
+},
+{
+  "type": "way",
+  "id": 425061004,
+  "nodes": [
+    4243974075,
+    4243974074,
+    4243974071,
+    4243974073,
+    4243974075
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institu Nanfah"
+  }
+},
+{
+  "type": "way",
+  "id": 425061005,
+  "nodes": [
+    4243974077,
+    4243974076,
+    4243974070,
+    4243974072,
+    4243974077
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut Money Keng"
+  }
+},
+{
+  "type": "way",
+  "id": 425302882,
+  "nodes": [
+    4246170404,
+    4246170405,
+    4246170406,
+    4246170407,
+    4246170408,
+    4246170409,
+    4246170404
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ENIEG Saint Andre"
+  }
+},
+{
+  "type": "way",
+  "id": 425070172,
+  "nodes": [
+    4244018640,
+    4244018639,
+    4244018637,
+    4244018636,
+    4244018638,
+    4244018640
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Complexe 3i Santé"
+  }
+},
+{
+  "type": "way",
+  "id": 425076238,
+  "nodes": [
+    4244066132,
+    4244066129,
+    4244066122,
+    4244066124,
+    4244066132
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSAM"
+  }
+}
+
+  ]
+}

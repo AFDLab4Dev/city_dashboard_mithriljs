@@ -1,0 +1,672 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:43:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 397480897,
+  "center": {
+    "lat": 5.4464517,
+    "lon": 10.4225430
+  },
+  "nodes": [
+    4002761691,
+    4002760287,
+    4002760284,
+    4002760280,
+    4002760278,
+    4002760281,
+    4002760285,
+    4002760286,
+    4002761690,
+    4002761691
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bansoa Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480899,
+  "center": {
+    "lat": 5.4472537,
+    "lon": 10.4245750
+  },
+  "nodes": [
+    4002761715,
+    4002761699,
+    4002761693,
+    4002761701,
+    4002761703,
+    4002761709,
+    4002761715
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Binan Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480906,
+  "center": {
+    "lat": 5.4542668,
+    "lon": 10.4266874
+  },
+  "nodes": [
+    4002761772,
+    4002761773,
+    4002761775,
+    4002761767,
+    4002761755,
+    4002761772
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "FERIC Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480925,
+  "center": {
+    "lat": 5.4496516,
+    "lon": 10.4253394
+  },
+  "nodes": [
+    4002761719,
+    4002761718,
+    4002761716,
+    4002761717,
+    4002761719
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Visite Technique"
+  }
+},
+{
+  "type": "way",
+  "id": 397480910,
+  "center": {
+    "lat": 5.4540340,
+    "lon": 10.4263807
+  },
+  "nodes": [
+    4002761732,
+    4002761741,
+    4002761737,
+    4002761750,
+    4002761754,
+    4002761770,
+    4002761759,
+    4002761751,
+    4002761749,
+    4002761732
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Géneral Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480901,
+  "center": {
+    "lat": 5.4535250,
+    "lon": 10.4270713
+  },
+  "nodes": [
+    4002761726,
+    4002761729,
+    4002761728,
+    4002761724,
+    4002761726
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Confort Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480916,
+  "center": {
+    "lat": 5.4527294,
+    "lon": 10.4268916
+  },
+  "nodes": [
+    4002761723,
+    4002761721,
+    4002761720,
+    4002761722,
+    4002761723
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Noblesse Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480917,
+  "center": {
+    "lat": 5.4539078,
+    "lon": 10.4273540
+  },
+  "nodes": [
+    4002761735,
+    4002761739,
+    4002761746,
+    4002761743,
+    4002761735
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Pacifique Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480919,
+  "center": {
+    "lat": 5.4535707,
+    "lon": 10.4273486
+  },
+  "nodes": [
+    4002761727,
+    4002761731,
+    4002761730,
+    4002761725,
+    4002761727
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Super Grand MIFI Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480921,
+  "center": {
+    "lat": 5.4540756,
+    "lon": 10.4272947
+  },
+  "nodes": [
+    4002761748,
+    4002761763,
+    4002761758,
+    4002761744,
+    4002761748
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Tresor Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480895,
+  "center": {
+    "lat": 5.4550431,
+    "lon": 10.4275329
+  },
+  "nodes": [
+    4002761783,
+    4002761784,
+    4002761786,
+    4002761781,
+    4002761778,
+    4002761777,
+    4002761783
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Avenir du Haut-Kam"
+  }
+},
+{
+  "type": "way",
+  "id": 397480908,
+  "center": {
+    "lat": 5.4572428,
+    "lon": 10.4274790
+  },
+  "nodes": [
+    4002762010,
+    4002762019,
+    4002762031,
+    4002762041,
+    4002762044,
+    4002762045,
+    4002762046,
+    4002762043,
+    4002762042,
+    4002762032,
+    4002762025,
+    4002762018,
+    4002762015,
+    4002762011,
+    4002762008,
+    4002762010
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere de Ndiandam"
+  }
+},
+{
+  "type": "way",
+  "id": 397480923,
+  "center": {
+    "lat": 5.4629487,
+    "lon": 10.4239208
+  },
+  "nodes": [
+    4002762059,
+    4002762057,
+    4002762054,
+    4002762051,
+    4002762055,
+    4002762058,
+    4002762059
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Tresor Voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 372967186,
+  "center": {
+    "lat": 5.4794168,
+    "lon": 10.4210737
+  },
+  "nodes": [
+    3765150753,
+    3765150762,
+    3765150715,
+    3765150710,
+    3765150753
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Avenir du Noun"
+  }
+},
+{
+  "type": "way",
+  "id": 424919431,
+  "center": {
+    "lat": 5.4795068,
+    "lon": 10.4220351
+  },
+  "nodes": [
+    4242774606,
+    4242774607,
+    4242774605,
+    4242774604,
+    4242774606
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Super Salamoun"
+  }
+},
+{
+  "type": "way",
+  "id": 424919665,
+  "center": {
+    "lat": 5.4813713,
+    "lon": 10.4263590
+  },
+  "nodes": [
+    4242778375,
+    4242778378,
+    4242778377,
+    4242778372,
+    4242778373,
+    4242778374,
+    4242778376,
+    4242778375
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Mayo-Bnyo Voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 424919666,
+  "center": {
+    "lat": 5.4808212,
+    "lon": 10.4263569
+  },
+  "nodes": [
+    4242778370,
+    4242778368,
+    4242778369,
+    4242778371,
+    4242778370
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Narral Voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 397480897,
+  "nodes": [
+    4002761691,
+    4002760287,
+    4002760284,
+    4002760280,
+    4002760278,
+    4002760281,
+    4002760285,
+    4002760286,
+    4002761690,
+    4002761691
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bansoa Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480899,
+  "nodes": [
+    4002761715,
+    4002761699,
+    4002761693,
+    4002761701,
+    4002761703,
+    4002761709,
+    4002761715
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Binan Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480906,
+  "nodes": [
+    4002761772,
+    4002761773,
+    4002761775,
+    4002761767,
+    4002761755,
+    4002761772
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "FERIC Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480925,
+  "nodes": [
+    4002761719,
+    4002761718,
+    4002761716,
+    4002761717,
+    4002761719
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Visite Technique"
+  }
+},
+{
+  "type": "way",
+  "id": 397480910,
+  "nodes": [
+    4002761732,
+    4002761741,
+    4002761737,
+    4002761750,
+    4002761754,
+    4002761770,
+    4002761759,
+    4002761751,
+    4002761749,
+    4002761732
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Géneral Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480901,
+  "nodes": [
+    4002761726,
+    4002761729,
+    4002761728,
+    4002761724,
+    4002761726
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Confort Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480916,
+  "nodes": [
+    4002761723,
+    4002761721,
+    4002761720,
+    4002761722,
+    4002761723
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Noblesse Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480917,
+  "nodes": [
+    4002761735,
+    4002761739,
+    4002761746,
+    4002761743,
+    4002761735
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Pacifique Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480919,
+  "nodes": [
+    4002761727,
+    4002761731,
+    4002761730,
+    4002761725,
+    4002761727
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Super Grand MIFI Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480921,
+  "nodes": [
+    4002761748,
+    4002761763,
+    4002761758,
+    4002761744,
+    4002761748
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Tresor Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 397480895,
+  "nodes": [
+    4002761783,
+    4002761784,
+    4002761786,
+    4002761781,
+    4002761778,
+    4002761777,
+    4002761783
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Avenir du Haut-Kam"
+  }
+},
+{
+  "type": "way",
+  "id": 397480908,
+  "nodes": [
+    4002762010,
+    4002762019,
+    4002762031,
+    4002762041,
+    4002762044,
+    4002762045,
+    4002762046,
+    4002762043,
+    4002762042,
+    4002762032,
+    4002762025,
+    4002762018,
+    4002762015,
+    4002762011,
+    4002762008,
+    4002762010
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere de Ndiandam"
+  }
+},
+{
+  "type": "way",
+  "id": 397480923,
+  "nodes": [
+    4002762059,
+    4002762057,
+    4002762054,
+    4002762051,
+    4002762055,
+    4002762058,
+    4002762059
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Tresor Voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 372967186,
+  "nodes": [
+    3765150753,
+    3765150762,
+    3765150715,
+    3765150710,
+    3765150753
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Avenir du Noun"
+  }
+},
+{
+  "type": "way",
+  "id": 424919431,
+  "nodes": [
+    4242774606,
+    4242774607,
+    4242774605,
+    4242774604,
+    4242774606
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Super Salamoun"
+  }
+},
+{
+  "type": "way",
+  "id": 424919665,
+  "nodes": [
+    4242778375,
+    4242778378,
+    4242778377,
+    4242778372,
+    4242778373,
+    4242778374,
+    4242778376,
+    4242778375
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Mayo-Bnyo Voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 424919666,
+  "nodes": [
+    4242778370,
+    4242778368,
+    4242778369,
+    4242778371,
+    4242778370
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Narral Voyages"
+  }
+}
+
+  ]
+}

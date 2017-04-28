@@ -1,0 +1,148 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2776947893",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2776947893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3065017,
+      -4.3248095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007966",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "CHU",
+    "id": "node/3748007966"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2680771,
+      -4.266789
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007967",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Nganga Edouard",
+    "id": "node/3748007967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2645768,
+      -4.2689689
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007968",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Nganga Edouard",
+    "id": "node/3748007968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2639438,
+      -4.2695039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007969",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Congo Pharmacie",
+    "id": "node/3748007969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.279076,
+      -4.2757038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007970",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Congo Pharmacie",
+    "id": "node/3748007970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2793281,
+      -4.2752862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007971",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare CFCO",
+    "id": "node/3748007971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2882717,
+      -4.2699465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007972",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "CCF",
+    "id": "node/3748007972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2592605,
+      -4.2806656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3748007973",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "CCF",
+    "id": "node/3748007973"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2590491,
+      -4.2804873
+    ]
+  }
+}
+]
+}

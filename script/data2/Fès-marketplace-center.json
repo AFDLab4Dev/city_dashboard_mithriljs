@@ -1,0 +1,165 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1360122234,
+  "lat": 34.0650207,
+  "lon": -4.9743144,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kessaria"
+  }
+},
+{
+  "type": "node",
+  "id": 2001342005,
+  "lat": 34.0292175,
+  "lon": -4.9951313,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523152,
+  "lat": 34.0648188,
+  "lon": -4.9807334,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Quaat Smen Fondouk"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523170,
+  "lat": 34.0640900,
+  "lon": -4.9800146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fondouk Tazi"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523280,
+  "lat": 34.0654854,
+  "lon": -4.9750793,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk el Henna"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523588,
+  "lat": 34.0656009,
+  "lon": -4.9804437,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Tannerie Ain Azliten"
+  }
+},
+{
+  "type": "node",
+  "id": 4552318205,
+  "lat": 34.0060034,
+  "lon": -5.0083665,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de légumes سوق خضراوات",
+    "name:ar": "سوق خضراوات",
+    "name:en": "Vegetable Market",
+    "name:fr": "Marché de légumes"
+  }
+},
+{
+  "type": "node",
+  "id": 4793164721,
+  "lat": 34.0383253,
+  "lon": -4.9977876,
+  "tags": {
+    "addr:street": "Avenue Abdallah Chefchaouni",
+    "amenity": "marketplace",
+    "name": "Bazar"
+  }
+},
+{
+  "type": "way",
+  "id": 486914786,
+  "center": {
+    "lat": 34.0393998,
+    "lon": -4.9983420
+  },
+  "nodes": [
+    4794571137,
+    4794571138,
+    4794571139,
+    4794571140,
+    4794571137
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Central"
+  }
+},
+{
+  "type": "way",
+  "id": 156534713,
+  "center": {
+    "lat": 34.0617959,
+    "lon": -4.9853467
+  },
+  "nodes": [
+    1687718659,
+    1687718674,
+    1687718657,
+    1687718612,
+    1687718659
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name:en": "Fruit & Vegetable market"
+  }
+},
+{
+  "type": "way",
+  "id": 486914786,
+  "nodes": [
+    4794571137,
+    4794571138,
+    4794571139,
+    4794571140,
+    4794571137
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Central"
+  }
+},
+{
+  "type": "way",
+  "id": 156534713,
+  "nodes": [
+    1687718659,
+    1687718674,
+    1687718657,
+    1687718612,
+    1687718659
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name:en": "Fruit & Vegetable market"
+  }
+}
+
+  ]
+}

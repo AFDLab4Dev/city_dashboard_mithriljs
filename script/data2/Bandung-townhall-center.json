@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:47:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1706564163,
+  "lat": -6.9108076,
+  "lon": 107.6098141,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Balai Kota"
+  }
+}
+
+  ]
+}

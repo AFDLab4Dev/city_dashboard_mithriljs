@@ -1,0 +1,139 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2133975409,
+  "lat": 34.0635348,
+  "lon": -4.9904739,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Ibn Alkhatib"
+  }
+},
+{
+  "type": "node",
+  "id": 2157394170,
+  "lat": 34.0449702,
+  "lon": -4.9849267,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2952714570,
+  "lat": 34.0578021,
+  "lon": -4.9820346,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Hopital Bab Lahdid"
+  }
+},
+{
+  "type": "node",
+  "id": 3899915428,
+  "lat": 34.0036766,
+  "lon": -4.9637961,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre hospitalier universitaire Hassan II"
+  }
+},
+{
+  "type": "node",
+  "id": 4499322590,
+  "lat": 34.0143151,
+  "lon": -4.9997233,
+  "tags": {
+    "amenity": "hospital",
+    "name": "الكوثر"
+  }
+},
+{
+  "type": "node",
+  "id": 4711503889,
+  "lat": 34.0174320,
+  "lon": -5.0135807,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé adarissa المركز الصحي الادارسة",
+    "name:ar": "المركز الصحي الادارسة",
+    "name:fr": "Centre de santé adarissa"
+  }
+},
+{
+  "type": "node",
+  "id": 4725737195,
+  "lat": 34.0335270,
+  "lon": -5.0060922,
+  "tags": {
+    "addr:city": "Fes",
+    "addr:housenumber": "16",
+    "addr:street": "Avenue Allal Ben Abdallah",
+    "amenity": "hospital",
+    "name": "Clinique RAIS"
+  }
+},
+{
+  "type": "way",
+  "id": 150786744,
+  "center": {
+    "lat": 34.0043481,
+    "lon": -4.9622857
+  },
+  "nodes": [
+    1636635111,
+    1636635090,
+    1636652380,
+    864594800,
+    1636635067,
+    864594801,
+    864594802,
+    1636635113,
+    1636635078,
+    1636635139,
+    1636635104,
+    1636635111
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University hospital Hassan II",
+    "note": "Fix french and arabic name"
+  }
+},
+{
+  "type": "way",
+  "id": 150786744,
+  "nodes": [
+    1636635111,
+    1636635090,
+    1636652380,
+    864594800,
+    1636635067,
+    864594801,
+    864594802,
+    1636635113,
+    1636635078,
+    1636635139,
+    1636635104,
+    1636635111
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University hospital Hassan II",
+    "note": "Fix french and arabic name"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:46:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 472305195,
+  "center": {
+    "lat": -7.3923147,
+    "lon": 112.7337218
+  },
+  "nodes": [
+    4665209576,
+    4665209577,
+    4665209578,
+    4665209579,
+    4665209580,
+    4665209581,
+    4665209582,
+    4665209583,
+    4665209576
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 459262749,
+  "center": {
+    "lat": -7.3236797,
+    "lon": 112.7952898
+  },
+  "nodes": [
+    4551627726,
+    4551627725,
+    4551627724,
+    4551627723,
+    4551627726
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Medokan Ayu Utara VII",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbestos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Gedung Serba Guna Medokan Ayu"
+  }
+},
+{
+  "type": "way",
+  "id": 155884166,
+  "center": {
+    "lat": -7.2592138,
+    "lon": 112.7470974
+  },
+  "nodes": [
+    1682372844,
+    4732351397,
+    4732351395,
+    4732351396,
+    4732351394,
+    4732351398,
+    4732351400,
+    4732351401,
+    4732351399,
+    4732351402,
+    4732351403,
+    4732351404,
+    4732351405,
+    1682372859,
+    1682372903,
+    1682372857,
+    1682372844
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:full": "jalan sedap malam",
+    "addr:street": "Jalan Sedap Malam",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Balai Kota Surabaya",
+    "office": "government",
+    "official_name": "Kantor Pemerintah Kota Surabaya"
+  }
+},
+{
+  "type": "way",
+  "id": 155884101,
+  "center": {
+    "lat": -7.2576937,
+    "lon": 112.7474810
+  },
+  "nodes": [
+    1682372537,
+    1682372547,
+    1682372579,
+    1682372550,
+    1682372537
+  ],
+  "tags": {
+    "addr:full": "j merto",
+    "addr:housename": "Jalan Jimerto",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">500",
+    "name": "Kantor Bappeko Surabaya",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 448176177,
+  "center": {
+    "lat": -7.2489520,
+    "lon": 112.7936924
+  },
+  "nodes": [
+    4452119895,
+    4452119925,
+    4452119923,
+    4452119938,
+    4452119941,
+    4452119967,
+    4452119976,
+    4452119920,
+    4452119921,
+    4452119900,
+    4452119895
+  ],
+  "tags": {
+    "addr:full": "Jalan Wiratno",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Pusdiklat Hanudnas"
+  }
+},
+{
+  "type": "way",
+  "id": 307391957,
+  "center": {
+    "lat": -7.2416060,
+    "lon": 112.7937057
+  },
+  "nodes": [
+    3125143258,
+    3125143257,
+    3125143237,
+    3125143238,
+    3125143258
+  ],
+  "tags": {
+    "addr:full": "Jalan Abdul Latif Nomor 1",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Graha Persatuan Purnawirawan Angkatan Laut"
+  }
+},
+{
+  "type": "way",
+  "id": 472305195,
+  "nodes": [
+    4665209576,
+    4665209577,
+    4665209578,
+    4665209579,
+    4665209580,
+    4665209581,
+    4665209582,
+    4665209583,
+    4665209576
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 459262749,
+  "nodes": [
+    4551627726,
+    4551627725,
+    4551627724,
+    4551627723,
+    4551627726
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Medokan Ayu Utara VII",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbestos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Gedung Serba Guna Medokan Ayu"
+  }
+},
+{
+  "type": "way",
+  "id": 155884166,
+  "nodes": [
+    1682372844,
+    4732351397,
+    4732351395,
+    4732351396,
+    4732351394,
+    4732351398,
+    4732351400,
+    4732351401,
+    4732351399,
+    4732351402,
+    4732351403,
+    4732351404,
+    4732351405,
+    1682372859,
+    1682372903,
+    1682372857,
+    1682372844
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:full": "jalan sedap malam",
+    "addr:street": "Jalan Sedap Malam",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Balai Kota Surabaya",
+    "office": "government",
+    "official_name": "Kantor Pemerintah Kota Surabaya"
+  }
+},
+{
+  "type": "way",
+  "id": 155884101,
+  "nodes": [
+    1682372537,
+    1682372547,
+    1682372579,
+    1682372550,
+    1682372537
+  ],
+  "tags": {
+    "addr:full": "j merto",
+    "addr:housename": "Jalan Jimerto",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">500",
+    "name": "Kantor Bappeko Surabaya",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 448176177,
+  "nodes": [
+    4452119895,
+    4452119925,
+    4452119923,
+    4452119938,
+    4452119941,
+    4452119967,
+    4452119976,
+    4452119920,
+    4452119921,
+    4452119900,
+    4452119895
+  ],
+  "tags": {
+    "addr:full": "Jalan Wiratno",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Pusdiklat Hanudnas"
+  }
+},
+{
+  "type": "way",
+  "id": 307391957,
+  "nodes": [
+    3125143258,
+    3125143257,
+    3125143237,
+    3125143238,
+    3125143258
+  ],
+  "tags": {
+    "addr:full": "Jalan Abdul Latif Nomor 1",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Graha Persatuan Purnawirawan Angkatan Laut"
+  }
+}
+
+  ]
+}

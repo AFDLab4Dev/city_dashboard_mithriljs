@@ -1,0 +1,68 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/167345505",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/167345505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4999654,
+      33.2448811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320833369",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Station Haj Abd Allah",
+    "id": "way/320833369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4934998,
+      33.2345057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322430822",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "id": "way/322430822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5105236,
+      33.2186041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1787451898",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "CTM Bus Station",
+    "id": "node/1787451898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5000458,
+      33.2449483
+    ]
+  }
+}
+]
+}

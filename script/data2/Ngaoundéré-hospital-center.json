@@ -1,0 +1,98 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:43:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4391694825,
+  "lat": 7.3151335,
+  "lon": 13.5841190,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital régional de Ngaoundéré"
+  }
+},
+{
+  "type": "node",
+  "id": 4453234586,
+  "lat": 7.3100248,
+  "lon": 13.5961226,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Protestant Hospital of Ngaoundéré",
+    "operator": "EELC",
+    "url": "http://www.oseelc.org/",
+    "wikidata": "Q7251608",
+    "wikipedia": "en:Protestant Hospital of Ngaoundéré"
+  }
+},
+{
+  "type": "way",
+  "id": 332260292,
+  "center": {
+    "lat": 7.4159543,
+    "lon": 13.5487829
+  },
+  "nodes": [
+    3393715613,
+    3393715606,
+    3393715611,
+    3393715607,
+    3393715612,
+    3393715609,
+    3393715614,
+    3393715615,
+    3393715622,
+    3393715631,
+    3393715626,
+    3393715630,
+    3393715627,
+    3393715629,
+    3393715625,
+    3393715628,
+    3393715623,
+    3393715621,
+    3393715613
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre médico-social"
+  }
+},
+{
+  "type": "way",
+  "id": 332260292,
+  "nodes": [
+    3393715613,
+    3393715606,
+    3393715611,
+    3393715607,
+    3393715612,
+    3393715609,
+    3393715614,
+    3393715615,
+    3393715622,
+    3393715631,
+    3393715626,
+    3393715630,
+    3393715627,
+    3393715629,
+    3393715625,
+    3393715628,
+    3393715623,
+    3393715621,
+    3393715613
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre médico-social"
+  }
+}
+
+  ]
+}

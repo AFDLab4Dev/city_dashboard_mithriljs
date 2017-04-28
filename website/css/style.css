@@ -22,7 +22,7 @@
 		right: 50px;
 		top: 100px;
 		z-index:10000;
-		width:320px;
+		width:330px;
 		background-color: white;
 	}
 
@@ -33,7 +33,10 @@
 
 	.leaflet-control-layers-toggle {
     background-image: url(img/control.png);
-    width: 36px;
-    height: 36px;
+}
+
+	.leaflet-touch .leaflet-control-layers-toggle {
+    width:36px;
+    height:36px;
 }
 

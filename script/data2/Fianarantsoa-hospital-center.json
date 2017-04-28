@@ -1,0 +1,106 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:36:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3689722151,
+  "lat": -21.4496069,
+  "lon": 47.0847588,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CDS",
+    "operator": "EKAR"
+  }
+},
+{
+  "type": "node",
+  "id": 3689722153,
+  "lat": -21.4514126,
+  "lon": 47.0932267,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SALFA",
+    "operator": "FLM",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3713925175,
+  "lat": -21.4618694,
+  "lon": 47.1099383,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Universitaire Andrainjato",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3997287446,
+  "lat": -21.4190855,
+  "lon": 47.1240654,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CDS Ambalakilonga",
+    "operator": "EKAR",
+    "source": "Bing"
+  }
+},
+{
+  "type": "relation",
+  "id": 7115627,
+  "center": {
+    "lat": -21.4446371,
+    "lon": 47.0860273
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 483226231,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 363366894,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU Tambohobe",
+    "note": "CHU",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7115627,
+  "members": [
+    {
+      "type": "way",
+      "ref": 483226231,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 363366894,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU Tambohobe",
+    "note": "CHU",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

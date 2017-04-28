@@ -1,0 +1,180 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/299875376",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Destiny Voyage",
+    "source": "Plan polyvalent Douala",
+    "id": "way/299875376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7295584,
+      4.0710365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299884957",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Camrad Voyage",
+    "source": "Plan polyvalent Douala",
+    "id": "way/299884957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.729135,
+      4.0717377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/339170958",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "no",
+    "name": "Gare Routière Touristique",
+    "name:de": "Busbahnhof nach Yaounde",
+    "operator": "Central Voyage",
+    "id": "way/339170958"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7011895,
+      4.0437158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449371637",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Bonaberi",
+    "id": "way/449371637"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6537178,
+      4.097541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456644454",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Mboppi",
+    "id": "way/456644454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7167699,
+      4.0418005
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4268489093",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "机场",
+    "id": "node/4268489093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7175718,
+      4.0133148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4268513291",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "撒瓦娜办公室",
+    "id": "node/4268513291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6976364,
+      4.0547019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4369050892",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La Kribienne",
+    "id": "node/4369050892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7096029,
+      4.04336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4369209992",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Finexs voyage",
+    "name:de": "Busbahnhof nach Yaounde",
+    "name:en": "Finexs voyage",
+    "name:fr": "Finexs Voyage Douala",
+    "id": "node/4369209992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7023884,
+      4.0437256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4563751090",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Garanti Express",
+    "name:de": "Garanti Express",
+    "name:en": "Garanti Express",
+    "name:fr": "Garanti Express",
+    "operator": "Garanti Express",
+    "phone": "33426169",
+    "id": "node/4563751090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7061738,
+      4.0434225
+    ]
+  }
+}
+]
+}

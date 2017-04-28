@@ -1,0 +1,135 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/3646162",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare CTM de Rabat",
+    "type": "multipolygon",
+    "id": "relation/3646162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8698356,
+      33.9869299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/150143088",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Arrêt de bus Technopolis",
+    "id": "way/150143088"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7247018,
+      33.9902703
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/252637980",
+  "properties": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Gare routière de Rabat",
+    "id": "way/252637980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8673567,
+      33.9905843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/444379304",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere Salé",
+    "id": "node/444379304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.802162,
+      34.035628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1631787343",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Station Bus Terminus",
+    "id": "node/1631787343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7362742,
+      33.9906746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3922706118",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "gare routière de Rabat (Kamra)",
+    "id": "node/3922706118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8674058,
+      33.9906537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4460652430",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "CTM",
+    "id": "node/4460652430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.874732,
+      33.979874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4460652431",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4460652431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8682518,
+      33.98984
+    ]
+  }
+}
+]
+}

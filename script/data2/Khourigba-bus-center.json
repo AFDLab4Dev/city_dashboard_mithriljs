@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:39:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1242055763,
+  "lat": 32.8847304,
+  "lon": -6.9091813,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "gare routiere khouribga"
+  }
+}
+
+  ]
+}

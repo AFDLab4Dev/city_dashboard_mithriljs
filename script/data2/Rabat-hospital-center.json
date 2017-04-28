@@ -1,0 +1,637 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 414130094,
+  "lat": 33.9957350,
+  "lon": -6.8510957,
+  "tags": {
+    "addr:street": "Avenue Ibn Sina",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinique Agdal"
+  }
+},
+{
+  "type": "node",
+  "id": 414132094,
+  "lat": 33.9894639,
+  "lon": -6.8489040,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique des Nations Unies"
+  }
+},
+{
+  "type": "node",
+  "id": 1824603678,
+  "lat": 33.9819930,
+  "lon": -6.8579501,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Specialized hospital Head and neck",
+    "emergency": "yes",
+    "name": "Hopital Des Spécialités / HCU Ibn Sina"
+  }
+},
+{
+  "type": "node",
+  "id": 1824603685,
+  "lat": 33.9870994,
+  "lon": -6.8553644,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Gynecology & obstetrics hospital",
+    "emergency": "yes",
+    "name": "Maternite du Souissi / CHU Ibn SIna"
+  }
+},
+{
+  "type": "node",
+  "id": 1824603903,
+  "lat": 33.9838968,
+  "lon": -6.8504077,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Ibn sina General hospital for adults",
+    "emergency": "yes",
+    "name": "Hopital Ibn Sina /CHU Ibn SIna"
+  }
+},
+{
+  "type": "node",
+  "id": 1824603916,
+  "lat": 33.9866013,
+  "lon": -6.8544525,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Pediatric hospital",
+    "emergency": "yes",
+    "name": "Hopital Des Enfants/ CHU Ibn Sina"
+  }
+},
+{
+  "type": "node",
+  "id": 2423301745,
+  "lat": 34.0107124,
+  "lon": -6.8415680,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Belvedere Centre De Cardiologie"
+  }
+},
+{
+  "type": "node",
+  "id": 2429147955,
+  "lat": 33.9934691,
+  "lon": -6.8468038,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Laboratoire analyse médicale Latifa Ouali"
+  }
+},
+{
+  "type": "node",
+  "id": 2448051288,
+  "lat": 33.9371786,
+  "lon": -6.9203070,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique"
+  }
+},
+{
+  "type": "node",
+  "id": 2569037645,
+  "lat": 34.0104102,
+  "lon": -6.8614686,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Moulay Youssef"
+  }
+},
+{
+  "type": "node",
+  "id": 3394023015,
+  "lat": 34.0151419,
+  "lon": -6.8238990,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Benjelloum"
+  }
+},
+{
+  "type": "node",
+  "id": 4324602015,
+  "lat": 33.9063777,
+  "lon": -6.9206094,
+  "tags": {
+    "addr:city": "TEMARA",
+    "addr:postcode": "12000",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Hospital Fath El Kheir",
+    "operator": "Public"
+  }
+},
+{
+  "type": "node",
+  "id": 4326891379,
+  "lat": 33.9045718,
+  "lon": -6.9384961,
+  "tags": {
+    "addr:city": "Témara تمارة",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Sidi Lahcen",
+    "operator": "Public"
+  }
+},
+{
+  "type": "node",
+  "id": 4496682558,
+  "lat": 34.0376263,
+  "lon": -6.8124525,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Moulay Abdallah"
+  }
+},
+{
+  "type": "node",
+  "id": 4499267989,
+  "lat": 34.0344960,
+  "lon": -6.8257727,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital AYACHI"
+  }
+},
+{
+  "type": "node",
+  "id": 4499294017,
+  "lat": 34.0352560,
+  "lon": -6.8242426,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Croix rouge"
+  }
+},
+{
+  "type": "node",
+  "id": 4528979489,
+  "lat": 33.9776500,
+  "lon": -6.8681790,
+  "tags": {
+    "amenity": "hospital",
+    "name": "مستشفي الشيخ زايد بالرباط",
+    "name:ar": "مستشفي الشيخ زايد بالرباط"
+  }
+},
+{
+  "type": "way",
+  "id": 152610310,
+  "center": {
+    "lat": 33.9697303,
+    "lon": -6.8703074
+  },
+  "nodes": [
+    1654185824,
+    1654185823,
+    1654185814,
+    1654185811,
+    1654185829,
+    2151220258,
+    1654185830,
+    1654185934,
+    1654185827,
+    1654185824
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital militaire d'instruction Mohammed V"
+  }
+},
+{
+  "type": "way",
+  "id": 289025339,
+  "center": {
+    "lat": 33.9774971,
+    "lon": -6.8696998
+  },
+  "nodes": [
+    2925743912,
+    2925743911,
+    2925743910,
+    2925743913,
+    2925743914,
+    2925743915,
+    2925743916,
+    2925743917,
+    2925743918,
+    2925743919,
+    2925743920,
+    2925743912
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Cheikh Zaid"
+  }
+},
+{
+  "type": "way",
+  "id": 152610307,
+  "center": {
+    "lat": 33.9834808,
+    "lon": -6.8511169
+  },
+  "nodes": [
+    1654186017,
+    1654186015,
+    1654185994,
+    1654185984,
+    1654185960,
+    1654185941,
+    1654185943,
+    1654185954,
+    1654185957,
+    1654185968,
+    1654185977,
+    1654185980,
+    1654185981,
+    1654185983,
+    1654185987,
+    1654186016,
+    1654186019,
+    1654186017
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU Ibn Sina (Souissi)"
+  }
+},
+{
+  "type": "way",
+  "id": 482745706,
+  "center": {
+    "lat": 33.9893333,
+    "lon": -6.8490542
+  },
+  "nodes": [
+    4755447712,
+    4755447915,
+    4755447488,
+    4755447581,
+    4755447712
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 395408474,
+  "center": {
+    "lat": 34.0130329,
+    "lon": -6.8226153
+  },
+  "nodes": [
+    3982895549,
+    3982895254,
+    3982894498,
+    3982895536,
+    3982894713,
+    3982895052,
+    3982895549
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique El Amal"
+  }
+},
+{
+  "type": "way",
+  "id": 278585583,
+  "center": {
+    "lat": 34.0167546,
+    "lon": -6.8281984
+  },
+  "nodes": [
+    2829339304,
+    2829339301,
+    2829338396,
+    2829338393,
+    2829338391,
+    2829338392,
+    2829338389,
+    2829338390,
+    2829338388,
+    2829338394,
+    2829338395,
+    2829338398,
+    2829338397,
+    2829338399,
+    2829338400,
+    2829339306,
+    2829339302,
+    2829339303,
+    2829339305,
+    2829339304
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "La capitale"
+  }
+},
+{
+  "type": "way",
+  "id": 250293879,
+  "center": {
+    "lat": 34.0232931,
+    "lon": -6.7668810
+  },
+  "nodes": [
+    2386545390,
+    4090092959,
+    4090092953,
+    4090092961,
+    2386545390
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "hôpital d'El Karia"
+  }
+},
+{
+  "type": "way",
+  "id": 176276373,
+  "center": {
+    "lat": 33.9976280,
+    "lon": -6.7462419
+  },
+  "nodes": [
+    1868230048,
+    1868230049,
+    1868230047,
+    1868230048
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 250293101,
+  "center": {
+    "lat": 34.0261906,
+    "lon": -6.7536171
+  },
+  "nodes": [
+    2567764780,
+    2567764781,
+    2567764782,
+    2567764783,
+    2567764784,
+    2567764785,
+    2567764780
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Nouveau Hopital My Abdellah"
+  }
+},
+{
+  "type": "way",
+  "id": 221101263,
+  "center": {
+    "lat": 34.0457237,
+    "lon": -6.7972527
+  },
+  "nodes": [
+    2301618429,
+    2301618432,
+    2301618434,
+    2301618436,
+    2301618429
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre de santé"
+  }
+},
+{
+  "type": "way",
+  "id": 152610310,
+  "nodes": [
+    1654185824,
+    1654185823,
+    1654185814,
+    1654185811,
+    1654185829,
+    2151220258,
+    1654185830,
+    1654185934,
+    1654185827,
+    1654185824
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital militaire d'instruction Mohammed V"
+  }
+},
+{
+  "type": "way",
+  "id": 289025339,
+  "nodes": [
+    2925743912,
+    2925743911,
+    2925743910,
+    2925743913,
+    2925743914,
+    2925743915,
+    2925743916,
+    2925743917,
+    2925743918,
+    2925743919,
+    2925743920,
+    2925743912
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Cheikh Zaid"
+  }
+},
+{
+  "type": "way",
+  "id": 152610307,
+  "nodes": [
+    1654186017,
+    1654186015,
+    1654185994,
+    1654185984,
+    1654185960,
+    1654185941,
+    1654185943,
+    1654185954,
+    1654185957,
+    1654185968,
+    1654185977,
+    1654185980,
+    1654185981,
+    1654185983,
+    1654185987,
+    1654186016,
+    1654186019,
+    1654186017
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU Ibn Sina (Souissi)"
+  }
+},
+{
+  "type": "way",
+  "id": 482745706,
+  "nodes": [
+    4755447712,
+    4755447915,
+    4755447488,
+    4755447581,
+    4755447712
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 395408474,
+  "nodes": [
+    3982895549,
+    3982895254,
+    3982894498,
+    3982895536,
+    3982894713,
+    3982895052,
+    3982895549
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique El Amal"
+  }
+},
+{
+  "type": "way",
+  "id": 278585583,
+  "nodes": [
+    2829339304,
+    2829339301,
+    2829338396,
+    2829338393,
+    2829338391,
+    2829338392,
+    2829338389,
+    2829338390,
+    2829338388,
+    2829338394,
+    2829338395,
+    2829338398,
+    2829338397,
+    2829338399,
+    2829338400,
+    2829339306,
+    2829339302,
+    2829339303,
+    2829339305,
+    2829339304
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "La capitale"
+  }
+},
+{
+  "type": "way",
+  "id": 250293879,
+  "nodes": [
+    2386545390,
+    4090092959,
+    4090092953,
+    4090092961,
+    2386545390
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "hôpital d'El Karia"
+  }
+},
+{
+  "type": "way",
+  "id": 176276373,
+  "nodes": [
+    1868230048,
+    1868230049,
+    1868230047,
+    1868230048
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 250293101,
+  "nodes": [
+    2567764780,
+    2567764781,
+    2567764782,
+    2567764783,
+    2567764784,
+    2567764785,
+    2567764780
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Nouveau Hopital My Abdellah"
+  }
+},
+{
+  "type": "way",
+  "id": 221101263,
+  "nodes": [
+    2301618429,
+    2301618432,
+    2301618434,
+    2301618436,
+    2301618429
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre de santé"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,333 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/192814574",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Routière Touristique",
+    "operator": "Central Voyage",
+    "id": "way/192814574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5257485,
+      3.8731427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192829440",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Routière de MIMBOMAN Terminus",
+    "source": "sobzeros",
+    "id": "way/192829440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.55045,
+      3.867443
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192847265",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "maryland express",
+    "source": "sobzeros",
+    "id": "way/192847265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4882035,
+      3.8518192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192848610",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "charter",
+    "source": "sobzeros",
+    "id": "way/192848610"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.488256,
+      3.8519019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192865340",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "agence tresor voyages",
+    "source": "sobzeros",
+    "id": "way/192865340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4867386,
+      3.8499709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192868539",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Central Voyage",
+    "shop": "travel_agency",
+    "source": "GeoCameroun",
+    "id": "way/192868539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5216342,
+      3.8466203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192878695",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "menoa voyages",
+    "source": "sobzeros",
+    "id": "way/192878695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4868001,
+      3.8491371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193523038",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Garanti Express Company Limited",
+    "note:capacite": "400",
+    "shop": "travel_agency",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/193523038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5088399,
+      3.8281824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219413128",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Yaoundé Ouest",
+    "id": "way/219413128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.497192,
+      3.8725823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/419588198",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/419588198"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5261798,
+      3.9073842
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425549015",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "amour mezam voyages",
+    "id": "way/425549015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4874924,
+      3.8509981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425549021",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "foden voyages",
+    "id": "way/425549021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4873256,
+      3.8509475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425549022",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "general express voyages",
+    "id": "way/425549022"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.486023,
+      3.8485499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425549023",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "international line voyages",
+    "id": "way/425549023"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4870429,
+      3.8505345
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/909317682",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Le Car",
+    "id": "node/909317682"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5387223,
+      3.8872596
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1103614025",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "General Express",
+    "id": "node/1103614025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5259092,
+      3.9041595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2267159067",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La Kribienne",
+    "id": "node/2267159067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5165313,
+      3.8243072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4381897490",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Danay Express",
+    "name:fr": "Danay Express",
+    "id": "node/4381897490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5151245,
+      3.8208736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4381907390",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "FineXs Voyages",
+    "name:fr": "FineXs Voyages",
+    "id": "node/4381907390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5135891,
+      3.8171393
+    ]
+  }
+}
+]
+}

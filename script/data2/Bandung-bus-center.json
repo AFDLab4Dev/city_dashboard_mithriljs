@@ -1,0 +1,676 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:47:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 29391345,
+  "lat": -6.8781826,
+  "lon": 107.5958964,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Karang Setra"
+  }
+},
+{
+  "type": "node",
+  "id": 29392015,
+  "lat": -6.8904837,
+  "lon": 107.5993151,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Sederhana",
+    "route_ref": "11A;15;23;24"
+  }
+},
+{
+  "type": "node",
+  "id": 1107504893,
+  "lat": -6.8721357,
+  "lon": 107.5744599,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Politeknik Bandung (Polban)",
+    "public_transport": "stop_position",
+    "ref": "Politeknik Bandung (Polban)"
+  }
+},
+{
+  "type": "node",
+  "id": 1662376687,
+  "lat": -6.8670564,
+  "lon": 107.6210686,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Dago"
+  }
+},
+{
+  "type": "node",
+  "id": 1879505409,
+  "lat": -6.8806713,
+  "lon": 107.5379058,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Pasar Antri Cimahi"
+  }
+},
+{
+  "type": "node",
+  "id": 2352378157,
+  "lat": -6.9026125,
+  "lon": 107.6567526,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "Buses to Pandangaran",
+    "name": "Terminal Bus Cicaheum"
+  }
+},
+{
+  "type": "node",
+  "id": 2352381520,
+  "lat": -6.9275002,
+  "lon": 107.6060519,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Kebon Kelapa"
+  }
+},
+{
+  "type": "node",
+  "id": 2352383137,
+  "lat": -6.9132924,
+  "lon": 107.5756497,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Elang"
+  }
+},
+{
+  "type": "node",
+  "id": 2500443118,
+  "lat": -6.9614072,
+  "lon": 107.6246560,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Primajasa"
+  }
+},
+{
+  "type": "node",
+  "id": 3029967052,
+  "lat": -6.8855429,
+  "lon": 107.6142058,
+  "tags": {
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "107",
+    "addr:postcode": "40132",
+    "addr:street": "Jalan Dipatiukur",
+    "amenity": "bus_station",
+    "name": "DayTrans Dipatiukur",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3244745031,
+  "lat": -6.8032279,
+  "lon": 107.5818041,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Parongpong"
+  }
+},
+{
+  "type": "node",
+  "id": 3244745033,
+  "lat": -6.9142008,
+  "lon": 107.5886438,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Terminal Ciroyom",
+    "public_transport": "stop_position",
+    "ref": "Terminal Ciroyom"
+  }
+},
+{
+  "type": "node",
+  "id": 3244754744,
+  "lat": -6.9021374,
+  "lon": 107.6568463,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Bus Cicaheum",
+    "public_transport": "stop_position",
+    "ref": "Terminal Bus Cicaheum"
+  }
+},
+{
+  "type": "node",
+  "id": 3249461528,
+  "lat": -6.8954481,
+  "lon": 107.5599316,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Cimindi",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3250474887,
+  "lat": -6.7987153,
+  "lon": 107.5757309,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Cisarua (Curug Cimahi)",
+    "source": "https://angkotbandung.wordpress.com/category/terminal-cisarua/"
+  }
+},
+{
+  "type": "node",
+  "id": 3251041603,
+  "lat": -6.9397765,
+  "lon": 107.7535783,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Cileunyi"
+  }
+},
+{
+  "type": "node",
+  "id": 3256049561,
+  "lat": -6.8581360,
+  "lon": 107.6436942,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ciburial"
+  }
+},
+{
+  "type": "node",
+  "id": 3256092261,
+  "lat": -6.9210723,
+  "lon": 107.6064433,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Alun-alun"
+  }
+},
+{
+  "type": "node",
+  "id": 3374033509,
+  "lat": -6.9273998,
+  "lon": 107.6059072,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Terminal Abdul Muis/Kebon Kalapa",
+    "public_transport": "stop_position",
+    "ref": "Terminal Abdul Muis/Kebon Kalapa"
+  }
+},
+{
+  "type": "node",
+  "id": 4058092945,
+  "lat": -6.9349550,
+  "lon": 107.7162767,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bus station"
+  }
+},
+{
+  "type": "node",
+  "id": 4099275953,
+  "lat": -6.8939183,
+  "lon": 107.5863300,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CitiTrans"
+  }
+},
+{
+  "type": "node",
+  "id": 4243841169,
+  "lat": -6.9402494,
+  "lon": 107.5817925,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Primajasa"
+  }
+},
+{
+  "type": "node",
+  "id": 4327237840,
+  "lat": -6.8980170,
+  "lon": 107.5929335,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "35",
+    "addr:street": "Jalan Pasteur, Pamoyanan, Cicendo",
+    "amenity": "bus_station",
+    "name": "Xtrans - Pasteur"
+  }
+},
+{
+  "type": "node",
+  "id": 4366522973,
+  "lat": -6.8907645,
+  "lon": 107.6042797,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "210",
+    "addr:postcode": "40131",
+    "addr:street": "Jalan Cihampelas",
+    "amenity": "bus_station",
+    "name": "DayTrans Cihampelas"
+  }
+},
+{
+  "type": "node",
+  "id": 4373194455,
+  "lat": -6.8905218,
+  "lon": 107.6166774,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Geulis Indonesia Travel"
+  }
+},
+{
+  "type": "node",
+  "id": 4375049547,
+  "lat": -6.8972060,
+  "lon": 107.5917373,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "55B",
+    "addr:postcode": "40173",
+    "addr:street": "Jalan Doktor Djunjunan",
+    "amenity": "bus_station",
+    "name": "DayTrans Dr. Djunjunan"
+  }
+},
+{
+  "type": "node",
+  "id": 4424651193,
+  "lat": -6.9063449,
+  "lon": 107.5992960,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Bandung Expres Paket"
+  }
+},
+{
+  "type": "way",
+  "id": 321073551,
+  "center": {
+    "lat": -6.9459874,
+    "lon": 107.5940179
+  },
+  "nodes": [
+    3277883751,
+    3277883752,
+    3277883753,
+    3277883754,
+    3277883755,
+    3277883756,
+    3277883757,
+    3277883758,
+    3277883759,
+    3277883760,
+    3277883861,
+    3277883865,
+    3277883862,
+    3277888666,
+    3277883863,
+    3277883864,
+    3277883751
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Bis Leuwipanjang"
+  }
+},
+{
+  "type": "way",
+  "id": 383052677,
+  "center": {
+    "lat": -6.9465381,
+    "lon": 107.6624886
+  },
+  "nodes": [
+    3862534102,
+    3862534879,
+    3862534103,
+    3874166203,
+    3874166200,
+    3862534104,
+    3862534105,
+    3862534102
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Angkot Margahayu Raya",
+    "operator": "Kobanter Baru"
+  }
+},
+{
+  "type": "way",
+  "id": 217843186,
+  "center": {
+    "lat": -6.9154683,
+    "lon": 107.6657905
+  },
+  "nodes": [
+    2271452389,
+    2271452391,
+    2271452390,
+    2271452388,
+    2271452389
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Antapani"
+  }
+},
+{
+  "type": "way",
+  "id": 299060309,
+  "center": {
+    "lat": -6.8908939,
+    "lon": 107.6168084
+  },
+  "nodes": [
+    3029960602,
+    3029960603,
+    3029960604,
+    3029960605,
+    3029960602
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 155190115,
+  "center": {
+    "lat": -6.8591457,
+    "lon": 107.5951232
+  },
+  "nodes": [
+    1676073746,
+    1676073741,
+    1676073730,
+    1676073727,
+    1676073746
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Ledeng"
+  }
+},
+{
+  "type": "way",
+  "id": 319068173,
+  "center": {
+    "lat": -6.8626711,
+    "lon": 107.6048171
+  },
+  "nodes": [
+    3254870564,
+    3254870565,
+    3254870566,
+    3254870567,
+    3254870564
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Ciumbeuleuit"
+  }
+},
+{
+  "type": "way",
+  "id": 320604754,
+  "center": {
+    "lat": -6.9028032,
+    "lon": 107.6567229
+  },
+  "nodes": [
+    3271893478,
+    3271893479,
+    3271893480,
+    3271893481,
+    3271893478
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Terminal Bus dan Angkot Cicaheum",
+    "parking": "park_and_ride"
+  }
+},
+{
+  "type": "way",
+  "id": 182987706,
+  "center": {
+    "lat": -6.8168725,
+    "lon": 107.6239115
+  },
+  "nodes": [
+    1933534986,
+    1933534992,
+    1933535001,
+    1933534999,
+    1933534986
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Lembang"
+  }
+},
+{
+  "type": "relation",
+  "id": 4421035,
+  "center": {
+    "lat": -6.7852548,
+    "lon": 107.6517617
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 183114518,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 318678697,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Wisata Grafika Cikole",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "way",
+  "id": 321073551,
+  "nodes": [
+    3277883751,
+    3277883752,
+    3277883753,
+    3277883754,
+    3277883755,
+    3277883756,
+    3277883757,
+    3277883758,
+    3277883759,
+    3277883760,
+    3277883861,
+    3277883865,
+    3277883862,
+    3277888666,
+    3277883863,
+    3277883864,
+    3277883751
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Bis Leuwipanjang"
+  }
+},
+{
+  "type": "way",
+  "id": 383052677,
+  "nodes": [
+    3862534102,
+    3862534879,
+    3862534103,
+    3874166203,
+    3874166200,
+    3862534104,
+    3862534105,
+    3862534102
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Angkot Margahayu Raya",
+    "operator": "Kobanter Baru"
+  }
+},
+{
+  "type": "way",
+  "id": 217843186,
+  "nodes": [
+    2271452389,
+    2271452391,
+    2271452390,
+    2271452388,
+    2271452389
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Antapani"
+  }
+},
+{
+  "type": "way",
+  "id": 299060309,
+  "nodes": [
+    3029960602,
+    3029960603,
+    3029960604,
+    3029960605,
+    3029960602
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 155190115,
+  "nodes": [
+    1676073746,
+    1676073741,
+    1676073730,
+    1676073727,
+    1676073746
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Ledeng"
+  }
+},
+{
+  "type": "way",
+  "id": 319068173,
+  "nodes": [
+    3254870564,
+    3254870565,
+    3254870566,
+    3254870567,
+    3254870564
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Terminal Ciumbeuleuit"
+  }
+},
+{
+  "type": "way",
+  "id": 320604754,
+  "nodes": [
+    3271893478,
+    3271893479,
+    3271893480,
+    3271893481,
+    3271893478
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Terminal Bus dan Angkot Cicaheum",
+    "parking": "park_and_ride"
+  }
+},
+{
+  "type": "way",
+  "id": 182987706,
+  "nodes": [
+    1933534986,
+    1933534992,
+    1933535001,
+    1933534999,
+    1933534986
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Lembang"
+  }
+},
+{
+  "type": "relation",
+  "id": 4421035,
+  "members": [
+    {
+      "type": "way",
+      "ref": 183114518,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 318678697,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Terminal Wisata Grafika Cikole",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

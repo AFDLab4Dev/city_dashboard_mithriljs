@@ -1,0 +1,126 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:36:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 272049512,
+  "center": {
+    "lat": 0.3855745,
+    "lon": 9.4467089
+  },
+  "nodes": [
+    2769814375,
+    2769814378,
+    2769814379,
+    2769814380,
+    2769814375
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Village Artisanal mini"
+  }
+},
+{
+  "type": "way",
+  "id": 174085435,
+  "center": {
+    "lat": 0.3868617,
+    "lon": 9.4465690
+  },
+  "nodes": [
+    1848271905,
+    1848271898,
+    1848271902,
+    1848271908,
+    1848271905
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Village Artisanal",
+    "shop": "gift"
+  }
+},
+{
+  "type": "way",
+  "id": 270078850,
+  "center": {
+    "lat": 0.4118577,
+    "lon": 9.4547960
+  },
+  "nodes": [
+    2751678772,
+    2751678771,
+    2751678769,
+    2751678766,
+    2751678763,
+    2751678765,
+    2751678767,
+    2751678768,
+    2751678772
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "N'kembo Market"
+  }
+},
+{
+  "type": "way",
+  "id": 272049512,
+  "nodes": [
+    2769814375,
+    2769814378,
+    2769814379,
+    2769814380,
+    2769814375
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Village Artisanal mini"
+  }
+},
+{
+  "type": "way",
+  "id": 174085435,
+  "nodes": [
+    1848271905,
+    1848271898,
+    1848271902,
+    1848271908,
+    1848271905
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Village Artisanal",
+    "shop": "gift"
+  }
+},
+{
+  "type": "way",
+  "id": 270078850,
+  "nodes": [
+    2751678772,
+    2751678771,
+    2751678769,
+    2751678766,
+    2751678763,
+    2751678765,
+    2751678767,
+    2751678768,
+    2751678772
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "N'kembo Market"
+  }
+}
+
+  ]
+}

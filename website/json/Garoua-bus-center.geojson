@@ -1,0 +1,141 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/220730901",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Star express",
+    "id": "way/220730901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3992679,
+      9.3087949
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222892645",
+  "properties": {
+    "amenity": "bus_station",
+    "barrier": "hedge",
+    "name": "Tsanaga Voyage",
+    "source": "MEADEN",
+    "id": "way/222892645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3962539,
+      9.3038841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349489921",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "WOILA Voyage",
+    "source": "MEADEN",
+    "id": "node/2349489921"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3952153,
+      9.3033148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2354848295",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Touristique Express",
+    "id": "node/2354848295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4004458,
+      9.2983171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2358423352",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Stationnement de Poli et Tcholliré",
+    "source": "MEADEN",
+    "id": "node/2358423352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4030752,
+      9.2987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2360400621",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Narral Voyage",
+    "source": "MEADEN",
+    "id": "node/2360400621"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4004458,
+      9.3037448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4471677089",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Danay Express",
+    "name:fr": "Danay Express",
+    "id": "node/4471677089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4005749,
+      9.31154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4674898194",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Danay express",
+    "name:fr": "Danay express",
+    "id": "node/4674898194"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4006685,
+      9.3116445
+    ]
+  }
+}
+]
+}

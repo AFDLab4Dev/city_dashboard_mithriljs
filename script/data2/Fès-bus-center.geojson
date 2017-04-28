@@ -1,0 +1,69 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/95233186",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière",
+    "id": "way/95233186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9868474,
+      34.0647013
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/157756704",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/157756704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9862298,
+      34.0546426
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/186942858",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "CTM",
+    "id": "way/186942858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9964495,
+      34.0314885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4746622222",
+  "properties": {
+    "amenity": "bus_station",
+    "name:en": "CTM",
+    "id": "node/4746622222"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.986705,
+      34.0647013
+    ]
+  }
+}
+]
+}

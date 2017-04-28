@@ -1,0 +1,56 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:38:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 452318168,
+  "center": {
+    "lat": 34.2649639,
+    "lon": -6.5738224
+  },
+  "nodes": [
+    4491345927,
+    4491345928,
+    4491345929,
+    4491345930,
+    4491345931,
+    4491345932,
+    4491345933,
+    4491345934,
+    4491345927
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare routière de Kénitra"
+  }
+},
+{
+  "type": "way",
+  "id": 452318168,
+  "nodes": [
+    4491345927,
+    4491345928,
+    4491345929,
+    4491345930,
+    4491345931,
+    4491345932,
+    4491345933,
+    4491345934,
+    4491345927
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare routière de Kénitra"
+  }
+}
+
+  ]
+}

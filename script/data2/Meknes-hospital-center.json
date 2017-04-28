@@ -1,0 +1,274 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:40:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4000042770,
+  "lat": 33.8890710,
+  "lon": -5.5240615,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Militaire Moulay Ismail"
+  }
+},
+{
+  "type": "node",
+  "id": 4356630092,
+  "lat": 33.8778796,
+  "lon": -5.5602143,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4360600289,
+  "lat": 33.7497368,
+  "lon": -5.4871047,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4769756650,
+  "lat": 33.8928715,
+  "lon": -5.5771889,
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "hôpital Sidi Said",
+    "name:ar": "مستشفى سيدي سعيد"
+  }
+},
+{
+  "type": "way",
+  "id": 307416672,
+  "center": {
+    "lat": 33.8841387,
+    "lon": -5.5767676
+  },
+  "nodes": [
+    3125560720,
+    3125560721,
+    3125560722,
+    3125560723,
+    3125560720
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé - Takadoum"
+  }
+},
+{
+  "type": "way",
+  "id": 315392072,
+  "center": {
+    "lat": 33.8954854,
+    "lon": -5.5837890
+  },
+  "nodes": [
+    3215008166,
+    3215008165,
+    3215008164,
+    3215072304,
+    3215008166
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Hay Salam مستشفى حي السلام",
+    "name:ar": "مستشفى حي السلام",
+    "name:fr": "Hôpital Hay Salam"
+  }
+},
+{
+  "type": "way",
+  "id": 315802635,
+  "center": {
+    "lat": 33.9029552,
+    "lon": -5.5783818
+  },
+  "nodes": [
+    3219356275,
+    3219356276,
+    3219356277,
+    3219356278,
+    3219356275
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 315802633,
+  "center": {
+    "lat": 33.9019740,
+    "lon": -5.5772441
+  },
+  "nodes": [
+    3219356266,
+    3219356267,
+    3219350560,
+    3219350559,
+    3219356268,
+    3219356269,
+    3219356266
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "La croix rouge"
+  }
+},
+{
+  "type": "way",
+  "id": 315799098,
+  "center": {
+    "lat": 33.9120470,
+    "lon": -5.5774214
+  },
+  "nodes": [
+    3219327711,
+    3219327712,
+    3219327713,
+    3219327714,
+    3219327711
+  ],
+  "tags": {
+    "addr:city": "Meknès مكناس",
+    "amenity": "hospital",
+    "name": "مستشفى سيدي بابا",
+    "name:fr": "Hôpital Sidi Baba"
+  }
+},
+{
+  "type": "way",
+  "id": 308237853,
+  "center": {
+    "lat": 33.9038339,
+    "lon": -5.5403272
+  },
+  "nodes": [
+    3135269619,
+    3135269622,
+    3135269620,
+    3135269621,
+    3135269623,
+    3135269618,
+    3135269619
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Mohemed V"
+  }
+},
+{
+  "type": "way",
+  "id": 307416672,
+  "nodes": [
+    3125560720,
+    3125560721,
+    3125560722,
+    3125560723,
+    3125560720
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé - Takadoum"
+  }
+},
+{
+  "type": "way",
+  "id": 315392072,
+  "nodes": [
+    3215008166,
+    3215008165,
+    3215008164,
+    3215072304,
+    3215008166
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Hay Salam مستشفى حي السلام",
+    "name:ar": "مستشفى حي السلام",
+    "name:fr": "Hôpital Hay Salam"
+  }
+},
+{
+  "type": "way",
+  "id": 315802635,
+  "nodes": [
+    3219356275,
+    3219356276,
+    3219356277,
+    3219356278,
+    3219356275
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 315802633,
+  "nodes": [
+    3219356266,
+    3219356267,
+    3219350560,
+    3219350559,
+    3219356268,
+    3219356269,
+    3219356266
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "La croix rouge"
+  }
+},
+{
+  "type": "way",
+  "id": 315799098,
+  "nodes": [
+    3219327711,
+    3219327712,
+    3219327713,
+    3219327714,
+    3219327711
+  ],
+  "tags": {
+    "addr:city": "Meknès مكناس",
+    "amenity": "hospital",
+    "name": "مستشفى سيدي بابا",
+    "name:fr": "Hôpital Sidi Baba"
+  }
+},
+{
+  "type": "way",
+  "id": 308237853,
+  "nodes": [
+    3135269619,
+    3135269622,
+    3135269620,
+    3135269621,
+    3135269623,
+    3135269618,
+    3135269619
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Mohemed V"
+  }
+}
+
+  ]
+}

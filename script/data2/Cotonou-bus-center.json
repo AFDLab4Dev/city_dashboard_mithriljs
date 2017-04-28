@@ -1,0 +1,640 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2348384273,
+  "lat": 6.3722197,
+  "lon": 2.4095795,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "5",
+    "destination_place": "Bohicon; Parakou; Malanville; Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Ayina Transport Tourisme",
+    "operator": "Privé",
+    "phone": "+22965001034 / +22965001039"
+  }
+},
+{
+  "type": "node",
+  "id": 2605998214,
+  "lat": 6.3800448,
+  "lon": 2.3799442,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3032537604,
+  "lat": 6.3948610,
+  "lon": 2.3450010,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Godomey",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3416435102,
+  "lat": 6.3840723,
+  "lon": 2.3753882,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "CONFORT LINES",
+    "note": "Cette gare concerne uniquement la compagnie",
+    "source": "gps;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3896288635,
+  "lat": 6.3590524,
+  "lon": 2.4331397,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "destination_place": "Togo, Burkina Faso, Mali",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "TCV",
+    "operator": "Privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4164183650,
+  "lat": 6.3576150,
+  "lon": 2.4207300,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Rimbo Transport",
+    "operator": "Privé",
+    "phone": "+22968491919 / +22998140932"
+  }
+},
+{
+  "type": "node",
+  "id": 4200044054,
+  "lat": 6.3596617,
+  "lon": 2.4212683,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "email": "stm_transport@yahoo.fr",
+    "internet_access": "yes",
+    "name": "STM",
+    "operator": "Privé",
+    "phone": "+22799986969"
+  }
+},
+{
+  "type": "node",
+  "id": 4345783393,
+  "lat": 6.3706878,
+  "lon": 2.4100231,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4530060170,
+  "lat": 6.3610769,
+  "lon": 2.4329389,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "departure_per_day": "3",
+    "destination_place": "Togo, Ghana, Côte d4Ivoire",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Ghana Express",
+    "operator": "Privé",
+    "phone": "+22996668136",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 4539776254,
+  "lat": 6.3598555,
+  "lon": 2.4217630,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "destination_place": "Bamako, Mali",
+    "destination_type": "internationale",
+    "email": "toupac-trans@toupac-trans.com",
+    "internet_access": "no",
+    "name": "Toupac Transport",
+    "operator": "Privé",
+    "phone": "+223202059",
+    "website": "www.toupac-trans.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4539789798,
+  "lat": 6.3587865,
+  "lon": 2.4242248,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "email": "sahelosaharienne@yahoo.fr",
+    "internet_access": "no",
+    "name": "3STV",
+    "operator": "Privé",
+    "phone": "+22794246666"
+  }
+},
+{
+  "type": "node",
+  "id": 4539797540,
+  "lat": 6.3576366,
+  "lon": 2.4228649,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "departure_per_day": "2",
+    "destination_place": "Ougadougou(Burkina Faso) ; Bamako(Mali)",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Africa Tours",
+    "operator": "Privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4539812603,
+  "lat": 6.3576593,
+  "lon": 2.4225888,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "internet_access": "oui",
+    "name": "Nijma Transport",
+    "operator": "Privé",
+    "phone": "+22967330154"
+  }
+},
+{
+  "type": "node",
+  "id": 4539817562,
+  "lat": 6.3584369,
+  "lon": 2.4213531,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "autre",
+    "destination_place": "Malanville",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Zarra"
+  }
+},
+{
+  "type": "node",
+  "id": 4539825800,
+  "lat": 6.3581978,
+  "lon": 2.4200437,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Sonef Transport",
+    "operator": "Privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4539852453,
+  "lat": 6.3574960,
+  "lon": 2.4390416,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "departure_per_day": "2",
+    "destination_place": "Abidjan Côte d'Ivoire",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "UTB",
+    "operator": "Privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4550557745,
+  "lat": 6.3722120,
+  "lon": 2.4404915,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_type": "internationale"
+  }
+},
+{
+  "type": "node",
+  "id": 4552175728,
+  "lat": 6.3640363,
+  "lon": 2.4236191,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "description": "Compagnie Inter-Etats Cotonou- Accra/ Cotonou-Abidjan/ Cotonou-Niamey/ Cotonou-Ouagadougou",
+    "destination_place": "Ghana; Côte d'Ivoire",
+    "destination_type": "internationale",
+    "internet_access": "oui",
+    "name": "Intercity Stc"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675692,
+  "lat": 6.3704250,
+  "lon": 2.4241658,
+  "tags": {
+    "amenity": "bus_station",
+    "internet_access": "non",
+    "name": "Rahana Transport"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675693,
+  "lat": 6.3734548,
+  "lon": 2.4127203,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "destination_place": "Malanville; Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "operator": "privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675694,
+  "lat": 6.3724241,
+  "lon": 2.4113341,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Dosso",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "operator": "privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675695,
+  "lat": 6.3724107,
+  "lon": 2.4113048,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Kao Voyages",
+    "operator": "privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675696,
+  "lat": 6.3703509,
+  "lon": 2.4092451,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "operator": "privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675697,
+  "lat": 6.3744773,
+  "lon": 2.4066620,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "4",
+    "destination_place": "Parakou; Natitingou; Kandi; Malanville",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Confort Lines",
+    "operator": "privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4615675698,
+  "lat": 6.3768524,
+  "lon": 2.4071064,
+  "tags": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "4",
+    "destination_place": "Parakou; Natitingou; Kandi; Malanville",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Pax Express",
+    "operator": "privé"
+  }
+},
+{
+  "type": "node",
+  "id": 4677350963,
+  "lat": 6.3658959,
+  "lon": 2.4349518,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare sèmè-Igolo"
+  }
+},
+{
+  "type": "way",
+  "id": 347333079,
+  "center": {
+    "lat": 6.4135152,
+    "lon": 2.3419287
+  },
+  "nodes": [
+    3536672192,
+    3536672319,
+    3536672605,
+    3536672616,
+    3536672618,
+    3536672617,
+    3536672192
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt bus"
+  }
+},
+{
+  "type": "way",
+  "id": 347333139,
+  "center": {
+    "lat": 6.4136973,
+    "lon": 2.3420522
+  },
+  "nodes": [
+    3536672613,
+    3536672607,
+    3536672611,
+    3536672615,
+    3536672613
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne I"
+  }
+},
+{
+  "type": "way",
+  "id": 347333140,
+  "center": {
+    "lat": 6.4134188,
+    "lon": 2.3417503
+  },
+  "nodes": [
+    3536672347,
+    3536672372,
+    3536672370,
+    3536672345,
+    3536672347
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne VI"
+  }
+},
+{
+  "type": "way",
+  "id": 347333141,
+  "center": {
+    "lat": 6.4135937,
+    "lon": 2.3420293
+  },
+  "nodes": [
+    3536672389,
+    3536672386,
+    3536672387,
+    3536672598,
+    3536672389
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne II"
+  }
+},
+{
+  "type": "way",
+  "id": 347333143,
+  "center": {
+    "lat": 6.4134947,
+    "lon": 2.3420080
+  },
+  "nodes": [
+    3536672381,
+    3536672371,
+    3536672378,
+    3536672385,
+    3536672381
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne III"
+  }
+},
+{
+  "type": "way",
+  "id": 347333144,
+  "center": {
+    "lat": 6.4133507,
+    "lon": 2.3419720
+  },
+  "nodes": [
+    3536672341,
+    3536672325,
+    3536672330,
+    3536672352,
+    3536672341
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne IV"
+  }
+},
+{
+  "type": "way",
+  "id": 347333145,
+  "center": {
+    "lat": 6.4132594,
+    "lon": 2.3419411
+  },
+  "nodes": [
+    3536672316,
+    3536672300,
+    3536672310,
+    3536672321,
+    3536672316
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne V"
+  }
+},
+{
+  "type": "way",
+  "id": 347333079,
+  "nodes": [
+    3536672192,
+    3536672319,
+    3536672605,
+    3536672616,
+    3536672618,
+    3536672617,
+    3536672192
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt bus"
+  }
+},
+{
+  "type": "way",
+  "id": 347333139,
+  "nodes": [
+    3536672613,
+    3536672607,
+    3536672611,
+    3536672615,
+    3536672613
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne I"
+  }
+},
+{
+  "type": "way",
+  "id": 347333140,
+  "nodes": [
+    3536672347,
+    3536672372,
+    3536672370,
+    3536672345,
+    3536672347
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne VI"
+  }
+},
+{
+  "type": "way",
+  "id": 347333141,
+  "nodes": [
+    3536672389,
+    3536672386,
+    3536672387,
+    3536672598,
+    3536672389
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne II"
+  }
+},
+{
+  "type": "way",
+  "id": 347333143,
+  "nodes": [
+    3536672381,
+    3536672371,
+    3536672378,
+    3536672385,
+    3536672381
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne III"
+  }
+},
+{
+  "type": "way",
+  "id": 347333144,
+  "nodes": [
+    3536672341,
+    3536672325,
+    3536672330,
+    3536672352,
+    3536672341
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne IV"
+  }
+},
+{
+  "type": "way",
+  "id": 347333145,
+  "nodes": [
+    3536672316,
+    3536672300,
+    3536672310,
+    3536672321,
+    3536672316
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ligne V"
+  }
+}
+
+  ]
+}

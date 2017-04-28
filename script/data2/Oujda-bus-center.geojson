@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/305742508",
+  "properties": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Gare Routière d'Oujda",
+    "public_transport": "bus_station",
+    "id": "way/305742508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9304073,
+      34.6755933
+    ]
+  }
+}
+]
+}

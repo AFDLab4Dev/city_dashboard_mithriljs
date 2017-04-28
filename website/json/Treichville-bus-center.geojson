@@ -1,0 +1,379 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/106520978",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Dépot Sotra",
+    "id": "way/106520978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0162994,
+      5.3660497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/185330824",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Centre bus SOTRA d'Abobo",
+    "id": "way/185330824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0350786,
+      5.43954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/241779924",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "UTB",
+    "id": "way/241779924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9556598,
+      5.2968682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295528558",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Arrêt de Bus Cité Administrative",
+    "operator": "SOTRA",
+    "public_transport": "station",
+    "id": "way/295528558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0236899,
+      5.3312339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/334697705",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare-Sud",
+    "operator": "SOTRA",
+    "id": "way/334697705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.018521,
+      5.3146677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397279350",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare de bus et gbaka",
+    "id": "way/397279350"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.8768239,
+      5.3531691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/443088838",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "gare de la vie",
+    "id": "way/443088838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0038042,
+      5.3485945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/768587597",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gabriel Gare Yopougon",
+    "id": "node/768587597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0713569,
+      5.3560967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1140749265",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière d'Abobo Anonkoua-Kouté",
+    "url": "http://www.sogegar.com",
+    "id": "node/1140749265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0430857,
+      5.4413047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1224687427",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Sotra - Direction Régionale d’Abobo",
+    "operator": "Sotra",
+    "id": "node/1224687427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0352313,
+      5.4382942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1625055311",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare de Bassam",
+    "id": "node/1625055311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0032915,
+      5.2990514
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1625189805",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Adjamé",
+    "id": "node/1625189805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0221512,
+      5.3518445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3145728412",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3145728412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9792153,
+      5.3533171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3787272840",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "GH-Express",
+    "id": "node/3787272840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0085511,
+      5.3120224
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323525302",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Malex Yopougon",
+    "id": "node/4323525302"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0777761,
+      5.3553845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4331386438",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare",
+    "id": "node/4331386438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0754508,
+      5.3561548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4449384525",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Intercity STC Coaches Ltd.",
+    "operator": "Intercity STC Coaches Ltd.",
+    "short_name": "STC",
+    "id": "node/4449384525"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.000285,
+      5.2961383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4449390497",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "STB",
+    "id": "node/4449390497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0085324,
+      5.3119716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4449496796",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4449496796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0086458,
+      5.3121635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4449496797",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4449496797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0087021,
+      5.3123478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4485187395",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Sotra Gare nord",
+    "id": "node/4485187395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.027483,
+      5.3585786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4766206131",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare de vario",
+    "name:fr": "Gare de vario",
+    "id": "node/4766206131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0226704,
+      5.3533041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4768904825",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "TCV",
+    "name:fr": "TCV",
+    "id": "node/4768904825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0326694,
+      5.3551645
+    ]
+  }
+}
+]
+}

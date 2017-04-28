@@ -1,0 +1,635 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1640305526,
+  "lat": -4.3412468,
+  "lon": 15.2630405,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Wenze"
+  }
+},
+{
+  "type": "node",
+  "id": 2273728696,
+  "lat": -4.3562963,
+  "lon": 15.3092766,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Kalé Banzazi"
+  }
+},
+{
+  "type": "node",
+  "id": 2273811597,
+  "lat": -4.3980814,
+  "lon": 15.3720464,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Q7"
+  }
+},
+{
+  "type": "node",
+  "id": 2299738184,
+  "lat": -4.3413325,
+  "lon": 15.2770662,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2533328477,
+  "lat": -4.4061069,
+  "lon": 15.2558038,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché UPN"
+  }
+},
+{
+  "type": "node",
+  "id": 3291476353,
+  "lat": -4.2889870,
+  "lon": 15.2504677,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Total"
+  }
+},
+{
+  "type": "node",
+  "id": 3291519902,
+  "lat": -4.2743066,
+  "lon": 15.2833791,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de la Plaine"
+  }
+},
+{
+  "type": "node",
+  "id": 3291519934,
+  "lat": -4.2813498,
+  "lon": 15.2689440,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "工艺品市场Marché Touristique du Plateau"
+  }
+},
+{
+  "type": "node",
+  "id": 3292022157,
+  "lat": -4.2189564,
+  "lon": 15.2746052,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Tembé Na Ba Mbanda"
+  }
+},
+{
+  "type": "node",
+  "id": 3447641029,
+  "lat": -4.3152865,
+  "lon": 15.2834209,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché des Valeurs"
+  }
+},
+{
+  "type": "node",
+  "id": 3725889159,
+  "lat": -4.2812653,
+  "lon": 15.2686445,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Plateau Ville",
+    "name:zh": "工艺品市场"
+  }
+},
+{
+  "type": "node",
+  "id": 3725889163,
+  "lat": -4.2583344,
+  "lon": 15.2789622,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Moungali"
+  }
+},
+{
+  "type": "node",
+  "id": 3725889187,
+  "lat": -4.2631421,
+  "lon": 15.2862126,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Poto-Poto"
+  }
+},
+{
+  "type": "node",
+  "id": 3725889188,
+  "lat": -4.2600391,
+  "lon": 15.2654388,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Plateau des 15 ans"
+  }
+},
+{
+  "type": "node",
+  "id": 4092519419,
+  "lat": -4.3522931,
+  "lon": 15.3105007,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "marché mariano"
+  }
+},
+{
+  "type": "node",
+  "id": 4278203349,
+  "lat": -4.3922509,
+  "lon": 15.3473275,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Matete"
+  }
+},
+{
+  "type": "node",
+  "id": 4618026749,
+  "lat": -4.3277689,
+  "lon": 15.3170330,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 4792082849,
+  "lat": -4.3917160,
+  "lon": 15.3730810,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marche Mitraille",
+    "source": "MSF survey 2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4796871668,
+  "lat": -4.3977550,
+  "lon": 15.3768490,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Mangobo",
+    "source": "MSF survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 466709518,
+  "center": {
+    "lat": -4.3946294,
+    "lon": 15.3326091
+  },
+  "nodes": [
+    4614510443,
+    4614510444,
+    4614510445,
+    4614510446,
+    4614510447,
+    4614510448,
+    4614510449,
+    4614510450,
+    4614510451,
+    4614510452,
+    4614510453,
+    4614510454,
+    4614510443
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Lemba"
+  }
+},
+{
+  "type": "way",
+  "id": 466709519,
+  "center": {
+    "lat": -4.3922424,
+    "lon": 15.3472992
+  },
+  "nodes": [
+    4278360848,
+    4278384098,
+    4278363838,
+    4277418800,
+    4614510455,
+    4614510456,
+    4614510457,
+    4614510458,
+    4614510459,
+    4614510460,
+    4278360848
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché  de Matete"
+  }
+},
+{
+  "type": "way",
+  "id": 4693467,
+  "center": {
+    "lat": -4.3919783,
+    "lon": 15.3842693
+  },
+  "nodes": [
+    29833549,
+    29833544,
+    29833545,
+    29833546,
+    29833547,
+    29833548,
+    29833549
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de la LIberté"
+  }
+},
+{
+  "type": "way",
+  "id": 48570162,
+  "center": {
+    "lat": -4.3547111,
+    "lon": 15.2399401
+  },
+  "nodes": [
+    616938117,
+    616938118,
+    616938119,
+    616938120,
+    616938117
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché des Anciens Combattants",
+    "old_name": "Marché Cité Beaudoin"
+  }
+},
+{
+  "type": "way",
+  "id": 467167188,
+  "center": {
+    "lat": -4.3852383,
+    "lon": 15.2834025
+  },
+  "nodes": [
+    4618202375,
+    4618202376,
+    4618202377,
+    4618202378,
+    4618202375
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché"
+  }
+},
+{
+  "type": "way",
+  "id": 57890777,
+  "center": {
+    "lat": -4.3513984,
+    "lon": 15.3006190
+  },
+  "nodes": [
+    718478551,
+    718478553,
+    718478555,
+    718478557,
+    718478551
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché Bayaka"
+  }
+},
+{
+  "type": "way",
+  "id": 204418633,
+  "center": {
+    "lat": -4.3521249,
+    "lon": 15.3006140
+  },
+  "nodes": [
+    2144257232,
+    2144257233,
+    2144257236,
+    2144257235,
+    2144257232
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché Bayaka"
+  }
+},
+{
+  "type": "way",
+  "id": 194696285,
+  "center": {
+    "lat": -4.2990375,
+    "lon": 15.2404266
+  },
+  "nodes": [
+    2052006984,
+    2052006982,
+    2052006983,
+    2052006985,
+    2052006984
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marche Total"
+  }
+},
+{
+  "type": "way",
+  "id": 204867792,
+  "center": {
+    "lat": -4.3243113,
+    "lon": 15.3052418
+  },
+  "nodes": [
+    2148448538,
+    2148448513,
+    2148448507,
+    2148448509,
+    2148448525,
+    2148448527,
+    2148448538
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 63951640,
+  "center": {
+    "lat": -4.3511788,
+    "lon": 15.3328792
+  },
+  "nodes": [
+    789390552,
+    789390555,
+    789390556,
+    789390559,
+    789390552
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Yolo",
+    "sport": "football"
+  }
+},
+{
+  "type": "way",
+  "id": 129297270,
+  "center": {
+    "lat": -4.3276986,
+    "lon": 15.3170578
+  },
+  "nodes": [
+    1426812114,
+    1426812115,
+    1426812120,
+    1426812123,
+    1426812127,
+    1426812114
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Somba Zigida"
+  }
+},
+{
+  "type": "way",
+  "id": 466709518,
+  "nodes": [
+    4614510443,
+    4614510444,
+    4614510445,
+    4614510446,
+    4614510447,
+    4614510448,
+    4614510449,
+    4614510450,
+    4614510451,
+    4614510452,
+    4614510453,
+    4614510454,
+    4614510443
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Lemba"
+  }
+},
+{
+  "type": "way",
+  "id": 466709519,
+  "nodes": [
+    4278360848,
+    4278384098,
+    4278363838,
+    4277418800,
+    4614510455,
+    4614510456,
+    4614510457,
+    4614510458,
+    4614510459,
+    4614510460,
+    4278360848
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché  de Matete"
+  }
+},
+{
+  "type": "way",
+  "id": 4693467,
+  "nodes": [
+    29833549,
+    29833544,
+    29833545,
+    29833546,
+    29833547,
+    29833548,
+    29833549
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de la LIberté"
+  }
+},
+{
+  "type": "way",
+  "id": 48570162,
+  "nodes": [
+    616938117,
+    616938118,
+    616938119,
+    616938120,
+    616938117
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché des Anciens Combattants",
+    "old_name": "Marché Cité Beaudoin"
+  }
+},
+{
+  "type": "way",
+  "id": 467167188,
+  "nodes": [
+    4618202375,
+    4618202376,
+    4618202377,
+    4618202378,
+    4618202375
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché"
+  }
+},
+{
+  "type": "way",
+  "id": 57890777,
+  "nodes": [
+    718478551,
+    718478553,
+    718478555,
+    718478557,
+    718478551
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché Bayaka"
+  }
+},
+{
+  "type": "way",
+  "id": 204418633,
+  "nodes": [
+    2144257232,
+    2144257233,
+    2144257236,
+    2144257235,
+    2144257232
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché Bayaka"
+  }
+},
+{
+  "type": "way",
+  "id": 194696285,
+  "nodes": [
+    2052006984,
+    2052006982,
+    2052006983,
+    2052006985,
+    2052006984
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marche Total"
+  }
+},
+{
+  "type": "way",
+  "id": 204867792,
+  "nodes": [
+    2148448538,
+    2148448513,
+    2148448507,
+    2148448509,
+    2148448525,
+    2148448527,
+    2148448538
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 63951640,
+  "nodes": [
+    789390552,
+    789390555,
+    789390556,
+    789390559,
+    789390552
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Yolo",
+    "sport": "football"
+  }
+},
+{
+  "type": "way",
+  "id": 129297270,
+  "nodes": [
+    1426812114,
+    1426812115,
+    1426812120,
+    1426812123,
+    1426812127,
+    1426812114
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Somba Zigida"
+  }
+}
+
+  ]
+}

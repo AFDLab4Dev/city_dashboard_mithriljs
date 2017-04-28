@@ -1,0 +1,76 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/309167326",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Mbengwi",
+    "note": "Find transportation to Bamenda here. Includes many bars, small restaurants and basic goods stores.",
+    "id": "way/309167326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0140613,
+      5.9992657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1082848060",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VATICAN EXPRESS",
+    "id": "node/1082848060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1522772,
+      5.9614336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4307618291",
+  "properties": {
+    "addr:housenumber": "P.O.Box 134",
+    "addr:street": "Nkwen Street",
+    "amenity": "bus_station",
+    "email": "amourmezam@gmail.com",
+    "name": "Amour Mezam Company Ltd",
+    "phone": "233363755",
+    "website": "http://www.amourmezam.com",
+    "id": "node/4307618291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1715808,
+      5.9677802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4474393298",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Nkwen Park",
+    "name:en": "Nkwen Park",
+    "id": "node/4474393298"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1848591,
+      5.992703
+    ]
+  }
+}
+]
+}

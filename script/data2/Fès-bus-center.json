@@ -1,0 +1,140 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:37:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4746622222,
+  "lat": 34.0647013,
+  "lon": -4.9867050,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "CTM"
+  }
+},
+{
+  "type": "way",
+  "id": 186942858,
+  "center": {
+    "lat": 34.0314885,
+    "lon": -4.9964495
+  },
+  "nodes": [
+    1976914940,
+    1976914944,
+    1976914928,
+    1976914926,
+    1976914940
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "CTM"
+  }
+},
+{
+  "type": "way",
+  "id": 157756704,
+  "center": {
+    "lat": 34.0546426,
+    "lon": -4.9862298
+  },
+  "nodes": [
+    1104663479,
+    1700097330,
+    1700097540,
+    1700097292,
+    1104663281,
+    1104663453,
+    260150743,
+    1104663479
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 95233186,
+  "center": {
+    "lat": 34.0647013,
+    "lon": -4.9868474
+  },
+  "nodes": [
+    1104662920,
+    1104663142,
+    2133877791,
+    260156287,
+    2133975746,
+    2133975740,
+    260156289,
+    260156292,
+    2133877793,
+    1104662920
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière"
+  }
+},
+{
+  "type": "way",
+  "id": 186942858,
+  "nodes": [
+    1976914940,
+    1976914944,
+    1976914928,
+    1976914926,
+    1976914940
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "CTM"
+  }
+},
+{
+  "type": "way",
+  "id": 157756704,
+  "nodes": [
+    1104663479,
+    1700097330,
+    1700097540,
+    1700097292,
+    1104663281,
+    1104663453,
+    260150743,
+    1104663479
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 95233186,
+  "nodes": [
+    1104662920,
+    1104663142,
+    2133877791,
+    260156287,
+    2133975746,
+    2133975740,
+    260156289,
+    260156292,
+    2133877793,
+    1104662920
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière"
+  }
+}
+
+  ]
+}

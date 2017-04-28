@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3927623421",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "KPOBE LA GARE",
+    "id": "node/3927623421"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6211607,
+      6.4781591
+    ]
+  }
+}
+]
+}

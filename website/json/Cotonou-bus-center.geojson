@@ -1,0 +1,659 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/347333079",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Arrêt bus",
+    "id": "way/347333079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3419287,
+      6.4135152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/347333139",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ligne I",
+    "id": "way/347333139"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3420522,
+      6.4136973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/347333140",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ligne VI",
+    "id": "way/347333140"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3417503,
+      6.4134188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/347333141",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ligne II",
+    "id": "way/347333141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3420293,
+      6.4135937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/347333143",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ligne III",
+    "id": "way/347333143"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.342008,
+      6.4134947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/347333144",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ligne IV",
+    "id": "way/347333144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.341972,
+      6.4133507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/347333145",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ligne V",
+    "id": "way/347333145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3419411,
+      6.4132594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2348384273",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "5",
+    "destination_place": "Bohicon; Parakou; Malanville; Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Ayina Transport Tourisme",
+    "operator": "Privé",
+    "phone": "+22965001034 / +22965001039",
+    "id": "node/2348384273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4095795,
+      6.3722197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2605998214",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière",
+    "source": "GPS",
+    "id": "node/2605998214"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3799442,
+      6.3800448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3032537604",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Godomey",
+    "source": "survey",
+    "id": "node/3032537604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.345001,
+      6.394861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3416435102",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "CONFORT LINES",
+    "note": "Cette gare concerne uniquement la compagnie",
+    "source": "gps;survey",
+    "id": "node/3416435102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3753882,
+      6.3840723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3896288635",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "destination_place": "Togo, Burkina Faso, Mali",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "TCV",
+    "operator": "Privé",
+    "id": "node/3896288635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4331397,
+      6.3590524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4164183650",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Rimbo Transport",
+    "operator": "Privé",
+    "phone": "+22968491919 / +22998140932",
+    "id": "node/4164183650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.42073,
+      6.357615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4200044054",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "email": "stm_transport@yahoo.fr",
+    "internet_access": "yes",
+    "name": "STM",
+    "operator": "Privé",
+    "phone": "+22799986969",
+    "id": "node/4200044054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4212683,
+      6.3596617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4345783393",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4345783393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4100231,
+      6.3706878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4530060170",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "departure_per_day": "3",
+    "destination_place": "Togo, Ghana, Côte d4Ivoire",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Ghana Express",
+    "operator": "Privé",
+    "phone": "+22996668136",
+    "public_transport": "station",
+    "id": "node/4530060170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4329389,
+      6.3610769
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539776254",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "destination_place": "Bamako, Mali",
+    "destination_type": "internationale",
+    "email": "toupac-trans@toupac-trans.com",
+    "internet_access": "no",
+    "name": "Toupac Transport",
+    "operator": "Privé",
+    "phone": "+223202059",
+    "website": "www.toupac-trans.com",
+    "id": "node/4539776254"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.421763,
+      6.3598555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539789798",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "email": "sahelosaharienne@yahoo.fr",
+    "internet_access": "no",
+    "name": "3STV",
+    "operator": "Privé",
+    "phone": "+22794246666",
+    "id": "node/4539789798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4242248,
+      6.3587865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539797540",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "departure_per_day": "2",
+    "destination_place": "Ougadougou(Burkina Faso) ; Bamako(Mali)",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Africa Tours",
+    "operator": "Privé",
+    "id": "node/4539797540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4228649,
+      6.3576366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539812603",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "internet_access": "oui",
+    "name": "Nijma Transport",
+    "operator": "Privé",
+    "phone": "+22967330154",
+    "id": "node/4539812603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4225888,
+      6.3576593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539817562",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "autre",
+    "destination_place": "Malanville",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Zarra",
+    "id": "node/4539817562"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4213531,
+      6.3584369
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539825800",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Niamey, Niger",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "Sonef Transport",
+    "operator": "Privé",
+    "id": "node/4539825800"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4200437,
+      6.3581978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4539852453",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "hebdomadaire",
+    "departure_per_day": "2",
+    "destination_place": "Abidjan Côte d'Ivoire",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "name": "UTB",
+    "operator": "Privé",
+    "id": "node/4539852453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4390416,
+      6.357496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550557745",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_type": "internationale",
+    "id": "node/4550557745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4404915,
+      6.372212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4552175728",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "description": "Compagnie Inter-Etats Cotonou- Accra/ Cotonou-Abidjan/ Cotonou-Niamey/ Cotonou-Ouagadougou",
+    "destination_place": "Ghana; Côte d'Ivoire",
+    "destination_type": "internationale",
+    "internet_access": "oui",
+    "name": "Intercity Stc",
+    "id": "node/4552175728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4236191,
+      6.3640363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675692",
+  "properties": {
+    "amenity": "bus_station",
+    "internet_access": "non",
+    "name": "Rahana Transport",
+    "id": "node/4615675692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4241658,
+      6.370425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675693",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "2",
+    "destination_place": "Malanville; Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "operator": "privé",
+    "id": "node/4615675693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4127203,
+      6.3734548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675694",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Dosso",
+    "destination_type": "internationale",
+    "internet_access": "non",
+    "operator": "privé",
+    "id": "node/4615675694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4113341,
+      6.3724241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675695",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Kao Voyages",
+    "operator": "privé",
+    "id": "node/4615675695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4113048,
+      6.3724107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675696",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "1",
+    "destination_place": "Natitingou",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "operator": "privé",
+    "id": "node/4615675696"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4092451,
+      6.3703509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675697",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "4",
+    "destination_place": "Parakou; Natitingou; Kandi; Malanville",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Confort Lines",
+    "operator": "privé",
+    "id": "node/4615675697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.406662,
+      6.3744773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615675698",
+  "properties": {
+    "amenity": "bus_station",
+    "departure": "journalier",
+    "departure_per_day": "4",
+    "destination_place": "Parakou; Natitingou; Kandi; Malanville",
+    "destination_type": "nationale",
+    "internet_access": "non",
+    "name": "Pax Express",
+    "operator": "privé",
+    "id": "node/4615675698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4071064,
+      6.3768524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4677350963",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare sèmè-Igolo",
+    "id": "node/4677350963"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4349518,
+      6.3658959
+    ]
+  }
+}
+]
+}

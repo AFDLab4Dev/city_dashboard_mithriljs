@@ -1,0 +1,1490 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:47:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 32041987,
+  "lat": -6.8773969,
+  "lon": 107.5911377,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Puskesmas Karang Setra"
+  }
+},
+{
+  "type": "node",
+  "id": 32520363,
+  "lat": -6.8922013,
+  "lon": 107.5944038,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Puskesmas Sukajadi"
+  }
+},
+{
+  "type": "node",
+  "id": 32520369,
+  "lat": -6.9067355,
+  "lon": 107.6108762,
+  "tags": {
+    "amenity": "hospital",
+    "name": "RS Sariningsih"
+  }
+},
+{
+  "type": "node",
+  "id": 32520372,
+  "lat": -6.9066048,
+  "lon": 107.6132423,
+  "tags": {
+    "amenity": "hospital",
+    "name": "RS Limijati"
+  }
+},
+{
+  "type": "node",
+  "id": 32520373,
+  "lat": -6.8942744,
+  "lon": 107.6134497,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "100",
+    "addr:street": "Jalan Ir. Haji Juanda",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Santo Boromeus"
+  }
+},
+{
+  "type": "node",
+  "id": 32520381,
+  "lat": -6.9065198,
+  "lon": 107.6156302,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Halmahera Siaga"
+  }
+},
+{
+  "type": "node",
+  "id": 32520384,
+  "lat": -6.9057428,
+  "lon": 107.6201443,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "RS ZR Tedja"
+  }
+},
+{
+  "type": "node",
+  "id": 32529122,
+  "lat": -6.9125080,
+  "lon": 107.5732265,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Rajawali"
+  }
+},
+{
+  "type": "node",
+  "id": 32529134,
+  "lat": -6.9209101,
+  "lon": 107.5966131,
+  "tags": {
+    "amenity": "hospital",
+    "name": "RS Cibadak"
+  }
+},
+{
+  "type": "node",
+  "id": 32529140,
+  "lat": -6.9347862,
+  "lon": 107.5969260,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Immanuel"
+  }
+},
+{
+  "type": "node",
+  "id": 32529144,
+  "lat": -6.9157594,
+  "lon": 107.6015379,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Santosa International Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 32529148,
+  "lat": -6.9066836,
+  "lon": 107.6033743,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Melinda"
+  }
+},
+{
+  "type": "node",
+  "id": 319706077,
+  "lat": -6.8643151,
+  "lon": 107.6048127,
+  "tags": {
+    "amenity": "hospital",
+    "created_by": "Potlatch 0.10f",
+    "name": "RSAU Dr Salamun"
+  }
+},
+{
+  "type": "node",
+  "id": 479732486,
+  "lat": -6.8777867,
+  "lon": 107.6064864,
+  "tags": {
+    "addr:street": "Jalan Bukit Jarian",
+    "amenity": "hospital",
+    "name": "Paru paru Cipaganti"
+  }
+},
+{
+  "type": "node",
+  "id": 1342944384,
+  "lat": -6.9068551,
+  "lon": 107.6115329,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Jiwa Pusat Bandung"
+  }
+},
+{
+  "type": "node",
+  "id": 1342944402,
+  "lat": -6.9068455,
+  "lon": 107.6109445,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Sariningsih"
+  }
+},
+{
+  "type": "node",
+  "id": 1342948126,
+  "lat": -6.9063359,
+  "lon": 107.6141140,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Khusus Gigi"
+  }
+},
+{
+  "type": "node",
+  "id": 1342948127,
+  "lat": -6.9064024,
+  "lon": 107.6136554,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Limijati"
+  }
+},
+{
+  "type": "node",
+  "id": 1342970054,
+  "lat": -6.9132468,
+  "lon": 107.6136493,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Rumah Sakit Emma Puradiredja"
+  }
+},
+{
+  "type": "node",
+  "id": 1342970056,
+  "lat": -6.9088168,
+  "lon": 107.6196119,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Palang Merah Indonesia Citarum"
+  }
+},
+{
+  "type": "node",
+  "id": 1381753529,
+  "lat": -6.8853403,
+  "lon": 107.6203433,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Ginjal Nyonya Ra Habibie"
+  }
+},
+{
+  "type": "node",
+  "id": 1381753576,
+  "lat": -6.8759742,
+  "lon": 107.6185752,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Puskesmas Dago"
+  }
+},
+{
+  "type": "node",
+  "id": 1388222204,
+  "lat": -6.8913271,
+  "lon": 107.6272402,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Puskesmas Cikutra Lama"
+  }
+},
+{
+  "type": "node",
+  "id": 1657503395,
+  "lat": -6.8954102,
+  "lon": 107.5884505,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hermina"
+  }
+},
+{
+  "type": "node",
+  "id": 1879501441,
+  "lat": -6.8791563,
+  "lon": 107.5509047,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Cibabat Cimahi"
+  }
+},
+{
+  "type": "node",
+  "id": 1919646276,
+  "lat": -6.9273603,
+  "lon": 107.6089534,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "99",
+    "addr:postcode": "40251",
+    "addr:street": "Jalan Pasundan",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Pasundan"
+  }
+},
+{
+  "type": "node",
+  "id": 1930140081,
+  "lat": -6.9004372,
+  "lon": 107.5961373,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1957913105,
+  "lat": -6.9185273,
+  "lon": 107.6134403,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Bungsu"
+  }
+},
+{
+  "type": "node",
+  "id": 2016370359,
+  "lat": -6.8755508,
+  "lon": 107.5774069,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Sarijadi"
+  }
+},
+{
+  "type": "node",
+  "id": 2054039775,
+  "lat": -6.9770087,
+  "lon": 107.6302836,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Klinik IT Telkom"
+  }
+},
+{
+  "type": "node",
+  "id": 2133710945,
+  "lat": -6.8835946,
+  "lon": 107.5941316,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Jiwa Hurip Waluya"
+  }
+},
+{
+  "type": "node",
+  "id": 2133722104,
+  "lat": -6.8983839,
+  "lon": 107.5984231,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "38",
+    "addr:postcode": "40161",
+    "addr:street": "Jalan Pasteur",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Hasan Sadikin",
+    "old_name": "Wilhelmina Ziekenhuis"
+  }
+},
+{
+  "type": "node",
+  "id": 2133728315,
+  "lat": -6.9097870,
+  "lon": 107.6042726,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "#4",
+    "addr:street": "Jalan Cicendo , Sumurbandung",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Mata Cicendo",
+    "name:en": "Cicendo Eye Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2133741445,
+  "lat": -6.8852642,
+  "lon": 107.6200766,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Ginjal"
+  }
+},
+{
+  "type": "node",
+  "id": 2133756380,
+  "lat": -6.9402412,
+  "lon": 107.6460591,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Pindad"
+  }
+},
+{
+  "type": "node",
+  "id": 2133758689,
+  "lat": -6.9361248,
+  "lon": 107.6567933,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Sukapura"
+  }
+},
+{
+  "type": "node",
+  "id": 2134509654,
+  "lat": -6.9335102,
+  "lon": 107.6232872,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Muhammadiyah"
+  }
+},
+{
+  "type": "node",
+  "id": 2134510103,
+  "lat": -6.9293459,
+  "lon": 107.6004777,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Astana Anyar"
+  }
+},
+{
+  "type": "node",
+  "id": 2134510992,
+  "lat": -6.9560618,
+  "lon": 107.6123706,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Bhayangkara Sartika Asih"
+  }
+},
+{
+  "type": "node",
+  "id": 3062139312,
+  "lat": -6.8970637,
+  "lon": 107.6072151,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Puskesmas"
+  }
+},
+{
+  "type": "node",
+  "id": 3734660938,
+  "lat": -6.8884504,
+  "lon": 107.5251138,
+  "tags": {
+    "amenity": "hospital",
+    "name": "KSR"
+  }
+},
+{
+  "type": "node",
+  "id": 3834119157,
+  "lat": -6.9694356,
+  "lon": 107.6354167,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Bojongsoang",
+    "phone": "022 154443",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4327896045,
+  "lat": -6.9115790,
+  "lon": 107.5775511,
+  "tags": {
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "81",
+    "addr:street": "Jalan Dadali , Garuda, Andir",
+    "amenity": "hospital",
+    "name": "Puskesmas Garuda"
+  }
+},
+{
+  "type": "node",
+  "id": 4328115074,
+  "lat": -6.9163150,
+  "lon": 107.5961982,
+  "tags": {
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "152",
+    "addr:street": "Jl. Kb. Jati , Kb. Jeruk, Andir",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Umum Kebonjati"
+  }
+},
+{
+  "type": "node",
+  "id": 4328207174,
+  "lat": -6.8868210,
+  "lon": 107.5812491,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "65",
+    "addr:street": "Jl. Surya Sumantri",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Gigi dan Mulut Maranatha"
+  }
+},
+{
+  "type": "node",
+  "id": 4350962537,
+  "lat": -6.9665403,
+  "lon": 107.5735080,
+  "tags": {
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "8",
+    "addr:postcode": "40228",
+    "addr:street": "Jalan Taman Kopo Indah 1 Block C",
+    "amenity": "hospital",
+    "name": "Klinik Kasih jaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4365875851,
+  "lat": -6.9067652,
+  "lon": 107.6437613,
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "7",
+    "addr:postcode": "40124",
+    "addr:street": "Jalan Cikutra",
+    "amenity": "hospital",
+    "name": "Rumah sakit Sanato Yusuf"
+  }
+},
+{
+  "type": "node",
+  "id": 4368144230,
+  "lat": -6.9519809,
+  "lon": 107.5855324,
+  "tags": {
+    "addr:housenumber": "413",
+    "addr:street": "Jalan Kopo",
+    "amenity": "hospital",
+    "name": "Sentosa Hospita"
+  }
+},
+{
+  "type": "node",
+  "id": 4369219426,
+  "lat": -6.9038215,
+  "lon": 107.6209995,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ERHA Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4370023250,
+  "lat": -6.9065575,
+  "lon": 107.5982561,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Melinda Hospital 2"
+  }
+},
+{
+  "type": "node",
+  "id": 4370197110,
+  "lat": -6.9213387,
+  "lon": 107.6585757,
+  "tags": {
+    "amenity": "hospital",
+    "name": "AIRIN BEAUTY CARE"
+  }
+},
+{
+  "type": "node",
+  "id": 4375129543,
+  "lat": -6.9155358,
+  "lon": 107.6003414,
+  "tags": {
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "38",
+    "addr:postcode": "40181",
+    "addr:street": "Jalan Kebon Jati",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Santosa"
+  }
+},
+{
+  "type": "node",
+  "id": 4380225077,
+  "lat": -6.9352819,
+  "lon": 107.5958505,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Imanuel Jl. Masuk via Jl. Raya Kopo"
+  }
+},
+{
+  "type": "way",
+  "id": 193663131,
+  "center": {
+    "lat": -7.0261250,
+    "lon": 107.5171465
+  },
+  "nodes": [
+    2041835445,
+    2041835446,
+    2041835443,
+    2041835444,
+    2041835440,
+    2041835439,
+    2041835442,
+    2041835441,
+    2041835445
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Umum Daerah Soreang"
+  }
+},
+{
+  "type": "way",
+  "id": 423157043,
+  "center": {
+    "lat": -6.9158239,
+    "lon": 107.5964154
+  },
+  "nodes": [
+    4228582966,
+    4228582967,
+    4228582964,
+    4228582965,
+    4228582966
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Kebon Jati"
+  }
+},
+{
+  "type": "way",
+  "id": 382982561,
+  "center": {
+    "lat": -6.9408605,
+    "lon": 107.6642269
+  },
+  "nodes": [
+    3861856861,
+    3862534389,
+    3862534362,
+    3869647756,
+    3862534364,
+    3862534385,
+    3862534384,
+    3861856862,
+    3861856863,
+    3861856864,
+    3862534380,
+    3862534366,
+    3862534394,
+    3862534367,
+    3861856865,
+    3862534391,
+    3861856861
+  ],
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "21",
+    "addr:postcode": "40286",
+    "addr:street": "Rancabolang",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "name": "RSIA Humana Prima",
+    "phone": "+62 (022) 7563701",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 175011356,
+  "center": {
+    "lat": -6.9400195,
+    "lon": 107.6687814
+  },
+  "nodes": [
+    1856657681,
+    1856657682,
+    3862534577,
+    1856657680,
+    1856657685,
+    3862534584,
+    1856657688,
+    3862534589,
+    1856657687,
+    3862534596,
+    3862534597,
+    3862534592,
+    1856657714,
+    3862534593,
+    1856657713,
+    1856657716,
+    1856657715,
+    1856657712,
+    1856657711,
+    3862534651,
+    3862534652,
+    3862534643,
+    1856657708,
+    1856657710,
+    1856657690,
+    3862534637,
+    1856657692,
+    1856657681
+  ],
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "644",
+    "addr:street": "Jalan Soekarno-Hatta",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Al Islam",
+    "phone": "+62 (022) 7510583",
+    "website": "http://www.rsalislam.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 363379669,
+  "center": {
+    "lat": -6.9329998,
+    "lon": 107.6645016
+  },
+  "nodes": [
+    3675493853,
+    3675493854,
+    3675493855,
+    3675493856,
+    3675493853
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Posyandu"
+  }
+},
+{
+  "type": "way",
+  "id": 344079024,
+  "center": {
+    "lat": -6.9066391,
+    "lon": 107.6431385
+  },
+  "nodes": [
+    3508374407,
+    3508374404,
+    3508374406,
+    3508374409,
+    3508374411,
+    3508374410,
+    3508374396,
+    3508374393,
+    3508374402,
+    3508374398,
+    3508374401,
+    3508374395,
+    3508374394,
+    3508374408,
+    3508374400,
+    3508374399,
+    3508374412,
+    3508374405,
+    3508374403,
+    3508374397,
+    3508374407
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Santo Yusuf"
+  }
+},
+{
+  "type": "way",
+  "id": 156022638,
+  "center": {
+    "lat": -6.9047748,
+    "lon": 107.6668015
+  },
+  "nodes": [
+    1683385905,
+    1683385922,
+    1683385926,
+    1683385932,
+    1683385935,
+    1683385934,
+    1683385901,
+    1683385937,
+    1683385940,
+    1683385939,
+    1683385943,
+    1683385972,
+    1683385945,
+    1683385948,
+    1683385952,
+    1683385967,
+    1683385969,
+    1683385976,
+    1683385984,
+    1683385978,
+    1683385980,
+    1683385897,
+    1683385905
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "R.S. Hermina"
+  }
+},
+{
+  "type": "way",
+  "id": 412599698,
+  "center": {
+    "lat": -6.8655960,
+    "lon": 107.4740295
+  },
+  "nodes": [
+    4139878225,
+    4139878226,
+    4139878227,
+    4139878229,
+    4139878230,
+    4139878231,
+    4139878232,
+    4139878233,
+    4139878234,
+    4139878235,
+    4139878236,
+    4139878237,
+    4139878238,
+    4139878225
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Rumah Sakit Cahaya Kawaluyaan",
+    "short_name": "RS Cahaya Kawaluyaan"
+  }
+},
+{
+  "type": "way",
+  "id": 462560032,
+  "center": {
+    "lat": -6.8865629,
+    "lon": 107.5340193
+  },
+  "nodes": [
+    4579394249,
+    4579394251,
+    4579394253,
+    4579394250,
+    4579394248,
+    4579394252,
+    4579394247,
+    4579394249
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "RS Dustira"
+  }
+},
+{
+  "type": "way",
+  "id": 155091969,
+  "center": {
+    "lat": -6.8682032,
+    "lon": 107.5823440
+  },
+  "nodes": [
+    1675266835,
+    1675266833,
+    1675266832,
+    1675266834,
+    1675266835
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Sukasari"
+  }
+},
+{
+  "type": "way",
+  "id": 120340028,
+  "center": {
+    "lat": -6.8924289,
+    "lon": 107.6034359
+  },
+  "nodes": [
+    1349526746,
+    1349526750,
+    2317306707,
+    1349526741,
+    1349526739,
+    1349526747,
+    1349526744,
+    1349526749,
+    1349526748,
+    1349526746
+  ],
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "161",
+    "addr:postcode": "40131",
+    "addr:street": "Jalan Cihampelas",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "emergency": "yes",
+    "name": "Rumah Sakit Advent"
+  }
+},
+{
+  "type": "way",
+  "id": 100262052,
+  "center": {
+    "lat": -6.8980357,
+    "lon": 107.5983394
+  },
+  "nodes": [
+    1158831765,
+    1158831777,
+    1158831771,
+    1158831780,
+    1158831767,
+    1158831778,
+    1158831782,
+    1158831785,
+    1158831775,
+    3269315387,
+    3269315386,
+    3269315385,
+    3269315384,
+    1658946808,
+    3269315383,
+    3269315378,
+    3269315382,
+    3269315379,
+    3269315380,
+    3269315381,
+    1158831763,
+    1158831769,
+    3269315388,
+    3269315389,
+    3269315390,
+    1158831761,
+    1158831765
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 119437624,
+  "center": {
+    "lat": -6.8944452,
+    "lon": 107.6137351
+  },
+  "nodes": [
+    1342094480,
+    1342094482,
+    1342094479,
+    1342094485,
+    2037765740,
+    1342094481,
+    1342094478,
+    1342094484,
+    1342094480
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "name": "Gedung St Yosep"
+  }
+},
+{
+  "type": "way",
+  "id": 380223312,
+  "center": {
+    "lat": -6.8939070,
+    "lon": 107.6136752
+  },
+  "nodes": [
+    3835646950,
+    3835646953,
+    3835646951,
+    3835646952,
+    3835646950
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Santo Boromeus"
+  }
+},
+{
+  "type": "way",
+  "id": 119419634,
+  "center": {
+    "lat": -6.8906295,
+    "lon": 107.6193170
+  },
+  "nodes": [
+    1341957621,
+    1341957625,
+    1341957634,
+    1341957631,
+    1341957619,
+    1341957630,
+    1341957638,
+    1341957635,
+    1341957624,
+    1341957633,
+    1341957622,
+    1341957639,
+    1341957629,
+    1341957636,
+    1341957626,
+    1341957632,
+    1341957620,
+    1341957621
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "name": "RSGM Unpad"
+  }
+},
+{
+  "type": "way",
+  "id": 152948636,
+  "center": {
+    "lat": -6.8619806,
+    "lon": 107.5930231
+  },
+  "nodes": [
+    1657173042,
+    1657173081,
+    1657173074,
+    1657173037,
+    1657173042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building:color": "grey",
+    "building:levels": "2",
+    "building:part": "yes",
+    "emergency": "no",
+    "name": "Poliklinik",
+    "roof:colour": "grey"
+  }
+},
+{
+  "type": "way",
+  "id": 193663131,
+  "nodes": [
+    2041835445,
+    2041835446,
+    2041835443,
+    2041835444,
+    2041835440,
+    2041835439,
+    2041835442,
+    2041835441,
+    2041835445
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Umum Daerah Soreang"
+  }
+},
+{
+  "type": "way",
+  "id": 423157043,
+  "nodes": [
+    4228582966,
+    4228582967,
+    4228582964,
+    4228582965,
+    4228582966
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Kebon Jati"
+  }
+},
+{
+  "type": "way",
+  "id": 382982561,
+  "nodes": [
+    3861856861,
+    3862534389,
+    3862534362,
+    3869647756,
+    3862534364,
+    3862534385,
+    3862534384,
+    3861856862,
+    3861856863,
+    3861856864,
+    3862534380,
+    3862534366,
+    3862534394,
+    3862534367,
+    3861856865,
+    3862534391,
+    3861856861
+  ],
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "21",
+    "addr:postcode": "40286",
+    "addr:street": "Rancabolang",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "name": "RSIA Humana Prima",
+    "phone": "+62 (022) 7563701",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 175011356,
+  "nodes": [
+    1856657681,
+    1856657682,
+    3862534577,
+    1856657680,
+    1856657685,
+    3862534584,
+    1856657688,
+    3862534589,
+    1856657687,
+    3862534596,
+    3862534597,
+    3862534592,
+    1856657714,
+    3862534593,
+    1856657713,
+    1856657716,
+    1856657715,
+    1856657712,
+    1856657711,
+    3862534651,
+    3862534652,
+    3862534643,
+    1856657708,
+    1856657710,
+    1856657690,
+    3862534637,
+    1856657692,
+    1856657681
+  ],
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "644",
+    "addr:street": "Jalan Soekarno-Hatta",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Al Islam",
+    "phone": "+62 (022) 7510583",
+    "website": "http://www.rsalislam.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 363379669,
+  "nodes": [
+    3675493853,
+    3675493854,
+    3675493855,
+    3675493856,
+    3675493853
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Posyandu"
+  }
+},
+{
+  "type": "way",
+  "id": 344079024,
+  "nodes": [
+    3508374407,
+    3508374404,
+    3508374406,
+    3508374409,
+    3508374411,
+    3508374410,
+    3508374396,
+    3508374393,
+    3508374402,
+    3508374398,
+    3508374401,
+    3508374395,
+    3508374394,
+    3508374408,
+    3508374400,
+    3508374399,
+    3508374412,
+    3508374405,
+    3508374403,
+    3508374397,
+    3508374407
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Santo Yusuf"
+  }
+},
+{
+  "type": "way",
+  "id": 156022638,
+  "nodes": [
+    1683385905,
+    1683385922,
+    1683385926,
+    1683385932,
+    1683385935,
+    1683385934,
+    1683385901,
+    1683385937,
+    1683385940,
+    1683385939,
+    1683385943,
+    1683385972,
+    1683385945,
+    1683385948,
+    1683385952,
+    1683385967,
+    1683385969,
+    1683385976,
+    1683385984,
+    1683385978,
+    1683385980,
+    1683385897,
+    1683385905
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "R.S. Hermina"
+  }
+},
+{
+  "type": "way",
+  "id": 412599698,
+  "nodes": [
+    4139878225,
+    4139878226,
+    4139878227,
+    4139878229,
+    4139878230,
+    4139878231,
+    4139878232,
+    4139878233,
+    4139878234,
+    4139878235,
+    4139878236,
+    4139878237,
+    4139878238,
+    4139878225
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Rumah Sakit Cahaya Kawaluyaan",
+    "short_name": "RS Cahaya Kawaluyaan"
+  }
+},
+{
+  "type": "way",
+  "id": 462560032,
+  "nodes": [
+    4579394249,
+    4579394251,
+    4579394253,
+    4579394250,
+    4579394248,
+    4579394252,
+    4579394247,
+    4579394249
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "RS Dustira"
+  }
+},
+{
+  "type": "way",
+  "id": 155091969,
+  "nodes": [
+    1675266835,
+    1675266833,
+    1675266832,
+    1675266834,
+    1675266835
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Sukasari"
+  }
+},
+{
+  "type": "way",
+  "id": 120340028,
+  "nodes": [
+    1349526746,
+    1349526750,
+    2317306707,
+    1349526741,
+    1349526739,
+    1349526747,
+    1349526744,
+    1349526749,
+    1349526748,
+    1349526746
+  ],
+  "tags": {
+    "addr:city": "Bandung",
+    "addr:housenumber": "161",
+    "addr:postcode": "40131",
+    "addr:street": "Jalan Cihampelas",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "emergency": "yes",
+    "name": "Rumah Sakit Advent"
+  }
+},
+{
+  "type": "way",
+  "id": 100262052,
+  "nodes": [
+    1158831765,
+    1158831777,
+    1158831771,
+    1158831780,
+    1158831767,
+    1158831778,
+    1158831782,
+    1158831785,
+    1158831775,
+    3269315387,
+    3269315386,
+    3269315385,
+    3269315384,
+    1658946808,
+    3269315383,
+    3269315378,
+    3269315382,
+    3269315379,
+    3269315380,
+    3269315381,
+    1158831763,
+    1158831769,
+    3269315388,
+    3269315389,
+    3269315390,
+    1158831761,
+    1158831765
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 119437624,
+  "nodes": [
+    1342094480,
+    1342094482,
+    1342094479,
+    1342094485,
+    2037765740,
+    1342094481,
+    1342094478,
+    1342094484,
+    1342094480
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "name": "Gedung St Yosep"
+  }
+},
+{
+  "type": "way",
+  "id": 380223312,
+  "nodes": [
+    3835646950,
+    3835646953,
+    3835646951,
+    3835646952,
+    3835646950
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Santo Boromeus"
+  }
+},
+{
+  "type": "way",
+  "id": 119419634,
+  "nodes": [
+    1341957621,
+    1341957625,
+    1341957634,
+    1341957631,
+    1341957619,
+    1341957630,
+    1341957638,
+    1341957635,
+    1341957624,
+    1341957633,
+    1341957622,
+    1341957639,
+    1341957629,
+    1341957636,
+    1341957626,
+    1341957632,
+    1341957620,
+    1341957621
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "name": "RSGM Unpad"
+  }
+},
+{
+  "type": "way",
+  "id": 152948636,
+  "nodes": [
+    1657173042,
+    1657173081,
+    1657173074,
+    1657173037,
+    1657173042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building:color": "grey",
+    "building:levels": "2",
+    "building:part": "yes",
+    "emergency": "no",
+    "name": "Poliklinik",
+    "roof:colour": "grey"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/393445215",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "CTM Bus Station",
+    "id": "way/393445215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.7921097,
+      35.7511
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487156456",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere de Tanger المحطة الطرقية طنجة",
+    "name:ar": "المحطة الطرقية طنجة",
+    "name:fr": "Gare Routiere de Tanger",
+    "id": "way/487156456"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8022717,
+      35.7710438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4677638691",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4677638691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.7861931,
+      35.7717862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4677681789",
+  "properties": {
+    "amenity": "bus_station",
+    "name:en": "Tanger Ville Railway Station",
+    "name:zh": "丹吉尔火车站",
+    "id": "node/4677681789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.7861356,
+      35.7714467
+    ]
+  }
+}
+]
+}

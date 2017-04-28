@@ -1,0 +1,114 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-25T16:41:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4677638691,
+  "lat": 35.7717862,
+  "lon": -5.7861931,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4677681789,
+  "lat": 35.7714467,
+  "lon": -5.7861356,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Tanger Ville Railway Station",
+    "name:zh": "丹吉尔火车站"
+  }
+},
+{
+  "type": "way",
+  "id": 487156456,
+  "center": {
+    "lat": 35.7710438,
+    "lon": -5.8022717
+  },
+  "nodes": [
+    4796665302,
+    1232882039,
+    4044877059,
+    30991082,
+    30991083,
+    1232882013,
+    4044877066,
+    4044877068,
+    4796665302
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere de Tanger المحطة الطرقية طنجة",
+    "name:ar": "المحطة الطرقية طنجة",
+    "name:fr": "Gare Routiere de Tanger"
+  }
+},
+{
+  "type": "way",
+  "id": 393445215,
+  "center": {
+    "lat": 35.7511000,
+    "lon": -5.7921097
+  },
+  "nodes": [
+    3966406399,
+    3966406400,
+    3966406401,
+    3966406402,
+    3966406399
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "CTM Bus Station"
+  }
+},
+{
+  "type": "way",
+  "id": 487156456,
+  "nodes": [
+    4796665302,
+    1232882039,
+    4044877059,
+    30991082,
+    30991083,
+    1232882013,
+    4044877066,
+    4044877068,
+    4796665302
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routiere de Tanger المحطة الطرقية طنجة",
+    "name:ar": "المحطة الطرقية طنجة",
+    "name:fr": "Gare Routiere de Tanger"
+  }
+},
+{
+  "type": "way",
+  "id": 393445215,
+  "nodes": [
+    3966406399,
+    3966406400,
+    3966406401,
+    3966406402,
+    3966406399
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "CTM Bus Station"
+  }
+}
+
+  ]
+}
