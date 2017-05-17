@@ -1,0 +1,159 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2453679849,
+  "lat": 7.4371869,
+  "lon": 3.9157745,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bodija Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2639209659,
+  "lat": 7.4377999,
+  "lon": 3.9096256,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Tolulope Plaza"
+  }
+},
+{
+  "type": "node",
+  "id": 2639256357,
+  "lat": 7.3894522,
+  "lon": 3.8701763,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Aleshinloye Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3084824648,
+  "lat": 7.3742579,
+  "lon": 3.8951313,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oja Oba Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3084824650,
+  "lat": 7.3741824,
+  "lon": 3.8956143,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 3084974661,
+  "lat": 7.3762823,
+  "lon": 3.8957192,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mapo Market"
+  }
+},
+{
+  "type": "way",
+  "id": 55874017,
+  "center": {
+    "lat": 7.3808518,
+    "lon": 3.9262751
+  },
+  "nodes": [
+    701601308,
+    701601309,
+    701601310,
+    701601311,
+    701601312,
+    701601314,
+    701601315,
+    701601316,
+    701601308
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 82466578,
+  "center": {
+    "lat": 7.3928593,
+    "lon": 3.9557680
+  },
+  "nodes": [
+    959826538,
+    959826539,
+    959826540,
+    959826542,
+    959826543,
+    959826545,
+    959826546,
+    959826548,
+    959826550,
+    959826551,
+    959826538
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Gbagi New International Market"
+  }
+},
+{
+  "type": "way",
+  "id": 55874017,
+  "nodes": [
+    701601308,
+    701601309,
+    701601310,
+    701601311,
+    701601312,
+    701601314,
+    701601315,
+    701601316,
+    701601308
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 82466578,
+  "nodes": [
+    959826538,
+    959826539,
+    959826540,
+    959826542,
+    959826543,
+    959826545,
+    959826546,
+    959826548,
+    959826550,
+    959826551,
+    959826538
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Gbagi New International Market"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:45:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2407209028,
+  "lat": 7.0109047,
+  "lon": 0.6769506,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "laboratory",
+    "name": "Laboratoire d'Analyses Médicales",
+    "operator": "ONG Chance de Vivre; SILD Togo",
+    "operator:type": "ngo",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2407617783,
+  "lat": 7.0140346,
+  "lon": 0.7036793,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Dispensaire de Lavié-agoviefe",
+    "operator:type": "public",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2407899547,
+  "lat": 6.9745936,
+  "lon": 0.6509808,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Kpimé-Hloma",
+    "operator:type": "government",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2513577075,
+  "lat": 6.9349279,
+  "lon": 0.6589993,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternité",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4563543920,
+  "lat": 7.0475863,
+  "lon": 0.7092394,
+  "tags": {
+    "amenity": "hospital",
+    "name": "USP Akata Agame"
+  }
+},
+{
+  "type": "node",
+  "id": 4596780090,
+  "lat": 6.8841607,
+  "lon": 0.7267077,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Bethesda",
+    "name:fr": "Hopital de Bethesda"
+  }
+},
+{
+  "type": "node",
+  "id": 4596780091,
+  "lat": 6.8438167,
+  "lon": 0.7171479,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4602823592,
+  "lat": 6.8830913,
+  "lon": 0.7262718,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Bethesda",
+    "name:fr": "Hopital de Bethesda"
+  }
+},
+{
+  "type": "way",
+  "id": 308634074,
+  "center": {
+    "lat": 6.9125028,
+    "lon": 0.6276066
+  },
+  "nodes": [
+    3136004486,
+    3136004485,
+    3134379725,
+    3139402015,
+    3649802458,
+    3649802457,
+    3138985317,
+    3192341195,
+    3137694413,
+    3136456483,
+    3136456484,
+    3136454912,
+    3137697114,
+    3136004486
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier Préfectoral de Kpalimé",
+    "operator": "Etat"
+  }
+},
+{
+  "type": "way",
+  "id": 275049566,
+  "center": {
+    "lat": 6.8795132,
+    "lon": 0.6484132
+  },
+  "nodes": [
+    2797159449,
+    2797159451,
+    2797159450,
+    4726814986,
+    4726814987,
+    4726814984,
+    2797159449
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Unité de Soins Périphériques de Tové"
+  }
+},
+{
+  "type": "way",
+  "id": 193773019,
+  "center": {
+    "lat": 6.9103310,
+    "lon": 0.6297371
+  },
+  "nodes": [
+    2042864282,
+    2042864280,
+    2042864276,
+    2042864284,
+    2042864282
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 358654376,
+  "center": {
+    "lat": 6.9838040,
+    "lon": 0.5614291
+  },
+  "nodes": [
+    2636413478,
+    3635574186,
+    3635574182,
+    3635574184,
+    2636413478
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "capacity:beds": "8",
+    "disused": "yes",
+    "healthcare:cholera": "no",
+    "name": "Diepensaire de Kouma Apoti",
+    "operator:type": "government",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 232368347,
+  "center": {
+    "lat": 7.0107556,
+    "lon": 0.6768477
+  },
+  "nodes": [
+    2407212813,
+    2407212809,
+    2407212811,
+    2407212815,
+    2407212817,
+    2407215536,
+    2407212813
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Dispensaire de Lavié",
+    "operator:type": "government",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 308634074,
+  "nodes": [
+    3136004486,
+    3136004485,
+    3134379725,
+    3139402015,
+    3649802458,
+    3649802457,
+    3138985317,
+    3192341195,
+    3137694413,
+    3136456483,
+    3136456484,
+    3136454912,
+    3137697114,
+    3136004486
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier Préfectoral de Kpalimé",
+    "operator": "Etat"
+  }
+},
+{
+  "type": "way",
+  "id": 275049566,
+  "nodes": [
+    2797159449,
+    2797159451,
+    2797159450,
+    4726814986,
+    4726814987,
+    4726814984,
+    2797159449
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Unité de Soins Périphériques de Tové"
+  }
+},
+{
+  "type": "way",
+  "id": 193773019,
+  "nodes": [
+    2042864282,
+    2042864280,
+    2042864276,
+    2042864284,
+    2042864282
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 358654376,
+  "nodes": [
+    2636413478,
+    3635574186,
+    3635574182,
+    3635574184,
+    2636413478
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "capacity:beds": "8",
+    "disused": "yes",
+    "healthcare:cholera": "no",
+    "name": "Diepensaire de Kouma Apoti",
+    "operator:type": "government",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 232368347,
+  "nodes": [
+    2407212813,
+    2407212809,
+    2407212811,
+    2407212815,
+    2407212817,
+    2407215536,
+    2407212813
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Dispensaire de Lavié",
+    "operator:type": "government",
+    "source": "Bing;survey"
+  }
+}
+
+  ]
+}

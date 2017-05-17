@@ -1,0 +1,100 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2460698293",
+  "properties": {
+    "amenity": "marketplace",
+    "source": "SURVEY",
+    "id": "node/2460698293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5934946,
+      6.2282176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2999860539",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marche Municipale Ablodessime",
+    "id": "node/2999860539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6078959,
+      6.2361618
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3001121770",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de la Frontière",
+    "id": "node/3001121770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6274302,
+      6.2403696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4088778953",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Adrigogbonou",
+    "id": "node/4088778953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5268267,
+      6.3326272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4088806697",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Grand Marché de Vogan (Gbeke)",
+    "id": "node/4088806697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5242286,
+      6.3384502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4088806725",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/4088806725"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5267654,
+      6.332591
+    ]
+  }
+}
+]
+}

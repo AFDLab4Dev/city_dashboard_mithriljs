@@ -1,0 +1,65 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/300382193",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "id": "way/300382193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1279095,
+      6.0655773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314591635",
+  "properties": {
+    "addr:city": "Zwedru",
+    "addr:street": "Carr Street",
+    "amenity": "townhall",
+    "building": "civic",
+    "building:levels": "1",
+    "building:material": "concrete",
+    "name": "Sister And Brother Meeting Hall",
+    "opening_hours": "24/7",
+    "phone": "0886367340/0775736603",
+    "id": "way/314591635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1296686,
+      6.0711937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/484935967",
+  "properties": {
+    "addr:city": "Zwedru",
+    "addr:street": "Brown Street",
+    "amenity": "townhall",
+    "building": "residential",
+    "building:levels": "1",
+    "building:material": "brick",
+    "opening_hours": "24/7",
+    "id": "way/484935967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1290845,
+      6.0697344
+    ]
+  }
+}
+]
+}

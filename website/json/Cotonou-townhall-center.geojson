@@ -23,6 +23,23 @@
 },
 {
   "type": "Feature",
+  "id": "way/366465312",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Arrondissement de Zoungamè",
+    "id": "way/366465312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5442779,
+      6.4598508
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1102519112",
   "properties": {
     "amenity": "townhall",

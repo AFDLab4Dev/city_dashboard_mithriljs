@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/94957275",
+  "properties": {
+    "amenity": "university",
+    "gns:ufi": "-2133519",
+    "name": "University of Liberia",
+    "wikidata": "Q3044628",
+    "wikipedia": "en:University of Liberia",
+    "id": "way/94957275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7944385,
+      6.299857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299926349",
+  "properties": {
+    "amenity": "university",
+    "name": "UMU University",
+    "id": "way/299926349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.8045755,
+      6.3178426
+    ]
+  }
+}
+]
+}

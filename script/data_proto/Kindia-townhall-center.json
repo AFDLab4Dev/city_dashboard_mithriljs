@@ -1,0 +1,72 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 183044276,
+  "center": {
+    "lat": 10.0477388,
+    "lon": -12.8607718
+  },
+  "nodes": [
+    3461564542,
+    1934061223,
+    1934061269,
+    3461564538,
+    3461564539,
+    3461564533,
+    3461564534,
+    3461564531,
+    3461564530,
+    3461564532,
+    1934061302,
+    3461564537,
+    3461564536,
+    3461564541,
+    3461564542
+  ],
+  "tags": {
+    "addr:city": "ߞߌ߲ߘߌߦߊ߫",
+    "amenity": "townhall",
+    "building": "office",
+    "name": "KINDIA",
+    "name:fr": "Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 183044276,
+  "nodes": [
+    3461564542,
+    1934061223,
+    1934061269,
+    3461564538,
+    3461564539,
+    3461564533,
+    3461564534,
+    3461564531,
+    3461564530,
+    3461564532,
+    1934061302,
+    3461564537,
+    3461564536,
+    3461564541,
+    3461564542
+  ],
+  "tags": {
+    "addr:city": "ߞߌ߲ߘߌߦߊ߫",
+    "amenity": "townhall",
+    "building": "office",
+    "name": "KINDIA",
+    "name:fr": "Mairie"
+  }
+}
+
+  ]
+}

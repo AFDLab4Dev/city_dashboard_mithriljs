@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/303995545",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ikotun Market",
+    "id": "way/303995545"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.2691737,
+      6.5483135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3023669230",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Obuzu Market",
+    "id": "node/3023669230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.2856179,
+      6.4626347
+    ]
+  }
+}
+]
+}

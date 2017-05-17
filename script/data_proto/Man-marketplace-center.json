@@ -1,0 +1,86 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 461229019,
+  "center": {
+    "lat": 7.4200516,
+    "lon": -7.5540682
+  },
+  "nodes": [
+    4567627392,
+    4567627391,
+    4567627390,
+    4567627389,
+    4567627392
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 300274471,
+  "center": {
+    "lat": 7.4094864,
+    "lon": -7.5482857
+  },
+  "nodes": [
+    3043748368,
+    3043748369,
+    3043748370,
+    3043748371,
+    4567626832,
+    3043748372,
+    3043748373,
+    3043748374,
+    3043748368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Man"
+  }
+},
+{
+  "type": "way",
+  "id": 461229019,
+  "nodes": [
+    4567627392,
+    4567627391,
+    4567627390,
+    4567627389,
+    4567627392
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 300274471,
+  "nodes": [
+    3043748368,
+    3043748369,
+    3043748370,
+    3043748371,
+    4567626832,
+    3043748372,
+    3043748373,
+    3043748374,
+    3043748368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Man"
+  }
+}
+
+  ]
+}

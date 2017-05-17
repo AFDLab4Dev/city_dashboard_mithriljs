@@ -1,0 +1,184 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2354702071,
+  "lat": 7.6890917,
+  "lon": -5.0284825,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière du grand marché"
+  }
+},
+{
+  "type": "node",
+  "id": 3127447005,
+  "lat": 7.6830056,
+  "lon": -5.0240934,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "B-Trans"
+  }
+},
+{
+  "type": "node",
+  "id": 4390046316,
+  "lat": 7.6888678,
+  "lon": -5.0233593,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4754502128,
+  "lat": 7.6905604,
+  "lon": -5.0196933,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare de Yorobodi",
+    "name:fr": "Gare de Yorobodi",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "way",
+  "id": 299257023,
+  "center": {
+    "lat": 7.6815073,
+    "lon": -5.0288082
+  },
+  "nodes": [
+    3032319232,
+    3032319433,
+    4761562059,
+    3032319434,
+    3032319435,
+    3032319232
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare AVS",
+    "operator": "Transports A Votre Service (Transports AVS)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 484678225,
+  "center": {
+    "lat": 7.6874923,
+    "lon": -5.0268507
+  },
+  "nodes": [
+    3780100612,
+    4758212509,
+    3780100621,
+    3780100624,
+    3780100632,
+    3780100638,
+    3780100641,
+    3780100646,
+    3780100647,
+    3780100653,
+    4774302752,
+    4774302751,
+    4758212507,
+    3780100622,
+    3780100612
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 428012391,
+  "center": {
+    "lat": 7.6951309,
+    "lon": -5.0324215
+  },
+  "nodes": [
+    4271690836,
+    4271690838,
+    4271690837,
+    4271690835,
+    4271690836
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare de Diabo"
+  }
+},
+{
+  "type": "way",
+  "id": 299257023,
+  "nodes": [
+    3032319232,
+    3032319433,
+    4761562059,
+    3032319434,
+    3032319435,
+    3032319232
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare AVS",
+    "operator": "Transports A Votre Service (Transports AVS)",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 484678225,
+  "nodes": [
+    3780100612,
+    4758212509,
+    3780100621,
+    3780100624,
+    3780100632,
+    3780100638,
+    3780100641,
+    3780100646,
+    3780100647,
+    3780100653,
+    4774302752,
+    4774302751,
+    4758212507,
+    3780100622,
+    3780100612
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 428012391,
+  "nodes": [
+    4271690836,
+    4271690838,
+    4271690837,
+    4271690835,
+    4271690836
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare de Diabo"
+  }
+}
+
+  ]
+}

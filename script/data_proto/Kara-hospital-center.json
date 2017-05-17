@@ -1,0 +1,273 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1289272919,
+  "lat": 9.5536649,
+  "lon": 1.1907702,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Ma Vie"
+  }
+},
+{
+  "type": "node",
+  "id": 1291662405,
+  "lat": 9.5463014,
+  "lon": 1.1683760,
+  "tags": {
+    "amenity": "hospital",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "USP"
+  }
+},
+{
+  "type": "node",
+  "id": 1291724394,
+  "lat": 9.5630569,
+  "lon": 1.2183584,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Croix Rouge"
+  }
+},
+{
+  "type": "node",
+  "id": 1292980131,
+  "lat": 9.5471499,
+  "lon": 1.1796772,
+  "tags": {
+    "amenity": "hospital",
+    "name": "A T B E F"
+  }
+},
+{
+  "type": "node",
+  "id": 1293018817,
+  "lat": 9.5727703,
+  "lon": 1.1808459,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1293270627,
+  "lat": 9.5616350,
+  "lon": 1.2105139,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SOS Villages D'Efants"
+  }
+},
+{
+  "type": "node",
+  "id": 4466586020,
+  "lat": 9.5614361,
+  "lon": 1.2024425,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "hospital",
+    "disused": "no",
+    "health_facility:type": "hospital",
+    "name": "Centre hospitalier Régional",
+    "operator:type": "public",
+    "source": "Bing; Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4749135523,
+  "lat": 9.5618272,
+  "lon": 1.2025312,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHR KARA"
+  }
+},
+{
+  "type": "way",
+  "id": 113792782,
+  "center": {
+    "lat": 9.5275672,
+    "lon": 1.1814350
+  },
+  "nodes": [
+    1290053199,
+    1290070342,
+    1290070052,
+    1290053426,
+    1290053199
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "DISPENSAIRE ST LUC"
+  }
+},
+{
+  "type": "way",
+  "id": 267429663,
+  "center": {
+    "lat": 9.5442491,
+    "lon": 1.1711448
+  },
+  "nodes": [
+    2728838962,
+    2728838963,
+    2728838964,
+    2728838965,
+    2728838966,
+    2728838967,
+    2728838968,
+    2728838969,
+    2728838970,
+    2728838971,
+    2728838972,
+    2728838973,
+    2728838975,
+    2728838974,
+    2728838962
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AED"
+  }
+},
+{
+  "type": "way",
+  "id": 113982089,
+  "center": {
+    "lat": 9.5339258,
+    "lon": 1.2034130
+  },
+  "nodes": [
+    1291732105,
+    1291728807,
+    1291732407,
+    1291729078,
+    1291732105
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CMS Agnaram"
+  }
+},
+{
+  "type": "way",
+  "id": 102858259,
+  "center": {
+    "lat": 9.5616012,
+    "lon": 1.2104389
+  },
+  "nodes": [
+    1187798260,
+    1187798126,
+    1187798315,
+    1187798162,
+    1189778988,
+    1187798260
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "SOS VILLAGES D'ENFANTS"
+  }
+},
+{
+  "type": "way",
+  "id": 113792782,
+  "nodes": [
+    1290053199,
+    1290070342,
+    1290070052,
+    1290053426,
+    1290053199
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "DISPENSAIRE ST LUC"
+  }
+},
+{
+  "type": "way",
+  "id": 267429663,
+  "nodes": [
+    2728838962,
+    2728838963,
+    2728838964,
+    2728838965,
+    2728838966,
+    2728838967,
+    2728838968,
+    2728838969,
+    2728838970,
+    2728838971,
+    2728838972,
+    2728838973,
+    2728838975,
+    2728838974,
+    2728838962
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AED"
+  }
+},
+{
+  "type": "way",
+  "id": 113982089,
+  "nodes": [
+    1291732105,
+    1291728807,
+    1291732407,
+    1291729078,
+    1291732105
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CMS Agnaram"
+  }
+},
+{
+  "type": "way",
+  "id": 102858259,
+  "nodes": [
+    1187798260,
+    1187798126,
+    1187798315,
+    1187798162,
+    1189778988,
+    1187798260
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "SOS VILLAGES D'ENFANTS"
+  }
+}
+
+  ]
+}

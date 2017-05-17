@@ -1,0 +1,28 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:33:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4401311210,
+  "lat": 9.0063181,
+  "lon": 7.4040884,
+  "tags": {
+    "addr:city": "Abuja",
+    "addr:housenumber": "Plot 686",
+    "addr:street": "Cadastral Zone C 00, Jabi Airport Road Bypass (Ring Road), Behind National Judicial Institute",
+    "amenity": "university",
+    "name": "Baze university",
+    "operator": "Senator Datti Baba-Ahmad PhD",
+    "phone": "+234 (0) 813-376-9658",
+    "website": "http://www.bazeuniversity.edu.ng/"
+  }
+}
+
+  ]
+}

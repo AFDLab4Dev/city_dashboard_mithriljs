@@ -1,0 +1,32 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2157353794,
+  "lat": 6.2024834,
+  "lon": -1.6664133,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4293787533,
+  "lat": 6.1998954,
+  "lon": -1.6644488,
+  "tags": {
+    "alt_name": "MMT",
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,262 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/217948117",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre Médical de Kipe",
+    "id": "way/217948117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6477698,
+      9.5988467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/217967226",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Pasteur",
+    "id": "way/217967226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.712058,
+      9.5078554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/291396458",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "(+224) 664 01 01 01 / 664 02 02 02",
+    "name": "Clinique Ambroise Paré",
+    "phone": "+224 631 40 10 40 / 664 68 57 11",
+    "website": "http://www.cliniqueambroisepare.com/",
+    "wikipedia": "en:Clinique Ambroise Paré",
+    "id": "way/291396458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6901399,
+      9.5294773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/338937678",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital Ignace Deen",
+    "name:en": "Ignace Deen Hospital",
+    "name:fr": "Hopital Ignace Deen",
+    "source": "bing imagery",
+    "wikidata": "Q5992123",
+    "wikipedia": "en:Ignace Deen Hospital",
+    "id": "way/338937678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.7049796,
+      9.5064961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/338977493",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "ߘߐ߲ߞߊ߫ ߘߊ߲ߘߊߛߏ߫",
+    "name:fr": "Donka Hospital",
+    "wikidata": "Q5296214",
+    "wikipedia": "en:Donka Hospital",
+    "id": "way/338977493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6821357,
+      9.5360818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/441770300",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Clinique",
+    "id": "way/441770300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6095479,
+      9.6186105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2865708938",
+  "properties": {
+    "addr:city": "Conakry",
+    "amenity": "hospital",
+    "name": "Clinique Mere et Enfant",
+    "id": "node/2865708938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6407142,
+      9.6024704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3054722433",
+  "properties": {
+    "amenity": "hospital",
+    "level": "3",
+    "name": "Clinique Ambroise Pare;Louis Berger",
+    "office": "company",
+    "wheelchair": "yes",
+    "id": "node/3054722433"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6902575,
+      9.529435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3198400471",
+  "properties": {
+    "accuracy": "GPS Courtest of WHO",
+    "amenity": "hospital",
+    "capacity:beds": "60",
+    "capacity:beds:planned": "60",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETC-GIN-001",
+    "health_facility:type": "field_hospital",
+    "is_in": "Conakry Donka Hospital",
+    "is_in:prefecture": "Conakry",
+    "is_in:region": "Conakry Region",
+    "name": "CTE de l'Hôpital Donka de Conakry",
+    "name:en": "Conakry Donka Hospital ETU",
+    "operational_status": "open",
+    "operator": "MSF",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-19T16:44:30.911",
+    "id": "node/3198400471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.683193,
+      9.535421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4022859956",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4022859956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6640588,
+      9.5673606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4347462002",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital Jean-Paul 2",
+    "id": "node/4347462002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6541704,
+      9.5854304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4405092337",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Maternité Saint Gabriel",
+    "id": "node/4405092337"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5889081,
+      9.6137762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4437752844",
+  "properties": {
+    "amenity": "hospital",
+    "name": "hôpital de l'amitié sino-guinéenne",
+    "id": "node/4437752844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6476179,
+      9.5995177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4831777121",
+  "properties": {
+    "amenity": "hospital",
+    "name": "AGEBEF",
+    "name:fr": "AGEBEF",
+    "id": "node/4831777121"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6867117,
+      9.5361267
+    ]
+  }
+}
+]
+}

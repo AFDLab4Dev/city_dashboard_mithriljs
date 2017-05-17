@@ -1,0 +1,1840 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/44529882",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/44529882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6085339,
+      6.316785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44615779",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/44615779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6224923,
+      6.3302734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44618856",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/44618856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6229343,
+      6.3315533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44689343",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/44689343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6228623,
+      6.3312368
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44962191",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Center for Research and Preventive Health Care",
+    "id": "way/44962191"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5978521,
+      6.3391886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/45417583",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/45417583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6222876,
+      6.3293297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47159867",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/47159867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6080028,
+      6.3164589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47159927",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/47159927"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6075451,
+      6.3177212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47161450",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ben Oni Hospital",
+    "id": "way/47161450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6025081,
+      6.3096329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47380654",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Time Medical Clinic & Maternity",
+    "id": "way/47380654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6051806,
+      6.3355031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47395584",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Amuiuwu Hospital",
+    "id": "way/47395584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5991705,
+      6.3468474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47419701",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Calvary Medical Centre",
+    "id": "way/47419701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6043423,
+      6.3344115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169044",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/84169044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6076377,
+      6.3170585
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169069",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/84169069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6228218,
+      6.3307825
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169182",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/84169182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6225296,
+      6.3297283
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169397",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/84169397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6228352,
+      6.3305889
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169502",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Prime Optical Eye Clinic",
+    "id": "way/84169502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6156975,
+      6.3252703
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169606",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Children Clinic",
+    "id": "way/84169606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6237001,
+      6.3303663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169832",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/84169832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6221512,
+      6.3298632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84169917",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital",
+    "id": "way/84169917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6225247,
+      6.3299098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84257767",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ideal Maternity and Nursing Home",
+    "id": "way/84257767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5985832,
+      6.3374043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84257882",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Shepherd's Lab",
+    "id": "way/84257882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5982125,
+      6.3323175
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84396752",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gift Medical Center",
+    "id": "way/84396752"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.620948,
+      6.3418493
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84435530",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Globa Medical  Clinic",
+    "id": "way/84435530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6090797,
+      6.3419886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85515964",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/85515964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6092555,
+      6.3164911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85515978",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/85515978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6075177,
+      6.3173844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85515979",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/85515979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6086145,
+      6.3171136
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85516009",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/85516009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6081848,
+      6.3169163
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85516026",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/85516026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6084198,
+      6.3172579
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85516130",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "id": "way/85516130"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6118188,
+      6.3196325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85516137",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital",
+    "id": "way/85516137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6099469,
+      6.3163803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85704339",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Edi International Hospital",
+    "id": "way/85704339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6196578,
+      6.3269255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/124707617",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Bethel faith medical centre and maternity",
+    "id": "way/124707617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5936523,
+      6.3282183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/124707662",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ihenhen medical centre",
+    "id": "way/124707662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5955087,
+      6.3258404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/160171778",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Itidiare Care",
+    "id": "way/160171778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6023553,
+      6.391769
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/188794645",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "BETHSAIDA MISSIONARY CLINIC",
+    "id": "way/188794645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6308795,
+      6.3611176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/188794646",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Blue Cross Clinic",
+    "id": "way/188794646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6250168,
+      6.36033
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/188794680",
+  "properties": {
+    "amenity": "hospital",
+    "name": "OSIMIKE HEALTH SERVICE",
+    "id": "way/188794680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6350551,
+      6.3774836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/189364697",
+  "properties": {
+    "amenity": "hospital",
+    "name": "OSASIMA NURSING AND MATERNITY HOME",
+    "id": "way/189364697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.580882,
+      6.3611405
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/283791637",
+  "properties": {
+    "amenity": "hospital",
+    "name": "UKHIRI HEALTH CENTRE",
+    "id": "way/283791637"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.724143,
+      6.2550676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/981246654",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Central Hospital",
+    "id": "node/981246654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6228643,
+      6.3302288
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994156658",
+  "properties": {
+    "amenity": "hospital",
+    "name": "A1 Winnes Maternity and Nursing Home",
+    "id": "node/1994156658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6256996,
+      6.36661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994156659",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Adumah Maternity and Nursing",
+    "id": "node/1994156659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6334298,
+      6.3686488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994156772",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Aljumah Maternity and Nursing Home",
+    "id": "node/1994156772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6343403,
+      6.3705247
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994157307",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Eromosele Clinic",
+    "id": "node/1994157307"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6292833,
+      6.3699171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994157308",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Everest Medica lCentre",
+    "id": "node/1994157308"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6407133,
+      6.3795518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994157326",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Excellent Medical Centre",
+    "id": "node/1994157326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6353867,
+      6.3721671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994157347",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Itohan Medical Clinic",
+    "id": "node/1994157347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6255555,
+      6.3604606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994157680",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Quality Medical Centre",
+    "id": "node/1994157680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6319238,
+      6.3797718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1995055415",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Mega Clinic and Maternity",
+    "id": "node/1995055415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5895093,
+      6.3629675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2000020573",
+  "properties": {
+    "amenity": "hospital",
+    "name": "The Lord Maternity and Nursing Home",
+    "operator": "THE LORD MATERNITY AND NURSING HOME",
+    "id": "node/2000020573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5839451,
+      6.3721666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072621416",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Osimike Health Service",
+    "id": "node/2072621416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6351859,
+      6.3775431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072621417",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Oviasu Medical Materinty",
+    "id": "node/2072621417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6224549,
+      6.3626748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072621443",
+  "properties": {
+    "amenity": "hospital",
+    "name": "ST. John Hospital & Maternity",
+    "id": "node/2072621443"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.625758,
+      6.358785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072662391",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Redeem Medical and Maternity",
+    "id": "node/2072662391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5817533,
+      6.3661059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072662450",
+  "properties": {
+    "amenity": "hospital",
+    "name": "ST James Clinic and Maternity",
+    "id": "node/2072662450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5828438,
+      6.3663258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846068",
+  "properties": {
+    "amenity": "hospital",
+    "name": "DDS Eye Center",
+    "id": "node/2075846068"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6273816,
+      6.3109713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846144",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Igbenedion Teaching Hospital",
+    "id": "node/2075846144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6283229,
+      6.3116598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846183",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lella Specialist Hospital",
+    "id": "node/2075846183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6188964,
+      6.3076664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846368",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St Rapheal Hospital",
+    "id": "node/2075846368"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6270095,
+      6.3049885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846400",
+  "properties": {
+    "amenity": "hospital",
+    "name": "The Rock Hospital",
+    "id": "node/2075846400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6210009,
+      6.3061384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846427",
+  "properties": {
+    "amenity": "hospital",
+    "name": "University Of Benin Teaching Hospital",
+    "id": "node/2075846427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6259184,
+      6.3140812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2152941677",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ajayi Orioafo Memoria Hospital",
+    "id": "node/2152941677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6062087,
+      6.3024422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154223853",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Abe Medical Clinic and Maternity",
+    "id": "node/2154223853"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6298245,
+      6.3309984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154481142",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ayolik medical Center",
+    "id": "node/2154481142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.626527,
+      6.331202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154569171",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Irowa medical center",
+    "id": "node/2154569171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6275919,
+      6.3206707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154569723",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Jonos Medical Clinic",
+    "id": "node/2154569723"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6309214,
+      6.3184315
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154570764",
+  "properties": {
+    "amenity": "hospital",
+    "highway": "emergency_access_point",
+    "name": "Kris. O. physiotherapy Centre",
+    "id": "node/2154570764"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5862114,
+      6.2980668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154571096",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Life Line Medicare Clinic",
+    "id": "node/2154571096"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6267477,
+      6.3314667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154575306",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Maxi Heath Medical Center",
+    "id": "node/2154575306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6003104,
+      6.2984609
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2155702032",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Jonos Medical Clinic",
+    "id": "node/2155702032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6310177,
+      6.3184794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2155708192",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Oretse Medical Centre",
+    "id": "node/2155708192"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6124147,
+      6.3285132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2155730552",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Sickle Cell Centre",
+    "id": "node/2155730552"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6183182,
+      6.3228765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2155731331",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Syncamore hospital",
+    "id": "node/2155731331"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6168271,
+      6.312744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2160629643",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Aronsaye Maternity",
+    "id": "node/2160629643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6307463,
+      6.3368862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2160629703",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Assurance Medical Lab",
+    "id": "node/2160629703"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6261102,
+      6.3307076
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2160845043",
+  "properties": {
+    "amenity": "hospital",
+    "name": "MaxiHealth Medical Centre",
+    "id": "node/2160845043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6002852,
+      6.2984263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161051792",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Fouintain Of Life Hospital",
+    "id": "node/2161051792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.625031,
+      6.3278675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161071114",
+  "properties": {
+    "amenity": "hospital",
+    "name": "NNPC Medical Centre",
+    "id": "node/2161071114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6032412,
+      6.3119927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161101543",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St Mathias Anglican hospital",
+    "id": "node/2161101543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6295419,
+      6.3236996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161101547",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St. Robina Hospitle",
+    "id": "node/2161101547"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6178101,
+      6.3082442
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161108211",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Sumel optomentry",
+    "id": "node/2161108211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6282007,
+      6.3205143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161111314",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Urban Health Center",
+    "id": "node/2161111314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6307845,
+      6.3358449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344220914",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Westend Clinic",
+    "id": "node/2344220914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.597335,
+      6.341757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344258133",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Igbinobaro Medical center",
+    "id": "node/2344258133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.610093,
+      6.341149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344271062",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hanora Clinic",
+    "id": "node/2344271062"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5979947,
+      6.3384324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344280071",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Calvary Medical Centre",
+    "id": "node/2344280071"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.604426,
+      6.3343199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344280078",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St. Lawrence Medical Clinic",
+    "id": "node/2344280078"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5959619,
+      6.3355777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344305773",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Danzee Memorial Clinic",
+    "id": "node/2344305773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5983861,
+      6.3318386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344305801",
+  "properties": {
+    "amenity": "hospital",
+    "name": "ultimate health medical centre/laboratory",
+    "id": "node/2344305801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5971064,
+      6.3317339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344305970",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Shalom clinic & Maternity",
+    "id": "node/2344305970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6010974,
+      6.3475747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344316133",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Bupa Medical Centre",
+    "id": "node/2344316133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6067505,
+      6.3322083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344316139",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Gims Medical Centre",
+    "id": "node/2344316139"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6088075,
+      6.3297104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344328623",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Quick Recovery Medical Center",
+    "id": "node/2344328623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6005415,
+      6.3250906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344424488",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Okorare Clinic and Maternity",
+    "id": "node/2344424488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6041556,
+      6.3302555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344426939",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Azuwa Hospital",
+    "id": "node/2344426939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6105238,
+      6.3511547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344448401",
+  "properties": {
+    "amenity": "hospital",
+    "name": "NAF Medical Centre",
+    "id": "node/2344448401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6060622,
+      6.3155887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344466059",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Christ medical center",
+    "id": "node/2344466059"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.626205,
+      6.3295129
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344503123",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Fred Okhomina Nursing Home & Hospital",
+    "id": "node/2344503123"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5931306,
+      6.3332441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344543055",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Rose of Sharon Mediplex",
+    "id": "node/2344543055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6097721,
+      6.3354251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344584292",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Itual Medical centre",
+    "id": "node/2344584292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5965902,
+      6.3412577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344590775",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Chisi Cottage Clinic",
+    "id": "node/2344590775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5805978,
+      6.3269614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349397490",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ewaen Clinic&Maternity",
+    "id": "node/2349397490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6157171,
+      6.3368143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349424016",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St. Bridget X - Ray Centre",
+    "id": "node/2349424016"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6269552,
+      6.3530968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349475745",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Laboratory Building",
+    "id": "node/2349475745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6306475,
+      6.3448945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349477426",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Fenoma hospital",
+    "id": "node/2349477426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6262827,
+      6.3380042
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350879760",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Osula Hospital",
+    "id": "node/2350879760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6257815,
+      6.3418331
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350879796",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ukponmwan Foudation Hospital",
+    "id": "node/2350879796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6275173,
+      6.3450508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350899871",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lemik Specialist Clinic",
+    "id": "node/2350899871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6194709,
+      6.3441675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4255715489",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Psychiatric Hospital",
+    "id": "node/4255715489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6195517,
+      6.3611895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4558682977",
+  "properties": {
+    "addr:housenumber": "18",
+    "addr:street": "Edo-Osagie-Street",
+    "amenity": "hospital",
+    "email": "contact@lilyhospitals.com",
+    "emergency": "yes",
+    "name": "Lily Hospitals Limited",
+    "opening_hours": "24/7",
+    "phone": "+2348113690592",
+    "website": "http://www.lilyhospitals.com/",
+    "id": "node/4558682977"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5714049,
+      6.320641
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4770515573",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4770515573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6793467,
+      6.4133568
+    ]
+  }
+}
+]
+}

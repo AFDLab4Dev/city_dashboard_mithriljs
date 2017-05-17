@@ -1,0 +1,125 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:40:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2539349267,
+  "lat": 6.0672992,
+  "lon": -8.1374882,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Chinese Hospital / UNMIL HQ"
+  }
+},
+{
+  "type": "node",
+  "id": 2539349282,
+  "lat": 6.0779235,
+  "lon": -8.1247318,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Martha Tubman Memorial (MTM) Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 300382175,
+  "center": {
+    "lat": 6.0678577,
+    "lon": -8.1372063
+  },
+  "nodes": [
+    3044677229,
+    3044677230,
+    3044677231,
+    3044677232,
+    4847780055,
+    3044677633,
+    3044677634,
+    3044677229
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "UN Chinese Hospital and UNMIL Base"
+  }
+},
+{
+  "type": "way",
+  "id": 300382201,
+  "center": {
+    "lat": 6.0782193,
+    "lon": -8.1244025
+  },
+  "nodes": [
+    3044677719,
+    4774329243,
+    3044677720,
+    3204690541,
+    4774329245,
+    3044677721,
+    3044677722,
+    4774329239,
+    4774329244,
+    4774329240,
+    4774329241,
+    4774329242,
+    3044677719
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Martha Tubman Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 300382175,
+  "nodes": [
+    3044677229,
+    3044677230,
+    3044677231,
+    3044677232,
+    4847780055,
+    3044677633,
+    3044677634,
+    3044677229
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "UN Chinese Hospital and UNMIL Base"
+  }
+},
+{
+  "type": "way",
+  "id": 300382201,
+  "nodes": [
+    3044677719,
+    4774329243,
+    3044677720,
+    3204690541,
+    4774329245,
+    3044677721,
+    3044677722,
+    4774329239,
+    4774329244,
+    4774329240,
+    4774329241,
+    4774329242,
+    3044677719
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Martha Tubman Hospital"
+  }
+}
+
+  ]
+}

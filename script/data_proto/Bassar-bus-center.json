@@ -1,0 +1,64 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4547687889,
+  "lat": 9.2508380,
+  "lon": 0.7560977,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Bikpassiba"
+  }
+},
+{
+  "type": "node",
+  "id": 4727485591,
+  "lat": 9.1328657,
+  "lon": 0.7600079,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Koupoulou"
+  }
+},
+{
+  "type": "node",
+  "id": 4734119622,
+  "lat": 9.1365319,
+  "lon": 0.7481082,
+  "tags": {
+    "amenity": "bus_station",
+    "name:en": "Kitang"
+  }
+},
+{
+  "type": "node",
+  "id": 4770778222,
+  "lat": 9.2317314,
+  "lon": 0.7889431,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "25",
+    "name:fr": "25"
+  }
+},
+{
+  "type": "node",
+  "id": 4770790121,
+  "lat": 9.2319361,
+  "lon": 0.7886566,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "23",
+    "name:fr": "23"
+  }
+}
+
+  ]
+}

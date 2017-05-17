@@ -1,0 +1,1117 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1994158218,
+  "lat": 6.3765829,
+  "lon": 5.6302935,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "market"
+  }
+},
+{
+  "type": "node",
+  "id": 1995055421,
+  "lat": 6.3639917,
+  "lon": 5.5886739,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Ogida Barrack's Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2072662364,
+  "lat": 6.3645793,
+  "lon": 5.5864320,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Olomuza Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2072662774,
+  "lat": 6.3646170,
+  "lon": 5.5828609,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Useh Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2154560066,
+  "lat": 6.3106723,
+  "lon": 5.6142995,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Ihama Mini Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2161050319,
+  "lat": 6.3361359,
+  "lon": 5.6179119,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Eyanga Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2161071882,
+  "lat": 6.2972448,
+  "lon": 5.5909413,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oko Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2344328650,
+  "lat": 6.3268364,
+  "lon": 5.6001067,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2344540222,
+  "lat": 6.3235272,
+  "lon": 5.5922484,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mini-Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2349475773,
+  "lat": 6.3462032,
+  "lon": 5.6328665,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Vegetable Market"
+  }
+},
+{
+  "type": "node",
+  "id": 4302663992,
+  "lat": 6.3591360,
+  "lon": 5.6004913,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Ogida Market"
+  }
+},
+{
+  "type": "way",
+  "id": 206119753,
+  "center": {
+    "lat": 6.2977456,
+    "lon": 5.5906706
+  },
+  "nodes": [
+    2161136782,
+    2161134879
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oko Market Road"
+  }
+},
+{
+  "type": "way",
+  "id": 225786239,
+  "center": {
+    "lat": 6.3461285,
+    "lon": 5.6093494
+  },
+  "nodes": [
+    2345400502,
+    2345400500,
+    2345400489,
+    2345400484,
+    2345400486,
+    2345400505,
+    2345400502
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 225690922,
+  "center": {
+    "lat": 6.3456525,
+    "lon": 5.6090203
+  },
+  "nodes": [
+    2344468696,
+    2344468695,
+    2344468692,
+    2344468694,
+    2344468696
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oliha market"
+  }
+},
+{
+  "type": "way",
+  "id": 44618872,
+  "center": {
+    "lat": 6.3352131,
+    "lon": 5.6175232
+  },
+  "nodes": [
+    566449721,
+    566449727,
+    566449730,
+    566449733,
+    566449721
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Yanga Market"
+  }
+},
+{
+  "type": "way",
+  "id": 47396589,
+  "center": {
+    "lat": 6.3357867,
+    "lon": 5.6178852
+  },
+  "nodes": [
+    603325514,
+    603325515,
+    603325516,
+    603325517,
+    603325514
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Yanga Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480346,
+  "center": {
+    "lat": 6.3527805,
+    "lon": 5.6125327
+  },
+  "nodes": [
+    981539279,
+    981538733,
+    981539254,
+    981539036,
+    981539279
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480348,
+  "center": {
+    "lat": 6.3526202,
+    "lon": 5.6123851
+  },
+  "nodes": [
+    981539292,
+    981539066,
+    981538747,
+    981538491,
+    981539292
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480359,
+  "center": {
+    "lat": 6.3523320,
+    "lon": 5.6130714
+  },
+  "nodes": [
+    981538368,
+    981537831,
+    981539324,
+    981538086,
+    981538368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480364,
+  "center": {
+    "lat": 6.3521717,
+    "lon": 5.6129237
+  },
+  "nodes": [
+    981539041,
+    981537863,
+    981539335,
+    981538118,
+    981539041
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480375,
+  "center": {
+    "lat": 6.3526011,
+    "lon": 5.6127481
+  },
+  "nodes": [
+    981537912,
+    981539154,
+    981538240,
+    981539420,
+    981537912
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480377,
+  "center": {
+    "lat": 6.3524857,
+    "lon": 5.6125467
+  },
+  "nodes": [
+    981538482,
+    981537941,
+    981539468,
+    981538200,
+    981538482
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480390,
+  "center": {
+    "lat": 6.3523768,
+    "lon": 5.6130175
+  },
+  "nodes": [
+    981538109,
+    981538368,
+    981538086,
+    981538638,
+    981538109
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480402,
+  "center": {
+    "lat": 6.3526908,
+    "lon": 5.6126405
+  },
+  "nodes": [
+    981539010,
+    981538459,
+    981538174,
+    981538711,
+    981539010
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480407,
+  "center": {
+    "lat": 6.3526460,
+    "lon": 5.6126943
+  },
+  "nodes": [
+    981538459,
+    981537912,
+    981539420,
+    981538174,
+    981538459
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480410,
+  "center": {
+    "lat": 6.3525305,
+    "lon": 5.6124928
+  },
+  "nodes": [
+    981538208,
+    981538482,
+    981538200,
+    981538742,
+    981538208
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480434,
+  "center": {
+    "lat": 6.3527357,
+    "lon": 5.6125866
+  },
+  "nodes": [
+    981538733,
+    981539010,
+    981538711,
+    981539254,
+    981538733
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480440,
+  "center": {
+    "lat": 6.3525114,
+    "lon": 5.6128559
+  },
+  "nodes": [
+    981537975,
+    981539200,
+    981538929,
+    981539522,
+    981537975
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480442,
+  "center": {
+    "lat": 6.3523960,
+    "lon": 5.6126543
+  },
+  "nodes": [
+    981539172,
+    981538630,
+    981539157,
+    981538892,
+    981539172
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480471,
+  "center": {
+    "lat": 6.3525563,
+    "lon": 5.6128020
+  },
+  "nodes": [
+    981539154,
+    981537975,
+    981539522,
+    981538240,
+    981539154
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480472,
+  "center": {
+    "lat": 6.3524408,
+    "lon": 5.6126005
+  },
+  "nodes": [
+    981537941,
+    981539172,
+    981538892,
+    981539468,
+    981537941
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480477,
+  "center": {
+    "lat": 6.3522166,
+    "lon": 5.6128699
+  },
+  "nodes": [
+    981537773,
+    981539041,
+    981538118,
+    981539281,
+    981537773
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480505,
+  "center": {
+    "lat": 6.3524217,
+    "lon": 5.6129636
+  },
+  "nodes": [
+    981538648,
+    981538109,
+    981538638,
+    981538395,
+    981538648
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480506,
+  "center": {
+    "lat": 6.3523063,
+    "lon": 5.6127621
+  },
+  "nodes": [
+    981538866,
+    981538334,
+    981538049,
+    981538611,
+    981538866
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480510,
+  "center": {
+    "lat": 6.3522614,
+    "lon": 5.6128159
+  },
+  "nodes": [
+    981538334,
+    981537773,
+    981539281,
+    981538049,
+    981538334
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480522,
+  "center": {
+    "lat": 6.3525754,
+    "lon": 5.6124389
+  },
+  "nodes": [
+    981539066,
+    981538208,
+    981538742,
+    981538747,
+    981539066
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480533,
+  "center": {
+    "lat": 6.3524666,
+    "lon": 5.6129098
+  },
+  "nodes": [
+    981539200,
+    981538648,
+    981538395,
+    981538929,
+    981539200
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480535,
+  "center": {
+    "lat": 6.3523511,
+    "lon": 5.6127083
+  },
+  "nodes": [
+    981538630,
+    981538866,
+    981538611,
+    981539157,
+    981538630
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 225786238,
+  "center": {
+    "lat": 6.3496859,
+    "lon": 5.6115839
+  },
+  "nodes": [
+    2345400625,
+    2345400623,
+    2345400624,
+    2345400629,
+    2345400625
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "wood market"
+  }
+},
+{
+  "type": "way",
+  "id": 206119753,
+  "nodes": [
+    2161136782,
+    2161134879
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oko Market Road"
+  }
+},
+{
+  "type": "way",
+  "id": 225786239,
+  "nodes": [
+    2345400502,
+    2345400500,
+    2345400489,
+    2345400484,
+    2345400486,
+    2345400505,
+    2345400502
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 225690922,
+  "nodes": [
+    2344468696,
+    2344468695,
+    2344468692,
+    2344468694,
+    2344468696
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oliha market"
+  }
+},
+{
+  "type": "way",
+  "id": 44618872,
+  "nodes": [
+    566449721,
+    566449727,
+    566449730,
+    566449733,
+    566449721
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Yanga Market"
+  }
+},
+{
+  "type": "way",
+  "id": 47396589,
+  "nodes": [
+    603325514,
+    603325515,
+    603325516,
+    603325517,
+    603325514
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Yanga Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480346,
+  "nodes": [
+    981539279,
+    981538733,
+    981539254,
+    981539036,
+    981539279
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480348,
+  "nodes": [
+    981539292,
+    981539066,
+    981538747,
+    981538491,
+    981539292
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480359,
+  "nodes": [
+    981538368,
+    981537831,
+    981539324,
+    981538086,
+    981538368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480364,
+  "nodes": [
+    981539041,
+    981537863,
+    981539335,
+    981538118,
+    981539041
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480375,
+  "nodes": [
+    981537912,
+    981539154,
+    981538240,
+    981539420,
+    981537912
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480377,
+  "nodes": [
+    981538482,
+    981537941,
+    981539468,
+    981538200,
+    981538482
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480390,
+  "nodes": [
+    981538109,
+    981538368,
+    981538086,
+    981538638,
+    981538109
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480402,
+  "nodes": [
+    981539010,
+    981538459,
+    981538174,
+    981538711,
+    981539010
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480407,
+  "nodes": [
+    981538459,
+    981537912,
+    981539420,
+    981538174,
+    981538459
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480410,
+  "nodes": [
+    981538208,
+    981538482,
+    981538200,
+    981538742,
+    981538208
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480434,
+  "nodes": [
+    981538733,
+    981539010,
+    981538711,
+    981539254,
+    981538733
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480440,
+  "nodes": [
+    981537975,
+    981539200,
+    981538929,
+    981539522,
+    981537975
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480442,
+  "nodes": [
+    981539172,
+    981538630,
+    981539157,
+    981538892,
+    981539172
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480471,
+  "nodes": [
+    981539154,
+    981537975,
+    981539522,
+    981538240,
+    981539154
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480472,
+  "nodes": [
+    981537941,
+    981539172,
+    981538892,
+    981539468,
+    981537941
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480477,
+  "nodes": [
+    981537773,
+    981539041,
+    981538118,
+    981539281,
+    981537773
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480505,
+  "nodes": [
+    981538648,
+    981538109,
+    981538638,
+    981538395,
+    981538648
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480506,
+  "nodes": [
+    981538866,
+    981538334,
+    981538049,
+    981538611,
+    981538866
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480510,
+  "nodes": [
+    981538334,
+    981537773,
+    981539281,
+    981538049,
+    981538334
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480522,
+  "nodes": [
+    981539066,
+    981538208,
+    981538742,
+    981538747,
+    981539066
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480533,
+  "nodes": [
+    981539200,
+    981538648,
+    981538395,
+    981538929,
+    981539200
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 84480535,
+  "nodes": [
+    981538630,
+    981538866,
+    981538611,
+    981539157,
+    981538630
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market"
+  }
+},
+{
+  "type": "way",
+  "id": 225786238,
+  "nodes": [
+    2345400625,
+    2345400623,
+    2345400624,
+    2345400629,
+    2345400625
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "wood market"
+  }
+}
+
+  ]
+}

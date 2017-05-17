@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/233536980",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Mango",
+    "source": "Bing",
+    "id": "way/233536980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.4757781,
+      10.3566586
+    ]
+  }
+}
+]
+}

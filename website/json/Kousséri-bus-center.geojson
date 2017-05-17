@@ -1,0 +1,120 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/308210025",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gares du Sud",
+    "id": "way/308210025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0833961,
+      12.1000862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308210027",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare d'Abeché محطة أبشي",
+    "name:ar": "محطة أبشي",
+    "id": "way/308210027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0838005,
+      12.1208928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308210028",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/308210028"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.083203,
+      12.1007471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399656674",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "National Voyage",
+    "id": "way/399656674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.020518,
+      12.0838952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415082217",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "DIAFIL Voyage",
+    "id": "way/415082217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0082297,
+      12.0908037
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3134981852",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "gare d'Abeché محطة أبشي",
+    "name:ar": "محطة أبشي",
+    "id": "node/3134981852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0831749,
+      12.1203509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4811706023",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Express Sud Voyages",
+    "name:fr": "Express Sud Voyages",
+    "id": "node/4811706023"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0835452,
+      12.1007483
+    ]
+  }
+}
+]
+}

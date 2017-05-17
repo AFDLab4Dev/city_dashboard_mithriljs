@@ -1,0 +1,153 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 559470468,
+  "lat": 10.4540399,
+  "lon": 7.4248613,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Television Motor Park Kaduna"
+  }
+},
+{
+  "type": "node",
+  "id": 1880810674,
+  "lat": 10.5200288,
+  "lon": 7.4305451,
+  "tags": {
+    "addr:street": "Ahmadu Bello Way",
+    "amenity": "bus_station",
+    "name": "Kantin Kwari"
+  }
+},
+{
+  "type": "way",
+  "id": 39275310,
+  "center": {
+    "lat": 10.4540263,
+    "lon": 7.4248708
+  },
+  "nodes": [
+    470713319,
+    470713320,
+    470713321,
+    470713322,
+    470713319
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Television Bus Station Kaduna"
+  }
+},
+{
+  "type": "way",
+  "id": 39469591,
+  "center": {
+    "lat": 10.5860731,
+    "lon": 7.4401800
+  },
+  "nodes": [
+    472665800,
+    472665801,
+    472665807,
+    472665808,
+    4809655135,
+    472665809,
+    472665810,
+    472665811,
+    472665813,
+    4809655136,
+    4809655137,
+    472665814,
+    4809655138,
+    472665800
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kaduna Long haul Bus station"
+  }
+},
+{
+  "type": "way",
+  "id": 38919157,
+  "center": {
+    "lat": 10.5855004,
+    "lon": 7.4482621
+  },
+  "nodes": [
+    462356559,
+    462356560,
+    462356561,
+    462356562,
+    462356559
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kawo Motor Park"
+  }
+},
+{
+  "type": "way",
+  "id": 39275310,
+  "nodes": [
+    470713319,
+    470713320,
+    470713321,
+    470713322,
+    470713319
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Television Bus Station Kaduna"
+  }
+},
+{
+  "type": "way",
+  "id": 39469591,
+  "nodes": [
+    472665800,
+    472665801,
+    472665807,
+    472665808,
+    4809655135,
+    472665809,
+    472665810,
+    472665811,
+    472665813,
+    4809655136,
+    4809655137,
+    472665814,
+    4809655138,
+    472665800
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kaduna Long haul Bus station"
+  }
+},
+{
+  "type": "way",
+  "id": 38919157,
+  "nodes": [
+    462356559,
+    462356560,
+    462356561,
+    462356562,
+    462356559
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kawo Motor Park"
+  }
+}
+
+  ]
+}

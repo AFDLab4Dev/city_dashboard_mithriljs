@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4402557289",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé GANSOSSO",
+    "name:fr": "Centre de santé GANSOSSO",
+    "id": "node/4402557289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.926491,
+      11.132298
+    ]
+  }
+}
+]
+}

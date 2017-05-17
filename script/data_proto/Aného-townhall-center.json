@@ -1,0 +1,70 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 296411780,
+  "center": {
+    "lat": 6.2292100,
+    "lon": 1.6038046
+  },
+  "nodes": [
+    3002088967,
+    3002095164,
+    3002095163,
+    3002095169,
+    3002095172,
+    3002095168,
+    3002095175,
+    3002095178,
+    3002095179,
+    3002095173,
+    3002095171,
+    3002088970,
+    3002088967
+  ],
+  "tags": {
+    "alt_name": "Mairie",
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de ville d'Aneho",
+    "office": "administrative",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 296411780,
+  "nodes": [
+    3002088967,
+    3002095164,
+    3002095163,
+    3002095169,
+    3002095172,
+    3002095168,
+    3002095175,
+    3002095178,
+    3002095179,
+    3002095173,
+    3002095171,
+    3002088970,
+    3002088967
+  ],
+  "tags": {
+    "alt_name": "Mairie",
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de ville d'Aneho",
+    "office": "administrative",
+    "source": "Bing;survey"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,75 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/28548338",
+  "properties": {
+    "amenity": "university",
+    "name": "Fourah Bay College",
+    "id": "way/28548338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2210378,
+      8.4779289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307096805",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Njala University",
+    "operator": "Njala University",
+    "source": "MSF-CH",
+    "id": "way/307096805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2368504,
+      8.4793494
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307764451",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Limkokwing University of Creative Technology",
+    "source": "MSF-CH",
+    "id": "way/307764451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2383939,
+      8.4512054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3371831066",
+  "properties": {
+    "amenity": "university",
+    "name": "Medicine University",
+    "source": "MSF-CH",
+    "id": "node/3371831066"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1442114,
+      8.3868965
+    ]
+  }
+}
+]
+}

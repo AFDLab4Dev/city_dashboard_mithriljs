@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2380755003",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marche",
+    "id": "node/2380755003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.9366981,
+      11.133483
+    ]
+  }
+}
+]
+}

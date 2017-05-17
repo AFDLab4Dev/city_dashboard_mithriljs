@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2999860545",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "USYNDICTO",
+    "note": "Gare",
+    "source": "bing,survey",
+    "source:date": "2014/08/06",
+    "id": "node/2999860545"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.610295,
+      6.2379999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3001121768",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Sanvee-Condji",
+    "id": "node/3001121768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6263463,
+      6.2410305
+    ]
+  }
+}
+]
+}

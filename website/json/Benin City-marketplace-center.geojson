@@ -1,0 +1,651 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/44618872",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Yanga Market",
+    "id": "way/44618872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6175232,
+      6.3352131
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47396589",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Yanga Market",
+    "id": "way/47396589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6178852,
+      6.3357867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480346",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480346"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6125327,
+      6.3527805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480348",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480348"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6123851,
+      6.3526202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480359",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480359"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6130714,
+      6.352332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480364",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6129237,
+      6.3521717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480375",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6127481,
+      6.3526011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480377",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6125467,
+      6.3524857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480390",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6130175,
+      6.3523768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480402",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6126405,
+      6.3526908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480407",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6126943,
+      6.352646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480410",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6124928,
+      6.3525305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480434",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6125866,
+      6.3527357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480440",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6128559,
+      6.3525114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480442",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6126543,
+      6.352396
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480471",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.612802,
+      6.3525563
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480472",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6126005,
+      6.3524408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480477",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6128699,
+      6.3522166
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480505",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6129636,
+      6.3524217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480506",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6127621,
+      6.3523063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480510",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6128159,
+      6.3522614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480522",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6124389,
+      6.3525754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480533",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6129098,
+      6.3524666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84480535",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ekiwa Market",
+    "id": "way/84480535"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6127083,
+      6.3523511
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206119753",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Oko Market Road",
+    "id": "way/206119753"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5906706,
+      6.2977456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/225690922",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Oliha market",
+    "id": "way/225690922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6090203,
+      6.3456525
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/225786238",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "wood market",
+    "id": "way/225786238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6115839,
+      6.3496859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/225786239",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/225786239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6093494,
+      6.3461285
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994158218",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "market",
+    "id": "node/1994158218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6302935,
+      6.3765829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1995055421",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Ogida Barrack's Market",
+    "id": "node/1995055421"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5886739,
+      6.3639917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072662364",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Olomuza Market",
+    "id": "node/2072662364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.586432,
+      6.3645793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2072662774",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Useh Market",
+    "id": "node/2072662774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5828609,
+      6.364617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154560066",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Ihama Mini Market",
+    "id": "node/2154560066"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6142995,
+      6.3106723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161050319",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Eyanga Market",
+    "id": "node/2161050319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6179119,
+      6.3361359
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161071882",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Oko Market",
+    "id": "node/2161071882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5909413,
+      6.2972448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344328650",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/2344328650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6001067,
+      6.3268364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2344540222",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Mini-Market",
+    "id": "node/2344540222"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5922484,
+      6.3235272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349475773",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Vegetable Market",
+    "id": "node/2349475773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6328665,
+      6.3462032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4302663992",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Ogida Market",
+    "id": "node/4302663992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6004913,
+      6.359136
+    ]
+  }
+}
+]
+}

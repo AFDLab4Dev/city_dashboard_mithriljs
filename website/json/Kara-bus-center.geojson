@@ -1,0 +1,258 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/113792814",
+  "properties": {
+    "amenity": "bus_station",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "Gare routière KS",
+    "id": "way/113792814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2001043,
+      9.5327993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1292960401",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "S.A.T.",
+    "id": "node/1292960401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1978746,
+      9.5463281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550230291",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Djamde",
+    "name:fr": "Djamde",
+    "id": "node/4550230291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0449941,
+      9.5140973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550230292",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Bounoh II",
+    "name:fr": "Bounoh II",
+    "id": "node/4550230292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0964361,
+      9.4768054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550230295",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Awandjelo",
+    "name:fr": "Awandjelo",
+    "id": "node/4550230295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2117239,
+      9.4508523
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550289189",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Atchangbade",
+    "name:fr": "Atchangbade",
+    "id": "node/4550289189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1249899,
+      9.4776872
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550289389",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Welou",
+    "name:fr": "Welou",
+    "id": "node/4550289389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1600164,
+      9.4889929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4588843377",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Rakieta",
+    "id": "node/4588843377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1919054,
+      9.5482981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4588843383",
+  "properties": {
+    "amenity": "bus_station",
+    "description": "kara niamey, dosso, malanville, cotonou",
+    "name": "Kader Transport Voyageurs",
+    "id": "node/4588843383"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1923932,
+      9.5485213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4588843577",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "D Dos transport",
+    "id": "node/4588843577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1923216,
+      9.5485138
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4588845436",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "L K",
+    "id": "node/4588845436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.197441,
+      9.5480733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4588846090",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La Poste",
+    "id": "node/4588846090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1949967,
+      9.5485363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4588886615",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Etrab kara",
+    "id": "node/4588886615"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1906051,
+      9.5583073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4599194013",
+  "properties": {
+    "amenity": "bus_station",
+    "description": "Cette gare dessert les localités autour de Kara",
+    "source": "Bing;Survey",
+    "id": "node/4599194013"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1973625,
+      9.54918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4747190922",
+  "properties": {
+    "addr:street": "Chaminade",
+    "amenity": "bus_station",
+    "name": "ETRAB",
+    "id": "node/4747190922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1906839,
+      9.55819
+    ]
+  }
+}
+]
+}

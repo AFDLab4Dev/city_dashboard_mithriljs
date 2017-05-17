@@ -1,0 +1,86 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1292969599,
+  "lat": 9.5473539,
+  "lon": 1.2111966,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Tchintchinda"
+  }
+},
+{
+  "type": "node",
+  "id": 1292970741,
+  "lat": 9.5580402,
+  "lon": 1.2116668,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Yèou"
+  }
+},
+{
+  "type": "node",
+  "id": 1292980431,
+  "lat": 9.5442697,
+  "lon": 1.1730021,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "marche de wakada"
+  }
+},
+{
+  "type": "node",
+  "id": 3570642493,
+  "lat": 9.5639170,
+  "lon": 1.1934404,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand Marhé de KARA"
+  }
+},
+{
+  "type": "way",
+  "id": 113793454,
+  "center": {
+    "lat": 9.5334598,
+    "lon": 1.1901150
+  },
+  "nodes": [
+    1290069974,
+    1290070009,
+    1290053018,
+    1290053408,
+    1290069974
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 113793454,
+  "nodes": [
+    1290069974,
+    1290070009,
+    1290053018,
+    1290053408,
+    1290069974
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+}
+
+  ]
+}

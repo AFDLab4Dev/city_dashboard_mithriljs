@@ -1,0 +1,58 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4519867554,
+  "lat": 10.3746688,
+  "lon": -9.3009795,
+  "tags": {
+    "amenity": "university",
+    "name": "American Reading Room"
+  }
+},
+{
+  "type": "way",
+  "id": 433257871,
+  "center": {
+    "lat": 10.3750744,
+    "lon": -9.3016591
+  },
+  "nodes": [
+    4320811397,
+    4320811398,
+    4320811400,
+    4320811399,
+    4320811397
+  ],
+  "tags": {
+    "amenity": "university",
+    "area": "yes",
+    "name": "Universite de Kankan"
+  }
+},
+{
+  "type": "way",
+  "id": 433257871,
+  "nodes": [
+    4320811397,
+    4320811398,
+    4320811400,
+    4320811399,
+    4320811397
+  ],
+  "tags": {
+    "amenity": "university",
+    "area": "yes",
+    "name": "Universite de Kankan"
+  }
+}
+
+  ]
+}

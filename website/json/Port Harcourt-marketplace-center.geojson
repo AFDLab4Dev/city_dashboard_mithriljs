@@ -1,0 +1,42 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/501545730",
+  "properties": {
+    "GNS:dsg_code": "MKT",
+    "GNS:dsg_string": "market",
+    "GNS:id": "10281275",
+    "amenity": "marketplace",
+    "is_in:country": "Nigeria",
+    "name": "Water Side market",
+    "source": "GNS",
+    "id": "node/501545730"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8807826,
+      4.9122057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3605456220",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Slaughter Market",
+    "id": "node/3605456220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0454729,
+      4.81439
+    ]
+  }
+}
+]
+}

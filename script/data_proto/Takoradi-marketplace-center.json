@@ -1,0 +1,25 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3780985692,
+  "lat": 4.8995937,
+  "lon": -1.7614155,
+  "tags": {
+    "addr:city": "Takoradi",
+    "amenity": "marketplace",
+    "name": "Amanful Clothing Line",
+    "opening_hours": "7:00 - 5:00",
+    "operator": "Men and Women"
+  }
+}
+
+  ]
+}

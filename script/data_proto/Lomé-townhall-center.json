@@ -1,0 +1,127 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2435398463,
+  "lat": 6.2244762,
+  "lon": 1.2104165,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Etat Civil d'Agoè-Nyivé",
+    "source": "bing; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3101719989,
+  "lat": 6.1312846,
+  "lon": 1.2150879,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Hôtel de Ville"
+  }
+},
+{
+  "type": "node",
+  "id": 3809022101,
+  "lat": 6.1235681,
+  "lon": 1.2204203,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Direction des Services Techniques - Mairie de Lomé"
+  }
+},
+{
+  "type": "node",
+  "id": 3832449690,
+  "lat": 6.1598180,
+  "lon": 1.2139355,
+  "tags": {
+    "amenity": "townhall",
+    "disused": "yes",
+    "note": "ancienne Mairie"
+  }
+},
+{
+  "type": "node",
+  "id": 4136680958,
+  "lat": 6.1411904,
+  "lon": 1.2458498,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie Annexe du 3e Arrondissement"
+  }
+},
+{
+  "type": "node",
+  "id": 4433105426,
+  "lat": 6.1597440,
+  "lon": 1.2132693,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie du 5e Arrondissement",
+    "short_name": "Mairie 5e Arr."
+  }
+},
+{
+  "type": "node",
+  "id": 4463432349,
+  "lat": 6.1346313,
+  "lon": 1.2148924,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Etat Civil"
+  }
+},
+{
+  "type": "way",
+  "id": 112413669,
+  "center": {
+    "lat": 6.1310672,
+    "lon": 1.2152717
+  },
+  "nodes": [
+    1277749788,
+    1277749861,
+    1277749766,
+    1277749892,
+    1277749781,
+    1277749921,
+    1277749812,
+    1277749941,
+    1277749788
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Lomé"
+  }
+},
+{
+  "type": "way",
+  "id": 112413669,
+  "nodes": [
+    1277749788,
+    1277749861,
+    1277749766,
+    1277749892,
+    1277749781,
+    1277749921,
+    1277749812,
+    1277749941,
+    1277749788
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Lomé"
+  }
+}
+
+  ]
+}

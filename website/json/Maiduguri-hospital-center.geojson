@@ -1,0 +1,711 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/361795872",
+  "properties": {
+    "addr:full": "Bulumkutu, Bulumkutu, Maiduguri, BO",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "yes",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Bulumkutu General Hospital",
+    "operator:type": "public",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-13",
+    "staff_count:doctors": "11",
+    "staff_count:nurses": "5",
+    "id": "way/361795872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.087753,
+      11.8342647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/361959689",
+  "properties": {
+    "addr:full": "Kostin, Mashamari, Jere, BO",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "yes",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "University Of Maiduguri Teaching Hospital",
+    "operator:type": "public",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-12",
+    "staff_count:doctors": "211",
+    "staff_count:nurses": "730",
+    "id": "way/361959689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1865789,
+      11.8245458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479566387",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Alima Clinic",
+    "id": "way/479566387"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.2450008,
+      11.8659638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/486737544",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/486737544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.17114,
+      11.835145
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2862390777",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Borno Emergency Operations Center",
+    "operator": "eHealth Africa",
+    "id": "node/2862390777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.147862,
+      11.8230885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693346",
+  "properties": {
+    "addr:full": "Old Gra, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "no",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "no",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "no",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Alpine Specialist Hospital",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "3",
+    "staff_count:nurses": "5",
+    "id": "node/3663693346"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1592612,
+      11.8165602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693347",
+  "properties": {
+    "addr:full": "Saltilmari, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Atla Medical Centre",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-08",
+    "staff_count:doctors": "3",
+    "staff_count:nurses": "6",
+    "id": "node/3663693347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1422729,
+      11.7982788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693349",
+  "properties": {
+    "addr:full": "Westend, Jabamari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Borno Medical Clinic",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-12",
+    "staff_count:doctors": "12",
+    "staff_count:nurses": "11",
+    "id": "node/3663693349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1443477,
+      11.8533071
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693351",
+  "properties": {
+    "addr:full": "Sabon Lamba, Sabon Lamba, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "yes",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "City Hospital",
+    "operator:type": "private",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2014-02-28",
+    "staff_count:doctors": "unknown",
+    "staff_count:nurses": "unknown",
+    "id": "node/3663693351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1519165,
+      11.8555298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693358",
+  "properties": {
+    "addr:full": "Damboa Road, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "no",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "yes",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "no",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "no",
+    "health_specialty:paediatrics": "no",
+    "health_specialty:social_paediatrics": "no",
+    "health_specialty:tropical_medicine": "no",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Eye Hospital",
+    "operator:type": "public",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "2",
+    "staff_count:nurses": "6",
+    "id": "node/3663693358"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1444164,
+      11.8264611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693361",
+  "properties": {
+    "addr:full": "Doctors Quarters, Old Gra, Jere, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "no",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "no",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "no",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Garbwala Specialist Hospital",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-08",
+    "staff_count:doctors": "1",
+    "staff_count:nurses": "1",
+    "id": "node/3663693361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1663208,
+      11.8084717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693362",
+  "properties": {
+    "addr:full": "Jidari/polo, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "no",
+    "health_specialty:emergency_medicine": "no",
+    "health_specialty:obstetrics:antenatal": "no",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "no",
+    "health_specialty:paediatrics": "no",
+    "health_specialty:social_paediatrics": "no",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Ghumtukum Medical Centre",
+    "operator:type": "private",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2014-02-26",
+    "staff_count:doctors": "unknown",
+    "staff_count:nurses": "unknown",
+    "id": "node/3663693362"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1419686,
+      11.798062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693364",
+  "properties": {
+    "addr:full": "Gwange, Gwange Iii, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "no",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "no",
+    "health_specialty:emergency_medicine": "no",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "no",
+    "medical_system:western": "yes",
+    "name": "Gwange Health Clinic",
+    "operator:type": "public",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2014-02-28",
+    "staff_count:doctors": "unknown",
+    "staff_count:nurses": "unknown",
+    "id": "node/3663693364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1677246,
+      11.8276978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693365",
+  "properties": {
+    "addr:full": "New Gra, Gwange3, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Heman Diagnostic And Hospital Centre",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "4",
+    "staff_count:nurses": "10",
+    "id": "node/3663693365"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1812593,
+      11.8097077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693372",
+  "properties": {
+    "addr:full": "Bolori, Bolori, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "no",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Mala K B F Health Centre",
+    "operator:type": "public",
+    "power_supply": "no",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-08",
+    "staff_count:doctors": "0",
+    "staff_count:nurses": "8",
+    "id": "node/3663693372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1234004,
+      11.8579637
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693375",
+  "properties": {
+    "addr:full": "Molai, Molai, Jere, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "no",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Molai General Hospital",
+    "operator:type": "public",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-12",
+    "staff_count:doctors": "2",
+    "staff_count:nurses": "9",
+    "id": "node/3663693375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1003775,
+      11.7459479
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693377",
+  "properties": {
+    "addr:full": "Damboa Road, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "no",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Mustashfa Specialist Hospital",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-11",
+    "staff_count:doctors": "8",
+    "staff_count:nurses": "11",
+    "id": "node/3663693377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1385506,
+      11.8196754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693379",
+  "properties": {
+    "addr:full": "Old Gra/lagos Street, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "yes",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Nakowa Specialist Hospital",
+    "operator:type": "private",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2014-02-26",
+    "staff_count:doctors": "4",
+    "staff_count:nurses": "27",
+    "id": "node/3663693379"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1616191,
+      11.8216176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693381",
+  "properties": {
+    "addr:full": "Old Gra, Maisandari, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "yes",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "yes",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Nursing Home Hospital",
+    "operator:type": "public",
+    "power_supply": "yes",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "7",
+    "staff_count:nurses": "0",
+    "id": "node/3663693381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1480713,
+      11.8218994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693382",
+  "properties": {
+    "addr:full": "Old Gra, Maisandari, Jere, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "no",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Olive Medical Clinic",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "2",
+    "staff_count:nurses": "6",
+    "id": "node/3663693382"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1607662,
+      11.8010597
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693386",
+  "properties": {
+    "addr:full": "Gombole Road, Galtimari, Jere, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "yes",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "yes",
+    "health_specialty:tropical_medicine": "partial",
+    "health_specialty:unknown": "partial",
+    "medical_system:western": "yes",
+    "name": "Royal Specialist Hospital",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "3",
+    "staff_count:nurses": "10",
+    "id": "node/3663693386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1715742,
+      11.7914465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3663693390",
+  "properties": {
+    "addr:full": "Old Gra, Old Gra Sercula Road, Maiduguri, BO",
+    "amenity": "hospital",
+    "disease:malaria": "yes",
+    "health_facility:type": "hospital",
+    "health_service:prevention:vaccination": "unknown",
+    "health_specialty:emergency_medicine": "no",
+    "health_specialty:obstetrics:antenatal": "yes",
+    "health_specialty:obstetrics:caesarean_section": "yes",
+    "health_specialty:obstetrics:postnatal": "yes",
+    "health_specialty:paediatrics": "unknown",
+    "health_specialty:social_paediatrics": "no",
+    "health_specialty:tropical_medicine": "partial",
+    "medical_system:western": "yes",
+    "name": "Yerwa Polyclinic",
+    "operator:type": "unknown",
+    "power_supply": "unknown",
+    "source": "ehealthafrica.org",
+    "source:date": "2012-09-10",
+    "staff_count:doctors": "3",
+    "staff_count:nurses": "8",
+    "id": "node/3663693390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1646182,
+      11.8113945
+    ]
+  }
+}
+]
+}

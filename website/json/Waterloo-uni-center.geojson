@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/28548338",
+  "properties": {
+    "amenity": "university",
+    "name": "Fourah Bay College",
+    "id": "way/28548338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2210378,
+      8.4779289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3371831066",
+  "properties": {
+    "amenity": "university",
+    "name": "Medicine University",
+    "source": "MSF-CH",
+    "id": "node/3371831066"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1442114,
+      8.3868965
+    ]
+  }
+}
+]
+}

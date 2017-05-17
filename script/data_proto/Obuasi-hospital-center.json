@@ -1,0 +1,21 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2157353816,
+  "lat": 6.2033892,
+  "lon": -1.6846555,
+  "tags": {
+    "amenity": "hospital"
+  }
+}
+
+  ]
+}

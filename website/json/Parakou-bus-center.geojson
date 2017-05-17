@@ -1,0 +1,90 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/235016114",
+  "properties": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "highway": "pedestrian",
+    "name": "Parc ATT (Ayina Tourisme Transport)",
+    "source": "bing",
+    "id": "way/235016114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6265569,
+      9.3424263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/321339826",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "GARE ROUTIERE DE TCHAOUROU",
+    "source": "Bing",
+    "id": "way/321339826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6271779,
+      9.3352255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/457947956",
+  "properties": {
+    "amenity": "bus_station",
+    "created_by": "created_by",
+    "name": "Inter City Lines",
+    "id": "node/457947956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6263108,
+      9.3541628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4164183792",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Rimbo Transport Voyageurs",
+    "id": "node/4164183792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6200883,
+      9.361825
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4203022815",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "STM",
+    "id": "node/4203022815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.62021,
+      9.36152
+    ]
+  }
+}
+]
+}

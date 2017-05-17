@@ -1,0 +1,71 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/432822932",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare UTB",
+    "id": "way/432822932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.94752,
+      6.1260927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/432823038",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare KS",
+    "id": "way/432823038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9488208,
+      6.1249765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4317744252",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare",
+    "id": "node/4317744252"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9479263,
+      6.1267873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4459066871",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare SBTA Abidjan - Gagnoa",
+    "id": "node/4459066871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9409246,
+      6.1278531
+    ]
+  }
+}
+]
+}

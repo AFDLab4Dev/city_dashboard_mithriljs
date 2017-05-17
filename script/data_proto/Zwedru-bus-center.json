@@ -1,0 +1,50 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:40:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 484677824,
+  "center": {
+    "lat": 6.0711240,
+    "lon": -8.1333994
+  },
+  "nodes": [
+    4774295536,
+    4774295539,
+    4774295537,
+    4774295533,
+    4774295536
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:material": "brick"
+  }
+},
+{
+  "type": "way",
+  "id": 484677824,
+  "nodes": [
+    4774295536,
+    4774295539,
+    4774295537,
+    4774295533,
+    4774295536
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:material": "brick"
+  }
+}
+
+  ]
+}

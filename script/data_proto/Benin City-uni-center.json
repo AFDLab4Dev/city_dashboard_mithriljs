@@ -1,0 +1,43 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 979903491,
+  "lat": 6.3343603,
+  "lon": 5.6006470,
+  "tags": {
+    "amenity": "university",
+    "name": "University of Benin",
+    "url": "http://www.uniben.edu/"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846236,
+  "lat": 6.3158809,
+  "lon": 5.6180805,
+  "tags": {
+    "amenity": "university",
+    "name": "National VET. Institute"
+  }
+},
+{
+  "type": "node",
+  "id": 2161111298,
+  "lat": 6.3140812,
+  "lon": 5.6259184,
+  "tags": {
+    "amenity": "university",
+    "name": "University Of Benin Teaching Hospital"
+  }
+}
+
+  ]
+}

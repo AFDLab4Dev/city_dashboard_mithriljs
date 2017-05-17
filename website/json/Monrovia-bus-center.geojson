@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4537714890",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Station to Bo waterside (Duala Motor Park)",
+    "name:en": "Shared Taxi Station to Bo waterside",
+    "id": "node/4537714890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7860241,
+      6.3755718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4663849290",
+  "properties": {
+    "addr:postcode": "+231",
+    "addr:street": "barnersville bend & stop",
+    "amenity": "bus_station",
+    "id": "node/4663849290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7321412,
+      6.3559394
+    ]
+  }
+}
+]
+}

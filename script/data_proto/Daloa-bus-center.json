@@ -1,0 +1,34 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4361768789,
+  "lat": 6.8703313,
+  "lon": -6.4439203,
+  "tags": {
+    "addr:street": "Daloa-Issia",
+    "amenity": "bus_station",
+    "name": "Gare CTE"
+  }
+},
+{
+  "type": "node",
+  "id": 4463422393,
+  "lat": 6.8860483,
+  "lon": -6.4473850,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "UTB",
+    "name:fr": "UTB"
+  }
+}
+
+  ]
+}

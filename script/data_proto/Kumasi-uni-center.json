@@ -1,0 +1,174 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3073680468,
+  "lat": 6.6731869,
+  "lon": -1.5645102,
+  "tags": {
+    "amenity": "university",
+    "name": "Engineering New Block",
+    "website": "energycenter.knust.edu.gh"
+  }
+},
+{
+  "type": "node",
+  "id": 3077262066,
+  "lat": 6.6755963,
+  "lon": -1.5668689,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Agriculture",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "node",
+  "id": 3077269727,
+  "lat": 6.6745878,
+  "lon": -1.5658411,
+  "tags": {
+    "amenity": "university",
+    "name": "Department of Modern Languages",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "node",
+  "id": 3077269729,
+  "lat": 6.6746199,
+  "lon": -1.5656516,
+  "tags": {
+    "amenity": "university",
+    "name": "Department of English",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "node",
+  "id": 3077269730,
+  "lat": 6.6747214,
+  "lon": -1.5655948,
+  "tags": {
+    "amenity": "university",
+    "name": "College of Art and Social Science",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "node",
+  "id": 3077269731,
+  "lat": 6.6747872,
+  "lon": -1.5655471,
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Social Sciences",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "node",
+  "id": 3077269732,
+  "lat": 6.6747145,
+  "lon": -1.5654300,
+  "tags": {
+    "amenity": "university",
+    "name": "Department of Geography and Rural Development",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "node",
+  "id": 3077269733,
+  "lat": 6.6746517,
+  "lon": -1.5654703,
+  "tags": {
+    "amenity": "university",
+    "name": "Department of History and Political Studies",
+    "operator": "KNUST"
+  }
+},
+{
+  "type": "way",
+  "id": 378466289,
+  "center": {
+    "lat": 6.6771515,
+    "lon": -1.5659924
+  },
+  "nodes": [
+    3818759822,
+    3818759823,
+    3820904112,
+    3818759825,
+    3818759826,
+    3818759827,
+    3818759828,
+    3818759829,
+    3818759830,
+    3818759831,
+    3818759832,
+    3818759834,
+    3818804842,
+    3818759835,
+    3818759836,
+    3818759838,
+    3818759837,
+    3818759839,
+    3818759840,
+    3818759822
+  ],
+  "tags": {
+    "addr:city": "Kumasi",
+    "addr:postcode": "+233",
+    "addr:street": "N6",
+    "amenity": "university",
+    "name": "Kwame Nkrumah University Of Science And Technology",
+    "operator": "Government",
+    "wikidata": "Q1654025"
+  }
+},
+{
+  "type": "way",
+  "id": 378466289,
+  "nodes": [
+    3818759822,
+    3818759823,
+    3820904112,
+    3818759825,
+    3818759826,
+    3818759827,
+    3818759828,
+    3818759829,
+    3818759830,
+    3818759831,
+    3818759832,
+    3818759834,
+    3818804842,
+    3818759835,
+    3818759836,
+    3818759838,
+    3818759837,
+    3818759839,
+    3818759840,
+    3818759822
+  ],
+  "tags": {
+    "addr:city": "Kumasi",
+    "addr:postcode": "+233",
+    "addr:street": "N6",
+    "amenity": "university",
+    "name": "Kwame Nkrumah University Of Science And Technology",
+    "operator": "Government",
+    "wikidata": "Q1654025"
+  }
+}
+
+  ]
+}

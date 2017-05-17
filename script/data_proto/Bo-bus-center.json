@@ -1,0 +1,55 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4531925395,
+  "lat": 7.9602524,
+  "lon": -11.7434277,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park for Liberia Border(Jendema)"
+  }
+},
+{
+  "type": "node",
+  "id": 4532007190,
+  "lat": 7.9649737,
+  "lon": -11.7373940,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shated Taxi Park for Kenema",
+    "name:en": "Shated Taxi Park for Kenema"
+  }
+},
+{
+  "type": "node",
+  "id": 4532060589,
+  "lat": 7.9650840,
+  "lon": -11.7370950,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park for Makeni Kono",
+    "name:en": "Shared Taxi Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4533776992,
+  "lat": 7.9455045,
+  "lon": -11.7365145,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park",
+    "name:en": "Shared Taxi Park"
+  }
+}
+
+  ]
+}

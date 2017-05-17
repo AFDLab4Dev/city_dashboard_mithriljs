@@ -1,0 +1,94 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2594871718",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Penton Rise",
+    "id": "node/2594871718"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9012371,
+      7.41817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2594871723",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Le Chateau",
+    "id": "node/2594871723"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9003871,
+      7.4177784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2639256360",
+  "properties": {
+    "addr:city": "Ibadan",
+    "addr:housenumber": "Km110",
+    "addr:street": "Abeokuta Road",
+    "amenity": "townhall",
+    "name": "Nustreams Conference Centre",
+    "id": "node/2639256360"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8688137,
+      7.3827757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2639256398",
+  "properties": {
+    "addr:city": "Ibadan",
+    "addr:housenumber": "1",
+    "addr:street": "Harvester Close",
+    "amenity": "townhall",
+    "name": "Jogor Centre",
+    "id": "node/2639256398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.867816,
+      7.3641103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2639256403",
+  "properties": {
+    "addr:city": "Ibadan",
+    "addr:housenumber": "Plot 816",
+    "addr:street": "Agodi GRA",
+    "amenity": "townhall",
+    "name": "Ibadan Civic Centre",
+    "id": "node/2639256403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9233457,
+      7.401169
+    ]
+  }
+}
+]
+}

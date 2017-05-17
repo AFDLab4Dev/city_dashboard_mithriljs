@@ -1,0 +1,247 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/298904992",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Benguema Market",
+    "source": "MSF-CH",
+    "id": "way/298904992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.078807,
+      8.3093118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307686275",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Fay Fay Supermarket",
+    "source": "MSF-CH",
+    "id": "way/307686275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2102286,
+      8.4889558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308027655",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Market",
+    "source": "MSF-CH",
+    "id": "way/308027655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2081729,
+      8.4766997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308069968",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Campbell Town Market Place",
+    "source": "MSF-CH",
+    "id": "way/308069968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0568419,
+      8.3159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308070229",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Campbell Town Market Place",
+    "source": "MSF-CH",
+    "id": "way/308070229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0567227,
+      8.3158298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308523583",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Kissy Town Community Market",
+    "source": "MSF-CH",
+    "id": "way/308523583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0434566,
+      8.3345923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309356704",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Bassa Town Old Road Market",
+    "source": "MSF-CH",
+    "id": "way/309356704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0666096,
+      8.3253657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/310568327",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/310568327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0916476,
+      8.3677911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314144677",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "confirm",
+    "id": "way/314144677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1753826,
+      8.4664373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/330908593",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Bassa Town Market",
+    "source": "MSF-CH",
+    "id": "way/330908593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0628861,
+      8.3263191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342063197",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "BUTTOM MANGO MARKET",
+    "source": "MSF-CH",
+    "id": "node/3342063197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2078418,
+      8.4763466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342157259",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "KUNTOLOR COMMUNITY MARKET",
+    "source": "MSF-CH",
+    "id": "node/3342157259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1767002,
+      8.4612018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342157260",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "PORTEE MARKET",
+    "source": "MSF-CH",
+    "id": "node/3342157260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1760635,
+      8.4634041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3379671852",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/3379671852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0711571,
+      8.3292607
+    ]
+  }
+}
+]
+}

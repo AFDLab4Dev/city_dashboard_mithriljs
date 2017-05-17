@@ -304,6 +304,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4323430692",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "KINTOCOME",
+    "id": "node/4323430692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5440886,
+      6.4564482
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4440045658",
   "properties": {
     "amenity": "marketplace",

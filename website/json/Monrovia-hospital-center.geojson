@@ -1,0 +1,394 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/94957267",
+  "properties": {
+    "alt_name": "JFK Hospital",
+    "alt_name2": "Kennedy Memorial Hospital",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "gns:ufi": "-2132961",
+    "name": "John F. Kennedy Memorial Medical Center",
+    "short_name": "J.F.Kennedy Hospital",
+    "id": "way/94957267"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7732468,
+      6.2872259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/142061458",
+  "properties": {
+    "amenity": "hospital",
+    "name": "SDA Cooper Hospital",
+    "id": "way/142061458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7810836,
+      6.2971993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295843164",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "St. Joseph's Catholic Hospital",
+    "source": "Bing",
+    "id": "way/295843164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7550855,
+      6.2734002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305491804",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "SOS Hospital",
+    "id": "way/305491804"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7494605,
+      6.2754896
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366860877",
+  "properties": {
+    "addr:city": "Monrovia",
+    "addr:street": "Hotel africa Road",
+    "amenity": "hospital",
+    "name": "Faith Clinic",
+    "operator": "Private Clinic",
+    "id": "way/366860877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7903894,
+      6.4031197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2996153468",
+  "properties": {
+    "amenity": "hospital",
+    "fixme": "Location approximate",
+    "gns:ufi": "-2130833",
+    "name": "Catherine Mills Hospital",
+    "source": "GNS",
+    "id": "node/2996153468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.666667,
+      6.25
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2996153469",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "gns:ufi": "-2131427",
+    "name": "Eternal Love Winning Africa Hospital",
+    "source": "GNS",
+    "id": "node/2996153469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6965137,
+      6.2393809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3003566637",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Redemption Hospital",
+    "id": "node/3003566637"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7919744,
+      6.3697076
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3040191771",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Duport Road Clinic",
+    "id": "node/3040191771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6902303,
+      6.2755146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3040192808",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Benson Hospital",
+    "id": "node/3040192808"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6900157,
+      6.2834063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3066992692",
+  "properties": {
+    "alt_name": "Amagashie Clinic",
+    "alt_name:2": "Island Hospital",
+    "amenity": "hospital",
+    "name": "Island Clinic",
+    "id": "node/3066992692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7871135,
+      6.3843716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3106601787",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "alt_name": "ELWA3 Hospital",
+    "amenity": "hospital",
+    "capacity:beds": "250",
+    "capacity:beds:planned": "250",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_019",
+    "health_facility:type": "field_hospital",
+    "is_in": "Wamba Town",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "ELWA-3 Hospital",
+    "note": "Type1 = ETC; Type2 = Triage; Plans to expand to 300 beds by 2nd September. An estimated 200 to 400 personnel are required to run the facility, the largest Ebola Treatment Unit",
+    "operational_status": "open",
+    "operator": "MSF",
+    "source": "BRC;UNMEER;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers;http://www.doctorswithoutborders.org/news-stories/field-news/liberia-msfs-new-ebola-management-centers-already-overwhelmed; WHO Foreign Medical Teams International Response; WHO data",
+    "source:location": "MapAction; UAV video (http://youtu.be/4jakGYoR-Jk)",
+    "start_date": "2014-08-17",
+    "id": "node/3106601787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7005686,
+      6.2446579
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3106631771",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "10",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_016",
+    "health_facility:type": "field_hospital",
+    "is_in": "Monrovia",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "MoD ETU",
+    "note": "Type1 = ETC ; Opened on 2014-10-31",
+    "operational_status": "open",
+    "operator": "N/A",
+    "source": "https://twitter.com/Moro_Cedric/status/528322705461112832; BRC; http://reliefweb.int/sites/reliefweb.int/files/resources/MA002_T01C01P01_Monrovia-300dpi.pdf.pdf; UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "source:location": "MapAction",
+    "start_date": "2014-10-31",
+    "id": "node/3106631771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7344058,
+      6.2700317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3198032313",
+  "properties": {
+    "accuracy": "Needs Validation",
+    "amenity": "hospital",
+    "capacity:beds": "25",
+    "capacity:beds:planned": "25",
+    "check_date": "2014-11-16T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_015",
+    "health_facility:type": "field_hospital",
+    "is_in": "Monrovia",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "Monrovia Medical Unit ETU",
+    "note": "Was listed as 'Monrovia', needs verification",
+    "operational_status": "open",
+    "operator": "USPHS",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00",
+    "id": "node/3198032313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.801,
+      6.313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3198032314",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "100",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_018",
+    "health_facility:type": "field_hospital",
+    "is_in": "Wamba Town",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "Montserrado (ELWA 2) ETU",
+    "operational_status": "open",
+    "operator": "MoH/WHO",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00",
+    "id": "node/3198032314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.696,
+      6.24
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3198032315",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "150",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_020",
+    "health_facility:type": "field_hospital",
+    "is_in": "Monrovia",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "Montserrado (Island Clinic) ETU",
+    "operational_status": "open",
+    "operator": "MoH/WHO/AU",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00",
+    "id": "node/3198032315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.787,
+      6.384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3628712875",
+  "properties": {
+    "addr:city": "Monrovia",
+    "addr:housenumber": "24th",
+    "addr:postcode": "1000",
+    "addr:street": "24th Street",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "JFK",
+    "operator": "Government",
+    "id": "node/3628712875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7735039,
+      6.2869084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3708466720",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Slipway Clinic",
+    "id": "node/3708466720"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7984028,
+      6.3160019
+    ]
+  }
+}
+]
+}

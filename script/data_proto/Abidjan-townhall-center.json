@@ -1,0 +1,473 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1140749261,
+  "lat": 5.4211667,
+  "lon": -4.0166960,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie Abobo"
+  }
+},
+{
+  "type": "node",
+  "id": 1959286274,
+  "lat": 5.3567446,
+  "lon": -3.8891286,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 2082753726,
+  "lat": 5.2590981,
+  "lon": -3.9652499,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Hôtel Communal de Port-Bouët"
+  }
+},
+{
+  "type": "node",
+  "id": 3396929158,
+  "lat": 5.2905275,
+  "lon": -3.9690231,
+  "tags": {
+    "addr:city": "Koumassi",
+    "addr:country": "CI",
+    "addr:housename": "Mairie de Koumassi",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard du Caire",
+    "amenity": "townhall",
+    "email": "info@communedekoumassi.net",
+    "name": "Mairie de Koumassi",
+    "opening_hours": "Mo-Fr 07:30-16:30",
+    "phone": "+225-21 36 38 86;+225-21 56 29 92",
+    "website": "http://www.communedekoumassi.net/",
+    "wikidata": "Q1283513",
+    "wikipedia": "fr:Koumassi"
+  }
+},
+{
+  "type": "node",
+  "id": 3417574370,
+  "lat": 5.3214336,
+  "lon": -4.0203740,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Hôtel du District"
+  }
+},
+{
+  "type": "node",
+  "id": 4517407179,
+  "lat": 5.3438879,
+  "lon": -4.0674479,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Yopougon"
+  }
+},
+{
+  "type": "node",
+  "id": 4728603989,
+  "lat": 5.3474975,
+  "lon": -4.0341157,
+  "tags": {
+    "addr:city": "Attécoubé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "townhall",
+    "name": "Mairie d’Attecoubé",
+    "name:fr": "Mairie d’Attecoubé"
+  }
+},
+{
+  "type": "node",
+  "id": 4783189523,
+  "lat": 5.2905538,
+  "lon": -3.9898458,
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:housename": "Mairie de Marcory",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue du Chevalier de Clieu",
+    "amenity": "townhall",
+    "name": "Mairie de Marcory",
+    "opening_hours": "Mo-Fr 07:30-16:30",
+    "phone": "+225-21 35 85 63",
+    "website": "http://www.marcory.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 4783213431,
+  "lat": 5.3102135,
+  "lon": -4.0128891,
+  "tags": {
+    "addr:city": "Treichville",
+    "addr:country": "CI",
+    "addr:housename": "Mairie de Treichville",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Christiani",
+    "amenity": "townhall",
+    "name": "Mairie de Treichville",
+    "opening_hours": "Mo-Fr 07:30-16:30",
+    "phone": "+225-21 24 11 68",
+    "wikidata": "Q493643",
+    "wikipedia": "fr:Treichville"
+  }
+},
+{
+  "type": "node",
+  "id": 4787169221,
+  "lat": 5.3327578,
+  "lon": -4.0038353,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard des Martyrs",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "townhall",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Mairie de Cocody"
+  }
+},
+{
+  "type": "node",
+  "id": 4787169222,
+  "lat": 5.3239287,
+  "lon": -4.0241128,
+  "tags": {
+    "addr:city": "Plateau",
+    "addr:country": "CI",
+    "addr:housename": "Mairie du Plateau",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard Cadre",
+    "amenity": "townhall",
+    "name": "Mairie du Plateau"
+  }
+},
+{
+  "type": "way",
+  "id": 276428135,
+  "center": {
+    "lat": 5.3270644,
+    "lon": -4.0919430
+  },
+  "nodes": [
+    2810233159,
+    2810233160,
+    2810233161,
+    2810233162,
+    2810233163,
+    2810233164,
+    2810233165,
+    2810233159
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yopougon - Annexe de Niangon"
+  }
+},
+{
+  "type": "way",
+  "id": 302529377,
+  "center": {
+    "lat": 5.3312591,
+    "lon": -4.0764050
+  },
+  "nodes": [
+    3067782199,
+    3067782200,
+    3067782201,
+    3067782202,
+    3067782203,
+    3067782199
+  ],
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Technique Yopougon"
+  }
+},
+{
+  "type": "way",
+  "id": 302688551,
+  "center": {
+    "lat": 5.3268553,
+    "lon": -4.0536344
+  },
+  "nodes": [
+    3069404553,
+    3069404554,
+    3069404555,
+    3069404556,
+    3069404557,
+    3069404558,
+    3069404559,
+    3069404560,
+    3069404561,
+    3069404562,
+    3069404563,
+    3069404564,
+    3069404565,
+    3069404566,
+    3069404567,
+    3069404568,
+    3069404569,
+    3069404570,
+    3069404571,
+    3069404572,
+    3069404573,
+    3069404553
+  ],
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue M24",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Technique de Yopougon Toits-Rouges"
+  }
+},
+{
+  "type": "way",
+  "id": 401437802,
+  "center": {
+    "lat": 5.3328992,
+    "lon": -4.0037529
+  },
+  "nodes": [
+    1607063402,
+    4038655796,
+    4038681202,
+    1607063400,
+    4038681063,
+    4038681067,
+    4038681064,
+    4038681069,
+    4038681196,
+    4038655803,
+    4038655801,
+    4038655799,
+    4038655806,
+    4038655808,
+    4038655805,
+    1607063402
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard des Martyrs",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Mairie de Cocody"
+  }
+},
+{
+  "type": "way",
+  "id": 236449346,
+  "center": {
+    "lat": 5.3428733,
+    "lon": -4.0269331
+  },
+  "nodes": [
+    2444813901,
+    2444813902,
+    2444813903,
+    2444813904,
+    2444813901
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie d'Adjamé"
+  }
+},
+{
+  "type": "way",
+  "id": 309064574,
+  "center": {
+    "lat": 5.3432262,
+    "lon": -4.0262570
+  },
+  "nodes": [
+    3143732036,
+    3143732035,
+    3143731930,
+    3143731931,
+    3143732036
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Socio-culturel Mairie d'Adjamé"
+  }
+},
+{
+  "type": "way",
+  "id": 276428135,
+  "nodes": [
+    2810233159,
+    2810233160,
+    2810233161,
+    2810233162,
+    2810233163,
+    2810233164,
+    2810233165,
+    2810233159
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yopougon - Annexe de Niangon"
+  }
+},
+{
+  "type": "way",
+  "id": 302529377,
+  "nodes": [
+    3067782199,
+    3067782200,
+    3067782201,
+    3067782202,
+    3067782203,
+    3067782199
+  ],
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Technique Yopougon"
+  }
+},
+{
+  "type": "way",
+  "id": 302688551,
+  "nodes": [
+    3069404553,
+    3069404554,
+    3069404555,
+    3069404556,
+    3069404557,
+    3069404558,
+    3069404559,
+    3069404560,
+    3069404561,
+    3069404562,
+    3069404563,
+    3069404564,
+    3069404565,
+    3069404566,
+    3069404567,
+    3069404568,
+    3069404569,
+    3069404570,
+    3069404571,
+    3069404572,
+    3069404573,
+    3069404553
+  ],
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue M24",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Technique de Yopougon Toits-Rouges"
+  }
+},
+{
+  "type": "way",
+  "id": 401437802,
+  "nodes": [
+    1607063402,
+    4038655796,
+    4038681202,
+    1607063400,
+    4038681063,
+    4038681067,
+    4038681064,
+    4038681069,
+    4038681196,
+    4038655803,
+    4038655801,
+    4038655799,
+    4038655806,
+    4038655808,
+    4038655805,
+    1607063402
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard des Martyrs",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Mairie de Cocody"
+  }
+},
+{
+  "type": "way",
+  "id": 236449346,
+  "nodes": [
+    2444813901,
+    2444813902,
+    2444813903,
+    2444813904,
+    2444813901
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie d'Adjamé"
+  }
+},
+{
+  "type": "way",
+  "id": 309064574,
+  "nodes": [
+    3143732036,
+    3143732035,
+    3143731930,
+    3143731931,
+    3143732036
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Socio-culturel Mairie d'Adjamé"
+  }
+}
+
+  ]
+}

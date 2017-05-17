@@ -1,0 +1,60 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:39:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 298572149,
+  "center": {
+    "lat": 6.3781566,
+    "lon": -10.6192865
+  },
+  "nodes": [
+    3024656731,
+    3024656732,
+    3017751340,
+    3024659433,
+    2638889890,
+    3024659434,
+    3024659435,
+    3024659436,
+    3024659437,
+    3024659438,
+    3024656731
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fendell Campus-University of Liberia",
+    "source": "Bing, local knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 298572149,
+  "nodes": [
+    3024656731,
+    3024656732,
+    3017751340,
+    3024659433,
+    2638889890,
+    3024659434,
+    3024659435,
+    3024659436,
+    3024659437,
+    3024659438,
+    3024656731
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fendell Campus-University of Liberia",
+    "source": "Bing, local knowledge"
+  }
+}
+
+  ]
+}

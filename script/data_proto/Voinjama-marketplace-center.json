@@ -1,0 +1,53 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:40:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4514642086,
+  "lat": 8.4234490,
+  "lon": -9.7541213,
+  "tags": {
+    "addr:city": "Voinjama",
+    "addr:street": "Market Grown",
+    "amenity": "marketplace",
+    "name": "Bendu's",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4514643990,
+  "lat": 8.4246271,
+  "lon": -9.7538745,
+  "tags": {
+    "addr:city": "Voinjama",
+    "addr:street": "Market Ground",
+    "amenity": "marketplace",
+    "opening_hours": "Fr",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4514643998,
+  "lat": 8.4311826,
+  "lon": -9.7457044,
+  "tags": {
+    "addr:city": "Voinjama",
+    "addr:street": "New Voinjama Community",
+    "amenity": "marketplace",
+    "name": "New Voinjama Market Ground",
+    "opening_hours": "24/7",
+    "source": "Red Cross Field Survey"
+  }
+}
+
+  ]
+}

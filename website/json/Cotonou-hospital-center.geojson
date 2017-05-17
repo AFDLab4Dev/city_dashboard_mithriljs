@@ -464,22 +464,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4309638152",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Centre de santé de Ouedo",
-    "id": "node/4309638152"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      2.25649,
-      6.457045
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4309638154",
   "properties": {
     "amenity": "hospital",
@@ -539,23 +523,6 @@
     "coordinates": [
       2.2715231,
       6.3837146
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4309639543",
-  "properties": {
-    "FIXME": "position ?",
-    "amenity": "hospital",
-    "name": "Centre de santé de Hêvié",
-    "id": "node/4309639543"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      2.2479683,
-      6.4406333
     ]
   }
 },
@@ -673,6 +640,21 @@
     "coordinates": [
       2.4171273,
       6.4809755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323401508",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4323401508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5440858,
+      6.4547159
     ]
   }
 },

@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/267837016",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "id": "way/267837016"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8106972,
+      10.7377259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2732343162",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopitale",
+    "id": "node/2732343162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8109815,
+      10.7385613
+    ]
+  }
+}
+]
+}

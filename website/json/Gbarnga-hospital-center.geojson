@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3137241067",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Phebe Hospital",
+    "source": "UNMIL;GNS",
+    "id": "node/3137241067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5532711,
+      7.0279069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3198032299",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "52",
+    "capacity:beds:planned": "70",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_009",
+    "health_facility:type": "field_hospital",
+    "is_in": "Gbarnga",
+    "is_in:county": "Bong",
+    "is_in:district": "Jorquelleh",
+    "name": "Bong (Suakoko) ETU",
+    "note": "Validate Name",
+    "operational_status": "open",
+    "operator": "IMC",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00",
+    "id": "node/3198032299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.555,
+      7.005
+    ]
+  }
+}
+]
+}

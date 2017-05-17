@@ -1,0 +1,42 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2774629273,
+  "lat": 9.1984370,
+  "lon": -10.1035194,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Kissidougou"
+  }
+},
+{
+  "type": "node",
+  "id": 4532563099,
+  "lat": 9.1634973,
+  "lon": -10.0917652,
+  "tags": {
+    "addr:city": "Kissidougou",
+    "addr:state": "Kissidougou",
+    "amenity": "hospital",
+    "bed_count": "5",
+    "building": "yes",
+    "dispensing": "no",
+    "doctors_num": "1",
+    "name": "Infirmerie du Camp d'Instruction de Kissidougou",
+    "nurses_num": "2",
+    "opening_hours": "8:00-18:00",
+    "operator_name": "Alima Bangoura",
+    "source": "Red Cross Field Survey"
+  }
+}
+
+  ]
+}

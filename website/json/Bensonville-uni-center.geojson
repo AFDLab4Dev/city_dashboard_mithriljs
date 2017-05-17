@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/298572149",
+  "properties": {
+    "amenity": "university",
+    "name": "Fendell Campus-University of Liberia",
+    "source": "Bing, local knowledge",
+    "id": "way/298572149"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6192865,
+      6.3781566
+    ]
+  }
+}
+]
+}

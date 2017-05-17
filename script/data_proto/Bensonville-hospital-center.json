@@ -1,0 +1,48 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:39:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2755607675,
+  "lat": 6.3531195,
+  "lon": -10.4694925,
+  "tags": {
+    "amenity": "hospital",
+    "gns:ufi": "-2131517",
+    "name": "Firestone Medical Center",
+    "source": "GNS;Personal knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3198032311,
+  "lat": 6.3530000,
+  "lon": -10.4700000,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "31",
+    "capacity:beds:planned": "31",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_005",
+    "health_facility:type": "field_hospital",
+    "is_in": "Harbel City",
+    "is_in:county": "Margibi",
+    "is_in:district": "Firestone",
+    "name": "Margibi (Firestone) ETU",
+    "operational_status": "open",
+    "operator": "Firestone",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00"
+  }
+}
+
+  ]
+}

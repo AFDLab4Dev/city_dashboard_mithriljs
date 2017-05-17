@@ -1,0 +1,125 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:27:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3359806172,
+  "lat": 4.5729263,
+  "lon": 13.6980074,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Regional de Bertoua"
+  }
+},
+{
+  "type": "node",
+  "id": 3779854152,
+  "lat": 4.5780067,
+  "lon": 13.7012610,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4378115841,
+  "lat": 4.5785711,
+  "lon": 13.6860492,
+  "tags": {
+    "amenity": "hospital",
+    "name": "C.S.I. de Bendongoue"
+  }
+},
+{
+  "type": "way",
+  "id": 435620322,
+  "center": {
+    "lat": 4.5757538,
+    "lon": 13.6679835
+  },
+  "nodes": [
+    4335231809,
+    4335231817,
+    4335231818,
+    4335231812,
+    4335231809
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "KK",
+    "operator": "NN"
+  }
+},
+{
+  "type": "way",
+  "id": 313420384,
+  "center": {
+    "lat": 4.5728340,
+    "lon": 13.6979219
+  },
+  "nodes": [
+    3193948030,
+    3193948033,
+    3193948034,
+    3193948040,
+    3193948041,
+    3193948042,
+    3193948000,
+    3193947998,
+    3193948012,
+    3193948030
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital Régional de Bertoua"
+  }
+},
+{
+  "type": "way",
+  "id": 435620322,
+  "nodes": [
+    4335231809,
+    4335231817,
+    4335231818,
+    4335231812,
+    4335231809
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "KK",
+    "operator": "NN"
+  }
+},
+{
+  "type": "way",
+  "id": 313420384,
+  "nodes": [
+    3193948030,
+    3193948033,
+    3193948034,
+    3193948040,
+    3193948041,
+    3193948042,
+    3193948000,
+    3193947998,
+    3193948012,
+    3193948030
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital Régional de Bertoua"
+  }
+}
+
+  ]
+}

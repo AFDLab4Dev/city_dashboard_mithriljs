@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/460345920",
+  "properties": {
+    "amenity": "bus_station",
+    "created_by": "created_by",
+    "name": "Inter City Lines",
+    "id": "node/460345920"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.9317235,
+      11.129053
+    ]
+  }
+}
+]
+}

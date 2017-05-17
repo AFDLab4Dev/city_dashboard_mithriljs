@@ -1,0 +1,76 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/300274481",
+  "properties": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare UTB",
+    "operator": "UTB",
+    "id": "way/300274481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.554158,
+      7.4092589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300274515",
+  "properties": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "name": "Gare MTT",
+    "id": "way/300274515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5514468,
+      7.4077166
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300274516",
+  "properties": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "name": "Gare STT",
+    "id": "way/300274516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.551187,
+      7.4075122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300274517",
+  "properties": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare BAN",
+    "id": "way/300274517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5513537,
+      7.4101069
+    ]
+  }
+}
+]
+}

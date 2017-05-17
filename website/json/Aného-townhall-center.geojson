@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/296411780",
+  "properties": {
+    "alt_name": "Mairie",
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de ville d'Aneho",
+    "office": "administrative",
+    "source": "Bing;survey",
+    "id": "way/296411780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6038046,
+      6.22921
+    ]
+  }
+}
+]
+}

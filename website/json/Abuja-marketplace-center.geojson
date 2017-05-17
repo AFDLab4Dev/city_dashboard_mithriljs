@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/176918838",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "FCT Farmers Market",
+    "source": "Bing",
+    "id": "way/176918838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4942854,
+      9.086445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/176918849",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "FCT Farmers Market",
+    "source": "Bing",
+    "id": "way/176918849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4943746,
+      9.0862713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4549849151",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "New Utako Modern Market",
+    "id": "node/4549849151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4461702,
+      9.0654075
+    ]
+  }
+}
+]
+}

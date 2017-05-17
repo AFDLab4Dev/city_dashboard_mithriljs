@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/312051514",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Grand Marché",
+    "source": "Microsoft Bing orbital imagery",
+    "id": "way/312051514"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6549202,
+      4.7769518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3633079407",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de la cité",
+    "id": "node/3633079407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6302728,
+      4.7461738
+    ]
+  }
+}
+]
+}

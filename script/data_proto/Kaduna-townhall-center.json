@@ -1,0 +1,26 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1754896041,
+  "lat": 10.5083839,
+  "lon": 7.4326132,
+  "tags": {
+    "addr:housename": "Masallaci",
+    "addr:housenumber": "10B",
+    "addr:postcode": "10B X",
+    "addr:street": "Maiduguri Road",
+    "amenity": "townhall",
+    "name": "Sheikh Lawal Abubakar Islamic School"
+  }
+}
+
+  ]
+}

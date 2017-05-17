@@ -1,0 +1,4778 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/3995206",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "type": "multipolygon",
+    "id": "relation/3995206"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6092161,
+      11.9499492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/185718322",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Aminu Kano Teaching Hospital",
+    "source": "Bing",
+    "id": "way/185718322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5507152,
+      11.9631635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/185718325",
+  "properties": {
+    "addr:city": "Gwammaja",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Orthopaedic Hospital",
+    "operator": "Federal Government of Nigeria",
+    "source": "Bing;steadfast.com.ng",
+    "website": "http://www.orthopaedicdala.org/",
+    "id": "way/185718325"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5013761,
+      12.0202363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/207548966",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/207548966"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5681187,
+      11.9917629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/287495752",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Giginyu, Nassarawa, Kano",
+    "addr:municipality": "Giginyu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital;support_group_home",
+    "name": "Abdullahi Muhammad Wase General Hospital;Kano Emergency Operations Center",
+    "operator": "Government;eHealth Africa",
+    "source": "ehealthafrica.org",
+    "id": "way/287495752"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5483684,
+      11.9971968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292191239",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/292191239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5348573,
+      12.0290398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377468732",
+  "properties": {
+    "addr:city": "Kano",
+    "addr:postcode": "700224",
+    "addr:street": "Zoo Road",
+    "amenity": "hospital",
+    "completion level": "Under Construction",
+    "name": "Proposed Paediatric Hospital",
+    "source": "steadfast.com.ng",
+    "id": "way/377468732"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329545,
+      11.9699465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377484015",
+  "properties": {
+    "addr:city": "Kano",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "An Nur Specialist Hospital",
+    "operator": "An Nur Specialist Hospital",
+    "source": "steadfast.com.ng",
+    "id": "way/377484015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5424949,
+      11.9780012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2536556320",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Clinic",
+    "id": "node/2536556320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4267302,
+      11.9686217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2749804561",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nigerian Air Force P.H.C.",
+    "id": "node/2749804561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5308088,
+      12.0437184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2749807577",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Kunya H.C.",
+    "id": "node/2749807577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4828259,
+      12.0448051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2749843354",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Rijiyar Zaki H.P.",
+    "id": "node/2749843354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4583997,
+      11.9788423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2749851407",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tudun Fulani H.P.",
+    "id": "node/2749851407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4773813,
+      12.0355319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2758089630",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Premiere Clinic",
+    "id": "node/2758089630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5379422,
+      11.9746638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2931186967",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Kanwa, Madobi, Kano",
+    "addr:municipality": "Kanwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kanwa H.P. Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2931186967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4235141,
+      11.8588429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2931186972",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Kwankwaso, Madobi, Kano",
+    "addr:municipality": "Kwankwaso",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kwankwaso P.H.C. Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2931186972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3933815,
+      11.8515141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2947589916",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Galinja, Madobi, Kano",
+    "addr:municipality": "Galinja",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Galinja Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2947589916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4903161,
+      11.8613351
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2947589926",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Kauran Mata, Madobi, Kano",
+    "addr:municipality": "Kauran Mata",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kauran Mata Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2947589926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4772066,
+      11.8661962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2947589931",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Tanburawa, Dawakin Kudu, Kano",
+    "addr:municipality": "Tanburawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Matage Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2947589931"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5291242,
+      11.8548449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312132",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Adakawa, Dala, Kano",
+    "addr:municipality": "Adakawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Adakawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312132"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5135458,
+      12.0076929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312433",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Kureken Sani, Kumbotso, Kano",
+    "addr:municipality": "Kureken Sani",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Ahmad Ado Bayero Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312433"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.580337,
+      11.9268987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312434",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Giginyu, Nassarawa, Kano",
+    "addr:municipality": "Giginyu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Ahmadiyya Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5480575,
+      12.0065636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312435",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Kabuga, Gwale, Kano",
+    "addr:municipality": "Kabuga",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Aisami Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4995658,
+      11.9949114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312436",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Kumbotso, Kumbotso, Kano",
+    "addr:municipality": "Kumbotso",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Akth Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5000119,
+      11.8927841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312437",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Tudun Wada, Nassarawa, Kano",
+    "addr:municipality": "Tudun Wada",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Amina Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5434324,
+      12.0104055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312438",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Kwachiri, Fagge, Kano",
+    "addr:municipality": "Kwachiri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "fixme": "Please, find out what is the type of this health facility",
+    "health_facility:type": "unknown",
+    "name": "Armed Forces",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5172708,
+      12.0330287
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312439",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Sabon Gari West, Fagge, Kano",
+    "addr:municipality": "Sabon Gari West",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Asunta Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5349254,
+      12.0309817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312440",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "BUK Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4803344,
+      11.9764699
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312441",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Giginyu, Nassarawa, Kano",
+    "addr:municipality": "Giginyu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Badawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.573136,
+      11.9999121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312442",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Bakin Ruwa, Dala, Kano",
+    "addr:municipality": "Bakin Ruwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bakin Ruwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.503336,
+      11.999106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312443",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Rijiyar Zaki, Ungongo, Kano",
+    "addr:municipality": "Rijiyar Zaki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Balarabe Chiroma Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312443"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4583643,
+      11.9788562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312444",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Kan Karofi, Kano Municipal, Kano",
+    "addr:municipality": "Kan Karofi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Bamali Nuhu General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287969,
+      11.991095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312445",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Gurun Gawa 1, Kumbotso, Kano",
+    "addr:municipality": "Gurun Gawa 1",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bechi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4919935,
+      11.9264495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312446",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Kwachiri, Fagge, Kano",
+    "addr:municipality": "Kwachiri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bokavo Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5073398,
+      12.0330664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312447",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Chiranchi, Kumbotso, Kano",
+    "addr:municipality": "Chiranchi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Chiranchi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4755678,
+      11.9520853
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312448",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Kabuwaya, Dala, Kano",
+    "addr:municipality": "Kabuwaya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dala Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5060352,
+      12.0135574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312449",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Kofar Ruwa, Dala, Kano",
+    "addr:municipality": "Kofar Ruwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dandinshe Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312449"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4857228,
+      12.0203765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312450",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Unguwar Rimi, Kumbotso, Kano",
+    "addr:municipality": "Unguwar Rimi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dangwauro Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.553208,
+      11.9091488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312451",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Dan Maliki, Kumbotso, Kano",
+    "addr:municipality": "Dan Maliki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Danmaliki Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5131446,
+      11.9278094
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312452",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Babban Giji, Tarauni, Kano",
+    "addr:municipality": "Babban Giji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Babban Giji Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407933,
+      11.9552097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312453",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Daurawa, Tarauni, Kano",
+    "addr:municipality": "Daurawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Daurawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5554826,
+      11.969185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312454",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Goron Dutse, Gwale, Kano",
+    "addr:municipality": "Goron Dutse",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dausayi H.C. Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5054672,
+      11.9969986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312455",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Rijiyar Zaki, Ungongo, Kano",
+    "addr:municipality": "Rijiyar Zaki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dausayi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4441816,
+      12.0130561
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312456",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Dakata, Nassarawa, Kano",
+    "addr:municipality": "Dakata",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dawakin-Dakata Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312456"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5822388,
+      12.0308663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312457",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dorayi Babba Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4617949,
+      11.9759694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312458",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dorayi Karama Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4768861,
+      11.9648815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312459",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Tudun Wada, Nassarawa, Kano",
+    "addr:municipality": "Tudun Wada",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Ecwa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444441,
+      12.0148971
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312460",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Tudun Wazurchi, Kano Municipal, Kano",
+    "addr:municipality": "Tudun Wazurchi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Emir Palace's Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5190458,
+      11.9897604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312461",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Dala, Dala, Kano",
+    "addr:municipality": "Dala",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Fuskar Gabas Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312461"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.510225,
+      12.0064349
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312462",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Tudun Nufawa, Kano Municipal, Kano",
+    "addr:municipality": "Tudun Nufawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Fuskar Gabas Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5184063,
+      12.0051967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312463",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Galadanchi, Gwale, Kano",
+    "addr:municipality": "Galadanchi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Fuskar Yamma Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312463"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.512654,
+      11.990352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312464",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Rijiyar Zaki, Ungongo, Kano",
+    "addr:municipality": "Rijiyar Zaki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gadan Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312464"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4557617,
+      12.0033399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312465",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Fagge B, Fagge, Kano",
+    "addr:municipality": "Fagge B",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Galadima Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5280943,
+      12.0080555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312466",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Gama, Nassarawa, Kano",
+    "addr:municipality": "Gama",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gama Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5523351,
+      12.0337852
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312467",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Gandu Albasa, Kano Municipal, Kano",
+    "addr:municipality": "Gandu Albasa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Gandu Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5240276,
+      11.9731567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312468",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dandago, Gwale, Kano",
+    "addr:municipality": "Dandago",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Garangamawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5071365,
+      11.9936441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312469",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dandago, Gwale, Kano",
+    "addr:municipality": "Dandago",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gidauniya Alheri Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.507354,
+      11.993933
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312470",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Giginyu, Nassarawa, Kano",
+    "addr:municipality": "Giginyu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Giginyu Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5642341,
+      11.9885247
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312471",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Gobirawa, Dala, Kano",
+    "addr:municipality": "Gobirawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gobirawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4836343,
+      12.0283366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312472",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Dogon Nama, Dala, Kano",
+    "addr:municipality": "Dogon Nama",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Goron Dutse Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4968274,
+      11.997089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312473",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Gurjiya, Dawakin Kudu, Kano",
+    "addr:municipality": "Gurjiya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gurjiya Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5528482,
+      11.8815714
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312474",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Gurun Gawa 1, Kumbotso, Kano",
+    "addr:municipality": "Gurun Gawa 1",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gurungawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5235552,
+      11.936458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312475",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Gawuna, Nassarawa, Kano",
+    "addr:municipality": "Gawuna",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Gwagwarwa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.550502,
+      12.027351
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312476",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Gwagwarwa, Nassarawa, Kano",
+    "addr:municipality": "Gwagwarwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Gwagwarwa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5506539,
+      12.0274386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312477",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Gwale, Gwale, Kano",
+    "addr:municipality": "Gwale",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "clinic",
+    "name": "Gwale Filin Mushe Maternal and Child Care",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5041784,
+      11.9862304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312478",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Gwammaja, Dala, Kano",
+    "addr:municipality": "Gwammaja",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "clinic",
+    "name": "Gwammaja Maternal and Child Care",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5075154,
+      12.0201447
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312479",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Gyadi Gyadi Kudu, Tarauni, Kano",
+    "addr:municipality": "Gyadi Gyadi Kudu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gyadi Gyadi Kudu Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5443785,
+      11.9685946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312480",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Gobirawa, Dala, Kano",
+    "addr:municipality": "Gobirawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "clinic",
+    "name": "Hajia Umma Zaria Clinic",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4867028,
+      12.0349004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312481",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Tudun Wazurchi, Kano Municipal, Kano",
+    "addr:municipality": "Tudun Wazurchi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Hasiya Bayero Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5181076,
+      11.9884383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312482",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Kanwa, Madobi, Kano",
+    "addr:municipality": "Kanwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Hausawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4510638,
+      11.8714248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312483",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Babban Giji, Tarauni, Kano",
+    "addr:municipality": "Babban Giji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Hausawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5355393,
+      11.9631233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312484",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Hotoro North, Nassarawa, Kano",
+    "addr:municipality": "Hotoro North",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Haye Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312484"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5900256,
+      12.0007916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312485",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Hotoro, Tarauni, Kano",
+    "addr:municipality": "Hotoro",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Hotoro Danmarke Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.580937,
+      11.962084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312486",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Hotoro North, Nassarawa, Kano",
+    "addr:municipality": "Hotoro North",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Hotoro Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312486"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5824057,
+      11.9745064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312487",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Hotoro South, Nassarawa, Kano",
+    "addr:municipality": "Hotoro South",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Hotoro South Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312487"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5823379,
+      11.9700895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312488",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Sabon Gari West, Fagge, Kano",
+    "addr:municipality": "Sabon Gari West",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Infectious Diseases General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277951,
+      12.0149172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312489",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Dakata, Nassarawa, Kano",
+    "addr:municipality": "Dakata",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Ja'Afar Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.579698,
+      12.0196458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312490",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Jaen Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4831566,
+      11.9454051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312491",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Janbulo Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.471419,
+      11.9773311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312492",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Gurun Gawa 2, Kumbotso, Kano",
+    "addr:municipality": "Gurun Gawa 2",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Jaoji Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312492"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5256119,
+      11.9584401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312493",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Gyadi Gyadi Arewa, Tarauni, Kano",
+    "addr:municipality": "Gyadi Gyadi Arewa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Jauji Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5417753,
+      11.9766193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312494",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Kabuga, Gwale, Kano",
+    "addr:municipality": "Kabuga",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kabuga Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312494"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4745588,
+      11.983833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312495",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Kantudu, Dala, Kano",
+    "addr:municipality": "Kantudu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kantudu Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312495"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5097825,
+      12.0114808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312496",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Kaura Goje, Nassarawa, Kano",
+    "addr:municipality": "Kaura Goje",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kaura Goje Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5424116,
+      12.0387783
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312497",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Unguwa Uku Kauyen Alu, Tarauni, Kano",
+    "addr:municipality": "Unguwa Uku Kauyen Alu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kauye Alu Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.57232,
+      11.9605291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312498",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Kawaji, Nassarawa, Kano",
+    "addr:municipality": "Kawaji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kawaji Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312498"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.577249,
+      12.0103526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312499",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Giginyu, Nassarawa, Kano",
+    "addr:municipality": "Giginyu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kawo Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312499"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5719288,
+      11.9815206
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312500",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Fagge D2, Fagge, Kano",
+    "addr:municipality": "Fagge D2",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Khadija Memorial Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.520606,
+      12.0218531
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312501",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Gwale, Gwale, Kano",
+    "addr:municipality": "Gwale",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kofar Naisa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.512915,
+      11.982927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312502",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Kofar Ruwa, Dala, Kano",
+    "addr:municipality": "Kofar Ruwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kofar Ruwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4967104,
+      12.0195651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312503",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Daurawa, Tarauni, Kano",
+    "addr:municipality": "Daurawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kundila Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5560462,
+      11.964232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312504",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Sani Mai Nagge, Gwale, Kano",
+    "addr:municipality": "Sani Mai Nagge",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kwamitin Makota P.H.C Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4928543,
+      11.9849482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312505",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Hotoro North, Nassarawa, Kano",
+    "addr:municipality": "Hotoro North",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Ladanai Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5962838,
+      11.9858791
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312506",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Unguwar Rimi, Kumbotso, Kano",
+    "addr:municipality": "Unguwar Rimi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Limawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5968538,
+      11.8996874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312507",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Shahuchi, Kano Municipal, Kano",
+    "addr:municipality": "Shahuchi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Madatai Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163822,
+      11.9983574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312508",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Naibawa, Kumbotso, Kano",
+    "addr:municipality": "Naibawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Maikalwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537654,
+      11.9307768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312509",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Kofar Mazugal, Dala, Kano",
+    "addr:municipality": "Kofar Mazugal",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Maisikeli Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163093,
+      12.0151601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312510",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Sani Mai Nagge, Gwale, Kano",
+    "addr:municipality": "Sani Mai Nagge",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Makota Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.49723,
+      11.987377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312511",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Tudun Wada, Nassarawa, Kano",
+    "addr:municipality": "Tudun Wada",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Mallam Shuaibu Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5569023,
+      12.0216467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312512",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Tudun Fulani, Ungongo, Kano",
+    "addr:municipality": "Tudun Fulani",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Mangwaro Primary Health Center",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4774455,
+      12.0358464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312513",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Mariri, Kumbotso, Kano",
+    "addr:municipality": "Mariri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Mariri Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312513"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6091166,
+      11.9498774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312514",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "She She, Kano Municipal, Kano",
+    "addr:municipality": "She She",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Marmarara General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312514"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.512406,
+      11.997122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312515",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Zaitawa, Kano Municipal, Kano",
+    "addr:municipality": "Zaitawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Mayanka Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5173772,
+      12.0071481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312516",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Zango, Kano Municipal, Kano",
+    "addr:municipality": "Zango",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Murtala Mohammed Specialist Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5223229,
+      11.9989863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312517",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Naibawa, Kumbotso, Kano",
+    "addr:municipality": "Naibawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Naibawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.569402,
+      11.9390102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312518",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Panshekara, Kumbotso, Kano",
+    "addr:municipality": "Panshekara",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Panshekara Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.457315,
+      11.899131
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312519",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Tudun Nufawa, Kano Municipal, Kano",
+    "addr:municipality": "Tudun Nufawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Sabo Bakin Zuwo General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5089324,
+      12.0005271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312520",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Fagge A, Fagge, Kano",
+    "addr:municipality": "Fagge A",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "clinic",
+    "name": "Sabogarba Maternal and Child Health",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5288545,
+      12.0045118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312521",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Sabon Gari West, Fagge, Kano",
+    "addr:municipality": "Sabon Gari West",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Sabon Gari Middle Road Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5342234,
+      12.0192974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312522",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Mandawari, Gwale, Kano",
+    "addr:municipality": "Mandawari",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sabon Sara Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5100707,
+      11.9953097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312523",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sabuwar Madina Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312523"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4888333,
+      11.954168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312524",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Diso, Gwale, Kano",
+    "addr:municipality": "Diso",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sani Zubairu Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5105094,
+      11.9859792
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312525",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Kawaji, Nassarawa, Kano",
+    "addr:municipality": "Kawaji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sauna Kawaji Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312525"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5990919,
+      12.0202941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312526",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Sharada, Kano Municipal, Kano",
+    "addr:municipality": "Sharada",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Sharada Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312526"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5137526,
+      11.9706245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312527",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Fagge C, Fagge, Kano",
+    "addr:municipality": "Fagge C",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Sheikh Muhammed Jidda General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312527"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343595,
+      12.0101748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312528",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Dan Maliki, Kumbotso, Kano",
+    "addr:municipality": "Dan Maliki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Sheka Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312528"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5312892,
+      11.9542631
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312529",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Dan Maliki, Kumbotso, Kano",
+    "addr:municipality": "Dan Maliki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Shekar Madaki Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312529"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5099207,
+      11.9483038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312530",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Kawaji, Nassarawa, Kano",
+    "addr:municipality": "Kawaji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Sir Muhammed Sunusi General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5972348,
+      12.0106224
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312531",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Tanburawa, Dawakin Kudu, Kano",
+    "addr:municipality": "Tanburawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tamburawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5367773,
+      11.8695115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312532",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Tarauni, Tarauni, Kano",
+    "addr:municipality": "Tarauni",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Tarauni Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5612891,
+      11.9793392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312533",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Kawaji, Nassarawa, Kano",
+    "addr:municipality": "Kawaji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Tokarawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6059527,
+      12.007778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312534",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Tudun Murtala, Nassarawa, Kano",
+    "addr:municipality": "Tudun Murtala",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tudun Murtala Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312534"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5641,
+      12.028029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312535",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Gawuna, Nassarawa, Kano",
+    "addr:municipality": "Gawuna",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tudun Wada Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312535"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537287,
+      12.0229981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312536",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Gandu Albasa, Kano Municipal, Kano",
+    "addr:municipality": "Gandu Albasa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Tukuntawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.52467,
+      11.9634568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312537",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Dan Maliki, Kumbotso, Kano",
+    "addr:municipality": "Dan Maliki",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Turai Yar'Adua Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5149907,
+      11.9530841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312538",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Kabuga, Gwale, Kano",
+    "addr:municipality": "Kabuga",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Unguwar Dabai Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4811084,
+      12.0132274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312539",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Dala, Dala, Kano",
+    "addr:municipality": "Dala",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Unguwar Garba Mairuwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5059198,
+      12.007818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312540",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Kan Karofi, Kano Municipal, Kano",
+    "addr:municipality": "Kan Karofi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Unguwar Gini Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5230246,
+      11.9865461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312541",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Dorayi, Gwale, Kano",
+    "addr:municipality": "Dorayi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Unguwar Jakada Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4563937,
+      11.9599862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312542",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Unguwar Rimi, Kumbotso, Kano",
+    "addr:municipality": "Unguwar Rimi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Unguwar Rimi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5673525,
+      11.9108873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312543",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Unguwa Uku Cikin Gari, Tarauni, Kano",
+    "addr:municipality": "Unguwa Uku Cikin Gari",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Unguwar Uku Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5602182,
+      11.9577499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312544",
+  "properties": {
+    "addr:district": "Gwale",
+    "addr:full": "Kabuga, Gwale, Kano",
+    "addr:municipality": "Kabuga",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Waika Waje Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.474999,
+      12.0202062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312545",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Naibawa, Kumbotso, Kano",
+    "addr:municipality": "Naibawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Wailari Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312545"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438005,
+      11.9240381
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312546",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Yalwa, Dala, Kano",
+    "addr:municipality": "Yalwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yalwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312546"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5002821,
+      12.0024511
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312547",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Zaitawa, Kano Municipal, Kano",
+    "addr:municipality": "Zaitawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Yanawaki Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312547"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.522957,
+      12.0094253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312548",
+  "properties": {
+    "addr:district": "Tarauni",
+    "addr:full": "Unguwar Gano, Tarauni, Kano",
+    "addr:municipality": "Unguwar Gano",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yar Akwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312548"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5622486,
+      11.9411251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312549",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Mariri, Kumbotso, Kano",
+    "addr:municipality": "Mariri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Zara Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312549"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6111737,
+      11.9272668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312550",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Panshekara, Kumbotso, Kano",
+    "addr:municipality": "Panshekara",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Zawa Chiki Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312550"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4658758,
+      11.9196673
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2948312551",
+  "properties": {
+    "addr:district": "Kano Municipal",
+    "addr:full": "Yakasai, Kano Municipal, Kano",
+    "addr:municipality": "Yakasai",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Zumunta Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2948312551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527979,
+      11.993858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073403",
+  "properties": {
+    "addr:district": "Gezawa",
+    "addr:full": "Tsamiya Babba, Gezawa, Kano",
+    "addr:municipality": "Tsamiya Babba",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Abasawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6621209,
+      11.9935609
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073412",
+  "properties": {
+    "addr:district": "Gezawa",
+    "addr:full": "Babawa, Gezawa, Kano",
+    "addr:municipality": "Babawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gunduwawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6285707,
+      12.0165458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073413",
+  "properties": {
+    "addr:district": "Gezawa",
+    "addr:full": "Tsamiya Babba, Gezawa, Kano",
+    "addr:municipality": "Tsamiya Babba",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Jahunawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6212755,
+      11.9834639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073414",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Jido, Dawakin Kudu, Kano",
+    "addr:municipality": "Jido",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Jido Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6488161,
+      11.9127652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073416",
+  "properties": {
+    "addr:district": "Warawa",
+    "addr:full": "Juma Galadima, Warawa, Kano",
+    "addr:municipality": "Juma Galadima",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Juma Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6427396,
+      11.9501457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073417",
+  "properties": {
+    "addr:district": "Gezawa",
+    "addr:full": "Tsamiya Babba, Gezawa, Kano",
+    "addr:municipality": "Tsamiya Babba",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kwasangwami Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.661623,
+      12.033105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073419",
+  "properties": {
+    "addr:district": "Warawa",
+    "addr:full": "Tamburawan Gabas, Warawa, Kano",
+    "addr:municipality": "Tamburawan Gabas",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Tamburawan Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6592254,
+      11.9442775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073422",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Unguwar Duniya, Dawakin Kudu, Kano",
+    "addr:municipality": "Unguwar Duniya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Unguwar Duniya Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073422"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.628311,
+      11.877846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073426",
+  "properties": {
+    "addr:district": "Warawa",
+    "addr:full": "Tamburawan Gabas, Warawa, Kano",
+    "addr:municipality": "Tamburawan Gabas",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yandadi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6664691,
+      11.9566096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073427",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Yankatsari, Dawakin Kudu, Kano",
+    "addr:municipality": "Yankatsari",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yankatsare Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6166209,
+      11.909233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949073428",
+  "properties": {
+    "addr:district": "Dawakin Kudu",
+    "addr:full": "Yargaya, Dawakin Kudu, Kano",
+    "addr:municipality": "Yargaya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yargaya Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949073428"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6630494,
+      11.898831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153394",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Kafin Agur, Madobi, Kano",
+    "addr:municipality": "Kafin Agur",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Agalawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3705566,
+      11.8806193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153395",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Burji, Madobi, Kano",
+    "addr:municipality": "Burji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Burji Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3952627,
+      11.8943295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153396",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Chalawa, Kumbotso, Kano",
+    "addr:municipality": "Chalawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Chalawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4250799,
+      11.9175879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153397",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Tudun Fulani, Ungongo, Kano",
+    "addr:municipality": "Tudun Fulani",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Chiromawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4117846,
+      12.0366784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153398",
+  "properties": {
+    "addr:district": "Rimin Gado",
+    "addr:full": "Karofin Yashi, Rimin Gado, Kano",
+    "addr:municipality": "Karofin Yashi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Danshayi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3756334,
+      11.8947285
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153402",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Danbare, Kumbotso, Kano",
+    "addr:municipality": "Danbare",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Hawandawaki Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4249807,
+      11.9554337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153404",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Tudun Fulani, Ungongo, Kano",
+    "addr:municipality": "Tudun Fulani",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Jajira Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153404"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4248277,
+      12.03303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153405",
+  "properties": {
+    "addr:district": "Tofa",
+    "addr:full": "Janguza, Tofa, Kano",
+    "addr:municipality": "Janguza",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Janguza Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3789364,
+      11.9592897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153413",
+  "properties": {
+    "addr:district": "Tofa",
+    "addr:full": "Langel, Tofa, Kano",
+    "addr:municipality": "Langel",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Langel Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3951423,
+      11.9903848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153416",
+  "properties": {
+    "addr:district": "Madobi",
+    "addr:full": "Burji, Madobi, Kano",
+    "addr:municipality": "Burji",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Maraya Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4108023,
+      11.8919277
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153417",
+  "properties": {
+    "addr:district": "Tofa",
+    "addr:full": "Janguza, Tofa, Kano",
+    "addr:municipality": "Janguza",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Mrs Barracks Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4007425,
+      11.9670587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153418",
+  "properties": {
+    "addr:district": "Kumbotso",
+    "addr:full": "Chalawa, Kumbotso, Kano",
+    "addr:municipality": "Chalawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Runkusawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4271018,
+      11.8913183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153419",
+  "properties": {
+    "addr:district": "Rimin Gado",
+    "addr:full": "Sakara Tsa, Rimin Gado, Kano",
+    "addr:municipality": "Sakara Tsa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sakaratsa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3771477,
+      11.9221145
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949153424",
+  "properties": {
+    "addr:district": "Tofa",
+    "addr:full": "Yarimawa, Tofa, Kano",
+    "addr:municipality": "Yarimawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Yarimawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2949153424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3685961,
+      12.0275744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2954349192",
+  "properties": {
+    "addr:district": "Gezawa",
+    "addr:full": "Babawa, Gezawa, Kano",
+    "addr:municipality": "Babawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Babawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2954349192"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6602584,
+      12.0579837
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2954349193",
+  "properties": {
+    "addr:district": "Gezawa",
+    "addr:full": "Mesar Tudu, Gezawa, Kano",
+    "addr:municipality": "Mesar Tudu",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Baita Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2954349193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6495861,
+      12.1327383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2954349202",
+  "properties": {
+    "addr:district": "Minjibir",
+    "addr:full": "Azore, Minjibir, Kano",
+    "addr:municipality": "Azore",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Koya Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2954349202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6269861,
+      12.1179011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2954349209",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Yada Kunya, Ungongo, Kano",
+    "addr:municipality": "Yada Kunya",
+    "addr:state": "KN",
+    "alt_name": "Bela Leprosarium",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Yadakunya General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2954349209"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6316005,
+      12.0839481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2954349213",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Rangaza, Ungongo, Kano",
+    "addr:municipality": "Rangaza",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Zaura Babba Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2954349213"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6198394,
+      12.0594695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639316",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Bachirawa, Ungongo, Kano",
+    "addr:municipality": "Bachirawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bachirawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4634782,
+      12.0579458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639317",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Karo, Ungongo, Kano",
+    "addr:municipality": "Karo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Baguja Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212109,
+      12.1010148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639318",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Zango, Ungongo, Kano",
+    "addr:municipality": "Zango",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dalal Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5672085,
+      12.0457771
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639320",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Tumfafi, Dawakin Tofa, Kano",
+    "addr:municipality": "Tumfafi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dandalama Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4658073,
+      12.1449483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639321",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Gayawa, Ungongo, Kano",
+    "addr:municipality": "Gayawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dankunkuru Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5709192,
+      12.0646674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639322",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Kadawa, Ungongo, Kano",
+    "addr:municipality": "Kadawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Danrirmi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4889768,
+      12.0582451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639323",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Yada Kunya, Ungongo, Kano",
+    "addr:municipality": "Yada Kunya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dausara Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5812819,
+      12.0728181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639324",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Ungongo, Ungongo, Kano",
+    "addr:municipality": "Ungongo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Doka Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4689065,
+      12.0959213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639326",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Fanisau, Ungongo, Kano",
+    "addr:municipality": "Fanisau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Fanisau Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.53526,
+      12.0787816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639327",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Zango, Ungongo, Kano",
+    "addr:municipality": "Zango",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Galula Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5735188,
+      12.0425172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639328",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Gayawa, Ungongo, Kano",
+    "addr:municipality": "Gayawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Gayawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639328"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5621297,
+      12.055103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639329",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Gayawa, Ungongo, Kano",
+    "addr:municipality": "Gayawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gera Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639329"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5522099,
+      12.0887968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955639332",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Yada Kunya, Ungongo, Kano",
+    "addr:municipality": "Yada Kunya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Inusawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955639332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5966531,
+      12.0690128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640433",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Sabon Gari East, Fagge, Kano",
+    "addr:municipality": "Sabon Gari East",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Jaba Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640433"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5463134,
+      12.0592654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640436",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Kadawa, Ungongo, Kano",
+    "addr:municipality": "Kadawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kadawa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4565627,
+      12.0756408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640438",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Bachirawa, Ungongo, Kano",
+    "addr:municipality": "Bachirawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Katsinawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4487732,
+      12.0618091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640439",
+  "properties": {
+    "addr:district": "Nassarawa",
+    "addr:full": "Kaura Goje, Nassarawa, Kano",
+    "addr:municipality": "Kaura Goje",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kaura Goje Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5461113,
+      12.0437678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640440",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Gobirawa, Dala, Kano",
+    "addr:municipality": "Gobirawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kurna Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4813429,
+      12.0447964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640442",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Kwachiri, Fagge, Kano",
+    "addr:municipality": "Kwachiri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Kwachiri Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5009418,
+      12.065731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640445",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Kwachiri, Fagge, Kano",
+    "addr:municipality": "Kwachiri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Nigerian Air Force Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5315838,
+      12.0450049
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640446",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Rijiyar Lemo, Fagge, Kano",
+    "addr:municipality": "Rijiyar Lemo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "clinic",
+    "name": "Rijiyar Lemo Maternal and Child Health",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4773174,
+      12.0547548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640447",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Rijiyar Lemo, Fagge, Kano",
+    "addr:municipality": "Rijiyar Lemo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Rijiyar Lemo Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4810512,
+      12.047322
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640448",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Ungongo, Ungongo, Kano",
+    "addr:municipality": "Ungongo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sabon Gari Doka Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4483471,
+      12.0875418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640449",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Rangaza, Ungongo, Kano",
+    "addr:municipality": "Rangaza",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Sabon Gari Rangaza Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640449"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6056104,
+      12.0554645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640450",
+  "properties": {
+    "addr:district": "Minjibir",
+    "addr:full": "Azore, Minjibir, Kano",
+    "addr:municipality": "Azore",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Sambauna Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5986362,
+      12.1247718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640451",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Rangaza, Ungongo, Kano",
+    "addr:municipality": "Rangaza",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Shauni Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6089453,
+      12.0479261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640452",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Karo, Ungongo, Kano",
+    "addr:municipality": "Karo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tarda Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5190989,
+      12.1149901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640453",
+  "properties": {
+    "addr:district": "Minjibir",
+    "addr:full": "Tsakiya, Minjibir, Kano",
+    "addr:municipality": "Tsakiya",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tsakiya Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5514413,
+      12.1381072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640454",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Kwachiri, Fagge, Kano",
+    "addr:municipality": "Kwachiri",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tudun Bojuwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4869902,
+      12.0498476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640455",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Tumfafi, Dawakin Tofa, Kano",
+    "addr:municipality": "Tumfafi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tumfafi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4461232,
+      12.1061087
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640456",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Ungongo, Ungongo, Kano",
+    "addr:municipality": "Ungongo",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Ungogo Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640456"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4903637,
+      12.092139
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640457",
+  "properties": {
+    "addr:district": "Dala",
+    "addr:full": "Gobirawa, Dala, Kano",
+    "addr:municipality": "Gobirawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Waziri Gidado General Hospital",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4705602,
+      12.0582677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640459",
+  "properties": {
+    "addr:district": "Fagge",
+    "addr:full": "Yammata, Fagge, Kano",
+    "addr:municipality": "Yammata",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yammata Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4724444,
+      12.0640344
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640460",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Fanisau, Ungongo, Kano",
+    "addr:municipality": "Fanisau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Yola Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533763,
+      12.0639793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955640462",
+  "properties": {
+    "addr:district": "Ungongo",
+    "addr:full": "Kadawa, Ungongo, Kano",
+    "addr:municipality": "Kadawa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Zangon Barebari Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955640462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4863174,
+      12.0700786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790144",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Dawanau, Dawakin Tofa, Kano",
+    "addr:municipality": "Dawanau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bagadawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4025586,
+      12.1206458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790147",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Kwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Kwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Chedi Bubba Ruga Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790147"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3930341,
+      12.1392751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790148",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Tumfafi, Dawakin Tofa, Kano",
+    "addr:municipality": "Tumfafi",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Chedi Maidala Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4221689,
+      12.1353632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790149",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Danguguwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Danguguwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Danguguwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790149"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3946968,
+      12.0583401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790150",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Danguguwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Danguguwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Danguguwa Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790150"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3944416,
+      12.060038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790152",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Dawanau, Dawakin Tofa, Kano",
+    "addr:municipality": "Dawanau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Dawanau Primary Health Centre",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.437344,
+      12.0946932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790156",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Dawanau, Dawakin Tofa, Kano",
+    "addr:municipality": "Dawanau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Fagen Kawo Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790156"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.41659,
+      12.0809477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790158",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Danguguwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Danguguwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Gabari Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3947829,
+      12.0465897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790164",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Danguguwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Danguguwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kadawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3726077,
+      12.0723665
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790167",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Kwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Kwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Kwa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790167"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3736607,
+      12.1487814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790170",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Dawanau, Dawakin Tofa, Kano",
+    "addr:municipality": "Dawanau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Nassarawa Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3842412,
+      12.1237966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790171",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Kwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Kwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Romi Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.368079,
+      12.1257075
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790174",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Danguguwa, Dawakin Tofa, Kano",
+    "addr:municipality": "Danguguwa",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sarauniya Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3842382,
+      12.0883271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2955790183",
+  "properties": {
+    "addr:district": "Dawakin Tofa",
+    "addr:full": "Dawanau, Dawakin Tofa, Kano",
+    "addr:municipality": "Dawanau",
+    "addr:state": "KN",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Zangon Dawanau Health Post",
+    "source": "ehealthafrica.org",
+    "id": "node/2955790183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3998476,
+      12.091444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3207463532",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ecwa Primary Health Centre",
+    "id": "node/3207463532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444441,
+      12.0148971
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3808545772",
+  "properties": {
+    "addr:city": "Kano",
+    "addr:postcode": "700224",
+    "addr:street": "Zoo Road",
+    "amenity": "hospital",
+    "level": "2",
+    "name": "Universal Specialist Hospital",
+    "operator": "Universal Specialist Hospital",
+    "source": "steadfast.com.ng",
+    "id": "node/3808545772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531559,
+      11.9697617
+    ]
+  }
+}
+]
+}

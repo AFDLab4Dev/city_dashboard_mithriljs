@@ -1,0 +1,54 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3085114191,
+  "lat": 6.5480110,
+  "lon": 3.2677866,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ikotun Terminal"
+  }
+},
+{
+  "type": "node",
+  "id": 3085114204,
+  "lat": 6.5489239,
+  "lon": 3.2677921,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "BRT Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4755886705,
+  "lat": 6.4496262,
+  "lon": 3.4089103,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Obalende Bus Terminus",
+    "name:en": "Obalende Bus Terminus"
+  }
+},
+{
+  "type": "node",
+  "id": 4755897332,
+  "lat": 6.4496353,
+  "lon": 3.4073759,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Obalende Motor Park",
+    "name:en": "Obalende Motor Park"
+  }
+}
+
+  ]
+}

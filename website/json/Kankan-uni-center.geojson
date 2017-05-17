@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/433257871",
+  "properties": {
+    "amenity": "university",
+    "area": "yes",
+    "name": "Universite de Kankan",
+    "id": "way/433257871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.3016591,
+      10.3750744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4519867554",
+  "properties": {
+    "amenity": "university",
+    "name": "American Reading Room",
+    "id": "node/4519867554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.3009795,
+      10.3746688
+    ]
+  }
+}
+]
+}

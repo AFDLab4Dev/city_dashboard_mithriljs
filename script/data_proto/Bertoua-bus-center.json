@@ -1,0 +1,107 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:28:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4456127808,
+  "lat": 4.5745893,
+  "lon": 13.6717489,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Voyages Plus"
+  }
+},
+{
+  "type": "node",
+  "id": 4456127809,
+  "lat": 4.5748979,
+  "lon": 13.6715198,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "National Voyages"
+  }
+},
+{
+  "type": "node",
+  "id": 4456127810,
+  "lat": 4.5745662,
+  "lon": 13.6711785,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "MangLam"
+  }
+},
+{
+  "type": "node",
+  "id": 4456127811,
+  "lat": 4.5748521,
+  "lon": 13.6707648,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Over Line Voyages"
+  }
+},
+{
+  "type": "node",
+  "id": 4674886594,
+  "lat": 4.5752351,
+  "lon": 13.6759857,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Danay express",
+    "name:fr": "Danay express"
+  }
+},
+{
+  "type": "way",
+  "id": 435297919,
+  "center": {
+    "lat": 4.5738048,
+    "lon": 13.6822599
+  },
+  "nodes": [
+    4332287272,
+    4378115847,
+    4332287908,
+    4332287911,
+    4332287912,
+    4332287273,
+    4332287272
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Ndoumbi",
+    "network": "OPEP",
+    "operator": "Inconnue"
+  }
+},
+{
+  "type": "way",
+  "id": 435297919,
+  "nodes": [
+    4332287272,
+    4378115847,
+    4332287908,
+    4332287911,
+    4332287912,
+    4332287273,
+    4332287272
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Ndoumbi",
+    "network": "OPEP",
+    "operator": "Inconnue"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,89 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/207548968",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Bata Market",
+    "id": "way/207548968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5371109,
+      12.0123423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2177220019",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Tarauni Market",
+    "id": "node/2177220019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.558977,
+      11.9748315
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2877344411",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Central Market",
+    "id": "node/2877344411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545088,
+      12.0050093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2990890928",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Wambai Market North",
+    "source": "ehealthafrica.org",
+    "source:date": "2014",
+    "id": "node/2990890928"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5233096,
+      12.0085803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2990890929",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Wambai Market South",
+    "source": "ehealthafrica.org",
+    "source:date": "2014",
+    "id": "node/2990890929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5241073,
+      12.0068352
+    ]
+  }
+}
+]
+}

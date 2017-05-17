@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2435638397",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CHD Centre Hospitalier du Zou",
+    "id": "node/2435638397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0176904,
+      7.1817537
+    ]
+  }
+}
+]
+}

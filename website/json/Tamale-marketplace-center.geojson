@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1791494583",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Tamale Central Market",
+    "id": "node/1791494583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8428,
+      9.4046874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1799107997",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Kukuo Market",
+    "id": "node/1799107997"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8238372,
+      9.3952507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2509309025",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Choggu Mmanaayilli Common Market",
+    "id": "node/2509309025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8586454,
+      9.4278448
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4711971537",
+  "properties": {
+    "amenity": "hospital",
+    "name": "New-Cess Community Clinic",
+    "id": "node/4711971537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.9129608,
+      5.8241008
+    ]
+  }
+}
+]
+}

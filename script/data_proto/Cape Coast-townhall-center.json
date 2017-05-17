@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2021263954,
+  "lat": 5.1034983,
+  "lon": -1.2495223,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Town Hall"
+  }
+}
+
+  ]
+}

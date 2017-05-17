@@ -1,0 +1,386 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:27:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4058424573,
+  "lat": 5.4979342,
+  "lon": 10.3962437,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 218612112,
+  "center": {
+    "lat": 5.3884795,
+    "lon": 10.3301006
+  },
+  "nodes": [
+    2196039680,
+    2196039630,
+    2196039622,
+    2344154847,
+    2196039614,
+    2196039519,
+    2196039638,
+    2278440725,
+    2196039680
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 215248929,
+  "center": {
+    "lat": 5.3869039,
+    "lon": 10.3292830
+  },
+  "nodes": [
+    2246545618,
+    2246545603,
+    2246545612,
+    2246545627,
+    2246545610,
+    2246545604,
+    2246545618
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture"
+  }
+},
+{
+  "type": "way",
+  "id": 225225428,
+  "center": {
+    "lat": 5.3752551,
+    "lon": 10.4119170
+  },
+  "nodes": [
+    2340362006,
+    2340362003,
+    2340361988,
+    2340361989,
+    2340361986,
+    2340361987,
+    2340361990,
+    2340361992,
+    2340361999,
+    2340361998,
+    2340362006
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 225225429,
+  "center": {
+    "lat": 5.3749507,
+    "lon": 10.4114034
+  },
+  "nodes": [
+    2340361981,
+    2340361954,
+    2340361974,
+    2340361984,
+    2340361994,
+    2340361982,
+    2340361951,
+    2340361948,
+    2340361943,
+    2340361944,
+    2340361942,
+    2340361952,
+    2340361981
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Préfecture du Koung-Khi"
+  }
+},
+{
+  "type": "way",
+  "id": 424758169,
+  "center": {
+    "lat": 5.4569324,
+    "lon": 10.4367390
+  },
+  "nodes": [
+    4241425280,
+    4241425277,
+    4241425273,
+    4241425275,
+    4241425282,
+    4241425280
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de de Bafoussam 1"
+  }
+},
+{
+  "type": "way",
+  "id": 424738578,
+  "center": {
+    "lat": 5.4724616,
+    "lon": 10.4190440
+  },
+  "nodes": [
+    4241222208,
+    4241222243,
+    4241222165,
+    4241222206,
+    4241222275,
+    4241222446,
+    4241222276,
+    4241222392,
+    4241222483,
+    4241222512,
+    4241222441,
+    4241222231,
+    4241222152,
+    4241222103,
+    4241221936,
+    4241221972,
+    4241221911,
+    4241222128,
+    4241222208
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Hôtel de Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 395568928,
+  "center": {
+    "lat": 5.4960319,
+    "lon": 10.3976144
+  },
+  "nodes": [
+    3984098933,
+    3984096256,
+    3984096228,
+    3984098890,
+    3984098933
+  ],
+  "tags": {
+    "addr:city": "Bafoussam III",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "0",
+    "name": "Mairie de Bafoussam III"
+  }
+},
+{
+  "type": "way",
+  "id": 394654451,
+  "center": {
+    "lat": 5.5052822,
+    "lon": 10.3985250
+  },
+  "nodes": [
+    3976270080,
+    3976270546,
+    3976270135,
+    3976270007,
+    3976270080
+  ],
+  "tags": {
+    "addr:city": "Bafoussam II",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Mairie de Bafoussam II"
+  }
+},
+{
+  "type": "way",
+  "id": 218612112,
+  "nodes": [
+    2196039680,
+    2196039630,
+    2196039622,
+    2344154847,
+    2196039614,
+    2196039519,
+    2196039638,
+    2278440725,
+    2196039680
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 215248929,
+  "nodes": [
+    2246545618,
+    2246545603,
+    2246545612,
+    2246545627,
+    2246545610,
+    2246545604,
+    2246545618
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture"
+  }
+},
+{
+  "type": "way",
+  "id": 225225428,
+  "nodes": [
+    2340362006,
+    2340362003,
+    2340361988,
+    2340361989,
+    2340361986,
+    2340361987,
+    2340361990,
+    2340361992,
+    2340361999,
+    2340361998,
+    2340362006
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 225225429,
+  "nodes": [
+    2340361981,
+    2340361954,
+    2340361974,
+    2340361984,
+    2340361994,
+    2340361982,
+    2340361951,
+    2340361948,
+    2340361943,
+    2340361944,
+    2340361942,
+    2340361952,
+    2340361981
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Préfecture du Koung-Khi"
+  }
+},
+{
+  "type": "way",
+  "id": 424758169,
+  "nodes": [
+    4241425280,
+    4241425277,
+    4241425273,
+    4241425275,
+    4241425282,
+    4241425280
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de de Bafoussam 1"
+  }
+},
+{
+  "type": "way",
+  "id": 424738578,
+  "nodes": [
+    4241222208,
+    4241222243,
+    4241222165,
+    4241222206,
+    4241222275,
+    4241222446,
+    4241222276,
+    4241222392,
+    4241222483,
+    4241222512,
+    4241222441,
+    4241222231,
+    4241222152,
+    4241222103,
+    4241221936,
+    4241221972,
+    4241221911,
+    4241222128,
+    4241222208
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Hôtel de Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 395568928,
+  "nodes": [
+    3984098933,
+    3984096256,
+    3984096228,
+    3984098890,
+    3984098933
+  ],
+  "tags": {
+    "addr:city": "Bafoussam III",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "0",
+    "name": "Mairie de Bafoussam III"
+  }
+},
+{
+  "type": "way",
+  "id": 394654451,
+  "nodes": [
+    3976270080,
+    3976270546,
+    3976270135,
+    3976270007,
+    3976270080
+  ],
+  "tags": {
+    "addr:city": "Bafoussam II",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Mairie de Bafoussam II"
+  }
+}
+
+  ]
+}

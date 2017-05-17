@@ -1,0 +1,654 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/156723148",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Le Bon Samaritain Hospital",
+    "id": "way/156723148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0855282,
+      12.0857705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/184188821",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hgrn",
+    "source": "Bing",
+    "source:date": "02/08/2013",
+    "id": "way/184188821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0458656,
+      12.1058538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/184188822",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre national de transfusion sanguine ",
+    "id": "way/184188822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.047739,
+      12.1061305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/197729173",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hopital Mère et Enfant",
+    "source": "bing",
+    "id": "way/197729173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0466102,
+      12.1083663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205367097",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "Hoitale GARNISON",
+    "emergency": "yes",
+    "name": "Hopital GARNISON",
+    "source": "Bing",
+    "id": "way/205367097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0399687,
+      12.1113234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205377169",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "Clinique SOS",
+    "emergency": "yes",
+    "name": "Clinique SOS",
+    "source": "bing",
+    "id": "way/205377169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0413841,
+      12.1206254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205377241",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "Clnique SOS",
+    "emergency": "yes",
+    "name": "Clinique SOS",
+    "source": "bing",
+    "id": "way/205377241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.041246,
+      12.1200043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205389496",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "Hopitale Chinois",
+    "emergency": "yes",
+    "name": "Hopital CHINOIS",
+    "source": "bing",
+    "id": "way/205389496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0768513,
+      12.1321465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/228363961",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Artine",
+    "id": "way/228363961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0475911,
+      12.1222817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/228363968",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "id": "way/228363968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0788699,
+      12.1071193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/349598542",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital de la Paix de Farcha",
+    "id": "way/349598542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.9885681,
+      12.1261242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399615221",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital de Guinebor II",
+    "id": "way/399615221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0120835,
+      12.170811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399645633",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "TIENSCHINECAM",
+    "id": "way/399645633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.022896,
+      12.0908055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399689744",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Infirmerie de Garnison du 41eme Bataillon infanterie motorisée",
+    "id": "way/399689744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.9994276,
+      12.0906468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399904651",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Thérapeutique NATURE ET VIE SANS FRONTIERE",
+    "id": "way/399904651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0324459,
+      12.0754869
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415524026",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de Amchediré",
+    "id": "way/415524026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0253472,
+      12.0619411
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415524042",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré Urbain de Kousseri",
+    "id": "way/415524042"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.049739,
+      12.0646952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528000",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CROIX ROUGE CAMEROUNAISE COMITE DEPARTEMENTAL DE LOGONE ET CHARI",
+    "id": "way/415528000"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0379458,
+      12.0750228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528002",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de PARPAR",
+    "id": "way/415528002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0311597,
+      12.0725796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528003",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Soin",
+    "id": "way/415528003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0255996,
+      12.0751183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528004",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé privé Islamique",
+    "id": "way/415528004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0231871,
+      12.0776792
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528005",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital Catholique de Madagascar",
+    "id": "way/415528005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0277044,
+      12.1001469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528006",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital Regional Annexe de Kousséri",
+    "id": "way/415528006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0328469,
+      12.0909627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528007",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital de District de Kousséri",
+    "id": "way/415528007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0325219,
+      12.0906574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415528008",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Médecin Sans Frontiére",
+    "id": "way/415528008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0280169,
+      12.1001955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/484754519",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital de l'Union",
+    "id": "way/484754519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0847451,
+      12.0948714
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2157333238",
+  "properties": {
+    "amenity": "hospital",
+    "project:eurosha_2012": "yes",
+    "id": "node/2157333238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0562004,
+      12.1186977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2163827258",
+  "properties": {
+    "addr:housenumber": "Hopitale Centrale",
+    "addr:street": "Rue Colonnel Moll",
+    "alt_name": "Centrale",
+    "amenity": "hospital",
+    "health_facility_type": "hospital",
+    "healthcare:cholera": "cholera_treatment_centre",
+    "healthcare_departments:general_medicine": "yes",
+    "healthcare_departments:medical_laboratory": "yes",
+    "healthcare_departments:operating_room": "yes",
+    "name": "Hopital Central",
+    "operational_status": "open",
+    "operator_type": "government",
+    "project:eurosha_2012": "yes",
+    "source": "bING",
+    "id": "node/2163827258"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0459302,
+      12.1047702
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3244752178",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre Medical SOS",
+    "id": "node/3244752178"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0945554,
+      12.1188953
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3244752179",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé de N'Djari",
+    "id": "node/3244752179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0943468,
+      12.1214576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4116302093",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Morgue",
+    "id": "node/4116302093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.046105,
+      12.1063085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4116333290",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé Roi Faycal",
+    "id": "node/4116333290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0500326,
+      12.111048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4132799889",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé Ardep Djoumal",
+    "id": "node/4132799889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0590744,
+      12.1041357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4146738591",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé Bololo",
+    "id": "node/4146738591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0435416,
+      12.1147253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4298818292",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Pavillon des Urgences",
+    "id": "node/4298818292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.047073,
+      12.1061793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4362811992",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Clinique le Samaritain",
+    "id": "node/4362811992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.137964,
+      12.0958775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4643887491",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4643887491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0501244,
+      12.1061433
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4734493600",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital de la Renaissance",
+    "operator": "Public",
+    "source": "Bing",
+    "source:data": "14/03/2017",
+    "id": "node/4734493600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0998425,
+      12.1197729
+    ]
+  }
+}
+]
+}

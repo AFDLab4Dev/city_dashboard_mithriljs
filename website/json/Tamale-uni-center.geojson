@@ -1,0 +1,126 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/243539704",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T poly Administration",
+    "id": "way/243539704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8657716,
+      9.4300671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243539818",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T poly Administration ",
+    "id": "way/243539818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8659655,
+      9.4300987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243541515",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall",
+    "id": "way/243541515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8648917,
+      9.431136
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243541516",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall",
+    "id": "way/243541516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8649382,
+      9.431599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243541517",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall",
+    "id": "way/243541517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8650045,
+      9.4308661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243541734",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Computer Lab",
+    "id": "way/243541734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8650883,
+      9.4318689
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/318535945",
+  "properties": {
+    "amenity": "university",
+    "name": "University for Development Studies - Tamale Campus",
+    "source": "MapBox",
+    "website": "http://www.uds.edu.gh/",
+    "wikipedia": "en:University for Development Studies",
+    "id": "way/318535945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8850384,
+      9.373012
+    ]
+  }
+}
+]
+}

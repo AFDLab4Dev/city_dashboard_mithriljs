@@ -1,0 +1,149 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2167621800,
+  "lat": 6.6527637,
+  "lon": -1.5867397,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Agogo Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2167621805,
+  "lat": 6.6593684,
+  "lon": -1.5942101,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Antonsu New Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2167621813,
+  "lat": 6.6551284,
+  "lon": -1.5904990,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Atonsu Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2169660910,
+  "lat": 6.6593528,
+  "lon": -1.6174084,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Ahodwo Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2700531239,
+  "lat": 6.6778833,
+  "lon": -1.5721990,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 3144540448,
+  "lat": 6.6884320,
+  "lon": -1.6158537,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Asafo Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3577283350,
+  "lat": 6.6958325,
+  "lon": -1.6210457,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kejetia Market"
+  }
+},
+{
+  "type": "way",
+  "id": 437382990,
+  "center": {
+    "lat": 6.6978546,
+    "lon": -1.6182015
+  },
+  "nodes": [
+    4351857829,
+    4351857830,
+    4351857831,
+    4351857832,
+    4351857833,
+    4351857834,
+    4351857835,
+    4351857836,
+    4351857837,
+    4351857838,
+    4351857839,
+    4351857840,
+    4351857841,
+    4351857842,
+    4351857843,
+    4351857844,
+    4351857845,
+    4351857846,
+    4351857847,
+    4351857848,
+    4351857849,
+    4351857829
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kumasi Central Market"
+  }
+},
+{
+  "type": "way",
+  "id": 437382990,
+  "nodes": [
+    4351857829,
+    4351857830,
+    4351857831,
+    4351857832,
+    4351857833,
+    4351857834,
+    4351857835,
+    4351857836,
+    4351857837,
+    4351857838,
+    4351857839,
+    4351857840,
+    4351857841,
+    4351857842,
+    4351857843,
+    4351857844,
+    4351857845,
+    4351857846,
+    4351857847,
+    4351857848,
+    4351857849,
+    4351857829
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kumasi Central Market"
+  }
+}
+
+  ]
+}

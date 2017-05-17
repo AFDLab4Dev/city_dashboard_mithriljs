@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2723181787",
+  "properties": {
+    "amenity": "hospital",
+    "fixme": "not sure about position, opened 01/2014, not available at bing sat",
+    "name": "Hospital of Hope",
+    "id": "node/2723181787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.4759782,
+      10.3705377
+    ]
+  }
+}
+]
+}

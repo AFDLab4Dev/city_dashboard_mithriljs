@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2017-04-25T16:41:30Z",
+    "timestamp_osm_base": "2017-05-15T13:55:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -75,13 +75,12 @@
 },
 {
   "type": "node",
-  "id": 1067289788,
-  "lat": 3.9632157,
-  "lon": 11.3608778,
+  "id": 1067272619,
+  "lat": 3.9983989,
+  "lon": 11.4127750,
   "tags": {
-    "Infomation": "No data sheet fllled",
     "amenity": "hospital",
-    "name": "Centre de Sante Integre de Nkoldjobe"
+    "name": "Centre de sante integre de Lebot"
   }
 },
 {
@@ -105,6 +104,22 @@
   "tags": {
     "amenity": "hospital",
     "name": "Hôpital d'EFOULAN"
+  }
+},
+{
+  "type": "node",
+  "id": 4361807958,
+  "lat": 3.8716233,
+  "lon": 11.5056540,
+  "tags": {
+    "addr:postcode": "BP 16415",
+    "amenity": "hospital",
+    "contact:email": "Somerville.sarl@yahoo.fr",
+    "contact:fax": "222229222",
+    "contact:phone": "699442734",
+    "firxme": "please verify \"hospital\"",
+    "name": "SIDJE LOIC",
+    "operator": "societe medicale du Cameroun"
   }
 },
 {

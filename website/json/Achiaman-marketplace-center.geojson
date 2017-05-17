@@ -1,0 +1,134 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/204809586",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Oduponkpehe Ofaakor New Market",
+    "id": "way/204809586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.4350119,
+      5.5532155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295106221",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Agbogbloshie Onion Market",
+    "id": "way/295106221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2264128,
+      5.555157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/414615655",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Mallam Atta Market",
+    "shop": "greengrocer",
+    "id": "way/414615655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2083065,
+      5.5798146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148020792",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Chantan New Market",
+    "id": "node/2148020792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2564115,
+      5.6081302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148020840",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Kisseman Market",
+    "id": "node/2148020840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2138419,
+      5.6392602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148021097",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Sabon Zongo Market",
+    "id": "node/2148021097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2376556,
+      5.5523258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3109282498",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Odoornaa Market",
+    "id": "node/3109282498"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2168619,
+      5.5686389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154426148",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Lapaz Street Market",
+    "id": "node/3154426148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2480086,
+      5.60747
+    ]
+  }
+}
+]
+}

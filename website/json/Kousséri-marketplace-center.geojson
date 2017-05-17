@@ -1,0 +1,452 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/125359106",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Central",
+    "id": "way/125359106"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0504372,
+      12.1080442
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/126139611",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marche de Dembe",
+    "id": "way/126139611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0847138,
+      12.1051213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/156565063",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché a Mil",
+    "id": "way/156565063"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0556623,
+      12.1128057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/228363965",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché 100 fil",
+    "id": "way/228363965"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0694437,
+      12.1106735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/257637558",
+  "properties": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "source": "Bing",
+    "source:date": "21/01/2014",
+    "id": "way/257637558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0820486,
+      12.0912275
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/286028136",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Farcha",
+    "id": "way/286028136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.988035,
+      12.1268209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/288321550",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marche de poissons",
+    "id": "way/288321550"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0824329,
+      12.1067765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/288767310",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Vente de TABAC, CHICHA",
+    "id": "way/288767310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0445606,
+      12.1095325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302427075",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "Marché Atrone II",
+    "operator": "Etat",
+    "id": "way/302427075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1300264,
+      12.0900117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/303542294",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Main Market",
+    "id": "way/303542294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0249553,
+      12.0838154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308208128",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/308208128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.9775069,
+      12.1296184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308210026",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Dembé",
+    "id": "way/308210026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0812564,
+      12.1055649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/330906309",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Rue de 40",
+    "operator": "Vente pieces detachees et outillage mecaniques",
+    "id": "way/330906309"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0562653,
+      12.1273289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415054945",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de betails de amchidéré",
+    "id": "way/415054945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0191782,
+      12.0594756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415054950",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché du MIL",
+    "id": "way/415054950"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0306448,
+      12.070312
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415054958",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit Marché de Madana",
+    "id": "way/415054958"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0537233,
+      12.0625815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415082213",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ancien abatoir",
+    "id": "way/415082213"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.9915082,
+      12.0870696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415082221",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de charbon",
+    "id": "way/415082221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0050279,
+      12.0895169
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415082224",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Nouvel abatoir",
+    "id": "way/415082224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.990924,
+      12.0867505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415082226",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit marché Douria",
+    "id": "way/415082226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0044816,
+      12.0893684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415223229",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché",
+    "id": "way/415223229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0263216,
+      12.1064816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/438786796",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché tarodona",
+    "id": "way/438786796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0980345,
+      12.0991248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/438789247",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché mbademta",
+    "id": "way/438789247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0992527,
+      12.0939915
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2656235651",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Souk al-Afia (\"Souk Cholera\")",
+    "id": "node/2656235651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0576367,
+      12.1300271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2656235674",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de nuit",
+    "opening_hours": "Mo-Su 18:00-23:00",
+    "id": "node/2656235674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0576417,
+      12.1328344
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4116261795",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché à bétail ",
+    "id": "node/4116261795"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0935631,
+      12.1466185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4335243174",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché a betail",
+    "id": "node/4335243174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1014292,
+      12.1587616
+    ]
+  }
+}
+]
+}

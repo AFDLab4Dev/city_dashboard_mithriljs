@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3658619613",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de KARA",
+    "wheelchair": "no",
+    "id": "node/3658619613"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1898564,
+      9.5473213
+    ]
+  }
+}
+]
+}

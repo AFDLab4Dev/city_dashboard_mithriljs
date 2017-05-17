@@ -1,0 +1,40 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1869955792,
+  "lat": 9.1906170,
+  "lon": -10.1001642,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Kissidougou"
+  }
+},
+{
+  "type": "node",
+  "id": 1869955796,
+  "lat": 9.1892316,
+  "lon": -10.0979921,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 1869955799,
+  "lat": 9.1918011,
+  "lon": -10.1000564,
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

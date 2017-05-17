@@ -1,0 +1,71 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2594871718,
+  "lat": 7.4181700,
+  "lon": 3.9012371,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Penton Rise"
+  }
+},
+{
+  "type": "node",
+  "id": 2594871723,
+  "lat": 7.4177784,
+  "lon": 3.9003871,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Le Chateau"
+  }
+},
+{
+  "type": "node",
+  "id": 2639256360,
+  "lat": 7.3827757,
+  "lon": 3.8688137,
+  "tags": {
+    "addr:city": "Ibadan",
+    "addr:housenumber": "Km110",
+    "addr:street": "Abeokuta Road",
+    "amenity": "townhall",
+    "name": "Nustreams Conference Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2639256398,
+  "lat": 7.3641103,
+  "lon": 3.8678160,
+  "tags": {
+    "addr:city": "Ibadan",
+    "addr:housenumber": "1",
+    "addr:street": "Harvester Close",
+    "amenity": "townhall",
+    "name": "Jogor Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2639256403,
+  "lat": 7.4011690,
+  "lon": 3.9233457,
+  "tags": {
+    "addr:city": "Ibadan",
+    "addr:housenumber": "Plot 816",
+    "addr:street": "Agodi GRA",
+    "amenity": "townhall",
+    "name": "Ibadan Civic Centre"
+  }
+}
+
+  ]
+}

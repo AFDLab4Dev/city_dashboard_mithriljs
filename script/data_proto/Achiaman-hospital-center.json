@@ -1,0 +1,535 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 107552545,
+  "lat": 5.5882767,
+  "lon": -0.1833756,
+  "tags": {
+    "amenity": "hospital",
+    "name": "37 Military Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1251736952,
+  "lat": 5.6150814,
+  "lon": -0.1980820,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Valley View Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1405374096,
+  "lat": 5.5627373,
+  "lon": -0.2049878,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Accra Psychiatric Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1574153164,
+  "lat": 5.6124124,
+  "lon": -0.2143020,
+  "tags": {
+    "amenity": "hospital",
+    "name": "German Egon Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1601716616,
+  "lat": 5.5649373,
+  "lon": -0.2904221,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ga South Municipal Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020755,
+  "lat": 5.5615681,
+  "lon": -0.2046342,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Adabraka Polyclinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020834,
+  "lat": 5.5864145,
+  "lon": -0.2351065,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Holy Trinity Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2154259317,
+  "lat": 5.7173175,
+  "lon": -0.1890739,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pantang Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3073583822,
+  "lat": 5.5718826,
+  "lon": -0.2359563,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Cocoa Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3961469675,
+  "lat": 5.5936808,
+  "lon": -0.2113957,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Anthon Memorial Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4104600479,
+  "lat": 5.5686748,
+  "lon": -0.1860572,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Accra Medical Centre",
+    "operator": "Accra Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4366728290,
+  "lat": 5.6853523,
+  "lon": -0.2315804,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The community hospital ashongman"
+  }
+},
+{
+  "type": "node",
+  "id": 4369634545,
+  "lat": 5.5613800,
+  "lon": -0.1987446,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Greater Accra Regional Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 455565143,
+  "center": {
+    "lat": 5.6080307,
+    "lon": -0.2787828
+  },
+  "nodes": [
+    4519566245,
+    4519566246,
+    4519566247,
+    4519566248,
+    4519566249,
+    4519566250,
+    4519566251,
+    4519566245
+  ],
+  "tags": {
+    "addr:city": "Antie-Aku Sowutuom",
+    "addr:street": "Deseret Road",
+    "amenity": "hospital",
+    "name": "North Deseret Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 356767423,
+  "center": {
+    "lat": 5.5746166,
+    "lon": -0.2308019
+  },
+  "nodes": [
+    3621727940,
+    3621727941,
+    3621727942,
+    3621727943,
+    3621727940
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kaneshie Polyclinic",
+    "operator": "Government"
+  }
+},
+{
+  "type": "way",
+  "id": 277028141,
+  "center": {
+    "lat": 5.6013089,
+    "lon": -0.2568056
+  },
+  "nodes": [
+    2815804289,
+    2815804284,
+    2815804291,
+    2815804286,
+    2815804289
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "MBA Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 310088363,
+  "center": {
+    "lat": 5.6089811,
+    "lon": -0.2536846
+  },
+  "nodes": [
+    3154409149,
+    3154409153,
+    3154409150,
+    3154409151,
+    3154409152,
+    3154409149
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Community Hospital",
+    "emergency": "yes",
+    "name": "Lapaz Community Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 437380195,
+  "center": {
+    "lat": 5.6298307,
+    "lon": -0.2171964
+  },
+  "nodes": [
+    4351837964,
+    4351837959,
+    4351837912,
+    4351837924,
+    4351837964
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Achimota Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 439346942,
+  "center": {
+    "lat": 5.5510399,
+    "lon": -0.1960103
+  },
+  "nodes": [
+    4369643090,
+    4369643089,
+    4369634585,
+    4369634588,
+    4369634583,
+    4369634586,
+    4369643090
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Civil Service Polyclinic"
+  }
+},
+{
+  "type": "way",
+  "id": 298260306,
+  "center": {
+    "lat": 5.5623081,
+    "lon": -0.1993621
+  },
+  "nodes": [
+    3069907462,
+    3069906810,
+    3069906809,
+    3069906808,
+    1442872041,
+    3069907434,
+    3069907460,
+    3021715352,
+    3021715356,
+    3021715358,
+    3069907490,
+    3069907462
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Ridge Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 391750854,
+  "center": {
+    "lat": 5.5913638,
+    "lon": -0.1990858
+  },
+  "nodes": [
+    3950017312,
+    3950017311,
+    3950017309,
+    3950017310,
+    3950017312
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maamobi General Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 299668118,
+  "center": {
+    "lat": 5.6145561,
+    "lon": -0.1849937
+  },
+  "nodes": [
+    3037049052,
+    3037048815,
+    3037048791,
+    3037048810,
+    3037049038,
+    3037049046,
+    3037049052
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nyaho Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 464683570,
+  "center": {
+    "lat": 5.6326743,
+    "lon": -0.1858583
+  },
+  "nodes": [
+    4597669633,
+    4597669631,
+    4597669630,
+    4597669632,
+    4597669633
+  ],
+  "tags": {
+    "addr:city": "Legon, Accra",
+    "addr:housenumber": "P.O. Box lg 25",
+    "amenity": "hospital",
+    "landuse": "construction",
+    "name": "University of Ghana Teaching Hospital",
+    "operator": "University of Ghana"
+  }
+},
+{
+  "type": "way",
+  "id": 455565143,
+  "nodes": [
+    4519566245,
+    4519566246,
+    4519566247,
+    4519566248,
+    4519566249,
+    4519566250,
+    4519566251,
+    4519566245
+  ],
+  "tags": {
+    "addr:city": "Antie-Aku Sowutuom",
+    "addr:street": "Deseret Road",
+    "amenity": "hospital",
+    "name": "North Deseret Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 356767423,
+  "nodes": [
+    3621727940,
+    3621727941,
+    3621727942,
+    3621727943,
+    3621727940
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kaneshie Polyclinic",
+    "operator": "Government"
+  }
+},
+{
+  "type": "way",
+  "id": 277028141,
+  "nodes": [
+    2815804289,
+    2815804284,
+    2815804291,
+    2815804286,
+    2815804289
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "MBA Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 310088363,
+  "nodes": [
+    3154409149,
+    3154409153,
+    3154409150,
+    3154409151,
+    3154409152,
+    3154409149
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Community Hospital",
+    "emergency": "yes",
+    "name": "Lapaz Community Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 437380195,
+  "nodes": [
+    4351837964,
+    4351837959,
+    4351837912,
+    4351837924,
+    4351837964
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Achimota Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 439346942,
+  "nodes": [
+    4369643090,
+    4369643089,
+    4369634585,
+    4369634588,
+    4369634583,
+    4369634586,
+    4369643090
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Civil Service Polyclinic"
+  }
+},
+{
+  "type": "way",
+  "id": 298260306,
+  "nodes": [
+    3069907462,
+    3069906810,
+    3069906809,
+    3069906808,
+    1442872041,
+    3069907434,
+    3069907460,
+    3021715352,
+    3021715356,
+    3021715358,
+    3069907490,
+    3069907462
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Ridge Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 391750854,
+  "nodes": [
+    3950017312,
+    3950017311,
+    3950017309,
+    3950017310,
+    3950017312
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maamobi General Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 299668118,
+  "nodes": [
+    3037049052,
+    3037048815,
+    3037048791,
+    3037048810,
+    3037049038,
+    3037049046,
+    3037049052
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nyaho Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 464683570,
+  "nodes": [
+    4597669633,
+    4597669631,
+    4597669630,
+    4597669632,
+    4597669633
+  ],
+  "tags": {
+    "addr:city": "Legon, Accra",
+    "addr:housenumber": "P.O. Box lg 25",
+    "amenity": "hospital",
+    "landuse": "construction",
+    "name": "University of Ghana Teaching Hospital",
+    "operator": "University of Ghana"
+  }
+}
+
+  ]
+}

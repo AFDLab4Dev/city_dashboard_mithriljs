@@ -1,0 +1,226 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/276975605",
+  "properties": {
+    "addr:place": "Kaneshie",
+    "amenity": "university",
+    "name": "Central University College - Mataheko Campus",
+    "id": "way/276975605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2415902,
+      5.5659595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308668766",
+  "properties": {
+    "addr:city": "Accra",
+    "amenity": "university",
+    "name": "University of Ghana",
+    "opening_hours": "24/7",
+    "wikidata": "Q2303765",
+    "id": "way/308668766"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.189182,
+      5.6471715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309660062",
+  "properties": {
+    "alt_name": "UPSA",
+    "amenity": "university",
+    "name": "University of Professional Studies, Accra",
+    "old_name": "University of Professional Studies",
+    "wikipedia": "en:University of Professional Studies",
+    "id": "way/309660062"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1664293,
+      5.6608307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/357120832",
+  "properties": {
+    "amenity": "university",
+    "id": "way/357120832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2361504,
+      5.5997018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/357120833",
+  "properties": {
+    "addr:place": "Tesano",
+    "alt_name": "GTUC",
+    "amenity": "university",
+    "name": "Ghana Technology University College",
+    "source": "Bing",
+    "id": "way/357120833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.223594,
+      5.5961092
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/358536692",
+  "properties": {
+    "amenity": "university",
+    "name": "Wisconsin International College",
+    "id": "way/358536692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1898557,
+      5.6695533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453505983",
+  "properties": {
+    "amenity": "university",
+    "name": "Ghana Institute of Management and Public Administration (GIMPA)",
+    "website": "www.gimpa.edu.gh",
+    "id": "way/453505983"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.202095,
+      5.6361083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148021144",
+  "properties": {
+    "amenity": "university",
+    "name": "University of Ghana Medical School",
+    "id": "node/2148021144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2295662,
+      5.5393973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2605944608",
+  "properties": {
+    "addr:city": "Accra",
+    "addr:housenumber": "Plot #4",
+    "addr:street": "4th Circular Road",
+    "amenity": "university",
+    "name": "Webster University Campus Ghana",
+    "id": "node/2605944608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1662988,
+      5.5820471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2622097846",
+  "properties": {
+    "amenity": "university",
+    "name": "Regional Maritime University",
+    "id": "node/2622097846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0600694,
+      5.607476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3043620371",
+  "properties": {
+    "amenity": "university",
+    "name": "Sikkim Manipal University Ghana",
+    "id": "node/3043620371"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2090898,
+      5.5708833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3063488061",
+  "properties": {
+    "amenity": "university",
+    "name": "Graduate School of Nuclear and Allied Sciences - University of Ghana",
+    "id": "node/3063488061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2305864,
+      5.6671241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3802490986",
+  "properties": {
+    "amenity": "university",
+    "name": "Islamic University",
+    "id": "node/3802490986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.118677,
+      5.6556096
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,78 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4686962993,
+  "lat": 4.7784489,
+  "lon": -6.6473334,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GARE UTB",
+    "operator": "UTB"
+  }
+},
+{
+  "type": "node",
+  "id": 4806183822,
+  "lat": 4.7786901,
+  "lon": -6.6501625,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare UTRAKO",
+    "name:fr": "Gare UTRAKO"
+  }
+},
+{
+  "type": "node",
+  "id": 4806183825,
+  "lat": 4.7789070,
+  "lon": -6.6481981,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "KLO.AMT.CI TRANSPORT",
+    "name:fr": "KLO.AMT.CI TRANSPORT"
+  }
+},
+{
+  "type": "node",
+  "id": 4806183923,
+  "lat": 4.7787866,
+  "lon": -6.6509983,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Transport Confort Voyageurs",
+    "name:fr": "Transport Confort Voyageurs"
+  }
+},
+{
+  "type": "node",
+  "id": 4806183924,
+  "lat": 4.7786448,
+  "lon": -6.6511574,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "La gare ST AVS",
+    "name:fr": "La gare ST AVS"
+  }
+},
+{
+  "type": "node",
+  "id": 4808223234,
+  "lat": 4.7762587,
+  "lon": -6.6471236,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare TSR",
+    "name:fr": "Gare TSR"
+  }
+}
+
+  ]
+}

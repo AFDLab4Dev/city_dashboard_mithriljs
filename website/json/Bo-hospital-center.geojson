@@ -1,0 +1,1107 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1795616944",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:39:50AM",
+    "IDENT": "077",
+    "LAT": "7.96297322",
+    "LONG": "-11.73437208",
+    "Street_Add": "157 Mahei Boima Road",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198536.49183394",
+    "Y_PROJ": "881201.59307892",
+    "amenity": "hospital",
+    "name": "Arab Clinic",
+    "id": "node/1795616944"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7343721,
+      7.9629732
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616947",
+  "properties": {
+    "addr:street": "Hospital Road",
+    "amenity": "hospital",
+    "name": "Bo Government Hospital",
+    "id": "node/1795616947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7422706,
+      7.9640911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616949",
+  "properties": {
+    "COMMENT": "01-OCT-10 9:43:13AM",
+    "IDENT": "067",
+    "LAT": "7.94025466",
+    "LONG": "-11.72581139",
+    "Street_Add": "63 Bo_Koribundo Highway",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199464.43543258",
+    "Y_PROJ": "878681.03317834",
+    "amenity": "hospital",
+    "name": "Bucksal Health Post",
+    "id": "node/1795616949"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7258114,
+      7.9402547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616953",
+  "properties": {
+    "COMMENT": "01-OCT-10 8:30:42AM",
+    "IDENT": "061",
+    "LAT": "7.96353481",
+    "LONG": "-11.74648829",
+    "Street_Add": "Baiima Road",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "197200.10823555",
+    "Y_PROJ": "881272.61120068",
+    "amenity": "hospital",
+    "name": "EDC Unit",
+    "id": "node/1795616953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7464883,
+      7.9635348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616954",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:street": "Bojon Street",
+    "amenity": "hospital",
+    "name": "Egyptian Clinic",
+    "id": "node/1795616954"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7405183,
+      7.9665439
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616955",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:25:01AM",
+    "IDENT": "074",
+    "LAT": "7.94982260",
+    "LONG": "-11.73015984",
+    "Street_Add": "21 1st Bass Street Messima",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198991.62355081",
+    "Y_PROJ": "879743.10283529",
+    "amenity": "hospital",
+    "name": "Elshaddai Clinic",
+    "id": "node/1795616955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7301598,
+      7.9498226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616957",
+  "properties": {
+    "COMMENT": "01-OCT-10 9:53:05AM",
+    "IDENT": "068",
+    "LAT": "7.94686337",
+    "LONG": "-11.72466449",
+    "Street_Add": "39 Bo_Kenema Highway",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199595.79018800",
+    "Y_PROJ": "879411.60281112",
+    "amenity": "hospital",
+    "name": "Faith and Hope Clinic",
+    "id": "node/1795616957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7246645,
+      7.9468634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616961",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:58:22AM",
+    "IDENT": "083",
+    "LAT": "7.98966908",
+    "LONG": "-11.74338288",
+    "Street_Add": "Gbonda Town",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "197561.96596087",
+    "Y_PROJ": "884162.72470025",
+    "amenity": "hospital",
+    "name": "Gbonda Town Hospital",
+    "id": "node/1795616961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7433829,
+      7.9896691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616970",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:42:03AM",
+    "IDENT": "078",
+    "LAT": "7.96767572",
+    "LONG": "-11.73711606",
+    "Street_Add": "109A-C Mahei Boima Road",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198237.19417294",
+    "Y_PROJ": "881724.03975024",
+    "amenity": "hospital",
+    "name": "Hopes Clinic",
+    "id": "node/1795616970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7371161,
+      7.9676757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616979",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:34:27AM",
+    "IDENT": "076",
+    "LAT": "7.95975264",
+    "LONG": "-11.73904189",
+    "Street_Add": "1 Prince Williams Street",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198018.90549556",
+    "Y_PROJ": "880848.57129290",
+    "amenity": "hospital",
+    "name": "Kindoya Hospital",
+    "id": "node/1795616979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7390419,
+      7.9597526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616986",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:09:06AM",
+    "IDENT": "071",
+    "LAT": "7.94836415",
+    "LONG": "-11.70514765",
+    "Street_Add": "Ngagolihun",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "201750.23295498",
+    "Y_PROJ": "879563.57758874",
+    "amenity": "hospital",
+    "name": "M and M Clinic",
+    "id": "node/1795616986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7051477,
+      7.9483642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616992",
+  "properties": {
+    "COMMENT": "30-SEP-10 4:50:21AM",
+    "IDENT": "050",
+    "LAT": "7.94369384",
+    "LONG": "-11.72862721",
+    "Street_Add": "3A Old Railway Line",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199156.25510605",
+    "Y_PROJ": "879063.70109104",
+    "amenity": "hospital",
+    "name": "Manjama Community Health",
+    "id": "node/1795616992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7286272,
+      7.9436938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616996",
+  "properties": {
+    "COMMENT": "01-OCT-10 8:52:02AM",
+    "IDENT": "062",
+    "LAT": "7.96715328",
+    "LONG": "-11.76844066",
+    "Street_Add": "Gbongboma Layout",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "194780.72911371",
+    "Y_PROJ": "881689.25259921",
+    "amenity": "hospital",
+    "name": "Midland Health Centre",
+    "id": "node/1795616996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7684407,
+      7.9671533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795616999",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:30:02AM",
+    "IDENT": "075",
+    "LAT": "7.95517570",
+    "LONG": "-11.73263300",
+    "Street_Add": "73 Old Railway Line",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198722.66221691",
+    "Y_PROJ": "880337.34773951",
+    "amenity": "hospital",
+    "name": "Morning Star",
+    "id": "node/1795616999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.732633,
+      7.9551757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617000",
+  "properties": {
+    "COMMENT": "01-OCT-10 9:19:30AM",
+    "IDENT": "065",
+    "LAT": "7.94353073",
+    "LONG": "-11.73199455",
+    "Street_Add": "27 Johnny Street",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198784.59881119",
+    "Y_PROJ": "879048.09790627",
+    "amenity": "hospital",
+    "name": "Nafaya Clinic",
+    "id": "node/1795617000"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7319946,
+      7.9435307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617001",
+  "properties": {
+    "COMMENT": "01-OCT-10 6:44:44AM",
+    "IDENT": "058",
+    "LAT": "7.98246777",
+    "LONG": "-11.72973018",
+    "Street_Add": "12 Mamawo Street",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199062.90320562",
+    "Y_PROJ": "883355.72699283",
+    "amenity": "hospital",
+    "name": "Nduvuibu (MCHP)",
+    "id": "node/1795617001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7297302,
+      7.9824678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617002",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:16:11AM",
+    "IDENT": "073",
+    "LAT": "7.95011354",
+    "LONG": "-11.72403744",
+    "Street_Add": "4 Senesi Lane Messima",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199667.34188663",
+    "Y_PROJ": "879770.85161996",
+    "amenity": "hospital",
+    "name": "Needy Community Clinic",
+    "id": "node/1795617002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7240374,
+      7.9501135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617003",
+  "properties": {
+    "COMMENT": "01-OCT-10 10:11:00AM",
+    "IDENT": "070",
+    "LAT": "7.95039651",
+    "LONG": "-11.71716495",
+    "Street_Add": "New Police Barracks",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "200425.80953755",
+    "Y_PROJ": "879797.18471873",
+    "amenity": "hospital",
+    "name": "New Police Barracks Clinic",
+    "id": "node/1795617003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.717165,
+      7.9503965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617007",
+  "properties": {
+    "COMMENT": "01-OCT-10 11:13:53AM",
+    "IDENT": "072",
+    "LAT": "7.94960844",
+    "LONG": "-11.72231203",
+    "Street_Add": "Old Railway Line Messima",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199857.34422413",
+    "Y_PROJ": "879713.69869328",
+    "amenity": "hospital",
+    "name": "Quick Action Clinic",
+    "id": "node/1795617007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.722312,
+      7.9496084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617011",
+  "properties": {
+    "COMMENT": "01-OCT-10 9:17:44AM",
+    "IDENT": "064",
+    "LAT": "7.94231895",
+    "LONG": "-11.73310298",
+    "Street_Add": "21 Johnny Street",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "198661.41461849",
+    "Y_PROJ": "878914.79309344",
+    "amenity": "hospital",
+    "name": "Sowa Clinic",
+    "id": "node/1795617011"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.733103,
+      7.942319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617014",
+  "properties": {
+    "COMMENT": "01-OCT-10 9:58:48AM",
+    "IDENT": "069",
+    "LAT": "7.94722312",
+    "LONG": "-11.72145699",
+    "Street_Add": "1 Upper Pessima Street",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "199949.94827489",
+    "Y_PROJ": "879449.08995741",
+    "amenity": "hospital",
+    "name": "Tengbewabu (MCHP)",
+    "id": "node/1795617014"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.721457,
+      7.9472231
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617017",
+  "properties": {
+    "COMMENT": "01-OCT-10 8:26:01AM",
+    "IDENT": "060",
+    "LAT": "7.96415457",
+    "LONG": "-11.74629659",
+    "Street_Add": "Vetenary Office Baiima Road",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "197221.71467495",
+    "Y_PROJ": "881341.06220377",
+    "amenity": "hospital",
+    "name": "Vetenary Clinic",
+    "id": "node/1795617017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7462966,
+      7.9641546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1795617018",
+  "properties": {
+    "COMMENT": "01-OCT-10 9:11:28AM",
+    "IDENT": "063",
+    "LAT": "7.95175974",
+    "LONG": "-11.74875509",
+    "Street_Add": "Dr. Muana Drive",
+    "TYPE": "WAYPOINT",
+    "X_PROJ": "196941.34599971",
+    "Y_PROJ": "879971.07292760",
+    "amenity": "hospital",
+    "name": "Walk in Medical Association",
+    "id": "node/1795617018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7487551,
+      7.9517597
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3123415957",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Medecins Sans Frontieres Isolation Centre",
+    "id": "node/3123415957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.733325,
+      7.9603091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529880",
+  "properties": {
+    "accuracy": "MSF - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "50",
+    "capacity:beds:planned": "50",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0015",
+    "health_facility:type": "field_hospital",
+    "is_in": "Bo",
+    "is_in:district": "Bo",
+    "is_in:region": "Southern",
+    "name": "Bo CMC",
+    "operational_status": "open",
+    "operator": "MSF",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "id": "node/3197529880"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.67,
+      7.941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578418",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Arab Clinic",
+    "osm_id": "1795616944",
+    "type": "hospital",
+    "id": "node/3589578418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7342725,
+      7.9629773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578448",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Bo CMC",
+    "osm_id": "3197529880",
+    "type": "hospital",
+    "id": "node/3589578448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.67,
+      7.941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578454",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Bucksal Health Post",
+    "osm_id": "1795616949",
+    "type": "hospital",
+    "id": "node/3589578454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7258114,
+      7.9402547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578469",
+  "properties": {
+    "amenity": "hospital",
+    "fixme": "please verify \"hospital\"",
+    "name": "Child Rescue Center Bo",
+    "id": "node/3589578469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7372488,
+      7.977667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578510",
+  "properties": {
+    "amenity": "hospital",
+    "name": "EDC Unit",
+    "osm_id": "1795616953",
+    "type": "hospital",
+    "id": "node/3589578510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7464883,
+      7.9635348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578522",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Elshaddai Clinic",
+    "osm_id": "1795616955",
+    "type": "hospital",
+    "id": "node/3589578522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7301774,
+      7.9499011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578535",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Faith and Hope Clinic",
+    "osm_id": "1795616957",
+    "type": "hospital",
+    "id": "node/3589578535"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7248231,
+      7.9471115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578557",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Gbonda Town Hospital",
+    "osm_id": "1795616961",
+    "type": "hospital",
+    "id": "node/3589578557"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7433858,
+      7.9897272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578582",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Holy Mary Hospital",
+    "osm_id": "1795616967",
+    "type": "hospital",
+    "id": "node/3589578582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7241838,
+      7.9318108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578586",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopes Clinic",
+    "osm_id": "1795616970",
+    "type": "hospital",
+    "id": "node/3589578586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7371161,
+      7.9676757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578739",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Kindoya Hospital",
+    "osm_id": "1795616979",
+    "type": "hospital",
+    "id": "node/3589578739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7390419,
+      7.9597526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578768",
+  "properties": {
+    "amenity": "hospital",
+    "name": "M and M Clinic",
+    "osm_id": "1795616986",
+    "type": "hospital",
+    "id": "node/3589578768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7051477,
+      7.9483642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579504",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Manjama Community Health",
+    "osm_id": "1795616992",
+    "type": "hospital",
+    "id": "node/3589579504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7284777,
+      7.943702
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579513",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Medecins Sans Frontieres Isolation Centre",
+    "osm_id": "3123415957",
+    "type": "hospital",
+    "id": "node/3589579513"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.733325,
+      7.9603091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579515",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Midland Health Centre",
+    "osm_id": "1795616996",
+    "type": "hospital",
+    "id": "node/3589579515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7684407,
+      7.9671533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579522",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Morning Star",
+    "osm_id": "1795616999",
+    "type": "hospital",
+    "id": "node/3589579522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7325529,
+      7.9551757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579535",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nafaya Clinic",
+    "osm_id": "1795617000",
+    "type": "hospital",
+    "id": "node/3589579535"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7319946,
+      7.9435307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579538",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nduvuibu (MCHP)",
+    "osm_id": "1795617001",
+    "type": "hospital",
+    "id": "node/3589579538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7297302,
+      7.9824678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579539",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Needy Community Clinic",
+    "osm_id": "1795617002",
+    "type": "hospital",
+    "id": "node/3589579539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7240723,
+      7.9501041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579542",
+  "properties": {
+    "amenity": "hospital",
+    "name": "New Police Barracks Clinic",
+    "osm_id": "1795617003",
+    "type": "hospital",
+    "id": "node/3589579542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.717165,
+      7.9503965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579577",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Quick Action Clinic",
+    "osm_id": "1795617007",
+    "type": "hospital",
+    "id": "node/3589579577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7223215,
+      7.9497278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579844",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Sowa Clinic",
+    "osm_id": "1795617011",
+    "type": "hospital",
+    "id": "node/3589579844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.733103,
+      7.942319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579889",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Vetenary Clinic",
+    "osm_id": "1795617017",
+    "type": "hospital",
+    "id": "node/3589579889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.746326,
+      7.9640645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579896",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Walk in Medical Association",
+    "osm_id": "1795617018",
+    "type": "hospital",
+    "id": "node/3589579896"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7487507,
+      7.9516777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579918",
+  "properties": {
+    "amenity": "hospital",
+    "name": "West Africa Feastula Foundation",
+    "osm_id": "2993663374",
+    "religion": "christian",
+    "type": "place_of_worship",
+    "id": "node/3589579918"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7028327,
+      7.9397912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607736",
+  "properties": {
+    "addr:street": "Bo-Tiama Highway",
+    "amenity": "hospital",
+    "name": "Bo Children's Hospital",
+    "id": "node/3589607736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7648075,
+      7.9879385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607757",
+  "properties": {
+    "addr:street": "High Court Drive",
+    "amenity": "hospital",
+    "name": "Dr. Gilla's Hospital",
+    "id": "node/3589607757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7420586,
+      7.9710267
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607758",
+  "properties": {
+    "addr:street": "Bi-Tiama Highway",
+    "amenity": "hospital",
+    "name": "Dr. Muana Private Hospital",
+    "id": "node/3589607758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7497573,
+      7.9520777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607787",
+  "properties": {
+    "addr:street": "Mahei-Boima Road",
+    "amenity": "hospital",
+    "name": "Mercy Hospital",
+    "id": "node/3589607787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7372949,
+      7.9766209
+    ]
+  }
+}
+]
+}

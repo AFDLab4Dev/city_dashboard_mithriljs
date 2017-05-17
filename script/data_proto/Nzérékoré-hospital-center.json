@@ -1,0 +1,66 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3123430852,
+  "lat": 7.7491546,
+  "lon": -8.8224269,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Contact Tracing Center"
+  }
+},
+{
+  "type": "way",
+  "id": 312343470,
+  "center": {
+    "lat": 7.8401887,
+    "lon": -8.7090156
+  },
+  "nodes": [
+    3181929059,
+    3181929060,
+    3181929061,
+    3181929062,
+    3181929063,
+    3181929064,
+    3181929065,
+    3181929066,
+    3181929067,
+    3181929059
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "note": "This is just a guess as to its purpose."
+  }
+},
+{
+  "type": "way",
+  "id": 312343470,
+  "nodes": [
+    3181929059,
+    3181929060,
+    3181929061,
+    3181929062,
+    3181929063,
+    3181929064,
+    3181929065,
+    3181929066,
+    3181929067,
+    3181929059
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "note": "This is just a guess as to its purpose."
+  }
+}
+
+  ]
+}

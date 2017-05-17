@@ -1,0 +1,67 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1799104532,
+  "lat": 6.3627381,
+  "lon": 5.5807456,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2154548095,
+  "lat": 6.3338782,
+  "lon": 5.6277527,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Forum of Nigerian Women in Politice"
+  }
+},
+{
+  "type": "way",
+  "id": 44615766,
+  "center": {
+    "lat": 6.3394006,
+    "lon": 5.6108205
+  },
+  "nodes": [
+    566429849,
+    566429862,
+    566429871,
+    566429887,
+    566429849
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Uzebu Community Secretariat"
+  }
+},
+{
+  "type": "way",
+  "id": 44615766,
+  "nodes": [
+    566429849,
+    566429862,
+    566429871,
+    566429887,
+    566429849
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Uzebu Community Secretariat"
+  }
+}
+
+  ]
+}

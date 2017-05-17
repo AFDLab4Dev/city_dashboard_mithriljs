@@ -1,0 +1,121 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/31032416",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "STC Station",
+    "id": "node/31032416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8426672,
+      9.4063192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154032903",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "STC Bus Terminal",
+    "source": "digitalglobe",
+    "id": "way/154032903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8428968,
+      9.4062578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1791481012",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Trotro Station",
+    "id": "node/1791481012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8432613,
+      9.4066138
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1791545648",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Sankpala Station",
+    "id": "node/1791545648"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8458792,
+      9.3970399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1823687830",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VVIP Station",
+    "id": "node/1823687830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8411213,
+      9.40275
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1836476554",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Metro Mass Bus Station",
+    "source": "Bing",
+    "id": "node/1836476554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8481641,
+      9.4068293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4741636453",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Real VVIP Bus Station",
+    "name:en": "Real VVIP Bus Station",
+    "id": "node/4741636453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8456683,
+      9.3973306
+    ]
+  }
+}
+]
+}

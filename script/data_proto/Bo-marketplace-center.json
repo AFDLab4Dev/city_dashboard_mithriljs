@@ -1,0 +1,101 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3589607734,
+  "lat": 7.9657926,
+  "lon": -11.7379802,
+  "tags": {
+    "amenity": "marketplace",
+    "description": "Market",
+    "location": "Bojon Street-Fenton Road",
+    "name": "Bo Central Market",
+    "no_": "27.000000",
+    "shop": "mall",
+    "x": "198118.000000",
+    "y": "881496.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607765,
+  "lat": 7.9565104,
+  "lon": -11.7339832,
+  "tags": {
+    "addr:full": "Railway line off Sewa Road",
+    "addr:street": "Old Railway Line",
+    "amenity": "marketplace",
+    "name": "Gbongo Market",
+    "shop": "mall"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607774,
+  "lat": 7.9525995,
+  "lon": -11.7542055,
+  "tags": {
+    "amenity": "marketplace",
+    "description": "Market",
+    "location": "Towama Road",
+    "name": "Kandeh Town Market",
+    "no_": "34.000000",
+    "shop": "mall",
+    "x": "196343.000000",
+    "y": "880068.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607791,
+  "lat": 7.9452663,
+  "lon": -11.7366128,
+  "tags": {
+    "Location": "Musa Street",
+    "amenity": "marketplace",
+    "name": "Musa Street Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640126,
+  "lat": 7.9592261,
+  "lon": -11.7469553,
+  "tags": {
+    "addr:street": "Matru Road",
+    "amenity": "marketplace",
+    "name": "Sobawan Market",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 3684871482,
+  "lat": 7.9413452,
+  "lon": -11.7287513,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Manjama Market",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 3685699565,
+  "lat": 7.9515247,
+  "lon": -11.7210762,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Salina Market"
+  }
+}
+
+  ]
+}

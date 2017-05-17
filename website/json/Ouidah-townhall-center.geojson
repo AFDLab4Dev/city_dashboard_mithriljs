@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2436724568",
+  "properties": {
+    "addr:city": "Ouidah",
+    "amenity": "townhall",
+    "name": "Mairie de Ouidah",
+    "id": "node/2436724568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0745492,
+      6.356295
+    ]
+  }
+}
+]
+}

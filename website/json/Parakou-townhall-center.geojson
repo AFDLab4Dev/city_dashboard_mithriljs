@@ -1,0 +1,54 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/465952048",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie Annexe",
+    "id": "node/465952048"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6363716,
+      9.3475961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2432365196",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Prefeture du Borgou / Alibori",
+    "office": "administrative",
+    "id": "node/2432365196"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6286209,
+      9.3411371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4554062246",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de Parakou",
+    "id": "node/4554062246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6291833,
+      9.3390052
+    ]
+  }
+}
+]
+}

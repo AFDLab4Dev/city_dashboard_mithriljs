@@ -1,0 +1,89 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:43:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3371831066,
+  "lat": 8.3868965,
+  "lon": -13.1442114,
+  "tags": {
+    "amenity": "university",
+    "name": "Medicine University",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 28548338,
+  "center": {
+    "lat": 8.4779289,
+    "lon": -13.2210378
+  },
+  "nodes": [
+    313599603,
+    3140949907,
+    3140949906,
+    313599605,
+    313599606,
+    3140949902,
+    313599607,
+    313599609,
+    313599611,
+    313599613,
+    313599614,
+    313599615,
+    313599618,
+    4697834628,
+    313599620,
+    4697834629,
+    3140949904,
+    313599621,
+    3133693716,
+    313599622,
+    313599603
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fourah Bay College"
+  }
+},
+{
+  "type": "way",
+  "id": 28548338,
+  "nodes": [
+    313599603,
+    3140949907,
+    3140949906,
+    313599605,
+    313599606,
+    3140949902,
+    313599607,
+    313599609,
+    313599611,
+    313599613,
+    313599614,
+    313599615,
+    313599618,
+    4697834628,
+    313599620,
+    4697834629,
+    3140949904,
+    313599621,
+    3133693716,
+    313599622,
+    313599603
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fourah Bay College"
+  }
+}
+
+  ]
+}

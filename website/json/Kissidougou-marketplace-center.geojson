@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1869955792",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Kissidougou",
+    "id": "node/1869955792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1001642,
+      9.190617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1869955796",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/1869955796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.0979921,
+      9.1892316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1869955799",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/1869955799"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1000564,
+      9.1918011
+    ]
+  }
+}
+]
+}

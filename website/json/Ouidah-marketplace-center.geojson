@@ -1,0 +1,84 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2436724517",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Zobè",
+    "id": "node/2436724517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0874909,
+      6.3594725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2436724604",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Kpassè",
+    "id": "node/2436724604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.088207,
+      6.3740777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3261626171",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de d'Agonkanmey",
+    "id": "node/3261626171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0098068,
+      6.3857943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3261626172",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché sègbohoué",
+    "id": "node/3261626172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.9602819,
+      6.4017217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4250000501",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/4250000501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.090464,
+      6.3730952
+    ]
+  }
+}
+]
+}

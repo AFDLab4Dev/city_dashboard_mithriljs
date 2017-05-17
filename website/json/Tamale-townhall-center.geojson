@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1878859269",
+  "properties": {
+    "amenity": "townhall",
+    "name": "GNAT Hall",
+    "id": "node/1878859269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8556616,
+      9.420815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1878859596",
+  "properties": {
+    "amenity": "townhall",
+    "name": "WAEC Exam Hall",
+    "id": "node/1878859596"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8571502,
+      9.4206852
+    ]
+  }
+}
+]
+}

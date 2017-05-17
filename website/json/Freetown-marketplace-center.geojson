@@ -1,0 +1,587 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/173225236",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/173225236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2570842,
+      8.4829073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/173226206",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "\"Big Market\"",
+    "id": "way/173226206"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2365005,
+      8.4898668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306188024",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/306188024"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2691815,
+      8.4875107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306307691",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/306307691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2814758,
+      8.4930649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306319524",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Wilberforce Market",
+    "source": "MSF-CH",
+    "id": "way/306319524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2579606,
+      8.47088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306321768",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Confirm this is a market place.",
+    "id": "way/306321768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2503056,
+      8.492312
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306331343",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Confirm this is a market place.",
+    "id": "way/306331343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2490838,
+      8.4925489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306331448",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Confirm this is a market place.",
+    "id": "way/306331448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.244673,
+      8.4916128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306581592",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm.",
+    "id": "way/306581592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2694525,
+      8.4877895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306640009",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Wilberforce Market",
+    "source": "MSF-CH",
+    "id": "way/306640009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.263395,
+      8.474037
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306640111",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Lumley Road Market",
+    "source": "MSF-CH",
+    "id": "way/306640111"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2637417,
+      8.4739531
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306842210",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Regent Road Market",
+    "source": "MSF-CH",
+    "id": "way/306842210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2618116,
+      8.4515104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307077397",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/307077397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2286754,
+      8.4886484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307382849",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Congo Market",
+    "source": "MSF-CH",
+    "id": "way/307382849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2410053,
+      8.4774522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307508554",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Dwarzark Market 1",
+    "source": "MSF-CH",
+    "id": "way/307508554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2367792,
+      8.4709715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307564767",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Brookfield Marketplace",
+    "source": "MSF-CH",
+    "id": "way/307564767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2426655,
+      8.474994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307686275",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Fay Fay Supermarket",
+    "source": "MSF-CH",
+    "id": "way/307686275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2102286,
+      8.4889558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308027655",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Market",
+    "source": "MSF-CH",
+    "id": "way/308027655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2081729,
+      8.4766997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/310568327",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/310568327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0916476,
+      8.3677911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314076779",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "market 3",
+    "source": "MSF-CH",
+    "id": "way/314076779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2823822,
+      8.436244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314076788",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/314076788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2818988,
+      8.4364567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314076791",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH",
+    "id": "way/314076791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2816311,
+      8.4352444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314076795",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "market 3",
+    "source": "MSF-CH",
+    "id": "way/314076795"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2820892,
+      8.4364113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314144677",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "confirm",
+    "id": "way/314144677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1753826,
+      8.4664373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314305661",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Ogoo Farm Marketplace",
+    "source": "MSF-CH",
+    "id": "way/314305661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2640433,
+      8.4033935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314699783",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Lumley Market",
+    "source": "MSF-CH",
+    "id": "way/314699783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2722016,
+      8.4547488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2414270994",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "King Jimmy Market",
+    "id": "node/2414270994"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2378487,
+      8.4892882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3341693145",
+  "properties": {
+    "amenity": "marketplace",
+    "source": "MSF-CH",
+    "id": "node/3341693145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2404303,
+      8.4836807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3341886581",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "MARKET KOLLEH TOWN",
+    "source": "MSF-CH",
+    "id": "node/3341886581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2504861,
+      8.4852542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3341987793",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "CONGO TOWN MARKET",
+    "source": "MSF-CH",
+    "id": "node/3341987793"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2570877,
+      8.4829133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342063197",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "BUTTOM MANGO MARKET",
+    "source": "MSF-CH",
+    "id": "node/3342063197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2078418,
+      8.4763466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342157259",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "KUNTOLOR COMMUNITY MARKET",
+    "source": "MSF-CH",
+    "id": "node/3342157259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1767002,
+      8.4612018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342157260",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "PORTEE MARKET",
+    "source": "MSF-CH",
+    "id": "node/3342157260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1760635,
+      8.4634041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3354381712",
+  "properties": {
+    "amenity": "marketplace",
+    "source": "MSF-CH",
+    "id": "node/3354381712"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2553545,
+      8.4752063
+    ]
+  }
+}
+]
+}

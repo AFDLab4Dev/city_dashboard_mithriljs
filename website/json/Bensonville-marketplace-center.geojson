@@ -1,0 +1,52 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/305072250",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Dry Rice Market",
+    "id": "way/305072250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.732586,
+      6.3474336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305077457",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/305077457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7319504,
+      6.4008129
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308956353",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm.",
+    "id": "way/308956353"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6183712,
+      6.3745819
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3633079407,
+  "lat": 4.7461738,
+  "lon": -6.6302728,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de la cité"
+  }
+},
+{
+  "type": "way",
+  "id": 312051514,
+  "center": {
+    "lat": 4.7769518,
+    "lon": -6.6549202
+  },
+  "nodes": [
+    3178635489,
+    3178635484,
+    3178635464,
+    3178635468,
+    3178635489
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand Marché",
+    "source": "Microsoft Bing orbital imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 312051514,
+  "nodes": [
+    3178635489,
+    3178635484,
+    3178635464,
+    3178635468,
+    3178635489
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand Marché",
+    "source": "Microsoft Bing orbital imagery"
+  }
+}
+
+  ]
+}

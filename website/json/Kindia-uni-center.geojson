@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4179488666",
+  "properties": {
+    "amenity": "university",
+    "name": "institut universitaire de Bokai",
+    "id": "node/4179488666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8512988,
+      10.0318908
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:39:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4663849290,
+  "lat": 6.3559394,
+  "lon": -10.7321412,
+  "tags": {
+    "addr:postcode": "+231",
+    "addr:street": "barnersville bend & stop",
+    "amenity": "bus_station"
+  }
+}
+
+  ]
+}

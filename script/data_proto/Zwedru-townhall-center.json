@@ -1,0 +1,212 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:40:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 300382193,
+  "center": {
+    "lat": 6.0655773,
+    "lon": -8.1279095
+  },
+  "nodes": [
+    3044677697,
+    3205026109,
+    3044677698,
+    3044677699,
+    3205026110,
+    3205026111,
+    3044677700,
+    3205026112,
+    3205026113,
+    3205026114,
+    3205026115,
+    3205026116,
+    3205026117,
+    3205026118,
+    3044677701,
+    3205026119,
+    3205026122,
+    3205026133,
+    3205026132,
+    3205026131,
+    3205026130,
+    3205026129,
+    3205026128,
+    3205026127,
+    3205026126,
+    3205026125,
+    3205026124,
+    3205026123,
+    3205026121,
+    3205026120,
+    3205026108,
+    3205026107,
+    3205026106,
+    3205026105,
+    3205026104,
+    3205026103,
+    3044677702,
+    3044677703,
+    3205026102,
+    3044677704,
+    3205026101,
+    3044677697
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 314591635,
+  "center": {
+    "lat": 6.0711937,
+    "lon": -8.1296686
+  },
+  "nodes": [
+    3206351962,
+    3206351963,
+    3206351964,
+    3206351965,
+    3206351962
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Carr Street",
+    "amenity": "townhall",
+    "building": "civic",
+    "building:levels": "1",
+    "building:material": "concrete",
+    "name": "Sister And Brother Meeting Hall",
+    "opening_hours": "24/7",
+    "phone": "0886367340/0775736603"
+  }
+},
+{
+  "type": "way",
+  "id": 484935967,
+  "center": {
+    "lat": 6.0697344,
+    "lon": -8.1290845
+  },
+  "nodes": [
+    4776829043,
+    4776829032,
+    4776829029,
+    4776829037,
+    4776829043
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Brown Street",
+    "amenity": "townhall",
+    "building": "residential",
+    "building:levels": "1",
+    "building:material": "brick",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 300382193,
+  "nodes": [
+    3044677697,
+    3205026109,
+    3044677698,
+    3044677699,
+    3205026110,
+    3205026111,
+    3044677700,
+    3205026112,
+    3205026113,
+    3205026114,
+    3205026115,
+    3205026116,
+    3205026117,
+    3205026118,
+    3044677701,
+    3205026119,
+    3205026122,
+    3205026133,
+    3205026132,
+    3205026131,
+    3205026130,
+    3205026129,
+    3205026128,
+    3205026127,
+    3205026126,
+    3205026125,
+    3205026124,
+    3205026123,
+    3205026121,
+    3205026120,
+    3205026108,
+    3205026107,
+    3205026106,
+    3205026105,
+    3205026104,
+    3205026103,
+    3044677702,
+    3044677703,
+    3205026102,
+    3044677704,
+    3205026101,
+    3044677697
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 314591635,
+  "nodes": [
+    3206351962,
+    3206351963,
+    3206351964,
+    3206351965,
+    3206351962
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Carr Street",
+    "amenity": "townhall",
+    "building": "civic",
+    "building:levels": "1",
+    "building:material": "concrete",
+    "name": "Sister And Brother Meeting Hall",
+    "opening_hours": "24/7",
+    "phone": "0886367340/0775736603"
+  }
+},
+{
+  "type": "way",
+  "id": 484935967,
+  "nodes": [
+    4776829043,
+    4776829032,
+    4776829029,
+    4776829037,
+    4776829043
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Brown Street",
+    "amenity": "townhall",
+    "building": "residential",
+    "building:levels": "1",
+    "building:material": "brick",
+    "opening_hours": "24/7"
+  }
+}
+
+  ]
+}

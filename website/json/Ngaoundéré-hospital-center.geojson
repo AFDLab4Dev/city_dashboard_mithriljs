@@ -3,22 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "way/332260292",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Centre médico-social",
-    "id": "way/332260292"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.5487829,
-      7.4159543
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4391694825",
   "properties": {
     "amenity": "hospital",

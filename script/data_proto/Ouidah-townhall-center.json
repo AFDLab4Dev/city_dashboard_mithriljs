@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2436724568,
+  "lat": 6.3562950,
+  "lon": 2.0745492,
+  "tags": {
+    "addr:city": "Ouidah",
+    "amenity": "townhall",
+    "name": "Mairie de Ouidah"
+  }
+}
+
+  ]
+}

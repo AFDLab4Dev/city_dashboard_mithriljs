@@ -1,0 +1,512 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:43:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3342063197,
+  "lat": 8.4763466,
+  "lon": -13.2078418,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "BUTTOM MANGO MARKET",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3342157259,
+  "lat": 8.4612018,
+  "lon": -13.1767002,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "KUNTOLOR COMMUNITY MARKET",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3342157260,
+  "lat": 8.4634041,
+  "lon": -13.1760635,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PORTEE MARKET",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3379671852,
+  "lat": 8.3292607,
+  "lon": -13.0711571,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 298904992,
+  "center": {
+    "lat": 8.3093118,
+    "lon": -13.0788070
+  },
+  "nodes": [
+    3028718360,
+    3028718354,
+    3028718355,
+    3028718346,
+    3028718345,
+    4586272552,
+    3028718343,
+    3028718348,
+    3028718347,
+    3028718350,
+    3028718351,
+    3028718353,
+    3028718352,
+    3028718357,
+    3028718358,
+    3028718361,
+    3028718360
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Benguema Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308069968,
+  "center": {
+    "lat": 8.3159000,
+    "lon": -13.0568419
+  },
+  "nodes": [
+    3133507123,
+    3133507233,
+    3133507109,
+    3133507101,
+    3133507123
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Campbell Town Market Place",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308070229,
+  "center": {
+    "lat": 8.3158298,
+    "lon": -13.0567227
+  },
+  "nodes": [
+    3133507115,
+    3133507104,
+    3133507089,
+    3133507107,
+    3133507115
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Campbell Town Market Place",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 330908593,
+  "center": {
+    "lat": 8.3263191,
+    "lon": -13.0628861
+  },
+  "nodes": [
+    3379435841,
+    3379435842,
+    3379435840,
+    3141112804,
+    3141112820,
+    3379435841
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bassa Town Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 309356704,
+  "center": {
+    "lat": 8.3253657,
+    "lon": -13.0666096
+  },
+  "nodes": [
+    3146894552,
+    3146894553,
+    3146894554,
+    3146894555,
+    3146894552
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Bassa Town Old Road Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308523583,
+  "center": {
+    "lat": 8.3345923,
+    "lon": -13.0434566
+  },
+  "nodes": [
+    3137926692,
+    3137926694,
+    3137926695,
+    3137926693,
+    3137926692
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Kissy Town Community Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 310568327,
+  "center": {
+    "lat": 8.3677911,
+    "lon": -13.0916476
+  },
+  "nodes": [
+    3160094916,
+    3160094896,
+    3160094877,
+    3160094893,
+    3160094916
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308027655,
+  "center": {
+    "lat": 8.4766997,
+    "lon": -13.2081729
+  },
+  "nodes": [
+    3133111808,
+    3133111809,
+    3133111810,
+    3137663884,
+    3137663883,
+    3137663886,
+    3133111811,
+    3133111812,
+    3133111813,
+    3137663880,
+    3137663879,
+    3137663878,
+    3137663876,
+    3137663874,
+    3133111814,
+    3137663873,
+    3137663875,
+    3137663877,
+    3133111815,
+    3137663881,
+    3137663882,
+    3137663889,
+    3133111806,
+    3133111807,
+    3133111808
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 314144677,
+  "center": {
+    "lat": 8.4664373,
+    "lon": -13.1753826
+  },
+  "nodes": [
+    3201912362,
+    3201904857,
+    3201904854,
+    3201904852,
+    3201904855,
+    3201904851,
+    3201904853,
+    3201904856,
+    3201904858,
+    3201904859,
+    3201904860,
+    3201912361,
+    3201912362
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "confirm"
+  }
+},
+{
+  "type": "way",
+  "id": 307686275,
+  "center": {
+    "lat": 8.4889558,
+    "lon": -13.2102286
+  },
+  "nodes": [
+    3128897391,
+    3128897392,
+    3128897393,
+    3128897394,
+    3128897395,
+    3128897396,
+    3128897391
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Fay Fay Supermarket",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 298904992,
+  "nodes": [
+    3028718360,
+    3028718354,
+    3028718355,
+    3028718346,
+    3028718345,
+    4586272552,
+    3028718343,
+    3028718348,
+    3028718347,
+    3028718350,
+    3028718351,
+    3028718353,
+    3028718352,
+    3028718357,
+    3028718358,
+    3028718361,
+    3028718360
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Benguema Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308069968,
+  "nodes": [
+    3133507123,
+    3133507233,
+    3133507109,
+    3133507101,
+    3133507123
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Campbell Town Market Place",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308070229,
+  "nodes": [
+    3133507115,
+    3133507104,
+    3133507089,
+    3133507107,
+    3133507115
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Campbell Town Market Place",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 330908593,
+  "nodes": [
+    3379435841,
+    3379435842,
+    3379435840,
+    3141112804,
+    3141112820,
+    3379435841
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bassa Town Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 309356704,
+  "nodes": [
+    3146894552,
+    3146894553,
+    3146894554,
+    3146894555,
+    3146894552
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Bassa Town Old Road Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308523583,
+  "nodes": [
+    3137926692,
+    3137926694,
+    3137926695,
+    3137926693,
+    3137926692
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Kissy Town Community Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 310568327,
+  "nodes": [
+    3160094916,
+    3160094896,
+    3160094877,
+    3160094893,
+    3160094916
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 308027655,
+  "nodes": [
+    3133111808,
+    3133111809,
+    3133111810,
+    3137663884,
+    3137663883,
+    3137663886,
+    3133111811,
+    3133111812,
+    3133111813,
+    3137663880,
+    3137663879,
+    3137663878,
+    3137663876,
+    3137663874,
+    3133111814,
+    3137663873,
+    3137663875,
+    3137663877,
+    3133111815,
+    3137663881,
+    3137663882,
+    3137663889,
+    3133111806,
+    3133111807,
+    3133111808
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Market",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 314144677,
+  "nodes": [
+    3201912362,
+    3201904857,
+    3201904854,
+    3201904852,
+    3201904855,
+    3201904851,
+    3201904853,
+    3201904856,
+    3201904858,
+    3201904859,
+    3201904860,
+    3201912361,
+    3201912362
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "confirm"
+  }
+},
+{
+  "type": "way",
+  "id": 307686275,
+  "nodes": [
+    3128897391,
+    3128897392,
+    3128897393,
+    3128897394,
+    3128897395,
+    3128897396,
+    3128897391
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Fay Fay Supermarket",
+    "source": "MSF-CH"
+  }
+}
+
+  ]
+}

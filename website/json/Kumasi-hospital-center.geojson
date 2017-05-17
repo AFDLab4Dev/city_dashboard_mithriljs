@@ -1,0 +1,154 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/319040639",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "General",
+    "emergency": "no",
+    "name": "Aburaso Health Centre",
+    "id": "way/319040639"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6707201,
+      6.6681274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1501175173",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Komfo Anokye Hospital",
+    "id": "node/1501175173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6307425,
+      6.6971295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2167621824",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Kumasi South Urban Health Centre",
+    "id": "node/2167621824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5863531,
+      6.6516036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3146437010",
+  "properties": {
+    "amenity": "hospital",
+    "name": "North Suntreso Hospital",
+    "id": "node/3146437010"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6419009,
+      6.7026379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3146487434",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Komfo Anokye Teaching Hospital",
+    "id": "node/3146487434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6293052,
+      6.6973314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3430483774",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tech Hospital",
+    "id": "node/3430483774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5740976,
+      6.6860335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4009688827",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ahodwo New Cross Hospital",
+    "id": "node/4009688827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.622077,
+      6.6567571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4519735890",
+  "properties": {
+    "amenity": "hospital",
+    "name": "West End hospital",
+    "name:en": "West End hospital",
+    "id": "node/4519735890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.643999,
+      6.6843478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4621957790",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Aburaso Health center",
+    "opening_hours": "24/7",
+    "id": "node/4621957790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6769908,
+      6.6611837
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,54 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/297546129",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Bohicon",
+    "id": "way/297546129"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0675609,
+      7.1712723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2435638246",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie d'Abomey",
+    "id": "node/2435638246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.9821915,
+      7.1971552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2437350662",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de Zogbodomey",
+    "id": "node/2437350662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1189156,
+      7.0672417
+    ]
+  }
+}
+]
+}

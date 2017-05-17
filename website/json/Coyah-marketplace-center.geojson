@@ -1,0 +1,85 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/270173504",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/270173504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5349038,
+      9.6554692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/442220338",
+  "properties": {
+    "addr:city": "Manéah",
+    "amenity": "marketplace",
+    "name": "Friguidy 2",
+    "id": "way/442220338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.4312467,
+      9.72993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4347456752",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de baylobayah",
+    "id": "node/4347456752"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5250754,
+      9.6815501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4405096305",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Lansanaya",
+    "id": "node/4405096305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5249803,
+      9.6673463
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4495008197",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "marché du km36",
+    "id": "node/4495008197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.4967699,
+      9.7033396
+    ]
+  }
+}
+]
+}

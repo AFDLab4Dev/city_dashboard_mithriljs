@@ -1,0 +1,162 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/378466289",
+  "properties": {
+    "addr:city": "Kumasi",
+    "addr:postcode": "+233",
+    "addr:street": "N6",
+    "amenity": "university",
+    "name": "Kwame Nkrumah University Of Science And Technology",
+    "operator": "Government",
+    "wikidata": "Q1654025",
+    "id": "way/378466289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5659924,
+      6.6771515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3073680468",
+  "properties": {
+    "amenity": "university",
+    "name": "Engineering New Block",
+    "website": "energycenter.knust.edu.gh",
+    "id": "node/3073680468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5645102,
+      6.6731869
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077262066",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Agriculture",
+    "operator": "KNUST",
+    "id": "node/3077262066"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5668689,
+      6.6755963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077269727",
+  "properties": {
+    "amenity": "university",
+    "name": "Department of Modern Languages",
+    "operator": "KNUST",
+    "id": "node/3077269727"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5658411,
+      6.6745878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077269729",
+  "properties": {
+    "amenity": "university",
+    "name": "Department of English",
+    "operator": "KNUST",
+    "id": "node/3077269729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5656516,
+      6.6746199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077269730",
+  "properties": {
+    "amenity": "university",
+    "name": "College of Art and Social Science",
+    "operator": "KNUST",
+    "id": "node/3077269730"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5655948,
+      6.6747214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077269731",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Social Sciences",
+    "operator": "KNUST",
+    "id": "node/3077269731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5655471,
+      6.6747872
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077269732",
+  "properties": {
+    "amenity": "university",
+    "name": "Department of Geography and Rural Development",
+    "operator": "KNUST",
+    "id": "node/3077269732"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.56543,
+      6.6747145
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3077269733",
+  "properties": {
+    "amenity": "university",
+    "name": "Department of History and Political Studies",
+    "operator": "KNUST",
+    "id": "node/3077269733"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5654703,
+      6.6746517
+    ]
+  }
+}
+]
+}

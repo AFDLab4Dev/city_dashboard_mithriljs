@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/254856807",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marche d'Atakpamé",
+    "organic": "no",
+    "source": "survey and bing",
+    "id": "way/254856807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1218286,
+      7.5321446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/260550038",
+  "properties": {
+    "amenity": "marketplace",
+    "source": "survey",
+    "id": "way/260550038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1474031,
+      7.5168783
+    ]
+  }
+}
+]
+}

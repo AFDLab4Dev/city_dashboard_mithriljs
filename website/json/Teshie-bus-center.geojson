@@ -1,0 +1,991 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/3933988",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Imperial Express Yard",
+    "operator": "Imperial Express Transport",
+    "type": "multipolygon",
+    "website": "http://www.imperialexpress.com.gh/",
+    "id": "relation/3933988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2288963,
+      5.557417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/17914757",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "STC",
+    "id": "way/17914757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2250549,
+      5.5642377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/238521540",
+  "properties": {
+    "addr:street": "Giffard Road",
+    "amenity": "bus_station",
+    "landuse": "commercial",
+    "name": "37 Station",
+    "id": "way/238521540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1799083,
+      5.5889728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/298830279",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VIP Bus Terminal",
+    "id": "way/298830279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2197208,
+      5.5679657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300519834",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra Mall",
+    "id": "way/300519834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1731097,
+      5.6201308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302376253",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Achimota Transport Terminal",
+    "id": "way/302376253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2260549,
+      5.6221739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/304979005",
+  "properties": {
+    "alt_name": "MMT Station",
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit Limited Station",
+    "id": "way/304979005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2075238,
+      5.5433073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/352160512",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tema Station",
+    "id": "way/352160512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2018127,
+      5.5486292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356777847",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Odornaa Bus station",
+    "id": "way/356777847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.216073,
+      5.5680478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356779684",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/356779684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2156738,
+      5.5678749
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356782124",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Madina Market Station",
+    "id": "way/356782124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1718254,
+      5.6774771
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/376999291",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/376999291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1780004,
+      5.6674309
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/404426046",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/404426046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2202356,
+      5.5804036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/419690753",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Trotro Station",
+    "id": "way/419690753"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0142555,
+      5.6862154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1285191175",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/1285191175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.016702,
+      5.6455393
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1546419253",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ashaiman Main Tro Tro Station",
+    "id": "node/1546419253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0326619,
+      5.6867648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1603831964",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Afariwa Tro Tro station",
+    "id": "node/1603831964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0157345,
+      5.7074972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2018321246",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2018321246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0028199,
+      5.6459634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2151944574",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La Main Lorry Station",
+    "id": "node/2151944574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1584786,
+      5.5594713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154259204",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Adenta Trotro Station",
+    "id": "node/2154259204"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1656165,
+      5.705993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815303473",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Banana Inn",
+    "id": "node/2815303473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2362276,
+      5.5643203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815311888",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Takoradi Station",
+    "id": "node/2815311888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2367868,
+      5.5652982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815317517",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Dansoman Station",
+    "id": "node/2815317517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2380686,
+      5.5640112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815320007",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Korlebu Station",
+    "id": "node/2815320007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2359508,
+      5.5640056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815320133",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kaneshie Station",
+    "id": "node/2815320133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2353524,
+      5.5656917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3073421167",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Public Transport",
+    "id": "node/3073421167"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1944473,
+      5.6173445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3095484237",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "TUDU Station",
+    "id": "node/3095484237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2048335,
+      5.5445757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3109289830",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Odornaa Bus station",
+    "id": "node/3109289830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2173233,
+      5.5673255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3109291911",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3109291911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.213241,
+      5.5696427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3137754354",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tarkwa Ford Station",
+    "id": "node/3137754354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2351681,
+      5.5650574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154416434",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Darkuman Bus",
+    "id": "node/3154416434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2494881,
+      5.6058011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154420241",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3154420241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2465969,
+      5.6072901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154423237",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3154423237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2462694,
+      5.6080599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154429400",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "37 station",
+    "id": "node/3154429400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2496745,
+      5.6068069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3621763485",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Olla Balm Station",
+    "id": "node/3621763485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2382096,
+      5.5755793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3621763710",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3621763710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2398299,
+      5.5803983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3777245631",
+  "properties": {
+    "amenity": "bus_station",
+    "bench": "no",
+    "covered": "yes",
+    "name": "MMT Station",
+    "network": "Metro Mass Transport",
+    "shelter": "yes",
+    "id": "node/3777245631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2031106,
+      5.5499947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3914593751",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Metro Mass Transport Terminal",
+    "id": "node/3914593751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2104761,
+      5.5476735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286157299",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kufour Station",
+    "id": "node/4286157299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0335596,
+      5.6852362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286157300",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Taxi Station",
+    "id": "node/4286157300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0300319,
+      5.6879223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286173001",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ash Newtown Station",
+    "id": "node/4286173001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0301139,
+      5.7028863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4313557006",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Zenu Trotro",
+    "id": "node/4313557006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0533144,
+      5.7189454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4313597216",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "New Town Station",
+    "id": "node/4313597216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0243627,
+      5.6512576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4313654189",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4313654189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0309887,
+      5.6934518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324423391",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Apaapa lorry station",
+    "id": "node/4324423391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1637839,
+      5.5672987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324512074",
+  "properties": {
+    "amenity": "bus_station",
+    "operator": "VVIP",
+    "id": "node/4324512074"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0015949,
+      5.6494437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324512075",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra, Circle",
+    "operator": "VVIP",
+    "id": "node/4324512075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2151299,
+      5.5703101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4327136891",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Atadeka Station",
+    "id": "node/4327136891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.032007,
+      5.6905686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350218309",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Manhean Bus Station",
+    "id": "node/4350218309"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.020953,
+      5.6569424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400503924",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Community 11 Station",
+    "id": "node/4400503924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0278298,
+      5.6643441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400503926",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Aflao Bus Station (GPRTU Of TUC)",
+    "id": "node/4400503926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0132236,
+      5.6855276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400510898",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra Bus Station",
+    "id": "node/4400510898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0139812,
+      5.6860165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4461423012",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Public Transport",
+    "id": "node/4461423012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1909616,
+      5.61859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4545132189",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Taxi Rank",
+    "name:en": "Taxi Rank",
+    "id": "node/4545132189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0051969,
+      5.6603778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4582412093",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Apaapa lorry station",
+    "id": "node/4582412093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1637263,
+      5.5672919
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4600169832",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Aflao Station",
+    "id": "node/4600169832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2067016,
+      5.5499831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4621497990",
+  "properties": {
+    "addr:postcode": "+233",
+    "addr:street": "TROPPO ST",
+    "amenity": "bus_station",
+    "id": "node/4621497990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.254849,
+      5.5532709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4722201291",
+  "properties": {
+    "addr:street": "Aburi Road",
+    "amenity": "bus_station",
+    "internet_access": "wlan",
+    "name": "Madina Accra New Town Station",
+    "name:en": "Madina Accra New Town Station",
+    "id": "node/4722201291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1711167,
+      5.676125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4727380590",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VVIP Bus Station",
+    "name:en": "VVIP Bus Station",
+    "id": "node/4727380590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2191757,
+      5.5690679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4740602042",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tema station",
+    "name:en": "Tema station",
+    "id": "node/4740602042"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2373184,
+      5.5659266
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4747205323",
+  "properties": {
+    "addr:postcode": "00233",
+    "addr:street": "Naa Ayele Slater Street",
+    "amenity": "bus_station",
+    "id": "node/4747205323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2087537,
+      5.582633
+    ]
+  }
+}
+]
+}

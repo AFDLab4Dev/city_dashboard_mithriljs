@@ -3,335 +3,816 @@
 "features": [
 {
   "type": "Feature",
-  "id": "relation/2907143",
+  "id": "way/192729491",
   "properties": {
-    "amenity": "university",
+    "amenity": "townhall",
     "building": "yes",
-    "name": "Faculté de Médecine",
+    "name": "Sous-Préfecture de Yaoundé 5",
     "source": "GeoCameroun",
-    "type": "multipolygon",
-    "id": "relation/2907143"
+    "id": "way/192729491"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.4958616,
-      3.862526
+      11.5673226,
+      3.8933013
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/188072747",
+  "id": "way/192733782",
   "properties": {
-    "amenity": "university",
-    "name": "Université de Yaoundé I",
-    "name:en": "Yaoundé I University",
-    "phone": "+237 22 22 13 20",
-    "website": "http://www.uy1.uninet.cm/",
-    "wikipedia": "fr:Université de Yaoundé I",
-    "id": "way/188072747"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.4997916,
-      3.8566837
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/188147076",
-  "properties": {
-    "amenity": "university",
-    "name": "Université Catholique d'Afrique centrale",
-    "short_name": "UCAC",
-    "id": "way/188147076"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.5212039,
-      3.8439781
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/191158953",
-  "properties": {
-    "amenity": "university",
-    "name": "École Nationale Supérieure Polytechnique",
-    "short_name": "ENSP",
-    "source": "GeoCameroun",
-    "website": "http://www.polytechcm.org/",
-    "id": "way/191158953"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.4999825,
-      3.8624211
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/191163685",
-  "properties": {
-    "amenity": "university",
-    "id": "way/191163685"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.4961091,
-      3.8614366
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/191165078",
-  "properties": {
-    "amenity": "university",
-    "barrier": "fence",
-    "name": "Institut des Relations Internationales du Cameroun",
-    "short_name": "IRIC",
-    "id": "way/191165078"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.4913432,
-      3.8545528
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/191232426",
-  "properties": {
-    "amenity": "university",
-    "name": "Université Yaoundé Sud Joseph Ndi Samba",
-    "source": "GeoCameroun",
-    "id": "way/191232426"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.5222396,
-      3.8118324
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/191632477",
-  "properties": {
-    "amenity": "university",
+    "amenity": "townhall",
     "building": "yes",
-    "name": "Institut Supérieur de Technologie Médical",
-    "school:CM": "institut",
-    "source": "geocameroun",
-    "id": "way/191632477"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.5093554,
-      3.9527628
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/191648627",
-  "properties": {
-    "amenity": "university",
-    "building": "school",
-    "name": "Institut Moderne MBASSI",
-    "school:CM": "institut",
-    "source": "geocameroun",
-    "id": "way/191648627"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.5180768,
-      3.9401174
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/192814206",
-  "properties": {
-    "amenity": "university",
-    "building": "yes",
-    "denomination": "protestant",
-    "name": "Universite Protestante d'Afrique",
-    "religion": "christian",
+    "name": "Sous-Préfecture Yaoundé 2",
     "source": "GeoCameroun",
-    "id": "way/192814206"
+    "id": "way/192733782"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.522087,
-      3.8773319
+      11.5009332,
+      3.8868481
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/192842322",
+  "id": "way/192778770",
   "properties": {
-    "amenity": "university",
-    "building": "school",
-    "name": "Départements sociologie et Histoire",
-    "operator": "Université de Yaoundé I",
-    "short_name": "AUF",
-    "source": "GeoCameroun",
-    "id": "way/192842322"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.506924,
-      3.8578584
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/192845364",
-  "properties": {
-    "amenity": "university",
+    "amenity": "townhall",
     "building": "yes",
-    "name": "Ecole Nationale d'Administration et de Magistrature",
-    "short_name": "ENAM",
+    "name": "Sous-Préfecture Yaoundé 1",
+    "source": "GeoCameroun",
+    "id": "way/192778770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5158102,
+      3.8806035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192782827",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Marie de Yaoundé 2",
+    "name:fr": "Ancienne Mairie de Yaoundé 2",
+    "source": "GeoCameroun",
+    "id": "way/192782827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5033047,
+      3.8848457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192797866",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 7",
+    "source": "GeoCameroun",
+    "id": "way/192797866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4628352,
+      3.8727867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192809989",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 1",
+    "source": "GeoCameroun",
+    "id": "way/192809989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5207432,
+      3.8768934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192824271",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 5",
+    "source": "GeoCameroun",
+    "id": "way/192824271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5331094,
+      3.8711308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192850146",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ancienne Mairie de Yaoundé 4",
+    "source": "GeoCameroun",
+    "id": "way/192850146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5355485,
+      3.8521092
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192854794",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous Préfecture de Yaoundé 4",
+    "source": "GeoCameroun",
+    "id": "way/192854794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5363599,
+      3.8522043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192857178",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture de Yaoundé 6",
+    "source": "GeoCameroun",
+    "id": "way/192857178"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4842591,
+      3.8366454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192858369",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 6",
+    "id": "way/192858369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863225,
+      3.8381678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193508210",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 4",
+    "source": "GeoCameroun",
+    "id": "way/193508210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5409601,
+      3.8418085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193526587",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 3",
+    "source": "GeoCameroun",
+    "id": "way/193526587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5088333,
+      3.8348894
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193526629",
+  "properties": {
+    "alt_name": "Sous-Préfecture d'Efoulan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 3",
     "source": "sobzeros",
-    "id": "way/192845364"
+    "id": "way/193526629"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.5112954,
-      3.8606801
+      11.5066555,
+      3.8335152
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/195414251",
+  "id": "way/210970089",
   "properties": {
-    "amenity": "university",
-    "name": "Université de Yaoundé 2 - Soa",
-    "id": "way/195414251"
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie de Mbankomo",
+    "source": "ATANGANA Jacques Landry",
+    "id": "way/210970089"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.5880135,
-      3.9647368
+      11.4021366,
+      3.7875483
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/219665338",
+  "id": "way/211549823",
   "properties": {
-    "alt_name": "la Catho",
-    "amenity": "university",
-    "denomination": "catholic",
-    "name": "Université Catholique d'Afrique Centrale",
-    "religion": "christian",
-    "short_name": "UCAC",
-    "source": "GeoCameroun",
-    "id": "way/219665338"
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Chefferie de Nkolnyada",
+    "id": "way/211549823"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.4471176,
-      3.8695312
+      11.4035989,
+      3.9904934
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/219836594",
+  "id": "way/250520257",
   "properties": {
-    "amenity": "university",
-    "name": "Institut Matamfen",
-    "id": "way/219836594"
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Sous-Préfecture de Yaoundé 6",
+    "id": "way/250520257"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.5192521,
-      3.8828572
+      11.4876347,
+      3.8410098
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/219988777",
+  "id": "way/292851306",
   "properties": {
-    "amenity": "university",
-    "name": "ESIG Complexe Universitaire Siantou",
-    "source": "GeoCameroun",
-    "id": "way/219988777"
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hotel de Ville",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "source": "survey TSF Cameroun 2014",
+    "id": "way/292851306"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.5646352,
-      3.8486368
+      11.5953874,
+      3.9771922
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/353842836",
+  "id": "node/448853866",
   "properties": {
-    "addr:city": "Yaoundé",
-    "addr:postcode": "BP 8114 yde",
-    "amenity": "university",
-    "building": "educatif",
-    "building:levels": "1",
-    "contact:fax": "22228759",
-    "contact:phone": "22239745",
-    "contact:website": "www.afrique-centrale.auf.org",
-    "ele": "789m",
-    "name": "agence universitaire de la francophonie",
-    "phone": "+237 222 23 97 45",
-    "website": "http://www.auf.org/bureau-afrique-centrale-et-des-grands-lacs/",
-    "id": "way/353842836"
+    "amenity": "townhall",
+    "ele": "667m",
+    "name": "Maison du Chef",
+    "name:en": "Chief House",
+    "id": "node/448853866"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.5071028,
-      3.8577751
+      11.3874081,
+      3.9815965
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "node/1987163108",
+  "id": "node/1067272322",
   "properties": {
-    "amenity": "university",
-    "name": "Ecole Normale Supérieure",
-    "id": "node/1987163108"
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi I",
+    "id": "node/1067272322"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.509741,
-      3.8609372
+      11.4433126,
+      3.9288603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272324",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Nkong",
+    "id": "node/1067272324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4524668,
+      3.9667848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272340",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Ngoya II",
+    "id": "node/1067272340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4649234,
+      3.9305707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272347",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Ngoya III",
+    "id": "node/1067272347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4726021,
+      3.9202281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272351",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Ebot",
+    "id": "node/1067272351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4683871,
+      3.9816747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272415",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi II",
+    "id": "node/1067272415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.445422,
+      3.920379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272432",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie de Oma",
+    "id": "node/1067272432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.409087,
+      3.9982409
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272450",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Obak",
+    "id": "node/1067272450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4450797,
+      4.0008633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272469",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi II",
+    "id": "node/1067272469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.444423,
+      3.9228233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272515",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  et Centre d'etat civil de Yegassi",
+    "id": "node/1067272515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.471302,
+      3.992059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272525",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Etoud",
+    "id": "node/1067272525"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4246265,
+      3.907219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272558",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Nkolondom",
+    "id": "node/1067272558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4805273,
+      3.983046
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272561",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Centre d'etat civil de Nouma",
+    "id": "node/1067272561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4244918,
+      3.9669107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272577",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Centre Special d'etat civil de Ngoya I",
+    "id": "node/1067272577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4645079,
+      3.9321773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272581",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Ekong",
+    "id": "node/1067272581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4602142,
+      3.9422095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272590",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Nouma",
+    "id": "node/1067272590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4240962,
+      3.9668228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272617",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Mintotomo",
+    "id": "node/1067272617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4921623,
+      3.9974423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272640",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Metak",
+    "id": "node/1067272640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4165451,
+      3.9363003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272680",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Centre Special d'etat civil d'Ekong",
+    "id": "node/1067272680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4595316,
+      3.9434737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067289805",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie de Nkolmekouma",
+    "id": "node/1067289805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4023858,
+      4.0084467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067289821",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie de Nkolakie",
+    "id": "node/1067289821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3782127,
+      3.9787843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1366949424",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie Ebang 1",
+    "id": "node/1366949424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.461795,
+      3.863362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1366949425",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Chefferie Ngoya 1",
+    "id": "node/1366949425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4590516,
+      3.9479992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807755",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807755"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5088354,
+      3.834888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807756",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807756"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863245,
+      3.8381686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807757",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5355612,
+      3.8520901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807758",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5331127,
+      3.8711305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807759",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4629065,
+      3.8727495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807760",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5207406,
+      3.8768937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807761",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2989807761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5033031,
+      3.8848477
     ]
   }
 }

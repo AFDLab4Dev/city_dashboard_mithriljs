@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/286990670",
+  "properties": {
+    "amenity": "marketplace",
+    "note": "main product is yam",
+    "source": "bing;survey",
+    "id": "way/286990670"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7792443,
+      9.2630517
+    ]
+  }
+}
+]
+}

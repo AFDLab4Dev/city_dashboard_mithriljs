@@ -1,0 +1,155 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/2827142",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Terminus",
+    "source": "Bing",
+    "type": "multipolygon",
+    "id": "relation/2827142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8900724,
+      9.9191027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/210768613",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "source": "Bing",
+    "id": "way/210768613"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8886789,
+      9.9601215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/210768634",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "source": "Bing",
+    "id": "way/210768634"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8917721,
+      9.9478311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/210779215",
+  "properties": {
+    "amenity": "marketplace",
+    "source": "Bing",
+    "id": "way/210779215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8901996,
+      9.9689251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/211848837",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "id": "way/211848837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8792004,
+      9.8915354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/215301439",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "id": "way/215301439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8899476,
+      9.9589473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221862568",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "id": "way/221862568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9133033,
+      9.9214147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221862569",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "id": "way/221862569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9099534,
+      9.9332034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/272820151",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "source": "Bing",
+    "id": "way/272820151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8642755,
+      9.9272237
+    ]
+  }
+}
+]
+}

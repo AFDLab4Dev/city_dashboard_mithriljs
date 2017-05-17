@@ -1,0 +1,157 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/98919901",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Hospital, Abuja",
+    "old_name": "National Hospital For Women And Children",
+    "operator": "Federal Government of Nigeria.",
+    "website": "http://www.nationalhospitalabuja.net/",
+    "wheelchair": "limited",
+    "wikidata": "Q6973410",
+    "wikipedia": "en:National Hospital, Abuja",
+    "id": "way/98919901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4617916,
+      9.0407449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299202483",
+  "properties": {
+    "addr:city": "Abuja",
+    "addr:street": "Conakry Street",
+    "amenity": "hospital",
+    "name": "Wuse Gerneral Hospital",
+    "id": "way/299202483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4689559,
+      9.0626897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/435783757",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "BUCHANAN CLOSE",
+    "amenity": "hospital",
+    "name": "MIGRATION HEALTH ASSESSMENT CENTER-ABUJA",
+    "id": "way/435783757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4718243,
+      9.0863189
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2862390776",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Abuja Emergency Operations Center",
+    "operator": "eHealth Africa",
+    "id": "node/2862390776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5057982,
+      9.0383946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3419865603",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Dara Medical Clinic",
+    "operator": "Dara",
+    "id": "node/3419865603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4800981,
+      9.0345947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3720579248",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nizamiye Hospital",
+    "id": "node/3720579248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3911892,
+      9.0593465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4199451008",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Garki Hospital",
+    "id": "node/4199451008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4847914,
+      9.0337428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4530260593",
+  "properties": {
+    "addr:housenumber": "6",
+    "addr:postcode": "23409",
+    "addr:street": "Aso Drive",
+    "amenity": "hospital",
+    "email": "info@diffhospital.com",
+    "emergency": "yes",
+    "internet_access": "wlan",
+    "name": "DIFF Hospital",
+    "name:en": "DIFF HOSPITAL, ABUJA",
+    "opening_hours": "24/7",
+    "phone": "09-2906387",
+    "website": "http://www.diffhospital.com",
+    "id": "node/4530260593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5068397,
+      9.0774551
+    ]
+  }
+}
+]
+}

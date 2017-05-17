@@ -1,0 +1,234 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:40:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 492405537,
+  "center": {
+    "lat": 6.0571095,
+    "lon": -8.1397972
+  },
+  "nodes": [
+    4844270478,
+    4844270477,
+    4844270476,
+    4844270475,
+    4844270474,
+    4844270473,
+    4844270472,
+    4844270471,
+    4844270470,
+    4844270469,
+    4844270468,
+    4844270478
+  ],
+  "tags": {
+    "addr:street": "Sinoe Road",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Friendship Market",
+    "opening_hours": "Mo-Sa 06:00-18:00"
+  }
+},
+{
+  "type": "way",
+  "id": 492631878,
+  "center": {
+    "lat": 6.0664791,
+    "lon": -8.1324500
+  },
+  "nodes": [
+    4846195371,
+    4846195370,
+    4846195369,
+    4846195368,
+    4846195367,
+    4846195366,
+    4846195365,
+    4846195364,
+    4846195363,
+    4846195362,
+    4846195361,
+    4846195360,
+    4846195359,
+    4846195371
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "amenity": "marketplace",
+    "description": "Market Place with many smaller mischief booths selling variety of things"
+  }
+},
+{
+  "type": "way",
+  "id": 300382180,
+  "center": {
+    "lat": 6.0678559,
+    "lon": -8.1322736
+  },
+  "nodes": [
+    3044677643,
+    4847370258,
+    4847370257,
+    4847370256,
+    4847370255,
+    3044677644,
+    4847370254,
+    4847370253,
+    4847370316,
+    4847370315,
+    4847370314,
+    4847370313,
+    3044677645,
+    4847370296,
+    4847370264,
+    4847370263,
+    4847370295,
+    3044677646,
+    3044677643
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Water Street",
+    "amenity": "marketplace",
+    "description": "variety",
+    "name": "Zwedru Market Place"
+  }
+},
+{
+  "type": "way",
+  "id": 487985599,
+  "center": {
+    "lat": 6.0672297,
+    "lon": -8.1318586
+  },
+  "nodes": [
+    4803644841,
+    4803644840,
+    4803644833,
+    4803644834,
+    4803644841
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Water Street",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:material": "brick",
+    "description": "variety",
+    "name": "Zwedru Market Place"
+  }
+},
+{
+  "type": "way",
+  "id": 492405537,
+  "nodes": [
+    4844270478,
+    4844270477,
+    4844270476,
+    4844270475,
+    4844270474,
+    4844270473,
+    4844270472,
+    4844270471,
+    4844270470,
+    4844270469,
+    4844270468,
+    4844270478
+  ],
+  "tags": {
+    "addr:street": "Sinoe Road",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Friendship Market",
+    "opening_hours": "Mo-Sa 06:00-18:00"
+  }
+},
+{
+  "type": "way",
+  "id": 492631878,
+  "nodes": [
+    4846195371,
+    4846195370,
+    4846195369,
+    4846195368,
+    4846195367,
+    4846195366,
+    4846195365,
+    4846195364,
+    4846195363,
+    4846195362,
+    4846195361,
+    4846195360,
+    4846195359,
+    4846195371
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "amenity": "marketplace",
+    "description": "Market Place with many smaller mischief booths selling variety of things"
+  }
+},
+{
+  "type": "way",
+  "id": 300382180,
+  "nodes": [
+    3044677643,
+    4847370258,
+    4847370257,
+    4847370256,
+    4847370255,
+    3044677644,
+    4847370254,
+    4847370253,
+    4847370316,
+    4847370315,
+    4847370314,
+    4847370313,
+    3044677645,
+    4847370296,
+    4847370264,
+    4847370263,
+    4847370295,
+    3044677646,
+    3044677643
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Water Street",
+    "amenity": "marketplace",
+    "description": "variety",
+    "name": "Zwedru Market Place"
+  }
+},
+{
+  "type": "way",
+  "id": 487985599,
+  "nodes": [
+    4803644841,
+    4803644840,
+    4803644833,
+    4803644834,
+    4803644841
+  ],
+  "tags": {
+    "addr:city": "Zwedru",
+    "addr:street": "Water Street",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:material": "brick",
+    "description": "variety",
+    "name": "Zwedru Market Place"
+  }
+}
+
+  ]
+}

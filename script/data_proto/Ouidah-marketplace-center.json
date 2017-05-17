@@ -1,0 +1,61 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2436724517,
+  "lat": 6.3594725,
+  "lon": 2.0874909,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Zobè"
+  }
+},
+{
+  "type": "node",
+  "id": 2436724604,
+  "lat": 6.3740777,
+  "lon": 2.0882070,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Kpassè"
+  }
+},
+{
+  "type": "node",
+  "id": 3261626171,
+  "lat": 6.3857943,
+  "lon": 2.0098068,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de d'Agonkanmey"
+  }
+},
+{
+  "type": "node",
+  "id": 3261626172,
+  "lat": 6.4017217,
+  "lon": 1.9602819,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché sègbohoué"
+  }
+},
+{
+  "type": "node",
+  "id": 4250000501,
+  "lat": 6.3730952,
+  "lon": 2.0904640,
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

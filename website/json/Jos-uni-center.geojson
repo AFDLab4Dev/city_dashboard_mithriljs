@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/180132760",
+  "properties": {
+    "amenity": "university",
+    "name": "University of Jos",
+    "source": "Bing",
+    "id": "way/180132760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8817879,
+      9.9689595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/180135117",
+  "properties": {
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "University of Jos",
+    "source": "Bing",
+    "id": "way/180135117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8895254,
+      9.9495492
+    ]
+  }
+}
+]
+}

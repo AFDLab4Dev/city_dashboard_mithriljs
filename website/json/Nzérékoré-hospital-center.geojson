@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/312343470",
+  "properties": {
+    "amenity": "hospital",
+    "note": "This is just a guess as to its purpose.",
+    "id": "way/312343470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.7090156,
+      7.8401887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3123430852",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Contact Tracing Center",
+    "id": "node/3123430852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.8224269,
+      7.7491546
+    ]
+  }
+}
+]
+}

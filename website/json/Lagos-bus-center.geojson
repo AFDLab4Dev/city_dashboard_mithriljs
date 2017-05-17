@@ -1,0 +1,71 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3085114191",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ikotun Terminal",
+    "id": "node/3085114191"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.2677866,
+      6.548011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085114204",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "BRT Bus Station",
+    "id": "node/3085114204"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.2677921,
+      6.5489239
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4755886705",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Obalende Bus Terminus",
+    "name:en": "Obalende Bus Terminus",
+    "id": "node/4755886705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.4089103,
+      6.4496262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4755897332",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Obalende Motor Park",
+    "name:en": "Obalende Motor Park",
+    "id": "node/4755897332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.4073759,
+      6.4496353
+    ]
+  }
+}
+]
+}

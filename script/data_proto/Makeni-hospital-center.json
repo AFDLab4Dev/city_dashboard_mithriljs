@@ -1,0 +1,164 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3197529891,
+  "lat": 8.8460000,
+  "lon": -12.0580000,
+  "tags": {
+    "accuracy": "Needs location validation",
+    "amenity": "hospital",
+    "capacity:beds": "110",
+    "capacity:beds:planned": "110",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0020",
+    "health_facility:type": "field_hospital",
+    "is_in": "Kagbaran Dokom B",
+    "is_in:district": "Bombali",
+    "is_in:region": "Northern",
+    "name": "Magbenteh Hospital",
+    "operational_status": "open",
+    "operator": "MoH/ADAX/AU/WAHO",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578791,
+  "lat": 8.8460000,
+  "lon": -12.0580000,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Magbenteh Hospital",
+    "osm_id": "3197529891",
+    "type": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 401191049,
+  "center": {
+    "lat": 8.8827308,
+    "lon": -12.0732312
+  },
+  "nodes": [
+    4036390935,
+    4036390938,
+    4036390949,
+    4049927056,
+    4036390948,
+    4036390939,
+    4036390941,
+    4036390942,
+    4036390943,
+    4036390940,
+    4036390945,
+    4036390946,
+    4036390947,
+    4036390936,
+    4036390935
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Magbenteh Community Hospital",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 224729043,
+  "center": {
+    "lat": 8.8925117,
+    "lon": -12.0362046
+  },
+  "nodes": [
+    2335199574,
+    2335199576,
+    3139494657,
+    2335199579,
+    2335199580,
+    2335199583,
+    3139494629,
+    2335199584,
+    2335199585,
+    3139494630,
+    3139494634,
+    3139494633,
+    3139494632,
+    3139494631,
+    3139494658,
+    2335199574
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Holy Spirit Hospital",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 401191049,
+  "nodes": [
+    4036390935,
+    4036390938,
+    4036390949,
+    4049927056,
+    4036390948,
+    4036390939,
+    4036390941,
+    4036390942,
+    4036390943,
+    4036390940,
+    4036390945,
+    4036390946,
+    4036390947,
+    4036390936,
+    4036390935
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Magbenteh Community Hospital",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 224729043,
+  "nodes": [
+    2335199574,
+    2335199576,
+    3139494657,
+    2335199579,
+    2335199580,
+    2335199583,
+    3139494629,
+    2335199584,
+    2335199585,
+    3139494630,
+    3139494634,
+    3139494633,
+    3139494632,
+    3139494631,
+    3139494658,
+    2335199574
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Holy Spirit Hospital",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

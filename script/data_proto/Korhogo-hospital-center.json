@@ -1,0 +1,35 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4130812939,
+  "lat": 9.4428271,
+  "lon": -5.6319441,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHR Korhogo",
+    "projet:eboci": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4135328487,
+  "lat": 9.4610628,
+  "lon": -5.6397038,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Urbain de Koko-Ton",
+    "projet:eboci": "yes",
+    "source": "survey"
+  }
+}
+
+  ]
+}

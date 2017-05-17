@@ -1,0 +1,165 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 765394844,
+  "lat": 6.5099363,
+  "lon": 3.3572550,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Surulere General Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 928544939,
+  "lat": 6.4956585,
+  "lon": 3.3612431,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Parklande Specialist Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1632860856,
+  "lat": 6.5200304,
+  "lon": 3.3543433,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Lagos University Teaching Hospital",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2541436664,
+  "lat": 6.5620264,
+  "lon": 3.2512224,
+  "tags": {
+    "amenity": "hospital",
+    "name": "General Hospital, Igando"
+  }
+},
+{
+  "type": "node",
+  "id": 3024218835,
+  "lat": 6.5114037,
+  "lon": 3.3710629,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Lagos Emergency Operations Center",
+    "operator": "eHealth Africa"
+  }
+},
+{
+  "type": "node",
+  "id": 3943694823,
+  "lat": 6.4284303,
+  "lon": 3.4642460,
+  "tags": {
+    "addr:city": "lagos",
+    "addr:housenumber": "18",
+    "addr:street": "Olatunji Moore Street",
+    "amenity": "hospital",
+    "level": "0,1",
+    "name": "Medison Specialist Women's Hospital",
+    "operator": "Dr L. A. Akinola"
+  }
+},
+{
+  "type": "node",
+  "id": 4348744893,
+  "lat": 6.5106168,
+  "lon": 3.3747308,
+  "tags": {
+    "addr:street": "Harvey Road",
+    "amenity": "hospital",
+    "name": "Lagos Health Center Harvey Road",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4348751590,
+  "lat": 6.5100391,
+  "lon": 3.3731842,
+  "tags": {
+    "addr:street": "Murtala Mohammed Way",
+    "amenity": "hospital",
+    "name": "Federal Psychiatric Hospital Yaba",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4721893032,
+  "lat": 6.4492307,
+  "lon": 3.3976159,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St Nicholas"
+  }
+},
+{
+  "type": "way",
+  "id": 394119616,
+  "center": {
+    "lat": 6.5528623,
+    "lon": 3.3868425
+  },
+  "nodes": [
+    3971452327,
+    3971452325,
+    3971452320,
+    3971452310,
+    3971452307,
+    3971452305,
+    3971452306,
+    3971452308,
+    3971452309,
+    3971452311,
+    3971452313,
+    3971452326,
+    3971452327
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Gbagada General Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 394119616,
+  "nodes": [
+    3971452327,
+    3971452325,
+    3971452320,
+    3971452310,
+    3971452307,
+    3971452305,
+    3971452306,
+    3971452308,
+    3971452309,
+    3971452311,
+    3971452313,
+    3971452326,
+    3971452327
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Gbagada General Hospital"
+  }
+}
+
+  ]
+}

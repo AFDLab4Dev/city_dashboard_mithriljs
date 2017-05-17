@@ -1,0 +1,48 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 233536980,
+  "center": {
+    "lat": 10.3566586,
+    "lon": 0.4757781
+  },
+  "nodes": [
+    2419090898,
+    2419090895,
+    2419090896,
+    2419090899,
+    2419090898
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Mango",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 233536980,
+  "nodes": [
+    2419090898,
+    2419090895,
+    2419090896,
+    2419090899,
+    2419090898
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Mango",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

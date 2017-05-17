@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/448577658",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Takoradi Hospital",
+    "id": "way/448577658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7529195,
+      4.8862633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2145888303",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/2145888303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7437468,
+      4.9234742
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3939635790",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/3939635790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6354034,
+      5.011911
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,68 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/385407187",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/385407187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6260101,
+      9.4542395
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/386078875",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/386078875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6308716,
+      9.4590155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/391525748",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/391525748"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6869483,
+      9.5856804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/411920993",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Haoussabougou",
+    "projet:eboci": "yes",
+    "source": "survey",
+    "id": "way/411920993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6352728,
+      9.4701021
+    ]
+  }
+}
+]
+}

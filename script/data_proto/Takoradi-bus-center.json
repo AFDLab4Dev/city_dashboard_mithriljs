@@ -1,0 +1,128 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2024377419,
+  "lat": 4.8948394,
+  "lon": -1.7648620,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 2024377640,
+  "lat": 4.9014030,
+  "lon": -1.7566007,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 3780917483,
+  "lat": 4.8982023,
+  "lon": -1.7620479,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kwasimintsim Trotro Station",
+    "operator": "STMA"
+  }
+},
+{
+  "type": "node",
+  "id": 3782638071,
+  "lat": 4.9009551,
+  "lon": -1.7579369,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Sekondi Trotro Station",
+    "operator": "STMA"
+  }
+},
+{
+  "type": "node",
+  "id": 3783842675,
+  "lat": 4.8966687,
+  "lon": -1.7647155,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Accra Station",
+    "operator": "STMA"
+  }
+},
+{
+  "type": "node",
+  "id": 3788680067,
+  "lat": 4.8986657,
+  "lon": -1.7658257,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Takoradi Main Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4291858012,
+  "lat": 4.8959665,
+  "lon": -1.7645291,
+  "tags": {
+    "alt_name": "MMT",
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit"
+  }
+},
+{
+  "type": "node",
+  "id": 4552168184,
+  "lat": 4.8948033,
+  "lon": -1.7647900,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Intercity Stc"
+  }
+},
+{
+  "type": "way",
+  "id": 348766344,
+  "center": {
+    "lat": 4.9022875,
+    "lon": -1.7605440
+  },
+  "nodes": [
+    2024377437,
+    3548293699,
+    3548293698,
+    3548293697,
+    3548293696,
+    2024377437
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 348766344,
+  "nodes": [
+    2024377437,
+    3548293699,
+    3548293698,
+    3548293697,
+    3548293696,
+    2024377437
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+}
+
+  ]
+}

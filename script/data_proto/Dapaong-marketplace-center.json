@@ -1,0 +1,71 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:45:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2494771839,
+  "lat": 10.9772833,
+  "lon": 0.2247876,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Carrefour"
+  }
+},
+{
+  "type": "node",
+  "id": 3890979926,
+  "lat": 10.9188312,
+  "lon": 0.2072240,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Koiboitou",
+    "name:Moba": "Sou Sou"
+  }
+},
+{
+  "type": "way",
+  "id": 333323432,
+  "center": {
+    "lat": 10.8632586,
+    "lon": 0.2047420
+  },
+  "nodes": [
+    3404443436,
+    3404443435,
+    3404443433,
+    3404443431,
+    3404443434,
+    3404443436
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Dapaong",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 333323432,
+  "nodes": [
+    3404443436,
+    3404443435,
+    3404443433,
+    3404443431,
+    3404443434,
+    3404443436
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Dapaong",
+    "source": "bing;survey"
+  }
+}
+
+  ]
+}

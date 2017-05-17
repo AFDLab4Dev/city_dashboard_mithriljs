@@ -1,0 +1,510 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 768587597,
+  "lat": 5.3560967,
+  "lon": -4.0713569,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gabriel Gare Yopougon"
+  }
+},
+{
+  "type": "node",
+  "id": 1140749265,
+  "lat": 5.4413047,
+  "lon": -4.0430857,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière d'Abobo Anonkoua-Kouté",
+    "url": "http://www.sogegar.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1224687427,
+  "lat": 5.4382942,
+  "lon": -4.0352313,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Sotra - Direction Régionale d’Abobo",
+    "operator": "Sotra"
+  }
+},
+{
+  "type": "node",
+  "id": 1625055311,
+  "lat": 5.2990514,
+  "lon": -4.0032915,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare de Bassam"
+  }
+},
+{
+  "type": "node",
+  "id": 1625189805,
+  "lat": 5.3518445,
+  "lon": -4.0221512,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Adjamé"
+  }
+},
+{
+  "type": "node",
+  "id": 3145728412,
+  "lat": 5.3533171,
+  "lon": -3.9792153,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 3787272840,
+  "lat": 5.3120224,
+  "lon": -4.0085511,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GH-Express"
+  }
+},
+{
+  "type": "node",
+  "id": 4268416958,
+  "lat": 5.4442715,
+  "lon": -4.0699890,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4323525302,
+  "lat": 5.3553845,
+  "lon": -4.0777761,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Malex Yopougon"
+  }
+},
+{
+  "type": "node",
+  "id": 4331386438,
+  "lat": 5.3561548,
+  "lon": -4.0754508,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare"
+  }
+},
+{
+  "type": "node",
+  "id": 4449384525,
+  "lat": 5.2961383,
+  "lon": -4.0002850,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Intercity STC Coaches Ltd.",
+    "operator": "Intercity STC Coaches Ltd.",
+    "short_name": "STC"
+  }
+},
+{
+  "type": "node",
+  "id": 4449390497,
+  "lat": 5.3119716,
+  "lon": -4.0085324,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "STB"
+  }
+},
+{
+  "type": "node",
+  "id": 4449496796,
+  "lat": 5.3121635,
+  "lon": -4.0086458,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4449496797,
+  "lat": 5.3123478,
+  "lon": -4.0087021,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4485187395,
+  "lat": 5.3585786,
+  "lon": -4.0274830,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Sotra Gare nord"
+  }
+},
+{
+  "type": "node",
+  "id": 4766206131,
+  "lat": 5.3533041,
+  "lon": -4.0226704,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare de vario",
+    "name:fr": "Gare de vario"
+  }
+},
+{
+  "type": "node",
+  "id": 4768904825,
+  "lat": 5.3551645,
+  "lon": -4.0326694,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "TCV",
+    "name:fr": "TCV"
+  }
+},
+{
+  "type": "node",
+  "id": 4819697544,
+  "lat": 5.3159469,
+  "lon": -4.0896320,
+  "tags": {
+    "amenity": "bus_station",
+    "internet_access": "no",
+    "name": "Gare Azito"
+  }
+},
+{
+  "type": "node",
+  "id": 4852197024,
+  "lat": 5.3129132,
+  "lon": -4.0100883,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Lagunaire (STL)",
+    "name:fr": "Gare Lagunaire"
+  }
+},
+{
+  "type": "way",
+  "id": 334697705,
+  "center": {
+    "lat": 5.3146677,
+    "lon": -4.0185210
+  },
+  "nodes": [
+    3417574371,
+    3417574373,
+    3417574375,
+    3417576307,
+    3417576314,
+    3417574383,
+    3417577382,
+    3417577388,
+    3417577893,
+    3417577774,
+    3417577900,
+    3417577897,
+    3417577899,
+    3417577904,
+    3417577910,
+    3417577776,
+    3417577786,
+    3417576340,
+    3417576355,
+    3417578056,
+    3417577870,
+    3417577883,
+    3417577884,
+    3417578443,
+    3417577886,
+    3417577788,
+    3123139095,
+    3417576308,
+    3417576306,
+    3417574374,
+    3417574372,
+    3417574371
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare-Sud",
+    "operator": "SOTRA"
+  }
+},
+{
+  "type": "way",
+  "id": 295528558,
+  "center": {
+    "lat": 5.3312339,
+    "lon": -4.0236899
+  },
+  "nodes": [
+    2992611153,
+    2992611152,
+    2992611142,
+    2992611143,
+    2992611153
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt de Bus Cité Administrative",
+    "operator": "SOTRA",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 443088838,
+  "center": {
+    "lat": 5.3485945,
+    "lon": -4.0038042
+  },
+  "nodes": [
+    4407249730,
+    4407249732,
+    4407249731,
+    4407249729,
+    4407249730
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "gare de la vie"
+  }
+},
+{
+  "type": "way",
+  "id": 106520978,
+  "center": {
+    "lat": 5.3660497,
+    "lon": -4.0162994
+  },
+  "nodes": [
+    1225442004,
+    1225442010,
+    1225442022,
+    1225442006,
+    1225442021,
+    1225442005,
+    1225442004
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Dépot Sotra"
+  }
+},
+{
+  "type": "way",
+  "id": 185330824,
+  "center": {
+    "lat": 5.4395400,
+    "lon": -4.0350786
+  },
+  "nodes": [
+    1959105596,
+    1959105538,
+    1959105690,
+    1959105650,
+    1959105596
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Centre bus SOTRA d'Abobo"
+  }
+},
+{
+  "type": "way",
+  "id": 241779924,
+  "center": {
+    "lat": 5.2968682,
+    "lon": -3.9556598
+  },
+  "nodes": [
+    2493707755,
+    2493709691,
+    2493709692,
+    2493707244,
+    2493707243,
+    2493707755
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 397279350,
+  "center": {
+    "lat": 5.3531691,
+    "lon": -3.8768239
+  },
+  "nodes": [
+    4000853779,
+    4000853780,
+    4000853781,
+    4000853782,
+    4000853779
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare de bus et gbaka"
+  }
+},
+{
+  "type": "way",
+  "id": 334697705,
+  "nodes": [
+    3417574371,
+    3417574373,
+    3417574375,
+    3417576307,
+    3417576314,
+    3417574383,
+    3417577382,
+    3417577388,
+    3417577893,
+    3417577774,
+    3417577900,
+    3417577897,
+    3417577899,
+    3417577904,
+    3417577910,
+    3417577776,
+    3417577786,
+    3417576340,
+    3417576355,
+    3417578056,
+    3417577870,
+    3417577883,
+    3417577884,
+    3417578443,
+    3417577886,
+    3417577788,
+    3123139095,
+    3417576308,
+    3417576306,
+    3417574374,
+    3417574372,
+    3417574371
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare-Sud",
+    "operator": "SOTRA"
+  }
+},
+{
+  "type": "way",
+  "id": 295528558,
+  "nodes": [
+    2992611153,
+    2992611152,
+    2992611142,
+    2992611143,
+    2992611153
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Arrêt de Bus Cité Administrative",
+    "operator": "SOTRA",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 443088838,
+  "nodes": [
+    4407249730,
+    4407249732,
+    4407249731,
+    4407249729,
+    4407249730
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "gare de la vie"
+  }
+},
+{
+  "type": "way",
+  "id": 106520978,
+  "nodes": [
+    1225442004,
+    1225442010,
+    1225442022,
+    1225442006,
+    1225442021,
+    1225442005,
+    1225442004
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Dépot Sotra"
+  }
+},
+{
+  "type": "way",
+  "id": 185330824,
+  "nodes": [
+    1959105596,
+    1959105538,
+    1959105690,
+    1959105650,
+    1959105596
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Centre bus SOTRA d'Abobo"
+  }
+},
+{
+  "type": "way",
+  "id": 241779924,
+  "nodes": [
+    2493707755,
+    2493709691,
+    2493709692,
+    2493707244,
+    2493707243,
+    2493707755
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 397279350,
+  "nodes": [
+    4000853779,
+    4000853780,
+    4000853781,
+    4000853782,
+    4000853779
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare de bus et gbaka"
+  }
+}
+
+  ]
+}

@@ -282,22 +282,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1067301136",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Centr de Sante Integre de Banaye",
-    "id": "node/1067301136"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.5079377,
-      9.4649345
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1067304174",
   "properties": {
     "State": "Under Construction",

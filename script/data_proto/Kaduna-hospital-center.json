@@ -1,0 +1,394 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 317909388,
+  "lat": 10.5738040,
+  "lon": 7.4053223,
+  "tags": {
+    "amenity": "hospital",
+    "name": "National Eye Centre Nigeria"
+  }
+},
+{
+  "type": "node",
+  "id": 544297959,
+  "lat": 10.5452139,
+  "lon": 7.4458214,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Chasel Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 556987914,
+  "lat": 10.5906849,
+  "lon": 7.4494087,
+  "tags": {
+    "amenity": "hospital",
+    "name": "1 Division Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 560945782,
+  "lat": 10.4670210,
+  "lon": 7.4209643,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St Gerards Catholic Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1191103945,
+  "lat": 10.5082502,
+  "lon": 7.4347873,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Prime Hospital",
+    "operator": "Dr. Buhari"
+  }
+},
+{
+  "type": "node",
+  "id": 1191103979,
+  "lat": 10.5082258,
+  "lon": 7.4350410,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Prime Hospital",
+    "operator": "Dr. Buhari"
+  }
+},
+{
+  "type": "node",
+  "id": 1754874188,
+  "lat": 10.5087795,
+  "lon": 7.4316318,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Hospital & Maternity",
+    "emergency": "yes",
+    "name": "Rakiya Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1880783077,
+  "lat": 10.5038417,
+  "lon": 7.4333831,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "National",
+    "emergency": "yes",
+    "name": "Alba Clinic",
+    "source": "Kaduna State"
+  }
+},
+{
+  "type": "node",
+  "id": 2862390778,
+  "lat": 10.5135500,
+  "lon": 7.4525528,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Kaduna Emergency Operations Center",
+    "operator": "eHealth Africa"
+  }
+},
+{
+  "type": "way",
+  "id": 295009049,
+  "center": {
+    "lat": 10.5201495,
+    "lon": 7.4165737
+  },
+  "nodes": [
+    2986607115,
+    2986607116,
+    2986609750,
+    2986607117,
+    2986607118,
+    2986607119,
+    2986607120,
+    2986607115
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nwada Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 488835905,
+  "center": {
+    "lat": 10.5092613,
+    "lon": 7.4320590
+  },
+  "nodes": [
+    4811234637,
+    4811234307,
+    4811234636,
+    4811234635,
+    4811234634,
+    4811234633,
+    4811234632,
+    4811234637
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Local Health Office",
+    "emergency": "yes",
+    "name": "Zakari Isah Memorial Hospital",
+    "source": "Kaduna State"
+  }
+},
+{
+  "type": "way",
+  "id": 479666487,
+  "center": {
+    "lat": 10.5192601,
+    "lon": 7.4413799
+  },
+  "nodes": [
+    4727274144,
+    4727274143,
+    4727274142,
+    4727274141,
+    4727274138,
+    4727274140,
+    4727274139,
+    4727274144
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Ear Care Center"
+  }
+},
+{
+  "type": "way",
+  "id": 479668235,
+  "center": {
+    "lat": 10.5337930,
+    "lon": 7.4208516
+  },
+  "nodes": [
+    4727287135,
+    4727287134,
+    4727287133,
+    4727287132,
+    4727287131,
+    4727287130,
+    4727287129,
+    4727287128,
+    4727287127,
+    4727287135
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 35220563,
+  "center": {
+    "lat": 10.5746562,
+    "lon": 7.4042059
+  },
+  "nodes": [
+    413099195,
+    413099198,
+    413099199,
+    413099202,
+    413099195
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nigeria National Eye Centre Kaduna"
+  }
+},
+{
+  "type": "way",
+  "id": 487208409,
+  "center": {
+    "lat": 10.5138745,
+    "lon": 7.4527783
+  },
+  "nodes": [
+    4797191335,
+    4797191334,
+    4797191333,
+    4797191332,
+    4797191331,
+    4797191335
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 295009924,
+  "center": {
+    "lat": 10.5194822,
+    "lon": 7.4496426
+  },
+  "nodes": [
+    2986632462,
+    2986632463,
+    2986632464,
+    2986632465,
+    2986632466,
+    2986632467,
+    463609703,
+    2986632468,
+    2986632462
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ahmadu Bello Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 295009049,
+  "nodes": [
+    2986607115,
+    2986607116,
+    2986609750,
+    2986607117,
+    2986607118,
+    2986607119,
+    2986607120,
+    2986607115
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nwada Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 488835905,
+  "nodes": [
+    4811234637,
+    4811234307,
+    4811234636,
+    4811234635,
+    4811234634,
+    4811234633,
+    4811234632,
+    4811234637
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Local Health Office",
+    "emergency": "yes",
+    "name": "Zakari Isah Memorial Hospital",
+    "source": "Kaduna State"
+  }
+},
+{
+  "type": "way",
+  "id": 479666487,
+  "nodes": [
+    4727274144,
+    4727274143,
+    4727274142,
+    4727274141,
+    4727274138,
+    4727274140,
+    4727274139,
+    4727274144
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Ear Care Center"
+  }
+},
+{
+  "type": "way",
+  "id": 479668235,
+  "nodes": [
+    4727287135,
+    4727287134,
+    4727287133,
+    4727287132,
+    4727287131,
+    4727287130,
+    4727287129,
+    4727287128,
+    4727287127,
+    4727287135
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 35220563,
+  "nodes": [
+    413099195,
+    413099198,
+    413099199,
+    413099202,
+    413099195
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nigeria National Eye Centre Kaduna"
+  }
+},
+{
+  "type": "way",
+  "id": 487208409,
+  "nodes": [
+    4797191335,
+    4797191334,
+    4797191333,
+    4797191332,
+    4797191331,
+    4797191335
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 295009924,
+  "nodes": [
+    2986632462,
+    2986632463,
+    2986632464,
+    2986632465,
+    2986632466,
+    2986632467,
+    463609703,
+    2986632468,
+    2986632462
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ahmadu Bello Hospital"
+  }
+}
+
+  ]
+}

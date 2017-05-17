@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4100642909",
+  "properties": {
+    "addr:city": "Zuwue",
+    "amenity": "marketplace",
+    "id": "node/4100642909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.632527,
+      7.4348812
+    ]
+  }
+}
+]
+}

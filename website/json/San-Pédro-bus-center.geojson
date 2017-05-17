@@ -1,0 +1,107 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4686962993",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "GARE UTB",
+    "operator": "UTB",
+    "id": "node/4686962993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6473334,
+      4.7784489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4806183822",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare UTRAKO",
+    "name:fr": "Gare UTRAKO",
+    "id": "node/4806183822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6501625,
+      4.7786901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4806183825",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "KLO.AMT.CI TRANSPORT",
+    "name:fr": "KLO.AMT.CI TRANSPORT",
+    "id": "node/4806183825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6481981,
+      4.778907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4806183923",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Transport Confort Voyageurs",
+    "name:fr": "Transport Confort Voyageurs",
+    "id": "node/4806183923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6509983,
+      4.7787866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4806183924",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La gare ST AVS",
+    "name:fr": "La gare ST AVS",
+    "id": "node/4806183924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6511574,
+      4.7786448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4808223234",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare TSR",
+    "name:fr": "Gare TSR",
+    "id": "node/4808223234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6471236,
+      4.7762587
+    ]
+  }
+}
+]
+}

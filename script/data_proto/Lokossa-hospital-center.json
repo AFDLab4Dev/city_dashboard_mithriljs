@@ -1,0 +1,82 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4249998704,
+  "lat": 6.6449836,
+  "lon": 1.7149894,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Mission médicale chinoise"
+  }
+},
+{
+  "type": "node",
+  "id": 4249999414,
+  "lat": 6.5816141,
+  "lon": 1.7743760,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Kpinnou"
+  }
+},
+{
+  "type": "node",
+  "id": 4508195763,
+  "lat": 6.6336210,
+  "lon": 1.7132059,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de zone de Lokossa"
+  }
+},
+{
+  "type": "way",
+  "id": 381699173,
+  "center": {
+    "lat": 6.5342049,
+    "lon": 1.7055296
+  },
+  "nodes": [
+    3848630131,
+    3848630132,
+    3848630133,
+    3848630134,
+    3848630135,
+    3848630136,
+    3848630137,
+    3848630131
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "benen"
+  }
+},
+{
+  "type": "way",
+  "id": 381699173,
+  "nodes": [
+    3848630131,
+    3848630132,
+    3848630133,
+    3848630134,
+    3848630135,
+    3848630136,
+    3848630137,
+    3848630131
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "benen"
+  }
+}
+
+  ]
+}

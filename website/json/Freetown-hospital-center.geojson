@@ -1,0 +1,793 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/205847650",
+  "properties": {
+    "addr:street": "Main Road Juba Hill",
+    "amenity": "hospital",
+    "fixme": "name of hospital, house number for addr",
+    "id": "way/205847650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2700676,
+      8.4469256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/248303133",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Mahera Hospital",
+    "id": "way/248303133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1996478,
+      8.6005926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/248304184",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Governement Hospital",
+    "id": "way/248304184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2041232,
+      8.6277818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/248304185",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Governement Hospital (Woman Aisle)",
+    "id": "way/248304185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2038089,
+      8.6281792
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/255003019",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "id": "way/255003019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1990846,
+      8.6001924
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/255797321",
+  "properties": {
+    "addr:housename": "Governement Hospital",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Government Hospital",
+    "operator": "Governement of Sierra Leone",
+    "id": "way/255797321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2040999,
+      8.6280361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306316437",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "King Harman Road Government Hospital",
+    "source": "MSF-CH",
+    "id": "way/306316437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2479834,
+      8.4731385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307063483",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Connaught Hospital",
+    "id": "way/307063483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2386039,
+      8.4880153
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309799179",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lakka Isolation Hospital",
+    "id": "way/309799179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2635363,
+      8.3972133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311195619",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AWAKE HOSPITAL",
+    "source": "MSF-CH",
+    "id": "way/311195619"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1537535,
+      8.4200465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314739879",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ola During Children's Hospital",
+    "id": "way/314739879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2189869,
+      8.490255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314741466",
+  "properties": {
+    "amenity": "hospital",
+    "name": "34 Military Hospital",
+    "operator": "Republic of Sierra Leone Armed Forces",
+    "id": "way/314741466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2604499,
+      8.4640576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314751386",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Emergency Hospital",
+    "operator": "Emergency Ong Onlus",
+    "id": "way/314751386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2761026,
+      8.4221429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314753136",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Macauley Street Health Clinic",
+    "operator": "Government of Sierra Leone",
+    "id": "way/314753136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.228284,
+      8.4794973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314755417",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Rokupa Hospital",
+    "operator": "Government of Sierra Leone",
+    "id": "way/314755417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1724226,
+      8.460283
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314868716",
+  "properties": {
+    "amenity": "hospital",
+    "name": "China Sierra Leone Friendship Hospital",
+    "id": "way/314868716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1428262,
+      8.388623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/330052212",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hamilton Village Health Centre",
+    "source": "MSF-CH",
+    "id": "way/330052212"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2601528,
+      8.3824633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/403791212",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Blue Shield Hospital",
+    "id": "node/403791212"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.246672,
+      8.4842083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529881",
+  "properties": {
+    "accuracy": "Needs location validation",
+    "amenity": "hospital",
+    "capacity:beds": "2",
+    "capacity:beds:planned": "2",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0010",
+    "health_facility:type": "field_hospital",
+    "is_in": "Hastings Village A",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "China-SL Friendship Hospital, Jui",
+    "operational_status": "open",
+    "operator": "Chinese CDC",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "id": "node/3197529881"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1427559,
+      8.3884202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529882",
+  "properties": {
+    "accuracy": "WAERC Confirmed Coordinates",
+    "amenity": "hospital",
+    "capacity:beds": "26",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-12-22",
+    "construction": "hospital",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0001",
+    "health_facility:type": "field_hospital",
+    "is_in": "Goderich-Adonkia/M",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "Goderich ETC",
+    "operational_status": "open",
+    "operator": "EMERGENCY",
+    "source": "JIATF; UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-12-14",
+    "id": "node/3197529882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.280407,
+      8.424321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529888",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "12",
+    "capacity:beds:planned": "17",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0011",
+    "health_facility:type": "field_hospital",
+    "is_in": "Hamilton",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "Lakka Hospital ETU",
+    "operational_status": "open",
+    "operator": "Emergency / MOH",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "id": "node/3197529888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.264,
+      8.397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529894",
+  "properties": {
+    "accuracy": "Needs location validation",
+    "amenity": "hospital",
+    "capacity:beds": "120",
+    "capacity:beds:planned": "120",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0004",
+    "health_facility:type": "field_hospital",
+    "is_in": "Hastings Village A",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "Police Training Sch-Hastings 1 ETC",
+    "operational_status": "open",
+    "operator": "MOH",
+    "source": "UNMEER;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "id": "node/3197529894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1303418,
+      8.3859704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3212073781",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Princess Christian Maternity Hospital",
+    "source": "https://data.hdx.rwlabs.org/dataset/sierra-leone-ebola-care-facilities",
+    "id": "node/3212073781"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2193483,
+      8.4898614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3253535389",
+  "properties": {
+    "addr:city": "Lumley",
+    "addr:street": "Regent Road",
+    "amenity": "hospital",
+    "name": "Lumley Government Hospital",
+    "source": "survey",
+    "id": "node/3253535389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2624807,
+      8.4516483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342221217",
+  "properties": {
+    "amenity": "hospital",
+    "name": "DOCTOR QUARTER",
+    "source": "MSF-CH",
+    "id": "node/3342221217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1937086,
+      8.4644505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3342221223",
+  "properties": {
+    "amenity": "hospital",
+    "name": "SL SACRIFICE HOSPITAL MENTAL",
+    "source": "MSF-CH",
+    "id": "node/3342221223"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1938195,
+      8.4653906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3371553300",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Biola Wright Memorial Hospital",
+    "source": "MSF-CH",
+    "id": "node/3371553300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0958875,
+      8.364676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578442",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Biola Wright Memorial Hospital",
+    "osm_id": "3371553300",
+    "type": "hospital",
+    "id": "node/3589578442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.0958875,
+      8.364676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578447",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Blue Shield Hospital",
+    "osm_id": "403791212",
+    "type": "hospital",
+    "id": "node/3589578447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.246672,
+      8.4842083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578482",
+  "properties": {
+    "amenity": "hospital",
+    "name": "China-SL Friendship Hospital, Jui",
+    "osm_id": "3197529881",
+    "type": "hospital",
+    "id": "node/3589578482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1427559,
+      8.3884202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578501",
+  "properties": {
+    "amenity": "hospital",
+    "name": "DOCTOR QUARTER",
+    "osm_id": "3342221217",
+    "type": "hospital",
+    "id": "node/3589578501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1937086,
+      8.4644505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578558",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Goderich ETC",
+    "osm_id": "3197529882",
+    "type": "hospital",
+    "id": "node/3589578558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.280407,
+      8.424321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578755",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lakka Hospital ETU",
+    "osm_id": "3197529888",
+    "type": "hospital",
+    "id": "node/3589578755"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.264,
+      8.397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578765",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lumley Government Hospital",
+    "osm_id": "3253535389",
+    "type": "hospital",
+    "id": "node/3589578765"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2624807,
+      8.4516483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579567",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Police Training Sch-Hastings 1 ETC",
+    "osm_id": "3197529894",
+    "type": "hospital",
+    "id": "node/3589579567"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1304882,
+      8.3859979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579571",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Princess Christian Maternity Hospital",
+    "osm_id": "3212073781",
+    "type": "hospital",
+    "id": "node/3589579571"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2193483,
+      8.4898614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579805",
+  "properties": {
+    "amenity": "hospital",
+    "name": "SL SACRIFICE HOSPITAL MENTAL",
+    "osm_id": "3342221223",
+    "type": "hospital",
+    "id": "node/3589579805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1938195,
+      8.4653906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4260095999",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Aspen Medical Sierra Leone Private Hospital",
+    "id": "node/4260095999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2463191,
+      8.4724473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4355526474",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Choitram Memorial Hospital",
+    "id": "node/4355526474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2484928,
+      8.4547967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4364968902",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Choithram memorial hospital",
+    "name:en": "Choithram memorial hospital",
+    "website": "http://www.cmhfreetown.com",
+    "id": "node/4364968902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2470783,
+      8.4529994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4540108175",
+  "properties": {
+    "addr:city": "Freetown",
+    "addr:housenumber": "35",
+    "addr:postcode": "234",
+    "addr:state": "Pujehun",
+    "addr:street": "Zoo",
+    "amenity": "hospital",
+    "name": "Bo",
+    "office": "government",
+    "shop": "mall",
+    "source": "Red Cross Field Survey",
+    "id": "node/4540108175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2373667,
+      8.4882684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4540110933",
+  "properties": {
+    "addr:city": "Freetown",
+    "addr:housenumber": "6",
+    "addr:postcode": "232",
+    "addr:state": "Western Urban",
+    "addr:street": "Lamina Sankoh Street",
+    "amenity": "hospital",
+    "name": "Connaught",
+    "office": "government",
+    "source": "Red Cross Field Survey",
+    "id": "node/4540110933"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2382753,
+      8.4847458
+    ]
+  }
+}
+]
+}

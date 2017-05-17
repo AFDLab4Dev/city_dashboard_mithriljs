@@ -1,0 +1,103 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2167621796,
+  "lat": 6.6528125,
+  "lon": -1.5864055,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Agogo Lorry Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4327137092,
+  "lat": 6.6869686,
+  "lon": -1.6143680,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "VIP Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4350177531,
+  "lat": 6.6888780,
+  "lon": -1.6171735,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "VVIP Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4727389489,
+  "lat": 6.6875038,
+  "lon": -1.6150787,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Long Distance Trotro Station",
+    "name:en": "Long Distance Bus Station"
+  }
+},
+{
+  "type": "way",
+  "id": 351926830,
+  "center": {
+    "lat": 6.6987215,
+    "lon": -1.6234340
+  },
+  "nodes": [
+    3577283351,
+    3577283352,
+    3577283353,
+    3577283354,
+    3577283355,
+    3577283356,
+    3577283357,
+    3577283358,
+    3577283359,
+    3577283360,
+    3577283351
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "construction": "yes",
+    "description": "currently under reconstruction",
+    "name": "Kejetia Bus Terminal"
+  }
+},
+{
+  "type": "way",
+  "id": 351926830,
+  "nodes": [
+    3577283351,
+    3577283352,
+    3577283353,
+    3577283354,
+    3577283355,
+    3577283356,
+    3577283357,
+    3577283358,
+    3577283359,
+    3577283360,
+    3577283351
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "construction": "yes",
+    "description": "currently under reconstruction",
+    "name": "Kejetia Bus Terminal"
+  }
+}
+
+  ]
+}

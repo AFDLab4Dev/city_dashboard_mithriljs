@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/38868010",
+  "properties": {
+    "amenity": "university",
+    "name": "Ahmadu Bello University Arewa House",
+    "id": "way/38868010"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4458791,
+      10.55269
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488835906",
+  "properties": {
+    "addr:housename": "Old Auxillary Building",
+    "addr:street": "Abubakar Kigo - off Dan-Iya Road",
+    "amenity": "university",
+    "name": "Kaduna State University Annex",
+    "id": "way/488835906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4327021,
+      10.5067334
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/491206923",
+  "properties": {
+    "amenity": "university",
+    "id": "way/491206923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4141968,
+      10.5234104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2986609751",
+  "properties": {
+    "amenity": "university",
+    "name": "Kaduna Polytechnic University",
+    "id": "node/2986609751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4149557,
+      10.5231473
+    ]
+  }
+}
+]
+}

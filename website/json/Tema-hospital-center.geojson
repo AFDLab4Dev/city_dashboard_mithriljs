@@ -1,0 +1,342 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/205221630",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Manna Mission",
+    "source": "Bing",
+    "id": "way/205221630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1086759,
+      5.6059721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/358337142",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tema General Hospital",
+    "id": "way/358337142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.024894,
+      5.6740992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/443765697",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tema Polyclinic",
+    "id": "way/443765697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0067991,
+      5.6356521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459562807",
+  "properties": {
+    "amenity": "hospital",
+    "building:levels": "1",
+    "name": "Valley View University Hospital",
+    "id": "way/459562807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1260621,
+      5.7980855
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/481195130",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Bemuah Royal Hospital",
+    "id": "way/481195130"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1567972,
+      5.6458791
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1590950043",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Family Health Hospital",
+    "id": "node/1590950043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1125237,
+      5.5733758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1590950091",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lekma Hospital",
+    "id": "node/1590950091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.120035,
+      5.6029471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1590950115",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lister Hospital",
+    "id": "node/1590950115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1460652,
+      5.6194939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2550534170",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/2550534170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.05869,
+      5.692093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3872176339",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tema General Hospital",
+    "id": "node/3872176339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0251795,
+      5.6745022
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286159109",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Narh-Bita Hospital",
+    "id": "node/4286159109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0107327,
+      5.6574049
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4311879592",
+  "properties": {
+    "amenity": "hospital",
+    "name": "C & J Medicare",
+    "id": "node/4311879592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0696843,
+      5.6240883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4311941089",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Sakumono Community Hospital",
+    "id": "node/4311941089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0628674,
+      5.6223697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4349951489",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Pro Vita Specialist Hospital",
+    "id": "node/4349951489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0188053,
+      5.6520807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350177512",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Bethel Hospital",
+    "id": "node/4350177512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0195889,
+      5.6723181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350187523",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Valco Hospital",
+    "id": "node/4350187523"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0338969,
+      5.6696048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350212050",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Atlantis Hospital",
+    "id": "node/4350212050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0085894,
+      5.718671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350212053",
+  "properties": {
+    "amenity": "hospital",
+    "name": "New Crystal Hospital",
+    "id": "node/4350212053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0142969,
+      5.7366437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400510890",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Mother of God",
+    "id": "node/4400510890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0507497,
+      5.7104424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400511298",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tema Women's Hospital",
+    "id": "node/4400511298"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.018996,
+      5.6654302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4799957391",
+  "properties": {
+    "amenity": "hospital",
+    "name": "International Homeopatic Clinic",
+    "id": "node/4799957391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1610568,
+      5.6356516
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:43:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3137528786,
+  "lat": 8.0049372,
+  "lon": -10.9486916,
+  "tags": {
+    "amenity": "hospital",
+    "fixme": "check name and location",
+    "name": "Segbwema Nixon Memorial Hospital",
+    "source": "Bing; http://segbwema.blogspot.de/2014/10/robin-fallay-calls-for-closure-of.html ; https://www.youtube.com/watch?v=hT0ANgcRGKY"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579833,
+  "lat": 8.0049372,
+  "lon": -10.9486916,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Segbwema Nixon Memorial Hospital",
+    "osm_id": "3137528786",
+    "type": "hospital"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:34:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 457458689,
+  "lat": 9.3418178,
+  "lon": 2.6308978,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Kobo Kobo"
+  }
+},
+{
+  "type": "node",
+  "id": 457822611,
+  "lat": 9.3847463,
+  "lon": 2.6217062,
+  "tags": {
+    "addr:city": "Parakou",
+    "amenity": "marketplace",
+    "name": "Marché de Tingé"
+  }
+},
+{
+  "type": "way",
+  "id": 321348195,
+  "center": {
+    "lat": 9.3483096,
+    "lon": 2.6123210
+  },
+  "nodes": [
+    3280885104,
+    3280885103,
+    3280885099,
+    3280885101,
+    3280885104
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "MARCHE DEPOT DE PARAKOU",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 321348196,
+  "center": {
+    "lat": 9.3475229,
+    "lon": 2.6131219
+  },
+  "nodes": [
+    3280885100,
+    3280885093,
+    3280885092,
+    3280885094,
+    3280885095,
+    3280885097,
+    3280885096,
+    3280885098,
+    3280885100
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "MARCHE DEPOT DE PARAKOU"
+  }
+},
+{
+  "type": "way",
+  "id": 204364078,
+  "center": {
+    "lat": 9.3372413,
+    "lon": 2.6292982
+  },
+  "nodes": [
+    2143731157,
+    2143731153,
+    2143731136,
+    2143731138,
+    2143731151,
+    2143731157
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 204364079,
+  "center": {
+    "lat": 9.3371960,
+    "lon": 2.6287675
+  },
+  "nodes": [
+    2143731149,
+    2143731144,
+    2143731143,
+    2143731141,
+    2143731134,
+    2143731138,
+    2143731151,
+    2143731155,
+    2143731145,
+    2143731149
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 204365956,
+  "center": {
+    "lat": 9.3372736,
+    "lon": 2.6281185
+  },
+  "nodes": [
+    2143752061,
+    2143752064,
+    2143752068,
+    2143752066,
+    2143752061
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 204365957,
+  "center": {
+    "lat": 9.3372220,
+    "lon": 2.6282764
+  },
+  "nodes": [
+    2143731144,
+    2143731149,
+    2143752066,
+    2143752061,
+    2143731144
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "layer": "1",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 321348195,
+  "nodes": [
+    3280885104,
+    3280885103,
+    3280885099,
+    3280885101,
+    3280885104
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "MARCHE DEPOT DE PARAKOU",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 321348196,
+  "nodes": [
+    3280885100,
+    3280885093,
+    3280885092,
+    3280885094,
+    3280885095,
+    3280885097,
+    3280885096,
+    3280885098,
+    3280885100
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "MARCHE DEPOT DE PARAKOU"
+  }
+},
+{
+  "type": "way",
+  "id": 204364078,
+  "nodes": [
+    2143731157,
+    2143731153,
+    2143731136,
+    2143731138,
+    2143731151,
+    2143731157
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 204364079,
+  "nodes": [
+    2143731149,
+    2143731144,
+    2143731143,
+    2143731141,
+    2143731134,
+    2143731138,
+    2143731151,
+    2143731155,
+    2143731145,
+    2143731149
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 204365956,
+  "nodes": [
+    2143752061,
+    2143752064,
+    2143752068,
+    2143752066,
+    2143752061
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou"
+  }
+},
+{
+  "type": "way",
+  "id": 204365957,
+  "nodes": [
+    2143731144,
+    2143731149,
+    2143752066,
+    2143752061,
+    2143731144
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "layer": "1",
+    "name": "Marché Arzeke de Parakou"
+  }
+}
+
+  ]
+}

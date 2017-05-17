@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/245784099",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Houndjlo",
+    "id": "way/245784099"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.9916744,
+      7.1808093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2435638196",
+  "properties": {
+    "addr:city": "Bohicon",
+    "amenity": "marketplace",
+    "name": "Marché Ganhi de Bohicon",
+    "id": "node/2435638196"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0655653,
+      7.1763505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2435638370",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/2435638370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.9831678,
+      7.1971233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4849511986",
+  "properties": {
+    "addr:city": "Bohicon",
+    "amenity": "marketplace",
+    "name": "Marché Sèhi de Bohicon",
+    "id": "node/4849511986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0658158,
+      7.177777
+    ]
+  }
+}
+]
+}

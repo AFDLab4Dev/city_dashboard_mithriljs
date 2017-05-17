@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/484677824",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:material": "brick",
+    "id": "way/484677824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1333994,
+      6.071124
+    ]
+  }
+}
+]
+}

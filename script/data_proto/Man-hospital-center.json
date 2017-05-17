@@ -1,0 +1,184 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4256145343,
+  "lat": 7.4106274,
+  "lon": -7.5654146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé HKB"
+  }
+},
+{
+  "type": "node",
+  "id": 4256165004,
+  "lat": 7.3201645,
+  "lon": -7.4709641,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé rural deTrokpadrou",
+    "projet:eboci": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4262568992,
+  "lat": 7.5538011,
+  "lon": -7.5317961,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4262568993,
+  "lat": 7.5300088,
+  "lon": -7.6297610,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4312371396,
+  "lat": 7.4092233,
+  "lon": -7.5298002,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centre de santé de grand gbapleu"
+  }
+},
+{
+  "type": "way",
+  "id": 426314641,
+  "center": {
+    "lat": 7.3960406,
+    "lon": -7.5510285
+  },
+  "nodes": [
+    4256196734,
+    4256196735,
+    4256196733,
+    4256196732,
+    4567780624,
+    4256196721,
+    4256196717,
+    4256196720,
+    4256196722,
+    4567780629,
+    4256196734
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Grandes Endemies"
+  }
+},
+{
+  "type": "way",
+  "id": 113403491,
+  "center": {
+    "lat": 7.4063835,
+    "lon": -7.5478467
+  },
+  "nodes": [
+    1286040715,
+    1286040727,
+    1286040704,
+    4273691773,
+    4273691772,
+    4255457906,
+    4273691783,
+    4273691785,
+    4273691793,
+    1286040712,
+    4559344400,
+    4273691790,
+    4273691789,
+    4559344401,
+    1286040719,
+    4273734657,
+    4273734646,
+    4273734627,
+    4273734650,
+    4273462681,
+    4273462680,
+    1286040715
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier Régional de Man",
+    "operator": "Ministerie de la Santé",
+    "phone": "+225-33790033"
+  }
+},
+{
+  "type": "way",
+  "id": 426314641,
+  "nodes": [
+    4256196734,
+    4256196735,
+    4256196733,
+    4256196732,
+    4567780624,
+    4256196721,
+    4256196717,
+    4256196720,
+    4256196722,
+    4567780629,
+    4256196734
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Grandes Endemies"
+  }
+},
+{
+  "type": "way",
+  "id": 113403491,
+  "nodes": [
+    1286040715,
+    1286040727,
+    1286040704,
+    4273691773,
+    4273691772,
+    4255457906,
+    4273691783,
+    4273691785,
+    4273691793,
+    1286040712,
+    4559344400,
+    4273691790,
+    4273691789,
+    4559344401,
+    1286040719,
+    4273734657,
+    4273734646,
+    4273734627,
+    4273734650,
+    4273462681,
+    4273462680,
+    1286040715
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier Régional de Man",
+    "operator": "Ministerie de la Santé",
+    "phone": "+225-33790033"
+  }
+}
+
+  ]
+}

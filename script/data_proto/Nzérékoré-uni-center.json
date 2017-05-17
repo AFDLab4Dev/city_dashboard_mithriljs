@@ -1,0 +1,140 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4515293220,
+  "lat": 7.7941668,
+  "lon": -8.8168824,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Cybercafé",
+    "operator": "Privée",
+    "phone": "628227031",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293222,
+  "lat": 7.7946558,
+  "lon": -8.8168770,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Café",
+    "operator": "Privée",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293224,
+  "lat": 7.7940393,
+  "lon": -8.8170433,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Bibliothèque",
+    "operator": "Privée",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293227,
+  "lat": 7.7941748,
+  "lon": -8.8170165,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Rectorat",
+    "operator": "Privée",
+    "phone": "628227031",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293228,
+  "lat": 7.7943475,
+  "lon": -8.8172472,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire",
+    "operator": "Privée",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293229,
+  "lat": 7.7944007,
+  "lon": -8.8167644,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Salle De Classe",
+    "operator": "Privée",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293231,
+  "lat": 7.7946292,
+  "lon": -8.8173866,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "capacity": "900",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Centre Médical",
+    "operator": "Privée",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4515293234,
+  "lat": 7.7942944,
+  "lon": -8.8168824,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "university",
+    "fee": "yes",
+    "name": "Université de Développement Communautaire, Médecine Santé",
+    "source": "Red Cross Field Survey"
+  }
+}
+
+  ]
+}

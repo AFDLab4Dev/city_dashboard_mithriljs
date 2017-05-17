@@ -49,6 +49,22 @@
       7.4270208
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/4855637545",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Bamyanga",
+    "id": "node/4855637545"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5764753,
+      7.2932811
+    ]
+  }
 }
 ]
 }

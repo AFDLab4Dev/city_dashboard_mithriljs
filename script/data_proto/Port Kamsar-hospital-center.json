@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:37:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3748004122,
+  "lat": 10.6599400,
+  "lon": -14.6037392,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Kamsar"
+  }
+}
+
+  ]
+}

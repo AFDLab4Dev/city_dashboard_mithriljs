@@ -1,0 +1,142 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/204364078",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou",
+    "id": "way/204364078"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6292982,
+      9.3372413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204364079",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou",
+    "id": "way/204364079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6287675,
+      9.337196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204365956",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Arzeke de Parakou",
+    "id": "way/204365956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6281185,
+      9.3372736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204365957",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "layer": "1",
+    "name": "Marché Arzeke de Parakou",
+    "id": "way/204365957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6282764,
+      9.337222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/321348195",
+  "properties": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "MARCHE DEPOT DE PARAKOU",
+    "source": "bing",
+    "id": "way/321348195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.612321,
+      9.3483096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/321348196",
+  "properties": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "MARCHE DEPOT DE PARAKOU",
+    "id": "way/321348196"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6131219,
+      9.3475229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/457458689",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Kobo Kobo",
+    "id": "node/457458689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6308978,
+      9.3418178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/457822611",
+  "properties": {
+    "addr:city": "Parakou",
+    "amenity": "marketplace",
+    "name": "Marché de Tingé",
+    "id": "node/457822611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6217062,
+      9.3847463
+    ]
+  }
+}
+]
+}

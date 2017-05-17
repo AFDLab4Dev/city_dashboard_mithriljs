@@ -567,22 +567,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4313557006",
-  "properties": {
-    "amenity": "bus_station",
-    "name": "Zenu Trotro",
-    "id": "node/4313557006"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.0533144,
-      5.7189454
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4324423391",
   "properties": {
     "amenity": "bus_station",

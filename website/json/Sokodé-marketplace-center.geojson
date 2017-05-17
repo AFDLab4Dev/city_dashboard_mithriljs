@@ -1,0 +1,85 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/376524838",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/376524838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1398314,
+      8.98596
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3804724055",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Komah",
+    "opening_hours": "Lundi, Jeudi",
+    "id": "node/3804724055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1425369,
+      8.9754196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4215522294",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit Marché",
+    "id": "node/4215522294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1419697,
+      8.9873335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4221442017",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "MARCHE DE KADAMBARA",
+    "id": "node/4221442017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1704178,
+      8.9543463
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4222327100",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/4222327100"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1035731,
+      9.0293878
+    ]
+  }
+}
+]
+}

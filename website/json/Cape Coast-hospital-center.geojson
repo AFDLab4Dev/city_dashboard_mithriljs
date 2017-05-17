@@ -1,0 +1,105 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2021262306",
+  "properties": {
+    "addr:street": "Bonn Street",
+    "alt_name": "District Hospital",
+    "amenity": "hospital",
+    "name": "Cape Coast Metropolitan Hospital",
+    "id": "node/2021262306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.258746,
+      5.1027628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021262943",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/2021262943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2680563,
+      5.1199607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021263931",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Red Cross",
+    "id": "node/2021263931"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2470822,
+      5.1084965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021263934",
+  "properties": {
+    "alt_name": "Central Regional Hospital",
+    "amenity": "hospital",
+    "name": "Cape Coast Teaching Hospital",
+    "website": "http://www.ccthghana.org/",
+    "id": "node/2021263934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2661608,
+      5.1337819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021263955",
+  "properties": {
+    "amenity": "hospital",
+    "name": "University Hospital",
+    "id": "node/2021263955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2828683,
+      5.1049718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4014339248",
+  "properties": {
+    "addr:city": "Cape Coast",
+    "amenity": "hospital",
+    "name": "Tantri Clinic",
+    "id": "node/4014339248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2711693,
+      5.1319838
+    ]
+  }
+}
+]
+}

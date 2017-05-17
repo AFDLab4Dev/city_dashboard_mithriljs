@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4588861973",
+  "properties": {
+    "amenity": "university",
+    "name": "Ism adonaï",
+    "id": "node/4588861973"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1918449,
+      9.5499902
+    ]
+  }
+}
+]
+}

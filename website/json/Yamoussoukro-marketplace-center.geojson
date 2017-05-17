@@ -6,7 +6,6 @@
   "id": "way/72065966",
   "properties": {
     "amenity": "marketplace",
-    "landuse": "retail",
     "name": "Marché de l'Habitat",
     "id": "way/72065966"
   },
@@ -23,7 +22,6 @@
   "id": "way/399614113",
   "properties": {
     "amenity": "marketplace",
-    "landuse": "retail",
     "name": "Marché de Kossou",
     "id": "way/399614113"
   },

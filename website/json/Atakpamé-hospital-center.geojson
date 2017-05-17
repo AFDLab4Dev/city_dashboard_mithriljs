@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2402518215",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital Anna Maria",
+    "source": "Bing;survey",
+    "id": "node/2402518215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1484517,
+      7.5259685
+    ]
+  }
+}
+]
+}

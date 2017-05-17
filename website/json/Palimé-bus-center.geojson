@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3165540166",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Kpalimé",
+    "id": "node/3165540166"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6336318,
+      6.9096941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4596779989",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Station de Taxi voiture",
+    "name:fr": "Station de Taxi voiture",
+    "id": "node/4596779989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7170158,
+      6.8483374
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2764493840",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2764493840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6190425,
+      9.5761009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4543972390",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Madina",
+    "name:en": "Shared Taxi Garage",
+    "name:fr": "Gare Routière Madina",
+    "id": "node/4543972390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6693941,
+      9.5452643
+    ]
+  }
+}
+]
+}

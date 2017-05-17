@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/210983011",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Medina",
+    "id": "way/210983011"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.2772384,
+      11.3156606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417770592",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/417770592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.2819414,
+      11.3314459
+    ]
+  }
+}
+]
+}

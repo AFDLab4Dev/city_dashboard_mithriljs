@@ -1,0 +1,48 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3137241067,
+  "lat": 7.0279069,
+  "lon": -9.5532711,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Phebe Hospital",
+    "source": "UNMIL;GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3198032299,
+  "lat": 7.0050000,
+  "lon": -9.5550000,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "52",
+    "capacity:beds:planned": "70",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_009",
+    "health_facility:type": "field_hospital",
+    "is_in": "Gbarnga",
+    "is_in:county": "Bong",
+    "is_in:district": "Jorquelleh",
+    "name": "Bong (Suakoko) ETU",
+    "note": "Validate Name",
+    "operational_status": "open",
+    "operator": "IMC",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00"
+  }
+}
+
+  ]
+}

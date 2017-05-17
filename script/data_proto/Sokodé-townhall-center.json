@@ -1,0 +1,52 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 377110877,
+  "center": {
+    "lat": 8.9838996,
+    "lon": 1.1387441
+  },
+  "nodes": [
+    3804724056,
+    3804724057,
+    3804724058,
+    3804724059,
+    3804724060,
+    3804724061,
+    3804724056
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "La Mairie"
+  }
+},
+{
+  "type": "way",
+  "id": 377110877,
+  "nodes": [
+    3804724056,
+    3804724057,
+    3804724058,
+    3804724059,
+    3804724060,
+    3804724061,
+    3804724056
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "La Mairie"
+  }
+}
+
+  ]
+}

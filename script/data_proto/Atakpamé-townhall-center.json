@@ -1,0 +1,84 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:45:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 215164466,
+  "center": {
+    "lat": 7.5248245,
+    "lon": 1.1283349
+  },
+  "nodes": [
+    2245808991,
+    2245808987,
+    2245808981,
+    2245808983,
+    2593995014,
+    2593994976,
+    2245808968,
+    2593994949,
+    2245808966,
+    2593994927,
+    2245808952,
+    2245808958,
+    2245808945,
+    2245808947,
+    2593994919,
+    2245808962,
+    2245808960,
+    2593994946,
+    2245808973,
+    2245808970,
+    2245808991
+  ],
+  "tags": {
+    "alt_name": "Mairie d'Atakpamé",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de ville",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 215164466,
+  "nodes": [
+    2245808991,
+    2245808987,
+    2245808981,
+    2245808983,
+    2593995014,
+    2593994976,
+    2245808968,
+    2593994949,
+    2245808966,
+    2593994927,
+    2245808952,
+    2245808958,
+    2245808945,
+    2245808947,
+    2593994919,
+    2245808962,
+    2245808960,
+    2593994946,
+    2245808973,
+    2245808970,
+    2245808991
+  ],
+  "tags": {
+    "alt_name": "Mairie d'Atakpamé",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de ville",
+    "source": "bing"
+  }
+}
+
+  ]
+}

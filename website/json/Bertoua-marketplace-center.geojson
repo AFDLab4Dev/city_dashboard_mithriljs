@@ -1,0 +1,58 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/314117825",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Ndoumbi",
+    "id": "way/314117825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.686963,
+      4.574326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374595967",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit marché",
+    "opening_hours": "24/7",
+    "operator": "Commune",
+    "organic": "no",
+    "id": "way/374595967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7094143,
+      4.5779885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374595969",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "opening_hours": "06:30-12:30,18:30",
+    "id": "way/374595969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.709242,
+      4.5780819
+    ]
+  }
+}
+]
+}

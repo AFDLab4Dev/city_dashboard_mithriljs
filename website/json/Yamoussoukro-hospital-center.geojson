@@ -42,7 +42,6 @@
   "properties": {
     "amenity": "hospital",
     "barrier": "fence",
-    "landuse": "grass",
     "name": "Hôpital Saint-Joseph Moscati",
     "id": "way/399788313"
   },

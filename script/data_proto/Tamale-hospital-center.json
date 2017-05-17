@@ -1,0 +1,198 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1791536000,
+  "lat": 9.3957697,
+  "lon": -0.8451442,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hajj Adams Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1791548336,
+  "lat": 9.4019248,
+  "lon": -0.8508627,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Tamale West Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1791586274,
+  "lat": 9.3995644,
+  "lon": -0.8318888,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Seventh Day Adventist (SDA) Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1793745315,
+  "lat": 9.3938274,
+  "lon": -0.8232896,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Tamale Teaching Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1799093706,
+  "lat": 9.3987490,
+  "lon": -0.8273509,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Kabsad Scientific Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1799111500,
+  "lat": 9.3937000,
+  "lon": -0.8209887,
+  "tags": {
+    "amenity": "hospital",
+    "name": "New Life Laboratory & Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1802246298,
+  "lat": 9.4059360,
+  "lon": -0.8372214,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Tamale Central Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1880284133,
+  "lat": 9.4487744,
+  "lon": -0.8648885,
+  "tags": {
+    "amenity": "hospital",
+    "name": "TIZAA Specialist Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1936094984,
+  "lat": 9.4614434,
+  "lon": -0.8489027,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kamina Medical Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2509333360,
+  "lat": 9.4304008,
+  "lon": -0.8566901,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Choggu Health Center"
+  }
+},
+{
+  "type": "way",
+  "id": 167589267,
+  "center": {
+    "lat": 9.4017688,
+    "lon": -0.8508305
+  },
+  "nodes": [
+    1789819898,
+    1789819902,
+    1789819869,
+    1789819867,
+    1789819898
+  ],
+  "tags": {
+    "addr:street": "Gukpegu",
+    "amenity": "hospital",
+    "building": "yes",
+    "designation": "District Hospital",
+    "emergency": "yes",
+    "name": "Tamale West Hospital",
+    "source": "digitalglobe"
+  }
+},
+{
+  "type": "way",
+  "id": 243542766,
+  "center": {
+    "lat": 9.4321907,
+    "lon": -0.8605960
+  },
+  "nodes": [
+    2509332401,
+    2509332400,
+    2509332399,
+    2509332398,
+    2509332401
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Fulera Maternity Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 167589267,
+  "nodes": [
+    1789819898,
+    1789819902,
+    1789819869,
+    1789819867,
+    1789819898
+  ],
+  "tags": {
+    "addr:street": "Gukpegu",
+    "amenity": "hospital",
+    "building": "yes",
+    "designation": "District Hospital",
+    "emergency": "yes",
+    "name": "Tamale West Hospital",
+    "source": "digitalglobe"
+  }
+},
+{
+  "type": "way",
+  "id": 243542766,
+  "nodes": [
+    2509332401,
+    2509332400,
+    2509332399,
+    2509332398,
+    2509332401
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Fulera Maternity Clinic"
+  }
+}
+
+  ]
+}

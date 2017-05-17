@@ -1,0 +1,1635 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 452867581,
+  "lat": 5.3536410,
+  "lon": -3.9575180,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Le Panthéon Médical"
+  }
+},
+{
+  "type": "node",
+  "id": 454153807,
+  "lat": 5.3573151,
+  "lon": -3.9654195,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre médical Victoria de la Riviera"
+  }
+},
+{
+  "type": "node",
+  "id": 454166819,
+  "lat": 5.3539965,
+  "lon": -3.9537051,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical Joëlle C"
+  }
+},
+{
+  "type": "node",
+  "id": 454167530,
+  "lat": 5.3540375,
+  "lon": -3.9565789,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre d'Acumpuncture Chinois"
+  }
+},
+{
+  "type": "node",
+  "id": 775786939,
+  "lat": 5.3633032,
+  "lon": -3.9623644,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé communautaire"
+  }
+},
+{
+  "type": "node",
+  "id": 1225061670,
+  "lat": 5.3808261,
+  "lon": -4.0076459,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Militaire d'Abidjan",
+    "source": "http://www.abidjandirect.net/index2.php?page=actualite&id=797"
+  }
+},
+{
+  "type": "node",
+  "id": 1236320723,
+  "lat": 5.3162000,
+  "lon": -3.9966411,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Avicennes"
+  }
+},
+{
+  "type": "node",
+  "id": 1363721586,
+  "lat": 5.3568479,
+  "lon": -3.9265239,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé communautaire d'Akouedo-Attie"
+  }
+},
+{
+  "type": "node",
+  "id": 1951165098,
+  "lat": 5.2623425,
+  "lon": -3.9622511,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Port-Bouët"
+  }
+},
+{
+  "type": "node",
+  "id": 1951724361,
+  "lat": 5.2872334,
+  "lon": -3.9694052,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital général de Koumassi"
+  }
+},
+{
+  "type": "node",
+  "id": 2381546282,
+  "lat": 5.3632813,
+  "lon": -4.0178162,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Croix Bleue"
+  }
+},
+{
+  "type": "node",
+  "id": 2382090539,
+  "lat": 5.3672232,
+  "lon": -4.0232747,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Maternité Urbaine de Williamsville"
+  }
+},
+{
+  "type": "node",
+  "id": 2427130119,
+  "lat": 5.3496529,
+  "lon": -4.0332404,
+  "tags": {
+    "addr:city": "Attécoubé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "name": "PMI"
+  }
+},
+{
+  "type": "node",
+  "id": 2440400044,
+  "lat": 5.2930608,
+  "lon": -3.9821776,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Laboratoire du Cmb Fleming"
+  }
+},
+{
+  "type": "node",
+  "id": 2443095363,
+  "lat": 5.4237341,
+  "lon": -4.0165030,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hopital general d'Abobo"
+  }
+},
+{
+  "type": "node",
+  "id": 2452125558,
+  "lat": 5.3487426,
+  "lon": -4.0168178,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Cabinet dentaire",
+    "phone": "20372431"
+  }
+},
+{
+  "type": "node",
+  "id": 2461273777,
+  "lat": 5.3114387,
+  "lon": -3.9734755,
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue E 7",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Clinique médicale Koko"
+  }
+},
+{
+  "type": "node",
+  "id": 2463107744,
+  "lat": 5.3419518,
+  "lon": -4.0800624,
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Marie-Thérèse-Houphouët-Boigny",
+    "amenity": "hospital",
+    "name": "Hôpital général de Yopougon-Attié",
+    "old_name": "PMI de Yopougon",
+    "operator": "Ministère de la Santé et de la lutte contre le sida",
+    "phone": "+225 23454390"
+  }
+},
+{
+  "type": "node",
+  "id": 2489420736,
+  "lat": 5.3987428,
+  "lon": -3.9939118,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:pobox": "01 BP 1224 Abidjan 01",
+    "addr:postcode": "01",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue L130",
+    "addr:suburb": "Angré",
+    "amenity": "hospital",
+    "name": "Centre Medical Nimatoullah",
+    "operator": "Fondation Dr. Javad Nurbakhsh",
+    "phone": "+225 22427182"
+  }
+},
+{
+  "type": "node",
+  "id": 2493219528,
+  "lat": 5.3412228,
+  "lon": -4.0260969,
+  "tags": {
+    "addr:city": "Adjamé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard Nangui Abrogroua",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre Medico-social",
+    "phone": "+225 20224433"
+  }
+},
+{
+  "type": "node",
+  "id": 2493737349,
+  "lat": 5.2939016,
+  "lon": -3.9558489,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Axe optique"
+  }
+},
+{
+  "type": "node",
+  "id": 2604141815,
+  "lat": 5.2981314,
+  "lon": -3.9707658,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Liring"
+  }
+},
+{
+  "type": "node",
+  "id": 2760759391,
+  "lat": 5.3101063,
+  "lon": -3.9477124,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médico Social"
+  }
+},
+{
+  "type": "node",
+  "id": 3015620997,
+  "lat": 5.3013838,
+  "lon": -4.0032332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "La Rosette Laboratoire"
+  }
+},
+{
+  "type": "node",
+  "id": 3017000111,
+  "lat": 5.3491924,
+  "lon": -4.0186874,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centre medical de la cite de l'enfance croix rouge"
+  }
+},
+{
+  "type": "node",
+  "id": 3017000124,
+  "lat": 5.3491343,
+  "lon": -4.0220272,
+  "tags": {
+    "addr:pobox": "08 BP 2450 Abidjan 08",
+    "addr:postcode": "08 BP 2450 Abidjan 08",
+    "amenity": "hospital",
+    "description": "consultation opthamologie orl gynecologie dermatologie fibroendescopie imagerie medicale dentaire ...",
+    "email": "hallmedinri@aviso.ci",
+    "name": "Hall médical INRI de la fraternité",
+    "phone": "20383418 20390065"
+  }
+},
+{
+  "type": "node",
+  "id": 3144241936,
+  "lat": 5.3569692,
+  "lon": -3.9795361,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Médicale Sainte-Philomène"
+  }
+},
+{
+  "type": "node",
+  "id": 3149011613,
+  "lat": 5.2916283,
+  "lon": -3.9966532,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre National de Transfusion Sanguine"
+  }
+},
+{
+  "type": "node",
+  "id": 3193990990,
+  "lat": 5.3440088,
+  "lon": -4.0248754,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "fixme": "nom?? / name??"
+  }
+},
+{
+  "type": "node",
+  "id": 3194527904,
+  "lat": 5.3938983,
+  "lon": -4.0063383,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3194527905,
+  "lat": 5.3915916,
+  "lon": -4.0059563,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282137848,
+  "lat": 5.4162938,
+  "lon": -4.0318186,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282170098,
+  "lat": 5.4130137,
+  "lon": -3.9955778,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282322584,
+  "lat": 5.4230333,
+  "lon": -3.9898318,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282370688,
+  "lat": 5.4430109,
+  "lon": -4.0080635,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Houphouët Boigny"
+  }
+},
+{
+  "type": "node",
+  "id": 3369247647,
+  "lat": 5.3099955,
+  "lon": -3.9357264,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centre de Santé Communautaire de la Cité Houphouet Boigny"
+  }
+},
+{
+  "type": "node",
+  "id": 3767112013,
+  "lat": 5.3606488,
+  "lon": -3.8841499,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Mère-Enfant de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 3784306923,
+  "lat": 5.3258684,
+  "lon": -4.0214181,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique externat saint paul"
+  }
+},
+{
+  "type": "node",
+  "id": 3784306925,
+  "lat": 5.3258710,
+  "lon": -4.0203882,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pharmacie des finances"
+  }
+},
+{
+  "type": "node",
+  "id": 3978718027,
+  "lat": 5.4051960,
+  "lon": -3.9846254,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:pobox": "28 BP 1138 Abidjan 28",
+    "addr:postcode": "28",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue L237",
+    "addr:suburb": "Angré",
+    "amenity": "hospital",
+    "name": "Centre de santé urbain d'Angré",
+    "phone": "00225 22525542"
+  }
+},
+{
+  "type": "node",
+  "id": 3978739725,
+  "lat": 5.3648561,
+  "lon": -3.9590557,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:postcode": "BP 51 Cidex 3 Abidjan",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue I145",
+    "addr:suburb": "Riviera Palmeraie",
+    "amenity": "hospital",
+    "name": "Centre médical Mère Maria Elisa Adreoli",
+    "phone": "+225 22490348"
+  }
+},
+{
+  "type": "node",
+  "id": 3982237902,
+  "lat": 5.3748913,
+  "lon": -4.0060247,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue K126",
+    "addr:suburb": "Gendarmerie Agban",
+    "amenity": "hospital",
+    "name": "Centre de Santé"
+  }
+},
+{
+  "type": "node",
+  "id": 4019798767,
+  "lat": 5.3384806,
+  "lon": -4.0190773,
+  "tags": {
+    "addr:city": "Le Plateau",
+    "addr:housenumber": "4",
+    "addr:street": "Boulevard de L'indénié",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Polyclinique de l'Indenié",
+    "website": "http://www.polycliniqueindenie.ci/"
+  }
+},
+{
+  "type": "node",
+  "id": 4019811761,
+  "lat": 5.2896778,
+  "lon": -3.9695626,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centremedical de la mairie"
+  }
+},
+{
+  "type": "node",
+  "id": 4019858299,
+  "lat": 5.3576504,
+  "lon": -4.0895170,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Centre Hospitalier Universitaire de Yopougon",
+    "emergency": "yes",
+    "name": "Centre Hospitalier Universitaire de Yopougon",
+    "short_name": "CHU de Yopougon"
+  }
+},
+{
+  "type": "node",
+  "id": 4019888798,
+  "lat": 5.4042560,
+  "lon": -4.0198537,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé El Rapha"
+  }
+},
+{
+  "type": "node",
+  "id": 4019911996,
+  "lat": 5.3310283,
+  "lon": -3.9349913,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de M’Badon"
+  }
+},
+{
+  "type": "node",
+  "id": 4019925584,
+  "lat": 5.3597230,
+  "lon": -3.8859607,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital général de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 4019925585,
+  "lat": 5.3597809,
+  "lon": -3.8839226,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital psychiatrique de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 4247072824,
+  "lat": 5.3346465,
+  "lon": -4.0735550,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Sante Communautaire Doukoure"
+  }
+},
+{
+  "type": "node",
+  "id": 4249745831,
+  "lat": 5.3572007,
+  "lon": -4.0343327,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pharmacie Christ Stella"
+  }
+},
+{
+  "type": "node",
+  "id": 4344227839,
+  "lat": 5.3488038,
+  "lon": -3.9958218,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Béatitudes"
+  }
+},
+{
+  "type": "node",
+  "id": 4485187391,
+  "lat": 5.3530094,
+  "lon": -4.0347417,
+  "tags": {
+    "addr:street": "Boulevard Felix Houphouët Boigny",
+    "amenity": "hospital",
+    "name": "Maternité d’Attecoubé"
+  }
+},
+{
+  "type": "node",
+  "id": 4791767109,
+  "lat": 5.3988835,
+  "lon": -4.0066722,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHA"
+  }
+},
+{
+  "type": "way",
+  "id": 91274323,
+  "center": {
+    "lat": 5.2915831,
+    "lon": -4.0035691
+  },
+  "nodes": [
+    1059631809,
+    1059631858,
+    1059631851,
+    4835677539,
+    1059631824,
+    4835677540,
+    4835677541,
+    3419917771,
+    4673786011,
+    4673786013,
+    3419917772,
+    4835677542,
+    4835677543,
+    1059631818,
+    1059631802,
+    1059631874,
+    1059631867,
+    1059631861,
+    3419917767,
+    1059631828,
+    3419917680,
+    1059631871,
+    2443073865,
+    1059631865,
+    3137391052,
+    3419828389,
+    1059631845,
+    3419829801,
+    3419829718,
+    3419829726,
+    3419829101,
+    3419829105,
+    3419829581,
+    3419828565,
+    3419828568,
+    1059631821,
+    2908684080,
+    2908684079,
+    2908684078,
+    2908686692,
+    2908686693,
+    2908686694,
+    2908686695,
+    2908686696,
+    2908686697,
+    3419917759,
+    3424767191,
+    3419917758,
+    3419917761,
+    3419917760,
+    3419917773,
+    1059631809
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "leisure": "garden",
+    "name": "Centre Hospitalier Universitaire de Treichville",
+    "short_name": "CHU de Treichville"
+  }
+},
+{
+  "type": "way",
+  "id": 123439289,
+  "center": {
+    "lat": 5.3020571,
+    "lon": -3.9996691
+  },
+  "nodes": [
+    1376553166,
+    1376553181,
+    1376553179,
+    1376553174,
+    1376553171,
+    1376553155,
+    1376553166
+  ],
+  "tags": {
+    "addr:city": "Treichville",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Clouzet",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre Hospitalier d'Arras 3"
+  }
+},
+{
+  "type": "way",
+  "id": 447285100,
+  "center": {
+    "lat": 5.3110434,
+    "lon": -3.9862356
+  },
+  "nodes": [
+    4444501090,
+    4444501094,
+    4444501095,
+    4444501093,
+    3957869708,
+    4444501090
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue des Azobés",
+    "amenity": "hospital",
+    "name": "Nouvelle Clinique Farah",
+    "phone": "+225-21 26 00 93",
+    "website": "http://www.cliniquefarah.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 447285101,
+  "center": {
+    "lat": 5.3107226,
+    "lon": -3.9865886
+  },
+  "nodes": [
+    4444501091,
+    4444499888,
+    4444501089,
+    4444501092,
+    3957869705,
+    4444501091
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "landuse": "construction",
+    "name": "Nouvelle Clinique Farah",
+    "phone": "+225-21 26 00 93",
+    "website": "http://www.cliniquefarah.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 426830439,
+  "center": {
+    "lat": 5.3238666,
+    "lon": -4.0159116
+  },
+  "nodes": [
+    4260953810,
+    4260953811,
+    4260953812,
+    4260953813,
+    4260953810
+  ],
+  "tags": {
+    "addr:city": "Plateau",
+    "addr:housenumber": "26",
+    "addr:street": "Avenue Chardy",
+    "amenity": "hospital",
+    "elevator": "2ème étage",
+    "name": "Centre Médical Chardy",
+    "note": "centremedicalchardy@hotmail.fr",
+    "operator": "Dr Hussein Chalhoub",
+    "phone": "+225 20 33 90 00"
+  }
+},
+{
+  "type": "way",
+  "id": 326163566,
+  "center": {
+    "lat": 5.3368409,
+    "lon": -4.0133509
+  },
+  "nodes": [
+    3326391160,
+    3327786774,
+    244519013,
+    3327786775,
+    1229057034,
+    3327788261,
+    3327787105,
+    3327788203,
+    3327786753,
+    3326391661,
+    3327787789,
+    3326389660,
+    3326391143,
+    3326391145,
+    3326391567,
+    3326391569,
+    3326391152,
+    3326391153,
+    3326391160
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housename": "Polyclinique Internationale Sainte Anne-Marie (PISAM)",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Joseph Blohorn",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "yes",
+    "internet_access": "wlan",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Polyclinique Internationale Sainte Anne-Marie (PISAM)",
+    "phone": "+225-22.48.31.31",
+    "short_name": "PISAM",
+    "website": "http://www.pisam.ci/"
+  }
+},
+{
+  "type": "way",
+  "id": 310209320,
+  "center": {
+    "lat": 5.3488670,
+    "lon": -4.0246890
+  },
+  "nodes": [
+    3156048729,
+    3665843089,
+    3156048730,
+    4786610439,
+    3479904980,
+    3479904981,
+    3479904982,
+    3479904983,
+    3479904984,
+    3479904979,
+    3156048731,
+    3156048732,
+    3156048733,
+    3479904985,
+    3479904986,
+    3479904987,
+    3479904988,
+    3479904989,
+    3479904990,
+    4786609299,
+    3479904991,
+    3156048729
+  ],
+  "tags": {
+    "addr:city": "Adjamé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue C16",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital général d'Adjamé"
+  }
+},
+{
+  "type": "way",
+  "id": 327402561,
+  "center": {
+    "lat": 5.3423413,
+    "lon": -3.9938504
+  },
+  "nodes": [
+    3342015191,
+    3341886250,
+    3341873284,
+    3332036636,
+    3332039275,
+    3332041007,
+    3332030726,
+    3332030722,
+    3340916830,
+    3340919742,
+    3340919718,
+    1082809658,
+    1082809284,
+    3340918521,
+    3340917965,
+    3340917475,
+    3340917940,
+    3340917734,
+    3315671272,
+    3326025016,
+    3326025019,
+    3326025020,
+    3326025065,
+    3315671284,
+    3315670926,
+    3326025023,
+    3341886245,
+    3342285861,
+    3342286066,
+    3341886247,
+    3341886249,
+    3341898193,
+    3341898197,
+    3341886263,
+    3341898200,
+    3341898199,
+    3341912566,
+    3341886264,
+    3341886261,
+    3341912564,
+    3341898196,
+    3341914296,
+    3341898194,
+    3341886262,
+    3341886260,
+    3341898195,
+    3341914294,
+    3341873285,
+    3341873283,
+    3341873282,
+    3325417256,
+    3341873281,
+    3341886251,
+    3342015185,
+    3342015184,
+    3342015183,
+    3342015182,
+    3342015187,
+    3342015189,
+    3342015191
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard de l'Université",
+    "addr:suburb": "RTI",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "is_in": "RTI;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Centre hospitalier universitaire de Cocody (CHU de Cocody)",
+    "name:en": "University Hospital of Cocody (CHU de Cocody)",
+    "name:fr": "Centre hospitalier universitaire de Cocody (CHU de Cocody)"
+  }
+},
+{
+  "type": "way",
+  "id": 430269309,
+  "center": {
+    "lat": 5.3449951,
+    "lon": -3.9844688
+  },
+  "nodes": [
+    4295482660,
+    4295482661,
+    4295482657,
+    4295482650,
+    4295482660
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 355534059,
+  "center": {
+    "lat": 5.3904096,
+    "lon": -4.0165433
+  },
+  "nodes": [
+    3613052164,
+    3611251599,
+    3607405612,
+    3611251600,
+    3611251601,
+    3611251602,
+    3613052164
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "university",
+    "name": "centre medical social",
+    "operator": "UNA"
+  }
+},
+{
+  "type": "way",
+  "id": 286247735,
+  "center": {
+    "lat": 5.2875928,
+    "lon": -3.9778971
+  },
+  "nodes": [
+    2898962943,
+    2898962934,
+    2898962933,
+    2898962930,
+    2898962929,
+    2898962938,
+    2898962943
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique les Grâces"
+  }
+},
+{
+  "type": "way",
+  "id": 185201535,
+  "center": {
+    "lat": 5.3006843,
+    "lon": -3.9831790
+  },
+  "nodes": [
+    1957618690,
+    1957618622,
+    1957618620,
+    1957618598,
+    1957618664,
+    1957618631,
+    1957618660,
+    1957618752,
+    1957618615,
+    1957618690
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "name": "Hôpital général de Marcory(Ex PMI)"
+  }
+},
+{
+  "type": "way",
+  "id": 236144501,
+  "center": {
+    "lat": 5.3103925,
+    "lon": -3.9742066
+  },
+  "nodes": [
+    2442031102,
+    2442031103,
+    3900014639,
+    2442031251,
+    2442039461,
+    2442035659,
+    2442035653,
+    2442031102
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "leisure": "garden",
+    "name": "Formation Urbaine d'Anoumabo"
+  }
+},
+{
+  "type": "way",
+  "id": 237862810,
+  "center": {
+    "lat": 5.3097281,
+    "lon": -3.9671121
+  },
+  "nodes": [
+    2457268435,
+    2457268437,
+    2457268439,
+    2457268441,
+    2457268435
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre Asapsu"
+  }
+},
+{
+  "type": "way",
+  "id": 237899323,
+  "center": {
+    "lat": 5.3097670,
+    "lon": -3.9610028
+  },
+  "nodes": [
+    2457713552,
+    2457713553,
+    2457713554,
+    2457713555,
+    2457713552
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 271270193,
+  "center": {
+    "lat": 5.3143497,
+    "lon": -3.9425323
+  },
+  "nodes": [
+    2762261999,
+    2762262002,
+    2762262006,
+    2762262009,
+    2762262012,
+    2762261999
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Aklomiabla"
+  }
+},
+{
+  "type": "way",
+  "id": 397380212,
+  "center": {
+    "lat": 5.4008898,
+    "lon": -3.9575588
+  },
+  "nodes": [
+    4001709748,
+    4001709749,
+    4001709756,
+    4001709757,
+    4001709192,
+    4001709752,
+    4001709751,
+    4001709748
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital Général d'Angré"
+  }
+},
+{
+  "type": "way",
+  "id": 91274323,
+  "nodes": [
+    1059631809,
+    1059631858,
+    1059631851,
+    4835677539,
+    1059631824,
+    4835677540,
+    4835677541,
+    3419917771,
+    4673786011,
+    4673786013,
+    3419917772,
+    4835677542,
+    4835677543,
+    1059631818,
+    1059631802,
+    1059631874,
+    1059631867,
+    1059631861,
+    3419917767,
+    1059631828,
+    3419917680,
+    1059631871,
+    2443073865,
+    1059631865,
+    3137391052,
+    3419828389,
+    1059631845,
+    3419829801,
+    3419829718,
+    3419829726,
+    3419829101,
+    3419829105,
+    3419829581,
+    3419828565,
+    3419828568,
+    1059631821,
+    2908684080,
+    2908684079,
+    2908684078,
+    2908686692,
+    2908686693,
+    2908686694,
+    2908686695,
+    2908686696,
+    2908686697,
+    3419917759,
+    3424767191,
+    3419917758,
+    3419917761,
+    3419917760,
+    3419917773,
+    1059631809
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "leisure": "garden",
+    "name": "Centre Hospitalier Universitaire de Treichville",
+    "short_name": "CHU de Treichville"
+  }
+},
+{
+  "type": "way",
+  "id": 123439289,
+  "nodes": [
+    1376553166,
+    1376553181,
+    1376553179,
+    1376553174,
+    1376553171,
+    1376553155,
+    1376553166
+  ],
+  "tags": {
+    "addr:city": "Treichville",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Clouzet",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre Hospitalier d'Arras 3"
+  }
+},
+{
+  "type": "way",
+  "id": 447285100,
+  "nodes": [
+    4444501090,
+    4444501094,
+    4444501095,
+    4444501093,
+    3957869708,
+    4444501090
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue des Azobés",
+    "amenity": "hospital",
+    "name": "Nouvelle Clinique Farah",
+    "phone": "+225-21 26 00 93",
+    "website": "http://www.cliniquefarah.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 447285101,
+  "nodes": [
+    4444501091,
+    4444499888,
+    4444501089,
+    4444501092,
+    3957869705,
+    4444501091
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "landuse": "construction",
+    "name": "Nouvelle Clinique Farah",
+    "phone": "+225-21 26 00 93",
+    "website": "http://www.cliniquefarah.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 426830439,
+  "nodes": [
+    4260953810,
+    4260953811,
+    4260953812,
+    4260953813,
+    4260953810
+  ],
+  "tags": {
+    "addr:city": "Plateau",
+    "addr:housenumber": "26",
+    "addr:street": "Avenue Chardy",
+    "amenity": "hospital",
+    "elevator": "2ème étage",
+    "name": "Centre Médical Chardy",
+    "note": "centremedicalchardy@hotmail.fr",
+    "operator": "Dr Hussein Chalhoub",
+    "phone": "+225 20 33 90 00"
+  }
+},
+{
+  "type": "way",
+  "id": 326163566,
+  "nodes": [
+    3326391160,
+    3327786774,
+    244519013,
+    3327786775,
+    1229057034,
+    3327788261,
+    3327787105,
+    3327788203,
+    3327786753,
+    3326391661,
+    3327787789,
+    3326389660,
+    3326391143,
+    3326391145,
+    3326391567,
+    3326391569,
+    3326391152,
+    3326391153,
+    3326391160
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housename": "Polyclinique Internationale Sainte Anne-Marie (PISAM)",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Joseph Blohorn",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "yes",
+    "internet_access": "wlan",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Polyclinique Internationale Sainte Anne-Marie (PISAM)",
+    "phone": "+225-22.48.31.31",
+    "short_name": "PISAM",
+    "website": "http://www.pisam.ci/"
+  }
+},
+{
+  "type": "way",
+  "id": 310209320,
+  "nodes": [
+    3156048729,
+    3665843089,
+    3156048730,
+    4786610439,
+    3479904980,
+    3479904981,
+    3479904982,
+    3479904983,
+    3479904984,
+    3479904979,
+    3156048731,
+    3156048732,
+    3156048733,
+    3479904985,
+    3479904986,
+    3479904987,
+    3479904988,
+    3479904989,
+    3479904990,
+    4786609299,
+    3479904991,
+    3156048729
+  ],
+  "tags": {
+    "addr:city": "Adjamé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue C16",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital général d'Adjamé"
+  }
+},
+{
+  "type": "way",
+  "id": 327402561,
+  "nodes": [
+    3342015191,
+    3341886250,
+    3341873284,
+    3332036636,
+    3332039275,
+    3332041007,
+    3332030726,
+    3332030722,
+    3340916830,
+    3340919742,
+    3340919718,
+    1082809658,
+    1082809284,
+    3340918521,
+    3340917965,
+    3340917475,
+    3340917940,
+    3340917734,
+    3315671272,
+    3326025016,
+    3326025019,
+    3326025020,
+    3326025065,
+    3315671284,
+    3315670926,
+    3326025023,
+    3341886245,
+    3342285861,
+    3342286066,
+    3341886247,
+    3341886249,
+    3341898193,
+    3341898197,
+    3341886263,
+    3341898200,
+    3341898199,
+    3341912566,
+    3341886264,
+    3341886261,
+    3341912564,
+    3341898196,
+    3341914296,
+    3341898194,
+    3341886262,
+    3341886260,
+    3341898195,
+    3341914294,
+    3341873285,
+    3341873283,
+    3341873282,
+    3325417256,
+    3341873281,
+    3341886251,
+    3342015185,
+    3342015184,
+    3342015183,
+    3342015182,
+    3342015187,
+    3342015189,
+    3342015191
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard de l'Université",
+    "addr:suburb": "RTI",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "is_in": "RTI;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Centre hospitalier universitaire de Cocody (CHU de Cocody)",
+    "name:en": "University Hospital of Cocody (CHU de Cocody)",
+    "name:fr": "Centre hospitalier universitaire de Cocody (CHU de Cocody)"
+  }
+},
+{
+  "type": "way",
+  "id": 430269309,
+  "nodes": [
+    4295482660,
+    4295482661,
+    4295482657,
+    4295482650,
+    4295482660
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 355534059,
+  "nodes": [
+    3613052164,
+    3611251599,
+    3607405612,
+    3611251600,
+    3611251601,
+    3611251602,
+    3613052164
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "university",
+    "name": "centre medical social",
+    "operator": "UNA"
+  }
+},
+{
+  "type": "way",
+  "id": 286247735,
+  "nodes": [
+    2898962943,
+    2898962934,
+    2898962933,
+    2898962930,
+    2898962929,
+    2898962938,
+    2898962943
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique les Grâces"
+  }
+},
+{
+  "type": "way",
+  "id": 185201535,
+  "nodes": [
+    1957618690,
+    1957618622,
+    1957618620,
+    1957618598,
+    1957618664,
+    1957618631,
+    1957618660,
+    1957618752,
+    1957618615,
+    1957618690
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "name": "Hôpital général de Marcory(Ex PMI)"
+  }
+},
+{
+  "type": "way",
+  "id": 236144501,
+  "nodes": [
+    2442031102,
+    2442031103,
+    3900014639,
+    2442031251,
+    2442039461,
+    2442035659,
+    2442035653,
+    2442031102
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "leisure": "garden",
+    "name": "Formation Urbaine d'Anoumabo"
+  }
+},
+{
+  "type": "way",
+  "id": 237862810,
+  "nodes": [
+    2457268435,
+    2457268437,
+    2457268439,
+    2457268441,
+    2457268435
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre Asapsu"
+  }
+},
+{
+  "type": "way",
+  "id": 237899323,
+  "nodes": [
+    2457713552,
+    2457713553,
+    2457713554,
+    2457713555,
+    2457713552
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 271270193,
+  "nodes": [
+    2762261999,
+    2762262002,
+    2762262006,
+    2762262009,
+    2762262012,
+    2762261999
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Aklomiabla"
+  }
+},
+{
+  "type": "way",
+  "id": 397380212,
+  "nodes": [
+    4001709748,
+    4001709749,
+    4001709756,
+    4001709757,
+    4001709192,
+    4001709752,
+    4001709751,
+    4001709748
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital Général d'Angré"
+  }
+}
+
+  ]
+}

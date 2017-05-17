@@ -1,0 +1,44 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4261595027,
+  "lat": 6.3878269,
+  "lon": 2.0043967,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé"
+  }
+},
+{
+  "type": "node",
+  "id": 4264119136,
+  "lat": 6.3809272,
+  "lon": 1.9388013,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "yes",
+    "name": "Unité Villageoise de Santé de Dohi"
+  }
+},
+{
+  "type": "node",
+  "id": 4264120629,
+  "lat": 6.3461326,
+  "lon": 2.2062775,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Avlékété",
+    "source": "gps,survey"
+  }
+}
+
+  ]
+}

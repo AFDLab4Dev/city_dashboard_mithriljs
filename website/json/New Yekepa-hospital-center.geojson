@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4131212879",
+  "properties": {
+    "addr:city": "Yekepa",
+    "amenity": "hospital",
+    "bed_count": "60",
+    "dispensing": "yes",
+    "doctors_num": "2",
+    "electricity": "generator",
+    "emergency": "yes",
+    "healthcare:speciality": "Doctor Valentine Sawyerr",
+    "is_in": "Yarmain",
+    "name": "Arcelormittal Hospital",
+    "nature_of_facility": "General Services",
+    "nurses_num": "6",
+    "opening_hours": "24/7",
+    "operator": "private_np",
+    "operator_name": "Arcelormittal Liberia",
+    "source": "Red Cross Field Survey",
+    "water_source": "piped",
+    "id": "node/4131212879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5391235,
+      7.5755633
+    ]
+  }
+}
+]
+}

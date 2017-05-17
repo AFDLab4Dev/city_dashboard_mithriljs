@@ -1,0 +1,206 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1292960401,
+  "lat": 9.5463281,
+  "lon": 1.1978746,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "S.A.T."
+  }
+},
+{
+  "type": "node",
+  "id": 4550230291,
+  "lat": 9.5140973,
+  "lon": 1.0449941,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Djamde",
+    "name:fr": "Djamde"
+  }
+},
+{
+  "type": "node",
+  "id": 4550230292,
+  "lat": 9.4768054,
+  "lon": 1.0964361,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bounoh II",
+    "name:fr": "Bounoh II"
+  }
+},
+{
+  "type": "node",
+  "id": 4550230295,
+  "lat": 9.4508523,
+  "lon": 1.2117239,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Awandjelo",
+    "name:fr": "Awandjelo"
+  }
+},
+{
+  "type": "node",
+  "id": 4550289189,
+  "lat": 9.4776872,
+  "lon": 1.1249899,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Atchangbade",
+    "name:fr": "Atchangbade"
+  }
+},
+{
+  "type": "node",
+  "id": 4550289389,
+  "lat": 9.4889929,
+  "lon": 1.1600164,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Welou",
+    "name:fr": "Welou"
+  }
+},
+{
+  "type": "node",
+  "id": 4588843377,
+  "lat": 9.5482981,
+  "lon": 1.1919054,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Rakieta"
+  }
+},
+{
+  "type": "node",
+  "id": 4588843383,
+  "lat": 9.5485213,
+  "lon": 1.1923932,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "kara niamey, dosso, malanville, cotonou",
+    "name": "Kader Transport Voyageurs"
+  }
+},
+{
+  "type": "node",
+  "id": 4588843577,
+  "lat": 9.5485138,
+  "lon": 1.1923216,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "D Dos transport"
+  }
+},
+{
+  "type": "node",
+  "id": 4588845436,
+  "lat": 9.5480733,
+  "lon": 1.1974410,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "L K"
+  }
+},
+{
+  "type": "node",
+  "id": 4588846090,
+  "lat": 9.5485363,
+  "lon": 1.1949967,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "La Poste"
+  }
+},
+{
+  "type": "node",
+  "id": 4588886615,
+  "lat": 9.5583073,
+  "lon": 1.1906051,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Etrab kara"
+  }
+},
+{
+  "type": "node",
+  "id": 4599194013,
+  "lat": 9.5491800,
+  "lon": 1.1973625,
+  "tags": {
+    "amenity": "bus_station",
+    "description": "Cette gare dessert les localités autour de Kara",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4747190922,
+  "lat": 9.5581900,
+  "lon": 1.1906839,
+  "tags": {
+    "addr:street": "Chaminade",
+    "amenity": "bus_station",
+    "name": "ETRAB"
+  }
+},
+{
+  "type": "way",
+  "id": 113792814,
+  "center": {
+    "lat": 9.5327993,
+    "lon": 1.2001043
+  },
+  "nodes": [
+    1290070365,
+    1290070093,
+    1290070371,
+    1290070394,
+    1290053087,
+    1290070365
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "Gare routière KS"
+  }
+},
+{
+  "type": "way",
+  "id": 113792814,
+  "nodes": [
+    1290070365,
+    1290070093,
+    1290070371,
+    1290070394,
+    1290053087,
+    1290070365
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "Gare routière KS"
+  }
+}
+
+  ]
+}

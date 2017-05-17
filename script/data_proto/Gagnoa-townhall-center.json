@@ -1,0 +1,33 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4317740674,
+  "lat": 6.1309890,
+  "lon": -5.9431520,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Gagnoa"
+  }
+},
+{
+  "type": "node",
+  "id": 4676880815,
+  "lat": 6.1306220,
+  "lon": -5.9440708,
+  "tags": {
+    "addr:city": "Gagnoa",
+    "amenity": "townhall",
+    "name": "Etat Civile"
+  }
+}
+
+  ]
+}

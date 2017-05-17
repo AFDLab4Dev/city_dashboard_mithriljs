@@ -1,0 +1,152 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/331939089",
+  "properties": {
+    "addr:city": "Port Loko",
+    "amenity": "hospital",
+    "name": "Port Loko Hospital",
+    "source": "Bing",
+    "id": "way/331939089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.7849864,
+      8.765547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3165535722",
+  "properties": {
+    "amenity": "hospital",
+    "wheelchair": "yes",
+    "id": "node/3165535722"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.7679908,
+      8.7607432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529890",
+  "properties": {
+    "accuracy": "Needs location validation",
+    "alt_name": "Former Red Cross Vocational Center",
+    "amenity": "hospital",
+    "capacity:beds": "22",
+    "capacity:beds:planned": "40",
+    "check_date": "2014-11-14T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0023",
+    "health_facility:type": "field_hospital",
+    "is_in": "Sendugu",
+    "is_in:district": "Port Loko",
+    "is_in:region": "Northern",
+    "name": "Maforki ETU",
+    "operational_status": "open",
+    "operator": "MoH / Cuba / Plan",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "id": "node/3197529890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.797,
+      8.774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529896",
+  "properties": {
+    "accuracy": "surveyed with GPS",
+    "amenity": "hospital",
+    "capacity:beds": "-1",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0006",
+    "health_facility:type": "field_hospital",
+    "is_in": "Romaka",
+    "is_in:district": "Port Loko",
+    "is_in:region": "Northern",
+    "name": "Port Loko ETU",
+    "operational_status": "open",
+    "operator": "GOAL",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-12-08T00:00:00",
+    "id": "node/3197529896"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.7615257,
+      8.7756581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589577852",
+  "properties": {
+    "amenity": "hospital",
+    "osm_id": "3165535722",
+    "type": "hospital",
+    "id": "node/3589577852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.7679908,
+      8.7607432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578790",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Maforki ETU",
+    "osm_id": "3197529890",
+    "type": "hospital",
+    "id": "node/3589578790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.797,
+      8.774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579569",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Port Loko ETU",
+    "osm_id": "3197529896",
+    "type": "hospital",
+    "id": "node/3589579569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.7615257,
+      8.7756581
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4174521095",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Régional de Labé",
+    "id": "node/4174521095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.2853756,
+      11.3181558
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,559 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:34:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2499580589,
+  "lat": 6.4635422,
+  "lon": 2.3059166,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Togba",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3032537605,
+  "lat": 6.3949680,
+  "lon": 2.3448500,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 3913012835,
+  "lat": 6.3941902,
+  "lon": 2.3271523,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "MARCHE D'ATROKPOKODJI",
+    "operator": "Mairie d'Abomey Calavi",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3919463999,
+  "lat": 6.4678550,
+  "lon": 2.3911031,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Ganvie"
+  }
+},
+{
+  "type": "node",
+  "id": 3969886231,
+  "lat": 6.4581063,
+  "lon": 2.3170308,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Tokan"
+  }
+},
+{
+  "type": "node",
+  "id": 4165296540,
+  "lat": 6.3923139,
+  "lon": 2.3646610,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché",
+    "operator": "Kindonou",
+    "source": "Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4165315270,
+  "lat": 6.3922955,
+  "lon": 2.3646839,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Kindonou",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4172381291,
+  "lat": 6.3745678,
+  "lon": 2.4598064,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de N'vènamedé"
+  }
+},
+{
+  "type": "node",
+  "id": 4207422049,
+  "lat": 6.3756425,
+  "lon": 2.5074534,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Sekandji"
+  }
+},
+{
+  "type": "node",
+  "id": 4254736032,
+  "lat": 6.3708036,
+  "lon": 2.4615510,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché PK3",
+    "operator": "SOGEMA"
+  }
+},
+{
+  "type": "node",
+  "id": 4323430692,
+  "lat": 6.4564482,
+  "lon": 2.5440886,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "KINTOCOME"
+  }
+},
+{
+  "type": "node",
+  "id": 4440045658,
+  "lat": 6.3545333,
+  "lon": 2.4372291,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 4520425085,
+  "lat": 6.3884067,
+  "lon": 2.2786130,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Cococodji"
+  }
+},
+{
+  "type": "node",
+  "id": 4555392791,
+  "lat": 6.5042198,
+  "lon": 2.3661626,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d’Akassato"
+  }
+},
+{
+  "type": "way",
+  "id": 418396611,
+  "center": {
+    "lat": 6.4053508,
+    "lon": 2.3057133
+  },
+  "nodes": [
+    4188254822,
+    4188254823,
+    4188254819,
+    4188254814,
+    4188254815,
+    4188254822
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Womey"
+  }
+},
+{
+  "type": "way",
+  "id": 242493401,
+  "center": {
+    "lat": 6.3782505,
+    "lon": 2.3895826
+  },
+  "nodes": [
+    2499528299,
+    2499528300,
+    2499528298,
+    2499528296,
+    2499528295,
+    2499528297,
+    2499528299
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Vêdoko",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 273441850,
+  "center": {
+    "lat": 6.3912630,
+    "lon": 2.3985567
+  },
+  "nodes": [
+    2782911413,
+    2782911408,
+    2782911436,
+    2782911446,
+    2782911449,
+    2782911441,
+    2782911413
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 443598145,
+  "center": {
+    "lat": 6.3667666,
+    "lon": 2.4361849
+  },
+  "nodes": [
+    4411531526,
+    4411531525,
+    4411531524,
+    4411531523,
+    4411531521,
+    4411531520,
+    4411531518,
+    4411531516,
+    4411531514,
+    4411531509,
+    4411531512,
+    4411531511,
+    4411531510,
+    4411531508,
+    4411531503,
+    4411531499,
+    4411531497,
+    4411531505,
+    4411531506,
+    4411531502,
+    4411531500,
+    4411531494,
+    4411531493,
+    4411531492,
+    4411531496,
+    4411531501,
+    4411531495,
+    4411531498,
+    4411531504,
+    4411531507,
+    4411531513,
+    4411531515,
+    4411531517,
+    4411531519,
+    4411531522,
+    4411531526
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "low accuracy"
+  }
+},
+{
+  "type": "way",
+  "id": 241551999,
+  "center": {
+    "lat": 6.3727019,
+    "lon": 2.4333016
+  },
+  "nodes": [
+    2491592923,
+    2773801072,
+    2491592920,
+    2491592918,
+    4440052325,
+    2796283824,
+    2796283819,
+    2491592916,
+    2491592910,
+    2773801060,
+    2491592919,
+    2773801068,
+    2796283970,
+    2773801070,
+    2491592921,
+    2491592923
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché Dantokpa",
+    "tourism": "attraction",
+    "wikipedia": "fr:Dantokpa"
+  }
+},
+{
+  "type": "way",
+  "id": 419117437,
+  "center": {
+    "lat": 6.3695479,
+    "lon": 2.4265060
+  },
+  "nodes": [
+    4192602409,
+    4192602156,
+    4192602407,
+    4192602409
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché St Michel",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 272261760,
+  "center": {
+    "lat": 6.3766552,
+    "lon": 2.4129357
+  },
+  "nodes": [
+    2772189260,
+    2772189256,
+    2772189262,
+    2772189265,
+    2772189260
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 377325432,
+  "center": {
+    "lat": 6.3953867,
+    "lon": 2.5397009
+  },
+  "nodes": [
+    3807016857,
+    3807016856,
+    3807016855,
+    3807016853,
+    3807016852,
+    3807016850,
+    3807016849,
+    3807016854,
+    3807016862,
+    3807016868,
+    3807016876,
+    3807016881,
+    3807016880,
+    3807016879,
+    3807016878,
+    3807016873,
+    3807016857
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Houéssi",
+    "operator": "Marché Houéssi"
+  }
+},
+{
+  "type": "way",
+  "id": 418396611,
+  "nodes": [
+    4188254822,
+    4188254823,
+    4188254819,
+    4188254814,
+    4188254815,
+    4188254822
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Womey"
+  }
+},
+{
+  "type": "way",
+  "id": 242493401,
+  "nodes": [
+    2499528299,
+    2499528300,
+    2499528298,
+    2499528296,
+    2499528295,
+    2499528297,
+    2499528299
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Vêdoko",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 273441850,
+  "nodes": [
+    2782911413,
+    2782911408,
+    2782911436,
+    2782911446,
+    2782911449,
+    2782911441,
+    2782911413
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 443598145,
+  "nodes": [
+    4411531526,
+    4411531525,
+    4411531524,
+    4411531523,
+    4411531521,
+    4411531520,
+    4411531518,
+    4411531516,
+    4411531514,
+    4411531509,
+    4411531512,
+    4411531511,
+    4411531510,
+    4411531508,
+    4411531503,
+    4411531499,
+    4411531497,
+    4411531505,
+    4411531506,
+    4411531502,
+    4411531500,
+    4411531494,
+    4411531493,
+    4411531492,
+    4411531496,
+    4411531501,
+    4411531495,
+    4411531498,
+    4411531504,
+    4411531507,
+    4411531513,
+    4411531515,
+    4411531517,
+    4411531519,
+    4411531522,
+    4411531526
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "low accuracy"
+  }
+},
+{
+  "type": "way",
+  "id": 241551999,
+  "nodes": [
+    2491592923,
+    2773801072,
+    2491592920,
+    2491592918,
+    4440052325,
+    2796283824,
+    2796283819,
+    2491592916,
+    2491592910,
+    2773801060,
+    2491592919,
+    2773801068,
+    2796283970,
+    2773801070,
+    2491592921,
+    2491592923
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché Dantokpa",
+    "tourism": "attraction",
+    "wikipedia": "fr:Dantokpa"
+  }
+},
+{
+  "type": "way",
+  "id": 419117437,
+  "nodes": [
+    4192602409,
+    4192602156,
+    4192602407,
+    4192602409
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché St Michel",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 272261760,
+  "nodes": [
+    2772189260,
+    2772189256,
+    2772189262,
+    2772189265,
+    2772189260
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 377325432,
+  "nodes": [
+    3807016857,
+    3807016856,
+    3807016855,
+    3807016853,
+    3807016852,
+    3807016850,
+    3807016849,
+    3807016854,
+    3807016862,
+    3807016868,
+    3807016876,
+    3807016881,
+    3807016880,
+    3807016879,
+    3807016878,
+    3807016873,
+    3807016857
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Houéssi",
+    "operator": "Marché Houéssi"
+  }
+}
+
+  ]
+}

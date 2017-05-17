@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2157353816",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/2157353816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6846555,
+      6.2033892
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/267812313",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Gran Marché",
+    "id": "way/267812313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8032383,
+      10.7419303
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,108 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:37:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4347456752,
+  "lat": 9.6815501,
+  "lon": -13.5250754,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de baylobayah"
+  }
+},
+{
+  "type": "node",
+  "id": 4405096305,
+  "lat": 9.6673463,
+  "lon": -13.5249803,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Lansanaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4495008197,
+  "lat": 9.7033396,
+  "lon": -13.4967699,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "marché du km36"
+  }
+},
+{
+  "type": "way",
+  "id": 270173504,
+  "center": {
+    "lat": 9.6554692,
+    "lon": -13.5349038
+  },
+  "nodes": [
+    2738140630,
+    2752312447,
+    2752312446,
+    2738140630
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 442220338,
+  "center": {
+    "lat": 9.7299300,
+    "lon": -13.4312467
+  },
+  "nodes": [
+    4399097700,
+    4605040838,
+    4605040837,
+    4399097702,
+    4399097700
+  ],
+  "tags": {
+    "addr:city": "Manéah",
+    "amenity": "marketplace",
+    "name": "Friguidy 2"
+  }
+},
+{
+  "type": "way",
+  "id": 270173504,
+  "nodes": [
+    2738140630,
+    2752312447,
+    2752312446,
+    2738140630
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 442220338,
+  "nodes": [
+    4399097700,
+    4605040838,
+    4605040837,
+    4399097702,
+    4399097700
+  ],
+  "tags": {
+    "addr:city": "Manéah",
+    "amenity": "marketplace",
+    "name": "Friguidy 2"
+  }
+}
+
+  ]
+}

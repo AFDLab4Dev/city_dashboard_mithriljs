@@ -1,0 +1,90 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:26:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1082848060,
+  "lat": 5.9614336,
+  "lon": 10.1522772,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "VATICAN EXPRESS"
+  }
+},
+{
+  "type": "node",
+  "id": 4307618291,
+  "lat": 5.9677802,
+  "lon": 10.1715808,
+  "tags": {
+    "addr:housenumber": "P.O.Box 134",
+    "addr:street": "Nkwen Street",
+    "amenity": "bus_station",
+    "email": "amourmezam@gmail.com",
+    "name": "Amour Mezam Company Ltd",
+    "phone": "233363755",
+    "website": "http://www.amourmezam.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4474393298,
+  "lat": 5.9927030,
+  "lon": 10.1848591,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Nkwen Park",
+    "name:en": "Nkwen Park"
+  }
+},
+{
+  "type": "way",
+  "id": 309167326,
+  "center": {
+    "lat": 5.9992657,
+    "lon": 10.0140613
+  },
+  "nodes": [
+    3145006180,
+    3145006181,
+    4494333751,
+    4494333750,
+    3145006183,
+    4494333752,
+    3145006184,
+    3145006180
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Mbengwi",
+    "note": "Find transportation to Bamenda here. Includes many bars, small restaurants and basic goods stores."
+  }
+},
+{
+  "type": "way",
+  "id": 309167326,
+  "nodes": [
+    3145006180,
+    3145006181,
+    4494333751,
+    4494333750,
+    3145006183,
+    4494333752,
+    3145006184,
+    3145006180
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Mbengwi",
+    "note": "Find transportation to Bamenda here. Includes many bars, small restaurants and basic goods stores."
+  }
+}
+
+  ]
+}

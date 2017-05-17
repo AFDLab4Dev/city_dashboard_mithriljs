@@ -1,0 +1,65 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4541343971",
+  "properties": {
+    "addr:city": "Konia Aviation",
+    "addr:state": "N'Zérékoré",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Table du marché",
+    "source": "Red Cross Field Survey",
+    "id": "node/4541343971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.698318,
+      7.8007997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4541927551",
+  "properties": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Petit marché de Boma sud",
+    "source": "Red Cross Field Survey",
+    "id": "node/4541927551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.8179807,
+      7.7902125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4541931002",
+  "properties": {
+    "addr:city": "Bounouma",
+    "addr:state": "N'Zérékoré",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Marché de Bounouma",
+    "source": "Red Cross Field Survey",
+    "id": "node/4541931002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.7981162,
+      7.6364529
+    ]
+  }
+}
+]
+}

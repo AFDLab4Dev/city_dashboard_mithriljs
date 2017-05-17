@@ -1,0 +1,266 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1285191175,
+  "lat": 5.6455393,
+  "lon": 0.0167020,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 1546419253,
+  "lat": 5.6867648,
+  "lon": -0.0326619,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ashaiman Main Tro Tro Station"
+  }
+},
+{
+  "type": "node",
+  "id": 1603831964,
+  "lat": 5.7074972,
+  "lon": -0.0157345,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Afariwa Tro Tro station"
+  }
+},
+{
+  "type": "node",
+  "id": 2018321246,
+  "lat": 5.6459634,
+  "lon": 0.0028199,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 2151944574,
+  "lat": 5.5594713,
+  "lon": -0.1584786,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "La Main Lorry Station"
+  }
+},
+{
+  "type": "node",
+  "id": 2154259204,
+  "lat": 5.7059930,
+  "lon": -0.1656165,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Adenta Trotro Station"
+  }
+},
+{
+  "type": "node",
+  "id": 3602639338,
+  "lat": 5.7114979,
+  "lon": 0.1089864,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Prampram Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4286157299,
+  "lat": 5.6852362,
+  "lon": -0.0335596,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kufour Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4286157300,
+  "lat": 5.6879223,
+  "lon": -0.0300319,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Taxi Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4286173001,
+  "lat": 5.7028863,
+  "lon": -0.0301139,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Ash Newtown Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4313557006,
+  "lat": 5.7189454,
+  "lon": -0.0533144,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Zenu Trotro"
+  }
+},
+{
+  "type": "node",
+  "id": 4313597216,
+  "lat": 5.6512576,
+  "lon": 0.0243627,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "New Town Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4313654189,
+  "lat": 5.6934518,
+  "lon": -0.0309887,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 4324423391,
+  "lat": 5.5672987,
+  "lon": -0.1637839,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Apaapa lorry station"
+  }
+},
+{
+  "type": "node",
+  "id": 4324512074,
+  "lat": 5.6494437,
+  "lon": 0.0015949,
+  "tags": {
+    "amenity": "bus_station",
+    "operator": "VVIP"
+  }
+},
+{
+  "type": "node",
+  "id": 4327136891,
+  "lat": 5.6905686,
+  "lon": -0.0320070,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Atadeka Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4350218309,
+  "lat": 5.6569424,
+  "lon": 0.0209530,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Manhean Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4400503924,
+  "lat": 5.6643441,
+  "lon": -0.0278298,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Community 11 Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4400503926,
+  "lat": 5.6855276,
+  "lon": -0.0132236,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Aflao Bus Station (GPRTU Of TUC)"
+  }
+},
+{
+  "type": "node",
+  "id": 4400510898,
+  "lat": 5.6860165,
+  "lon": -0.0139812,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Accra Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4545132189,
+  "lat": 5.6603778,
+  "lon": -0.0051969,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Taxi Rank",
+    "name:en": "Taxi Rank"
+  }
+},
+{
+  "type": "node",
+  "id": 4582412093,
+  "lat": 5.5672919,
+  "lon": -0.1637263,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Apaapa lorry station"
+  }
+},
+{
+  "type": "way",
+  "id": 419690753,
+  "center": {
+    "lat": 5.6862154,
+    "lon": -0.0142555
+  },
+  "nodes": [
+    4197018199,
+    4197018200,
+    4197018201,
+    4197018202,
+    4197018203,
+    4197018199
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Trotro Station"
+  }
+},
+{
+  "type": "way",
+  "id": 419690753,
+  "nodes": [
+    4197018199,
+    4197018200,
+    4197018201,
+    4197018202,
+    4197018203,
+    4197018199
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Trotro Station"
+  }
+}
+
+  ]
+}

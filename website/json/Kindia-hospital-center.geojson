@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/183044239",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre PMI",
+    "id": "way/183044239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8601147,
+      10.0472559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183044286",
+  "properties": {
+    "addr:city": "ߞߌ߲ߘߌߦߊ߫",
+    "amenity": "hospital",
+    "name": "ߘߊ߲ߘߊߟߌߛߏ߫ ߊߟߝߊ߫ ߎߡߊ߯ߙ ߖߊߟߏ߫",
+    "name:fr": "Hopital central",
+    "id": "way/183044286"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8614275,
+      10.0489962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183050485",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/183050485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8536973,
+      10.0499623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/365985332",
+  "properties": {
+    "amenity": "hospital",
+    "name": "C.R.E.M.S.",
+    "id": "way/365985332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8428864,
+      10.09209
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,1270 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:27:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2157333238,
+  "lat": 12.1186977,
+  "lon": 15.0562004,
+  "tags": {
+    "amenity": "hospital",
+    "project:eurosha_2012": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2163827258,
+  "lat": 12.1047702,
+  "lon": 15.0459302,
+  "tags": {
+    "addr:housenumber": "Hopitale Centrale",
+    "addr:street": "Rue Colonnel Moll",
+    "alt_name": "Centrale",
+    "amenity": "hospital",
+    "health_facility_type": "hospital",
+    "healthcare:cholera": "cholera_treatment_centre",
+    "healthcare_departments:general_medicine": "yes",
+    "healthcare_departments:medical_laboratory": "yes",
+    "healthcare_departments:operating_room": "yes",
+    "name": "Hopital Central",
+    "operational_status": "open",
+    "operator_type": "government",
+    "project:eurosha_2012": "yes",
+    "source": "bING"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752178,
+  "lat": 12.1188953,
+  "lon": 15.0945554,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medical SOS"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752179,
+  "lat": 12.1214576,
+  "lon": 15.0943468,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de N'Djari"
+  }
+},
+{
+  "type": "node",
+  "id": 4116302093,
+  "lat": 12.1063085,
+  "lon": 15.0461050,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Morgue"
+  }
+},
+{
+  "type": "node",
+  "id": 4116333290,
+  "lat": 12.1110480,
+  "lon": 15.0500326,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Roi Faycal"
+  }
+},
+{
+  "type": "node",
+  "id": 4132799889,
+  "lat": 12.1041357,
+  "lon": 15.0590744,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Ardep Djoumal"
+  }
+},
+{
+  "type": "node",
+  "id": 4146738591,
+  "lat": 12.1147253,
+  "lon": 15.0435416,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Bololo"
+  }
+},
+{
+  "type": "node",
+  "id": 4298818292,
+  "lat": 12.1061793,
+  "lon": 15.0470730,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pavillon des Urgences"
+  }
+},
+{
+  "type": "node",
+  "id": 4362811992,
+  "lat": 12.0958775,
+  "lon": 15.1379640,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique le Samaritain"
+  }
+},
+{
+  "type": "node",
+  "id": 4643887491,
+  "lat": 12.1061433,
+  "lon": 15.0501244,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4734493600,
+  "lat": 12.1197729,
+  "lon": 15.0998425,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de la Renaissance",
+    "operator": "Public",
+    "source": "Bing",
+    "source:data": "14/03/2017"
+  }
+},
+{
+  "type": "way",
+  "id": 415524026,
+  "center": {
+    "lat": 12.0619411,
+    "lon": 15.0253472
+  },
+  "nodes": [
+    4165789559,
+    4165789557,
+    4165789556,
+    4165789558,
+    4165789559
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de Amchediré"
+  }
+},
+{
+  "type": "way",
+  "id": 415528003,
+  "center": {
+    "lat": 12.0751183,
+    "lon": 15.0255996
+  },
+  "nodes": [
+    4165837606,
+    4165837602,
+    4165837599,
+    4165837605,
+    4165837606
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Soin"
+  }
+},
+{
+  "type": "way",
+  "id": 415528002,
+  "center": {
+    "lat": 12.0725796,
+    "lon": 15.0311597
+  },
+  "nodes": [
+    4165837597,
+    4165837595,
+    4165837594,
+    4165837596,
+    4165837597
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de PARPAR"
+  }
+},
+{
+  "type": "way",
+  "id": 415528000,
+  "center": {
+    "lat": 12.0750228,
+    "lon": 15.0379458
+  },
+  "nodes": [
+    4165837601,
+    4165837603,
+    4165837600,
+    4165837598,
+    4165837601
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CROIX ROUGE CAMEROUNAISE COMITE DEPARTEMENTAL DE LOGONE ET CHARI"
+  }
+},
+{
+  "type": "way",
+  "id": 415524042,
+  "center": {
+    "lat": 12.0646952,
+    "lon": 15.0497390
+  },
+  "nodes": [
+    4165791643,
+    4165791646,
+    4165791650,
+    4165791651,
+    4165791656,
+    4165791654,
+    4022178286,
+    4022178245,
+    4022178247,
+    4022178034,
+    4165791648,
+    4022177599,
+    4022177385,
+    4165791643
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré Urbain de Kousseri"
+  }
+},
+{
+  "type": "way",
+  "id": 349598542,
+  "center": {
+    "lat": 12.1261242,
+    "lon": 14.9885681
+  },
+  "nodes": [
+    3554505782,
+    3554505783,
+    3554505784,
+    3554505785,
+    3554505786,
+    3554505782
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de la Paix de Farcha"
+  }
+},
+{
+  "type": "way",
+  "id": 399689744,
+  "center": {
+    "lat": 12.0906468,
+    "lon": 14.9994276
+  },
+  "nodes": [
+    4023892298,
+    4023892305,
+    4023892294,
+    4023892295,
+    4023892293,
+    4023892291,
+    4023892187,
+    4023892175,
+    4023892298
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Infirmerie de Garnison du 41eme Bataillon infanterie motorisée"
+  }
+},
+{
+  "type": "way",
+  "id": 415528004,
+  "center": {
+    "lat": 12.0776792,
+    "lon": 15.0231871
+  },
+  "nodes": [
+    4165837608,
+    4165837607,
+    4165837612,
+    4165837610,
+    4165837616,
+    4165837617,
+    4165837614,
+    4165837615,
+    4165837613,
+    4165837609,
+    4165837611,
+    4165837608
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé privé Islamique"
+  }
+},
+{
+  "type": "way",
+  "id": 399904651,
+  "center": {
+    "lat": 12.0754869,
+    "lon": 15.0324459
+  },
+  "nodes": [
+    4025726826,
+    4025726814,
+    4025726816,
+    4025726813,
+    4025726809,
+    4025726387,
+    4025726384,
+    4025726789,
+    4025726790,
+    4025726819,
+    4025726826
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Thérapeutique NATURE ET VIE SANS FRONTIERE"
+  }
+},
+{
+  "type": "way",
+  "id": 399645633,
+  "center": {
+    "lat": 12.0908055,
+    "lon": 15.0228960
+  },
+  "nodes": [
+    4023563652,
+    4023563654,
+    4023563603,
+    4023563600,
+    4023563652
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "TIENSCHINECAM"
+  }
+},
+{
+  "type": "way",
+  "id": 415528006,
+  "center": {
+    "lat": 12.0909627,
+    "lon": 15.0328469
+  },
+  "nodes": [
+    4165837628,
+    4165837626,
+    4165837625,
+    4165837624,
+    4165837621,
+    4165837620,
+    4165837618,
+    4165837622,
+    4165837627,
+    4165837628
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Regional Annexe de Kousséri"
+  }
+},
+{
+  "type": "way",
+  "id": 415528007,
+  "center": {
+    "lat": 12.0906574,
+    "lon": 15.0325219
+  },
+  "nodes": [
+    4165837625,
+    4165837623,
+    4165837619,
+    4165837621,
+    4165837624,
+    4165837625
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de District de Kousséri"
+  }
+},
+{
+  "type": "way",
+  "id": 415528005,
+  "center": {
+    "lat": 12.1001469,
+    "lon": 15.0277044
+  },
+  "nodes": [
+    4165837629,
+    4165837630,
+    4165837634,
+    4165837633,
+    4165837629
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Catholique de Madagascar"
+  }
+},
+{
+  "type": "way",
+  "id": 415528008,
+  "center": {
+    "lat": 12.1001955,
+    "lon": 15.0280169
+  },
+  "nodes": [
+    4165837634,
+    4165837632,
+    4165837631,
+    4165837630,
+    4165837634
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Médecin Sans Frontiére"
+  }
+},
+{
+  "type": "way",
+  "id": 184188821,
+  "center": {
+    "lat": 12.1058538,
+    "lon": 15.0458656
+  },
+  "nodes": [
+    1946415291,
+    1946415273,
+    1946415294,
+    1946415270,
+    1946415276,
+    1946415296,
+    1946415304,
+    1946415310,
+    1946415306,
+    1946415307,
+    1946415311,
+    1946415325,
+    1946415322,
+    1946415349,
+    1946415340,
+    1946415347,
+    1946415319,
+    1946415318,
+    1946415314,
+    1946415298,
+    1946415295,
+    1946415292,
+    1946415291
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hgrn",
+    "source": "Bing",
+    "source:date": "02/08/2013"
+  }
+},
+{
+  "type": "way",
+  "id": 205367097,
+  "center": {
+    "lat": 12.1113234,
+    "lon": 15.0399687
+  },
+  "nodes": [
+    2153400177,
+    2153400179,
+    2153400180,
+    2153400178,
+    2153400177
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Hoitale GARNISON",
+    "emergency": "yes",
+    "name": "Hopital GARNISON",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 197729173,
+  "center": {
+    "lat": 12.1083663,
+    "lon": 15.0466102
+  },
+  "nodes": [
+    2079382936,
+    2079382982,
+    2079382983,
+    2079383003,
+    2079383002,
+    2079382997,
+    2079382995,
+    2079383000,
+    2079382999,
+    2079382914,
+    2079382915,
+    2079382923,
+    2079382927,
+    2079382916,
+    2079382917,
+    2079382939,
+    2079382936
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hopital Mère et Enfant",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 205377241,
+  "center": {
+    "lat": 12.1200043,
+    "lon": 15.0412460
+  },
+  "nodes": [
+    2153481982,
+    2153481981,
+    2153481980,
+    2153481983,
+    2153481982
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Clnique SOS",
+    "emergency": "yes",
+    "name": "Clinique SOS",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 205377169,
+  "center": {
+    "lat": 12.1206254,
+    "lon": 15.0413841
+  },
+  "nodes": [
+    2153481396,
+    2162919793,
+    2162919794,
+    2153481398,
+    2153481392,
+    1650006463,
+    2162349145,
+    2153481396
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Clinique SOS",
+    "emergency": "yes",
+    "name": "Clinique SOS",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 156723148,
+  "center": {
+    "lat": 12.0857705,
+    "lon": 15.0855282
+  },
+  "nodes": [
+    1689416401,
+    1689416146,
+    1689416279,
+    1687948053,
+    1687947151,
+    1687947911,
+    1689415669,
+    1687947913,
+    1687947864,
+    1687947366,
+    1687948275,
+    1689415737,
+    1689416368,
+    1689416041,
+    1689415879,
+    1689415763,
+    1689416178,
+    1689416314,
+    1689416401
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Le Bon Samaritain Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 484754519,
+  "center": {
+    "lat": 12.0948714,
+    "lon": 15.0847451
+  },
+  "nodes": [
+    4775041486,
+    4775041487,
+    4775041488,
+    4775041489,
+    4775041490,
+    4775041491,
+    4775041492,
+    4775041493,
+    4775041494,
+    4775041495,
+    4775041486
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de l'Union"
+  }
+},
+{
+  "type": "way",
+  "id": 184188822,
+  "center": {
+    "lat": 12.1061305,
+    "lon": 15.0477390
+  },
+  "nodes": [
+    1946415355,
+    1946415357,
+    1946415344,
+    1946415342,
+    1946415355
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre national de transfusion sanguine "
+  }
+},
+{
+  "type": "way",
+  "id": 228363961,
+  "center": {
+    "lat": 12.1222817,
+    "lon": 15.0475911
+  },
+  "nodes": [
+    2370475596,
+    2370475598,
+    2370475599,
+    2370475601,
+    2370475596
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Artine"
+  }
+},
+{
+  "type": "way",
+  "id": 228363968,
+  "center": {
+    "lat": 12.1071193,
+    "lon": 15.0788699
+  },
+  "nodes": [
+    2370475639,
+    2370475640,
+    2370475642,
+    2370475644,
+    2370475639
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 399615221,
+  "center": {
+    "lat": 12.1708110,
+    "lon": 15.0120835
+  },
+  "nodes": [
+    4023339817,
+    4023339818,
+    4023339819,
+    4023339820,
+    4023339817
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Guinebor II"
+  }
+},
+{
+  "type": "way",
+  "id": 205389496,
+  "center": {
+    "lat": 12.1321465,
+    "lon": 15.0768513
+  },
+  "nodes": [
+    2153606808,
+    2579089852,
+    1282086833,
+    2153606801,
+    2153606806,
+    2153606804,
+    2153606813,
+    2153606814,
+    2153606811,
+    2153606816,
+    2153606818,
+    2153606808
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Hopitale Chinois",
+    "emergency": "yes",
+    "name": "Hopital CHINOIS",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 415524026,
+  "nodes": [
+    4165789559,
+    4165789557,
+    4165789556,
+    4165789558,
+    4165789559
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de Amchediré"
+  }
+},
+{
+  "type": "way",
+  "id": 415528003,
+  "nodes": [
+    4165837606,
+    4165837602,
+    4165837599,
+    4165837605,
+    4165837606
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Soin"
+  }
+},
+{
+  "type": "way",
+  "id": 415528002,
+  "nodes": [
+    4165837597,
+    4165837595,
+    4165837594,
+    4165837596,
+    4165837597
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de PARPAR"
+  }
+},
+{
+  "type": "way",
+  "id": 415528000,
+  "nodes": [
+    4165837601,
+    4165837603,
+    4165837600,
+    4165837598,
+    4165837601
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CROIX ROUGE CAMEROUNAISE COMITE DEPARTEMENTAL DE LOGONE ET CHARI"
+  }
+},
+{
+  "type": "way",
+  "id": 415524042,
+  "nodes": [
+    4165791643,
+    4165791646,
+    4165791650,
+    4165791651,
+    4165791656,
+    4165791654,
+    4022178286,
+    4022178245,
+    4022178247,
+    4022178034,
+    4165791648,
+    4022177599,
+    4022177385,
+    4165791643
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré Urbain de Kousseri"
+  }
+},
+{
+  "type": "way",
+  "id": 349598542,
+  "nodes": [
+    3554505782,
+    3554505783,
+    3554505784,
+    3554505785,
+    3554505786,
+    3554505782
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de la Paix de Farcha"
+  }
+},
+{
+  "type": "way",
+  "id": 399689744,
+  "nodes": [
+    4023892298,
+    4023892305,
+    4023892294,
+    4023892295,
+    4023892293,
+    4023892291,
+    4023892187,
+    4023892175,
+    4023892298
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Infirmerie de Garnison du 41eme Bataillon infanterie motorisée"
+  }
+},
+{
+  "type": "way",
+  "id": 415528004,
+  "nodes": [
+    4165837608,
+    4165837607,
+    4165837612,
+    4165837610,
+    4165837616,
+    4165837617,
+    4165837614,
+    4165837615,
+    4165837613,
+    4165837609,
+    4165837611,
+    4165837608
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé privé Islamique"
+  }
+},
+{
+  "type": "way",
+  "id": 399904651,
+  "nodes": [
+    4025726826,
+    4025726814,
+    4025726816,
+    4025726813,
+    4025726809,
+    4025726387,
+    4025726384,
+    4025726789,
+    4025726790,
+    4025726819,
+    4025726826
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Thérapeutique NATURE ET VIE SANS FRONTIERE"
+  }
+},
+{
+  "type": "way",
+  "id": 399645633,
+  "nodes": [
+    4023563652,
+    4023563654,
+    4023563603,
+    4023563600,
+    4023563652
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "TIENSCHINECAM"
+  }
+},
+{
+  "type": "way",
+  "id": 415528006,
+  "nodes": [
+    4165837628,
+    4165837626,
+    4165837625,
+    4165837624,
+    4165837621,
+    4165837620,
+    4165837618,
+    4165837622,
+    4165837627,
+    4165837628
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Regional Annexe de Kousséri"
+  }
+},
+{
+  "type": "way",
+  "id": 415528007,
+  "nodes": [
+    4165837625,
+    4165837623,
+    4165837619,
+    4165837621,
+    4165837624,
+    4165837625
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de District de Kousséri"
+  }
+},
+{
+  "type": "way",
+  "id": 415528005,
+  "nodes": [
+    4165837629,
+    4165837630,
+    4165837634,
+    4165837633,
+    4165837629
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Catholique de Madagascar"
+  }
+},
+{
+  "type": "way",
+  "id": 415528008,
+  "nodes": [
+    4165837634,
+    4165837632,
+    4165837631,
+    4165837630,
+    4165837634
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Médecin Sans Frontiére"
+  }
+},
+{
+  "type": "way",
+  "id": 184188821,
+  "nodes": [
+    1946415291,
+    1946415273,
+    1946415294,
+    1946415270,
+    1946415276,
+    1946415296,
+    1946415304,
+    1946415310,
+    1946415306,
+    1946415307,
+    1946415311,
+    1946415325,
+    1946415322,
+    1946415349,
+    1946415340,
+    1946415347,
+    1946415319,
+    1946415318,
+    1946415314,
+    1946415298,
+    1946415295,
+    1946415292,
+    1946415291
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hgrn",
+    "source": "Bing",
+    "source:date": "02/08/2013"
+  }
+},
+{
+  "type": "way",
+  "id": 205367097,
+  "nodes": [
+    2153400177,
+    2153400179,
+    2153400180,
+    2153400178,
+    2153400177
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Hoitale GARNISON",
+    "emergency": "yes",
+    "name": "Hopital GARNISON",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 197729173,
+  "nodes": [
+    2079382936,
+    2079382982,
+    2079382983,
+    2079383003,
+    2079383002,
+    2079382997,
+    2079382995,
+    2079383000,
+    2079382999,
+    2079382914,
+    2079382915,
+    2079382923,
+    2079382927,
+    2079382916,
+    2079382917,
+    2079382939,
+    2079382936
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hopital Mère et Enfant",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 205377241,
+  "nodes": [
+    2153481982,
+    2153481981,
+    2153481980,
+    2153481983,
+    2153481982
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Clnique SOS",
+    "emergency": "yes",
+    "name": "Clinique SOS",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 205377169,
+  "nodes": [
+    2153481396,
+    2162919793,
+    2162919794,
+    2153481398,
+    2153481392,
+    1650006463,
+    2162349145,
+    2153481396
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Clinique SOS",
+    "emergency": "yes",
+    "name": "Clinique SOS",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 156723148,
+  "nodes": [
+    1689416401,
+    1689416146,
+    1689416279,
+    1687948053,
+    1687947151,
+    1687947911,
+    1689415669,
+    1687947913,
+    1687947864,
+    1687947366,
+    1687948275,
+    1689415737,
+    1689416368,
+    1689416041,
+    1689415879,
+    1689415763,
+    1689416178,
+    1689416314,
+    1689416401
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Le Bon Samaritain Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 484754519,
+  "nodes": [
+    4775041486,
+    4775041487,
+    4775041488,
+    4775041489,
+    4775041490,
+    4775041491,
+    4775041492,
+    4775041493,
+    4775041494,
+    4775041495,
+    4775041486
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de l'Union"
+  }
+},
+{
+  "type": "way",
+  "id": 184188822,
+  "nodes": [
+    1946415355,
+    1946415357,
+    1946415344,
+    1946415342,
+    1946415355
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre national de transfusion sanguine "
+  }
+},
+{
+  "type": "way",
+  "id": 228363961,
+  "nodes": [
+    2370475596,
+    2370475598,
+    2370475599,
+    2370475601,
+    2370475596
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Artine"
+  }
+},
+{
+  "type": "way",
+  "id": 228363968,
+  "nodes": [
+    2370475639,
+    2370475640,
+    2370475642,
+    2370475644,
+    2370475639
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 399615221,
+  "nodes": [
+    4023339817,
+    4023339818,
+    4023339819,
+    4023339820,
+    4023339817
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Guinebor II"
+  }
+},
+{
+  "type": "way",
+  "id": 205389496,
+  "nodes": [
+    2153606808,
+    2579089852,
+    1282086833,
+    2153606801,
+    2153606806,
+    2153606804,
+    2153606813,
+    2153606814,
+    2153606811,
+    2153606816,
+    2153606818,
+    2153606808
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Hopitale Chinois",
+    "emergency": "yes",
+    "name": "Hopital CHINOIS",
+    "source": "bing"
+  }
+}
+
+  ]
+}

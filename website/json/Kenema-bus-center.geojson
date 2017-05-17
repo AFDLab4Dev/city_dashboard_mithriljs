@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4534008090",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park(How for do Park, Liberia Park)",
+    "name:en": "Shared Taxi Park(Bo Park)",
+    "id": "node/4534008090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.1936415,
+      7.8746615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4534094991",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Goverment Bus Station",
+    "name:en": "Goverment Bus Station",
+    "id": "node/4534094991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.1899993,
+      7.8795824
+    ]
+  }
+}
+]
+}

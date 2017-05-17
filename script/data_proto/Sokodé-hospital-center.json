@@ -1,0 +1,106 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1560869486,
+  "lat": 8.9813916,
+  "lon": 1.1389611,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique"
+  }
+},
+{
+  "type": "node",
+  "id": 4221432679,
+  "lat": 8.9745069,
+  "lon": 1.1580442,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Esperance"
+  }
+},
+{
+  "type": "node",
+  "id": 4221442459,
+  "lat": 8.9542928,
+  "lon": 1.1711433,
+  "tags": {
+    "amenity": "hospital",
+    "name": "USP KADAMBARA"
+  }
+},
+{
+  "type": "node",
+  "id": 4222512789,
+  "lat": 8.9723507,
+  "lon": 1.1466811,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Unité de Soins Périphérique Komah 2"
+  }
+},
+{
+  "type": "way",
+  "id": 268725231,
+  "center": {
+    "lat": 8.9845854,
+    "lon": 1.1349191
+  },
+  "nodes": [
+    2740516921,
+    2906551842,
+    2906551791,
+    2906551786,
+    2906551785,
+    2906551782,
+    2740516824,
+    2740516884,
+    2906551856,
+    2906551888,
+    2740516909,
+    2740516926,
+    2740516921
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "height": "2",
+    "name": "HOPITAL CHR"
+  }
+},
+{
+  "type": "way",
+  "id": 268725231,
+  "nodes": [
+    2740516921,
+    2906551842,
+    2906551791,
+    2906551786,
+    2906551785,
+    2906551782,
+    2740516824,
+    2740516884,
+    2906551856,
+    2906551888,
+    2740516909,
+    2740516926,
+    2740516921
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "height": "2",
+    "name": "HOPITAL CHR"
+  }
+}
+
+  ]
+}

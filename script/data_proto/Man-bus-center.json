@@ -1,0 +1,170 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 300274515,
+  "center": {
+    "lat": 7.4077166,
+    "lon": -7.5514468
+  },
+  "nodes": [
+    3043749798,
+    3043749799,
+    3043749800,
+    3043749801,
+    3043749798
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "name": "Gare MTT"
+  }
+},
+{
+  "type": "way",
+  "id": 300274516,
+  "center": {
+    "lat": 7.4075122,
+    "lon": -7.5511870
+  },
+  "nodes": [
+    3043749799,
+    3043749803,
+    3043749804,
+    3043749800,
+    3043749799
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "name": "Gare STT"
+  }
+},
+{
+  "type": "way",
+  "id": 300274481,
+  "center": {
+    "lat": 7.4092589,
+    "lon": -7.5541580
+  },
+  "nodes": [
+    3043748412,
+    3043748413,
+    3043748414,
+    3043748415,
+    3043748412
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare UTB",
+    "operator": "UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 300274517,
+  "center": {
+    "lat": 7.4101069,
+    "lon": -7.5513537
+  },
+  "nodes": [
+    3043749806,
+    4566537296,
+    3043749807,
+    4566537293,
+    4566537299,
+    3043749808,
+    4566537297,
+    3043749809,
+    3043749806
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare BAN"
+  }
+},
+{
+  "type": "way",
+  "id": 300274515,
+  "nodes": [
+    3043749798,
+    3043749799,
+    3043749800,
+    3043749801,
+    3043749798
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "name": "Gare MTT"
+  }
+},
+{
+  "type": "way",
+  "id": 300274516,
+  "nodes": [
+    3043749799,
+    3043749803,
+    3043749804,
+    3043749800,
+    3043749799
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "name": "Gare STT"
+  }
+},
+{
+  "type": "way",
+  "id": 300274481,
+  "nodes": [
+    3043748412,
+    3043748413,
+    3043748414,
+    3043748415,
+    3043748412
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare UTB",
+    "operator": "UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 300274517,
+  "nodes": [
+    3043749806,
+    4566537296,
+    3043749807,
+    4566537293,
+    4566537299,
+    3043749808,
+    4566537297,
+    3043749809,
+    3043749806
+  ],
+  "tags": {
+    "addr:city": "Man",
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare BAN"
+  }
+}
+
+  ]
+}

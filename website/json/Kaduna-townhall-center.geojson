@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1754896041",
+  "properties": {
+    "addr:housename": "Masallaci",
+    "addr:housenumber": "10B",
+    "addr:postcode": "10B X",
+    "addr:street": "Maiduguri Road",
+    "amenity": "townhall",
+    "name": "Sheikh Lawal Abubakar Islamic School",
+    "id": "node/1754896041"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4326132,
+      10.5083839
+    ]
+  }
+}
+]
+}

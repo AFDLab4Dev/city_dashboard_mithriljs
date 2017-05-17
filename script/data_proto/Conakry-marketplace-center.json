@@ -1,0 +1,733 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 462024479,
+  "lat": 9.5450829,
+  "lon": -13.6687895,
+  "tags": {
+    "amenity": "marketplace",
+    "is_in": "Conakry",
+    "name": "Marché de Madina",
+    "name:fr": "Marché de Madina",
+    "place": "locality",
+    "unocha:pcode": "GIN0020010100001"
+  }
+},
+{
+  "type": "node",
+  "id": 1081472901,
+  "lat": 9.5866984,
+  "lon": -13.6315700,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 1081473319,
+  "lat": 9.5903108,
+  "lon": -13.6076910,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 1081473649,
+  "lat": 9.6069985,
+  "lon": -13.6105078,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2754450193,
+  "lat": 9.5589119,
+  "lon": -13.6572886,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2949649435,
+  "lat": 9.5108181,
+  "lon": -13.7079224,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "L'Impérial;Marché du Niger",
+    "shop": "supermarket",
+    "wikipedia": "fr:Marché Niger (Conakry)"
+  }
+},
+{
+  "type": "node",
+  "id": 4269786728,
+  "lat": 9.5466616,
+  "lon": -13.6650458,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "AVARIA",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4337214559,
+  "lat": 9.6113477,
+  "lon": -13.5932705,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Matoto"
+  }
+},
+{
+  "type": "node",
+  "id": 4337214924,
+  "lat": 9.6434149,
+  "lon": -13.5635676,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "marché de Enta"
+  }
+},
+{
+  "type": "node",
+  "id": 4347461778,
+  "lat": 9.6666471,
+  "lon": -13.5608967,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de sonfonia gare"
+  }
+},
+{
+  "type": "node",
+  "id": 4353748677,
+  "lat": 9.6111723,
+  "lon": -13.6453631,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de kaporo"
+  }
+},
+{
+  "type": "node",
+  "id": 4398901037,
+  "lat": 9.5480629,
+  "lon": -13.6657243,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Petit Marché"
+  }
+},
+{
+  "type": "node",
+  "id": 4495002919,
+  "lat": 9.5787602,
+  "lon": -13.6368523,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "marché"
+  }
+},
+{
+  "type": "way",
+  "id": 38840407,
+  "center": {
+    "lat": 9.5717713,
+    "lon": -13.6293173
+  },
+  "nodes": [
+    461148019,
+    461148022,
+    461148035,
+    461148040,
+    461148019
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Gbessia cité 2"
+  }
+},
+{
+  "type": "way",
+  "id": 451558119,
+  "center": {
+    "lat": 9.5787711,
+    "lon": -13.6158018
+  },
+  "nodes": [
+    4483792125,
+    4483792126,
+    4483792127,
+    4483792128,
+    4483792125
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558120,
+  "center": {
+    "lat": 9.5788415,
+    "lon": -13.6158858
+  },
+  "nodes": [
+    4483792129,
+    4483792130,
+    4483792131,
+    4483792132,
+    4483792129
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558122,
+  "center": {
+    "lat": 9.5791687,
+    "lon": -13.6163043
+  },
+  "nodes": [
+    4483792137,
+    4483792138,
+    4483792139,
+    4483792140,
+    4483792137
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558123,
+  "center": {
+    "lat": 9.5791764,
+    "lon": -13.6164349
+  },
+  "nodes": [
+    4483792141,
+    4483792142,
+    4483792143,
+    4483792144,
+    4483792141
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558124,
+  "center": {
+    "lat": 9.5793111,
+    "lon": -13.6163272
+  },
+  "nodes": [
+    4483792145,
+    4483792146,
+    4483792147,
+    4483792148,
+    4483792145
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558126,
+  "center": {
+    "lat": 9.5789983,
+    "lon": -13.6156685
+  },
+  "nodes": [
+    4483792153,
+    4483792154,
+    4483792155,
+    4483792156,
+    4483792153
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558121,
+  "center": {
+    "lat": 9.5790999,
+    "lon": -13.6159836
+  },
+  "nodes": [
+    4483792133,
+    4512025799,
+    4512025798,
+    4483792134,
+    4483792135,
+    4483792136,
+    4483792133
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 270407489,
+  "center": {
+    "lat": 9.6073669,
+    "lon": -13.6103155
+  },
+  "nodes": [
+    2754333111,
+    2754333112,
+    2754333114,
+    2754333115,
+    2754333111
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 270390809,
+  "center": {
+    "lat": 9.6117631,
+    "lon": -13.5955517
+  },
+  "nodes": [
+    2754121834,
+    2754121835,
+    2754121837,
+    2754121840,
+    2754121842,
+    2754121834
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 438399790,
+  "center": {
+    "lat": 9.6200429,
+    "lon": -13.6072755
+  },
+  "nodes": [
+    4361467465,
+    4361467466,
+    4361467467,
+    4361467468,
+    4361467465
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de yembeya"
+  }
+},
+{
+  "type": "way",
+  "id": 94837203,
+  "center": {
+    "lat": 9.6270653,
+    "lon": -13.5985142
+  },
+  "nodes": [
+    1100905985,
+    1100912711,
+    1100911876,
+    1100905985
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 270396381,
+  "center": {
+    "lat": 9.6273477,
+    "lon": -13.5894821
+  },
+  "nodes": [
+    2754172222,
+    2754172235,
+    2754172224,
+    2754172227,
+    2754172230,
+    2754172233,
+    2754172222
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 94837377,
+  "center": {
+    "lat": 9.6391775,
+    "lon": -13.6074975
+  },
+  "nodes": [
+    2759482335,
+    2759482332,
+    2759482329,
+    2759482327,
+    2759482328,
+    2759482330,
+    2759482335
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 425101399,
+  "center": {
+    "lat": 9.6487358,
+    "lon": -13.5523459
+  },
+  "nodes": [
+    4244277707,
+    4244277708,
+    4601294217,
+    4601294216,
+    4244277707
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché d'Enta-Cité"
+  }
+},
+{
+  "type": "way",
+  "id": 270173504,
+  "center": {
+    "lat": 9.6554692,
+    "lon": -13.5349038
+  },
+  "nodes": [
+    2738140630,
+    2752312447,
+    2752312446,
+    2738140630
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 270168054,
+  "center": {
+    "lat": 9.6738236,
+    "lon": -13.5431567
+  },
+  "nodes": [
+    2752278134,
+    2752278135,
+    2752278136,
+    2752278137,
+    2752278134
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 38840407,
+  "nodes": [
+    461148019,
+    461148022,
+    461148035,
+    461148040,
+    461148019
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Gbessia cité 2"
+  }
+},
+{
+  "type": "way",
+  "id": 451558119,
+  "nodes": [
+    4483792125,
+    4483792126,
+    4483792127,
+    4483792128,
+    4483792125
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558120,
+  "nodes": [
+    4483792129,
+    4483792130,
+    4483792131,
+    4483792132,
+    4483792129
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558122,
+  "nodes": [
+    4483792137,
+    4483792138,
+    4483792139,
+    4483792140,
+    4483792137
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558123,
+  "nodes": [
+    4483792141,
+    4483792142,
+    4483792143,
+    4483792144,
+    4483792141
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558124,
+  "nodes": [
+    4483792145,
+    4483792146,
+    4483792147,
+    4483792148,
+    4483792145
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558126,
+  "nodes": [
+    4483792153,
+    4483792154,
+    4483792155,
+    4483792156,
+    4483792153
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 451558121,
+  "nodes": [
+    4483792133,
+    4512025799,
+    4512025798,
+    4483792134,
+    4483792135,
+    4483792136,
+    4483792133
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 270407489,
+  "nodes": [
+    2754333111,
+    2754333112,
+    2754333114,
+    2754333115,
+    2754333111
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 270390809,
+  "nodes": [
+    2754121834,
+    2754121835,
+    2754121837,
+    2754121840,
+    2754121842,
+    2754121834
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 438399790,
+  "nodes": [
+    4361467465,
+    4361467466,
+    4361467467,
+    4361467468,
+    4361467465
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de yembeya"
+  }
+},
+{
+  "type": "way",
+  "id": 94837203,
+  "nodes": [
+    1100905985,
+    1100912711,
+    1100911876,
+    1100905985
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 270396381,
+  "nodes": [
+    2754172222,
+    2754172235,
+    2754172224,
+    2754172227,
+    2754172230,
+    2754172233,
+    2754172222
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 94837377,
+  "nodes": [
+    2759482335,
+    2759482332,
+    2759482329,
+    2759482327,
+    2759482328,
+    2759482330,
+    2759482335
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 425101399,
+  "nodes": [
+    4244277707,
+    4244277708,
+    4601294217,
+    4601294216,
+    4244277707
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché d'Enta-Cité"
+  }
+},
+{
+  "type": "way",
+  "id": 270173504,
+  "nodes": [
+    2738140630,
+    2752312447,
+    2752312446,
+    2738140630
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 270168054,
+  "nodes": [
+    2752278134,
+    2752278135,
+    2752278136,
+    2752278137,
+    2752278134
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "residential"
+  }
+}
+
+  ]
+}

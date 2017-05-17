@@ -1,0 +1,872 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2639220712,
+  "lat": 7.4002908,
+  "lon": 3.8662452,
+  "tags": {
+    "amenity": "university",
+    "name": "Lead City University Jericho Campus"
+  }
+},
+{
+  "type": "way",
+  "id": 97622306,
+  "center": {
+    "lat": 7.4443300,
+    "lon": 3.8992983
+  },
+  "nodes": [
+    1130120040,
+    1130117969,
+    1130118688,
+    1130119063,
+    1130119863,
+    3671888049,
+    3671888046,
+    3671888048,
+    3671888051,
+    1130118108,
+    3671888050,
+    3671888044,
+    3671888039,
+    3671888043,
+    1130118760,
+    1130119517,
+    1130120040
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97622612,
+  "center": {
+    "lat": 7.4445475,
+    "lon": 3.8992211
+  },
+  "nodes": [
+    1130119777,
+    1130118982,
+    1130118283,
+    1130120270,
+    1130119777
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Administration Building",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 362949626,
+  "center": {
+    "lat": 7.4481012,
+    "lon": 3.8954114
+  },
+  "nodes": [
+    3671759748,
+    3671759745,
+    3671759735,
+    3671759746,
+    3671759748
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949628,
+  "center": {
+    "lat": 7.4480214,
+    "lon": 3.8950857
+  },
+  "nodes": [
+    3671759750,
+    3671759749,
+    3671756518,
+    3671756523,
+    3671759750
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949623,
+  "center": {
+    "lat": 7.4483820,
+    "lon": 3.8979509
+  },
+  "nodes": [
+    3671759757,
+    3671759756,
+    3671759747,
+    3671759752,
+    3671759757
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fculty of Nursing",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 97622322,
+  "center": {
+    "lat": 7.4446484,
+    "lon": 3.8982551
+  },
+  "nodes": [
+    1130117978,
+    1130119036,
+    1130118898,
+    3671859082,
+    3671859080,
+    3671859081,
+    3671859086,
+    3671859084,
+    3671859089,
+    1130119443,
+    1130118692,
+    3671859090,
+    3671859092,
+    3671859094,
+    3671859093,
+    3671859091,
+    3671859088,
+    3671859087,
+    3671859083,
+    3671859085,
+    1130117055,
+    3671859073,
+    3671859075,
+    3671859077,
+    3671859079,
+    3671859071,
+    3671859070,
+    3671859067,
+    3671859069,
+    3671859065,
+    3671859063,
+    3671859062,
+    3671859064,
+    3671859066,
+    3671859068,
+    3671859076,
+    3671859072,
+    3671859074,
+    3671859078,
+    1130117978
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Student Union Building",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 97622375,
+  "center": {
+    "lat": 7.4440598,
+    "lon": 3.8991182
+  },
+  "nodes": [
+    1130118954,
+    1130119380,
+    1130120244,
+    1130118262,
+    1130118954
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97622463,
+  "center": {
+    "lat": 7.4445089,
+    "lon": 3.8989076
+  },
+  "nodes": [
+    1130119213,
+    1130116812,
+    1130117692,
+    3671888056,
+    3671888058,
+    1130118492,
+    1130119213
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97622517,
+  "center": {
+    "lat": 7.4447598,
+    "lon": 3.8977860
+  },
+  "nodes": [
+    1130119876,
+    1130118881,
+    1130118413,
+    1130119126,
+    1130119876
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Swimming Pool's Pavillion",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 362949624,
+  "center": {
+    "lat": 7.4476444,
+    "lon": 3.8956676
+  },
+  "nodes": [
+    3671759744,
+    3671759740,
+    3671756512,
+    3671756507,
+    3671756503,
+    3671759728,
+    3671759725,
+    3671756499,
+    3671756500,
+    3671756501,
+    3671756505,
+    3671756502,
+    3671756504,
+    3671759744
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949625,
+  "center": {
+    "lat": 7.4479112,
+    "lon": 3.8953523
+  },
+  "nodes": [
+    3671759743,
+    3671759738,
+    3671759742,
+    3671759737,
+    3671759741,
+    3671759739,
+    3671759736,
+    3671759734,
+    3671759733,
+    3671759732,
+    3671756517,
+    3671756522,
+    3671756520,
+    3671756524,
+    3671756519,
+    3671756521,
+    3671759726,
+    3671759729,
+    3671759730,
+    3671759731,
+    3671759743
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949627,
+  "center": {
+    "lat": 7.4477272,
+    "lon": 3.8952467
+  },
+  "nodes": [
+    3671759727,
+    3671756514,
+    3671756511,
+    3671756516,
+    3671759727
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949630,
+  "center": {
+    "lat": 7.4475780,
+    "lon": 3.8950894
+  },
+  "nodes": [
+    3671756515,
+    3671756510,
+    3671756508,
+    3671756509,
+    3671756506,
+    3671756513,
+    3671756515
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362967183,
+  "center": {
+    "lat": 7.4444507,
+    "lon": 3.8990218
+  },
+  "nodes": [
+    3671888060,
+    3671888057,
+    3671888054,
+    3671888055,
+    3671888060
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362967184,
+  "center": {
+    "lat": 7.4442673,
+    "lon": 3.8989784
+  },
+  "nodes": [
+    3671888053,
+    3671888045,
+    3671888037,
+    3671888047,
+    3671888053
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949622,
+  "center": {
+    "lat": 7.4483734,
+    "lon": 3.8979277
+  },
+  "nodes": [
+    3671759755,
+    3671759754,
+    3671759751,
+    3671759753,
+    3671759755
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fculty of Nursing",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 5399579,
+  "center": {
+    "lat": 7.4446484,
+    "lon": 3.8982551
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 362964456,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 362964454,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 97622322,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Student Union Building",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "way",
+  "id": 97622306,
+  "nodes": [
+    1130120040,
+    1130117969,
+    1130118688,
+    1130119063,
+    1130119863,
+    3671888049,
+    3671888046,
+    3671888048,
+    3671888051,
+    1130118108,
+    3671888050,
+    3671888044,
+    3671888039,
+    3671888043,
+    1130118760,
+    1130119517,
+    1130120040
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97622612,
+  "nodes": [
+    1130119777,
+    1130118982,
+    1130118283,
+    1130120270,
+    1130119777
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Administration Building",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 362949626,
+  "nodes": [
+    3671759748,
+    3671759745,
+    3671759735,
+    3671759746,
+    3671759748
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949628,
+  "nodes": [
+    3671759750,
+    3671759749,
+    3671756518,
+    3671756523,
+    3671759750
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949623,
+  "nodes": [
+    3671759757,
+    3671759756,
+    3671759747,
+    3671759752,
+    3671759757
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fculty of Nursing",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 97622322,
+  "nodes": [
+    1130117978,
+    1130119036,
+    1130118898,
+    3671859082,
+    3671859080,
+    3671859081,
+    3671859086,
+    3671859084,
+    3671859089,
+    1130119443,
+    1130118692,
+    3671859090,
+    3671859092,
+    3671859094,
+    3671859093,
+    3671859091,
+    3671859088,
+    3671859087,
+    3671859083,
+    3671859085,
+    1130117055,
+    3671859073,
+    3671859075,
+    3671859077,
+    3671859079,
+    3671859071,
+    3671859070,
+    3671859067,
+    3671859069,
+    3671859065,
+    3671859063,
+    3671859062,
+    3671859064,
+    3671859066,
+    3671859068,
+    3671859076,
+    3671859072,
+    3671859074,
+    3671859078,
+    1130117978
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Student Union Building",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 97622375,
+  "nodes": [
+    1130118954,
+    1130119380,
+    1130120244,
+    1130118262,
+    1130118954
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97622463,
+  "nodes": [
+    1130119213,
+    1130116812,
+    1130117692,
+    3671888056,
+    3671888058,
+    1130118492,
+    1130119213
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97622517,
+  "nodes": [
+    1130119876,
+    1130118881,
+    1130118413,
+    1130119126,
+    1130119876
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Swimming Pool's Pavillion",
+    "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 362949624,
+  "nodes": [
+    3671759744,
+    3671759740,
+    3671756512,
+    3671756507,
+    3671756503,
+    3671759728,
+    3671759725,
+    3671756499,
+    3671756500,
+    3671756501,
+    3671756505,
+    3671756502,
+    3671756504,
+    3671759744
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949625,
+  "nodes": [
+    3671759743,
+    3671759738,
+    3671759742,
+    3671759737,
+    3671759741,
+    3671759739,
+    3671759736,
+    3671759734,
+    3671759733,
+    3671759732,
+    3671756517,
+    3671756522,
+    3671756520,
+    3671756524,
+    3671756519,
+    3671756521,
+    3671759726,
+    3671759729,
+    3671759730,
+    3671759731,
+    3671759743
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949627,
+  "nodes": [
+    3671759727,
+    3671756514,
+    3671756511,
+    3671756516,
+    3671759727
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949630,
+  "nodes": [
+    3671756515,
+    3671756510,
+    3671756508,
+    3671756509,
+    3671756506,
+    3671756513,
+    3671756515
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362967183,
+  "nodes": [
+    3671888060,
+    3671888057,
+    3671888054,
+    3671888055,
+    3671888060
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362967184,
+  "nodes": [
+    3671888053,
+    3671888045,
+    3671888037,
+    3671888047,
+    3671888053
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 362949622,
+  "nodes": [
+    3671759755,
+    3671759754,
+    3671759751,
+    3671759753,
+    3671759755
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fculty of Nursing",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 5399579,
+  "members": [
+    {
+      "type": "way",
+      "ref": 362964456,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 362964454,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 97622322,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Student Union Building",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

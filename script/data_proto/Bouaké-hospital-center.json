@@ -1,0 +1,388 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2095732369,
+  "lat": 7.7011634,
+  "lon": -5.0384625,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Sainte-Camille",
+    "name:en": "Saint-Camilla Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2164262680,
+  "lat": 7.6812009,
+  "lon": -5.0575714,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternité d'Ahougnansou"
+  }
+},
+{
+  "type": "node",
+  "id": 2622391929,
+  "lat": 7.7151292,
+  "lon": -5.0004779,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Belle-Ville 2"
+  }
+},
+{
+  "type": "node",
+  "id": 3080426114,
+  "lat": 7.7211474,
+  "lon": -5.0019422,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Maternité de Belle-Ville-2"
+  }
+},
+{
+  "type": "way",
+  "id": 484025643,
+  "center": {
+    "lat": 7.6757878,
+    "lon": -5.0417956
+  },
+  "nodes": [
+    4767734144,
+    4767734143,
+    4767734142,
+    4767734141,
+    2094225342,
+    4767734140,
+    4767734139,
+    4767734138,
+    4767734137,
+    4767734136,
+    4767734144
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "no",
+    "name": "Hôpital psychiatrique de Bouaké"
+  }
+},
+{
+  "type": "way",
+  "id": 484025706,
+  "center": {
+    "lat": 7.6824078,
+    "lon": -5.0381737
+  },
+  "nodes": [
+    4387184752,
+    4767734232,
+    4442009853,
+    4441872480,
+    4441872485,
+    4441872487,
+    4387185097,
+    4387185094,
+    4387184769,
+    4387184752
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Clinique CMENA"
+  }
+},
+{
+  "type": "way",
+  "id": 414112053,
+  "center": {
+    "lat": 7.6851830,
+    "lon": -5.0332241
+  },
+  "nodes": [
+    4153007756,
+    4153007742,
+    4153007746,
+    4153007760,
+    4153007756
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "residential",
+    "name": "Centre Medico-Social SITARAIL"
+  }
+},
+{
+  "type": "way",
+  "id": 368822200,
+  "center": {
+    "lat": 7.6872360,
+    "lon": -5.0332848
+  },
+  "nodes": [
+    3726614898,
+    3726649144,
+    3726649145,
+    3726649143,
+    3726649134,
+    3726614907,
+    3726614896,
+    3726614897,
+    3726614898
+  ],
+  "tags": {
+    "addr:city": "Bouaké",
+    "addr:street": "Rue de la boulangerie Koko",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Maternité de Koko"
+  }
+},
+{
+  "type": "way",
+  "id": 315450061,
+  "center": {
+    "lat": 7.6996464,
+    "lon": -5.0363806
+  },
+  "nodes": [
+    3215672042,
+    3215672043,
+    3215672044,
+    3215672045,
+    3215672028,
+    3215672025,
+    4774662525,
+    4774663530,
+    4774663241,
+    4391707293,
+    3215672012,
+    3215672014,
+    3215672009,
+    4387173297,
+    3215672008,
+    3215672007,
+    4387172778,
+    3215672006,
+    3215672005,
+    3215672004,
+    3215672003,
+    3215672002,
+    4774661109,
+    4774663182,
+    4774663183,
+    4774663184,
+    3227138130,
+    3227138134,
+    3227138141,
+    4774662388,
+    3227140667,
+    3227140674,
+    4774663180,
+    3227140689,
+    4774661117,
+    3227140701,
+    3227140711,
+    4774663014,
+    4774661108,
+    4775098098,
+    3215672042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier et Universitaire (CHU) de Bouaké",
+    "operator": "Ministère de la santé",
+    "short_name": "CHU de Bouaké"
+  }
+},
+{
+  "type": "way",
+  "id": 482900296,
+  "center": {
+    "lat": 7.6917989,
+    "lon": -5.0129637
+  },
+  "nodes": [
+    4756766966,
+    4756767164,
+    4756766965,
+    4756766964,
+    4756767165,
+    4440368730,
+    4440368691,
+    4756766966
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Maternité de Sokoura"
+  }
+},
+{
+  "type": "way",
+  "id": 484025643,
+  "nodes": [
+    4767734144,
+    4767734143,
+    4767734142,
+    4767734141,
+    2094225342,
+    4767734140,
+    4767734139,
+    4767734138,
+    4767734137,
+    4767734136,
+    4767734144
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "no",
+    "name": "Hôpital psychiatrique de Bouaké"
+  }
+},
+{
+  "type": "way",
+  "id": 484025706,
+  "nodes": [
+    4387184752,
+    4767734232,
+    4442009853,
+    4441872480,
+    4441872485,
+    4441872487,
+    4387185097,
+    4387185094,
+    4387184769,
+    4387184752
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Clinique CMENA"
+  }
+},
+{
+  "type": "way",
+  "id": 414112053,
+  "nodes": [
+    4153007756,
+    4153007742,
+    4153007746,
+    4153007760,
+    4153007756
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "residential",
+    "name": "Centre Medico-Social SITARAIL"
+  }
+},
+{
+  "type": "way",
+  "id": 368822200,
+  "nodes": [
+    3726614898,
+    3726649144,
+    3726649145,
+    3726649143,
+    3726649134,
+    3726614907,
+    3726614896,
+    3726614897,
+    3726614898
+  ],
+  "tags": {
+    "addr:city": "Bouaké",
+    "addr:street": "Rue de la boulangerie Koko",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Maternité de Koko"
+  }
+},
+{
+  "type": "way",
+  "id": 315450061,
+  "nodes": [
+    3215672042,
+    3215672043,
+    3215672044,
+    3215672045,
+    3215672028,
+    3215672025,
+    4774662525,
+    4774663530,
+    4774663241,
+    4391707293,
+    3215672012,
+    3215672014,
+    3215672009,
+    4387173297,
+    3215672008,
+    3215672007,
+    4387172778,
+    3215672006,
+    3215672005,
+    3215672004,
+    3215672003,
+    3215672002,
+    4774661109,
+    4774663182,
+    4774663183,
+    4774663184,
+    3227138130,
+    3227138134,
+    3227138141,
+    4774662388,
+    3227140667,
+    3227140674,
+    4774663180,
+    3227140689,
+    4774661117,
+    3227140701,
+    3227140711,
+    4774663014,
+    4774661108,
+    4775098098,
+    3215672042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier et Universitaire (CHU) de Bouaké",
+    "operator": "Ministère de la santé",
+    "short_name": "CHU de Bouaké"
+  }
+},
+{
+  "type": "way",
+  "id": 482900296,
+  "nodes": [
+    4756766966,
+    4756767164,
+    4756766965,
+    4756766964,
+    4756767165,
+    4440368730,
+    4440368691,
+    4756766966
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Maternité de Sokoura"
+  }
+}
+
+  ]
+}

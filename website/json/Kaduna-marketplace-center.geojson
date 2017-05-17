@@ -1,0 +1,206 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/38977423",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Kaduna Market",
+    "id": "way/38977423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4259548,
+      10.5205632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/39663599",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "landuse": "retail",
+    "id": "way/39663599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.409882,
+      10.5160932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/40442472",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Kaduna Central Market",
+    "id": "way/40442472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4261021,
+      10.5181844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479666491",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/479666491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4181896,
+      10.4943211
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487196142",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/487196142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4588317,
+      10.4515614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487198053",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/487198053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4422508,
+      10.4514478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487208406",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/487208406"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4637506,
+      10.5275466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487208413",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/487208413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4436337,
+      10.5014755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488670872",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/488670872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4489102,
+      10.5785737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488670873",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/488670873"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4491973,
+      10.5793792
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488674905",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/488674905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4417967,
+      10.549048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488730904",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/488730904"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.416989,
+      10.5708481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488830783",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/488830783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4135193,
+      10.4575816
+    ]
+  }
+}
+]
+}

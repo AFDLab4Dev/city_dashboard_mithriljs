@@ -1,0 +1,71 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/300382175",
+  "properties": {
+    "amenity": "hospital",
+    "name": "UN Chinese Hospital and UNMIL Base",
+    "id": "way/300382175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1372063,
+      6.0678577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300382201",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Martha Tubman Hospital",
+    "id": "way/300382201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1244025,
+      6.0782193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2539349267",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Chinese Hospital / UNMIL HQ",
+    "id": "node/2539349267"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1374882,
+      6.0672992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2539349282",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Martha Tubman Memorial (MTM) Hospital",
+    "id": "node/2539349282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1247318,
+      6.0779235
+    ]
+  }
+}
+]
+}

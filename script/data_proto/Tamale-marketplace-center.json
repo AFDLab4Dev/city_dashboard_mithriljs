@@ -1,0 +1,42 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1791494583,
+  "lat": 9.4046874,
+  "lon": -0.8428000,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Tamale Central Market"
+  }
+},
+{
+  "type": "node",
+  "id": 1799107997,
+  "lat": 9.3952507,
+  "lon": -0.8238372,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kukuo Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2509309025,
+  "lat": 9.4278448,
+  "lon": -0.8586454,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Choggu Mmanaayilli Common Market"
+  }
+}
+
+  ]
+}

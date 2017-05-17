@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2206936024",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St John-of-God Catholic Hospital",
+    "id": "node/2206936024"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.524962,
+      8.7033629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579849",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St John-of-God Catholic Hospital",
+    "osm_id": "2206936024",
+    "type": "hospital",
+    "id": "node/3589579849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.524962,
+      8.7033629
+    ]
+  }
+}
+]
+}

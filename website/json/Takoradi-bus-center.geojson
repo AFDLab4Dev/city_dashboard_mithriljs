@@ -1,0 +1,150 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/348766344",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/348766344"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.760544,
+      4.9022875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2024377419",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2024377419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.764862,
+      4.8948394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2024377640",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2024377640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7566007,
+      4.901403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3780917483",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kwasimintsim Trotro Station",
+    "operator": "STMA",
+    "id": "node/3780917483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7620479,
+      4.8982023
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3782638071",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Sekondi Trotro Station",
+    "operator": "STMA",
+    "id": "node/3782638071"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7579369,
+      4.9009551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3783842675",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra Station",
+    "operator": "STMA",
+    "id": "node/3783842675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7647155,
+      4.8966687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3788680067",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Takoradi Main Station",
+    "id": "node/3788680067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7658257,
+      4.8986657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4291858012",
+  "properties": {
+    "alt_name": "MMT",
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit",
+    "id": "node/4291858012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7645291,
+      4.8959665
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4552168184",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Intercity Stc",
+    "id": "node/4552168184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.76479,
+      4.8948033
+    ]
+  }
+}
+]
+}

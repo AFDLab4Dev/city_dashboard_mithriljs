@@ -1,0 +1,182 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/386992570",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Ashaiman Main Market",
+    "id": "way/386992570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0307987,
+      5.6896073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397552322",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "residential",
+    "name": "Tsui Bleo Market",
+    "id": "way/397552322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1067765,
+      5.5876045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1285191171",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "European Fish Market",
+    "shop": "fishmonger",
+    "id": "node/1285191171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0159885,
+      5.6453952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1603831969",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Afariwa",
+    "id": "node/1603831969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0159769,
+      5.7073971
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2150915888",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/2150915888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0002741,
+      5.6545199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2151944575",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "La Main Market",
+    "id": "node/2151944575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1569241,
+      5.5607756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2151944591",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Nungua Market",
+    "id": "node/2151944591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0792959,
+      5.6004693
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2304982029",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Central Market",
+    "id": "node/2304982029"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0336456,
+      5.6853844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2585614628",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Mandela Market",
+    "id": "node/2585614628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.026076,
+      5.6920863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2622097829",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Community 1 Market",
+    "id": "node/2622097829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0000029,
+      5.6454095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4151841338",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Community 8 Market",
+    "id": "node/4151841338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0129016,
+      5.6695502
+    ]
+  }
+}
+]
+}

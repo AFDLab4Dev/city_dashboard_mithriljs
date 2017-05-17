@@ -1,0 +1,34 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:43:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2206936024,
+  "lat": 8.7033629,
+  "lon": -12.5249620,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St John-of-God Catholic Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579849,
+  "lat": 8.7033629,
+  "lon": -12.5249620,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St John-of-God Catholic Hospital",
+    "osm_id": "2206936024",
+    "type": "hospital"
+  }
+}
+
+  ]
+}

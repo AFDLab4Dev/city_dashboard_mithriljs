@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4578346993",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Parc Maison des jeunes",
+    "name:fr": "Parc Maison des jeunes",
+    "id": "node/4578346993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.66787,
+      9.7056933
+    ]
+  }
+}
+]
+}

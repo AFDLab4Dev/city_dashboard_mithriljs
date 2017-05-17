@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2157353794",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2157353794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6664133,
+      6.2024834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4293787533",
+  "properties": {
+    "alt_name": "MMT",
+    "amenity": "bus_station",
+    "name": "Metro Mass Transit",
+    "id": "node/4293787533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6644488,
+      6.1998954
+    ]
+  }
+}
+]
+}

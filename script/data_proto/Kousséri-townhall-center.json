@@ -1,0 +1,304 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:27:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2081148833,
+  "lat": 12.1053455,
+  "lon": 15.0447305,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de N'djamena"
+  }
+},
+{
+  "type": "node",
+  "id": 2589318554,
+  "lat": 12.1146249,
+  "lon": 15.0383553,
+  "tags": {
+    "amenity": "townhall",
+    "name": "commune de n'djamena Direction de Service Technique",
+    "office": "administrative",
+    "source": "gps"
+  }
+},
+{
+  "type": "way",
+  "id": 286028135,
+  "center": {
+    "lat": 12.1273422,
+    "lon": 14.9925178
+  },
+  "nodes": [
+    2896666205,
+    2896666206,
+    2896666207,
+    2896666208,
+    2896666209,
+    2896666210,
+    2896666211,
+    2896666212,
+    2896666205
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de quartier de Farcha"
+  }
+},
+{
+  "type": "way",
+  "id": 399898402,
+  "center": {
+    "lat": 12.0801452,
+    "lon": 15.0322769
+  },
+  "nodes": [
+    4025671307,
+    4025671321,
+    4025671100,
+    4025671095,
+    4025666648,
+    4025666645,
+    4025671066,
+    4025671062,
+    4025671307
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville",
+    "office": "administrative"
+  }
+},
+{
+  "type": "way",
+  "id": 399588866,
+  "center": {
+    "lat": 12.0856780,
+    "lon": 15.0308212
+  },
+  "nodes": [
+    4023141347,
+    4023141345,
+    4023141344,
+    4023141340,
+    4023141339,
+    4023141331,
+    4023141334,
+    4023141330,
+    4023141329,
+    4023141324,
+    4023141322,
+    4023141315,
+    4023141314,
+    4023141310,
+    4023141311,
+    4023141312,
+    4023141313,
+    4023141333,
+    4023141332,
+    4023141337,
+    4023141338,
+    4023141343,
+    4023141342,
+    4023141346,
+    4023141347
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hotel de Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 197919111,
+  "center": {
+    "lat": 12.1053836,
+    "lon": 15.0447486
+  },
+  "nodes": [
+    2081148857,
+    2081148850,
+    2081148848,
+    2081148830,
+    2081148827,
+    2081148828,
+    2081148841,
+    2081148833,
+    2081148857
+  ],
+  "tags": {
+    "addr:street": "Rue Colonnel Moll",
+    "amenity": "townhall",
+    "building": "yes",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "good",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "source:date": "02/08/2013"
+  }
+},
+{
+  "type": "way",
+  "id": 206372567,
+  "center": {
+    "lat": 12.1280659,
+    "lon": 15.0839165
+  },
+  "nodes": [
+    2163801706,
+    2163801710,
+    2163801757,
+    2163801755,
+    2163801706
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:concrete": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "office": "administrative",
+    "project:eurosha_2012": "yes",
+    "source": "BING"
+  }
+},
+{
+  "type": "way",
+  "id": 286028135,
+  "nodes": [
+    2896666205,
+    2896666206,
+    2896666207,
+    2896666208,
+    2896666209,
+    2896666210,
+    2896666211,
+    2896666212,
+    2896666205
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de quartier de Farcha"
+  }
+},
+{
+  "type": "way",
+  "id": 399898402,
+  "nodes": [
+    4025671307,
+    4025671321,
+    4025671100,
+    4025671095,
+    4025666648,
+    4025666645,
+    4025671066,
+    4025671062,
+    4025671307
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville",
+    "office": "administrative"
+  }
+},
+{
+  "type": "way",
+  "id": 399588866,
+  "nodes": [
+    4023141347,
+    4023141345,
+    4023141344,
+    4023141340,
+    4023141339,
+    4023141331,
+    4023141334,
+    4023141330,
+    4023141329,
+    4023141324,
+    4023141322,
+    4023141315,
+    4023141314,
+    4023141310,
+    4023141311,
+    4023141312,
+    4023141313,
+    4023141333,
+    4023141332,
+    4023141337,
+    4023141338,
+    4023141343,
+    4023141342,
+    4023141346,
+    4023141347
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hotel de Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 197919111,
+  "nodes": [
+    2081148857,
+    2081148850,
+    2081148848,
+    2081148830,
+    2081148827,
+    2081148828,
+    2081148841,
+    2081148833,
+    2081148857
+  ],
+  "tags": {
+    "addr:street": "Rue Colonnel Moll",
+    "amenity": "townhall",
+    "building": "yes",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "good",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "source:date": "02/08/2013"
+  }
+},
+{
+  "type": "way",
+  "id": 206372567,
+  "nodes": [
+    2163801706,
+    2163801710,
+    2163801757,
+    2163801755,
+    2163801706
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:concrete": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "office": "administrative",
+    "project:eurosha_2012": "yes",
+    "source": "BING"
+  }
+}
+
+  ]
+}

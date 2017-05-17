@@ -1,0 +1,663 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:25:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 419588198,
+  "lat": 3.9073842,
+  "lon": 11.5261798,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 909317682,
+  "lat": 3.8872596,
+  "lon": 11.5387223,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Le Car"
+  }
+},
+{
+  "type": "node",
+  "id": 1103614025,
+  "lat": 3.9041595,
+  "lon": 11.5259092,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "General Express"
+  }
+},
+{
+  "type": "node",
+  "id": 2267159067,
+  "lat": 3.8243072,
+  "lon": 11.5165313,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "La Kribienne"
+  }
+},
+{
+  "type": "node",
+  "id": 4381897490,
+  "lat": 3.8208736,
+  "lon": 11.5151245,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Danay Express",
+    "name:fr": "Danay Express"
+  }
+},
+{
+  "type": "node",
+  "id": 4381907390,
+  "lat": 3.8171393,
+  "lon": 11.5135891,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "FineXs Voyages",
+    "name:fr": "FineXs Voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 193523038,
+  "center": {
+    "lat": 3.8281824,
+    "lon": 11.5088399
+  },
+  "nodes": [
+    2040421542,
+    2040421643,
+    2040423837,
+    2040425207,
+    2040424976,
+    2040424878,
+    2040424841,
+    2040424546,
+    2040424699,
+    2040424700,
+    2040425963,
+    2040426435,
+    2040425290,
+    2040423901,
+    2040423875,
+    2040423694,
+    2040423690,
+    2040421758,
+    2040421714,
+    2040421533,
+    2040421542
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Garanti Express Company Limited",
+    "note:capacite": "400",
+    "shop": "travel_agency",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192865340,
+  "center": {
+    "lat": 3.8499709,
+    "lon": 11.4867386
+  },
+  "nodes": [
+    2034162432,
+    2034164050,
+    2034164965,
+    2034164849,
+    2034166232,
+    2034165147,
+    2034163673,
+    2034164147,
+    2034164016,
+    2034163282,
+    2034162432
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "agence tresor voyages",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192878695,
+  "center": {
+    "lat": 3.8491371,
+    "lon": 11.4868001
+  },
+  "nodes": [
+    2034143632,
+    2034143325,
+    2034143433,
+    2034143754,
+    2034144468,
+    2034146764,
+    2034146163,
+    2034143632
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "menoa voyages",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 425549022,
+  "center": {
+    "lat": 3.8485499,
+    "lon": 11.4860230
+  },
+  "nodes": [
+    4248431274,
+    4248431273,
+    4248431271,
+    4248431272,
+    4248431274
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "general express voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 192847265,
+  "center": {
+    "lat": 3.8518192,
+    "lon": 11.4882035
+  },
+  "nodes": [
+    2033838359,
+    2033839862,
+    2033838996,
+    2033837205,
+    2033838359
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "maryland express",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192848610,
+  "center": {
+    "lat": 3.8519019,
+    "lon": 11.4882560
+  },
+  "nodes": [
+    2033839137,
+    2033840236,
+    2033841022,
+    2033840500,
+    2033840770,
+    2033840196,
+    2033839137
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "charter",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 425549015,
+  "center": {
+    "lat": 3.8509981,
+    "lon": 11.4874924
+  },
+  "nodes": [
+    4248432134,
+    4248432132,
+    4248432128,
+    4248432130,
+    4248432134
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "amour mezam voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 425549021,
+  "center": {
+    "lat": 3.8509475,
+    "lon": 11.4873256
+  },
+  "nodes": [
+    4248432133,
+    4248432131,
+    4248432124,
+    4248432127,
+    4248432133
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "foden voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 425549023,
+  "center": {
+    "lat": 3.8505345,
+    "lon": 11.4870429
+  },
+  "nodes": [
+    4248432115,
+    4248432113,
+    4248432111,
+    4248432114,
+    4248432115
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "international line voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 192868539,
+  "center": {
+    "lat": 3.8466203,
+    "lon": 11.5216342
+  },
+  "nodes": [
+    2034054580,
+    2034054056,
+    2034058103,
+    2034057688,
+    2034059456,
+    2034059788,
+    2034063703,
+    2034072508,
+    2034071608,
+    2034073694,
+    2034073399,
+    2034074773,
+    2034072249,
+    2034070744,
+    2034068738,
+    2034069113,
+    2034068272,
+    2034067658,
+    2034066596,
+    2034059324,
+    2034058613,
+    2034057496,
+    2034056896,
+    2034054580
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Central Voyage",
+    "shop": "travel_agency",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 219413128,
+  "center": {
+    "lat": 3.8725823,
+    "lon": 11.4971920
+  },
+  "nodes": [
+    2285760825,
+    2285760816,
+    2285760827,
+    2285760837,
+    2285760840,
+    2285760844,
+    2285760846,
+    2285760841,
+    4120999718,
+    2285760825
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Yaoundé Ouest"
+  }
+},
+{
+  "type": "way",
+  "id": 192814574,
+  "center": {
+    "lat": 3.8731427,
+    "lon": 11.5257485
+  },
+  "nodes": [
+    2033482074,
+    2033483963,
+    2033484065,
+    2033482183,
+    2033482074
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Routière Touristique",
+    "operator": "Central Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 192829440,
+  "center": {
+    "lat": 3.8674430,
+    "lon": 11.5504500
+  },
+  "nodes": [
+    2033641508,
+    2033648674,
+    2033651030,
+    2033643512,
+    2033641508
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Routière de MIMBOMAN Terminus",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193523038,
+  "nodes": [
+    2040421542,
+    2040421643,
+    2040423837,
+    2040425207,
+    2040424976,
+    2040424878,
+    2040424841,
+    2040424546,
+    2040424699,
+    2040424700,
+    2040425963,
+    2040426435,
+    2040425290,
+    2040423901,
+    2040423875,
+    2040423694,
+    2040423690,
+    2040421758,
+    2040421714,
+    2040421533,
+    2040421542
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Garanti Express Company Limited",
+    "note:capacite": "400",
+    "shop": "travel_agency",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192865340,
+  "nodes": [
+    2034162432,
+    2034164050,
+    2034164965,
+    2034164849,
+    2034166232,
+    2034165147,
+    2034163673,
+    2034164147,
+    2034164016,
+    2034163282,
+    2034162432
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "agence tresor voyages",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192878695,
+  "nodes": [
+    2034143632,
+    2034143325,
+    2034143433,
+    2034143754,
+    2034144468,
+    2034146764,
+    2034146163,
+    2034143632
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "menoa voyages",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 425549022,
+  "nodes": [
+    4248431274,
+    4248431273,
+    4248431271,
+    4248431272,
+    4248431274
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "general express voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 192847265,
+  "nodes": [
+    2033838359,
+    2033839862,
+    2033838996,
+    2033837205,
+    2033838359
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "maryland express",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192848610,
+  "nodes": [
+    2033839137,
+    2033840236,
+    2033841022,
+    2033840500,
+    2033840770,
+    2033840196,
+    2033839137
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "charter",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 425549015,
+  "nodes": [
+    4248432134,
+    4248432132,
+    4248432128,
+    4248432130,
+    4248432134
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "amour mezam voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 425549021,
+  "nodes": [
+    4248432133,
+    4248432131,
+    4248432124,
+    4248432127,
+    4248432133
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "foden voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 425549023,
+  "nodes": [
+    4248432115,
+    4248432113,
+    4248432111,
+    4248432114,
+    4248432115
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "international line voyages"
+  }
+},
+{
+  "type": "way",
+  "id": 192868539,
+  "nodes": [
+    2034054580,
+    2034054056,
+    2034058103,
+    2034057688,
+    2034059456,
+    2034059788,
+    2034063703,
+    2034072508,
+    2034071608,
+    2034073694,
+    2034073399,
+    2034074773,
+    2034072249,
+    2034070744,
+    2034068738,
+    2034069113,
+    2034068272,
+    2034067658,
+    2034066596,
+    2034059324,
+    2034058613,
+    2034057496,
+    2034056896,
+    2034054580
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Central Voyage",
+    "shop": "travel_agency",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 219413128,
+  "nodes": [
+    2285760825,
+    2285760816,
+    2285760827,
+    2285760837,
+    2285760840,
+    2285760844,
+    2285760846,
+    2285760841,
+    4120999718,
+    2285760825
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière Yaoundé Ouest"
+  }
+},
+{
+  "type": "way",
+  "id": 192814574,
+  "nodes": [
+    2033482074,
+    2033483963,
+    2033484065,
+    2033482183,
+    2033482074
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Routière Touristique",
+    "operator": "Central Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 192829440,
+  "nodes": [
+    2033641508,
+    2033648674,
+    2033651030,
+    2033643512,
+    2033641508
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Routière de MIMBOMAN Terminus",
+    "source": "sobzeros"
+  }
+}
+
+  ]
+}

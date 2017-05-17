@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3926195005",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Ouidah",
+    "id": "node/3926195005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0853559,
+      6.3578849
+    ]
+  }
+}
+]
+}

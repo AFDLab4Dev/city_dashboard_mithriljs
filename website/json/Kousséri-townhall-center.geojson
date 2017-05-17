@@ -1,0 +1,137 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/197919111",
+  "properties": {
+    "addr:street": "Rue Colonnel Moll",
+    "amenity": "townhall",
+    "building": "yes",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "good",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "source:date": "02/08/2013",
+    "id": "way/197919111"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0447486,
+      12.1053836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206372567",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:concrete": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "office": "administrative",
+    "project:eurosha_2012": "yes",
+    "source": "BING",
+    "id": "way/206372567"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0839165,
+      12.1280659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/286028135",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de quartier de Farcha",
+    "id": "way/286028135"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.9925178,
+      12.1273422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399588866",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hotel de Ville",
+    "id": "way/399588866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0308212,
+      12.085678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399898402",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville",
+    "office": "administrative",
+    "id": "way/399898402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0322769,
+      12.0801452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2081148833",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de N'djamena",
+    "id": "node/2081148833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0447305,
+      12.1053455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2589318554",
+  "properties": {
+    "amenity": "townhall",
+    "name": "commune de n'djamena Direction de Service Technique",
+    "office": "administrative",
+    "source": "gps",
+    "id": "node/2589318554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0383553,
+      12.1146249
+    ]
+  }
+}
+]
+}

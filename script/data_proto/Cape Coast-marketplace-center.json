@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2021309703,
+  "lat": 5.0806924,
+  "lon": -1.3571948,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Central Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2021309705,
+  "lat": 5.0820300,
+  "lon": -1.3519870,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fish Market"
+  }
+},
+{
+  "type": "way",
+  "id": 441984754,
+  "center": {
+    "lat": 5.1150639,
+    "lon": -1.2924339
+  },
+  "nodes": [
+    4396751406,
+    4396751401,
+    4396751400,
+    4396751399,
+    4396751398,
+    4396751396,
+    4396751405,
+    4396751406
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Science Market",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 441984754,
+  "nodes": [
+    4396751406,
+    4396751401,
+    4396751400,
+    4396751399,
+    4396751398,
+    4396751396,
+    4396751405,
+    4396751406
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Science Market",
+    "wheelchair": "no"
+  }
+}
+
+  ]
+}

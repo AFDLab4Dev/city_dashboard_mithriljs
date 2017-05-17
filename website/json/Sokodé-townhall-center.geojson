@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/377110877",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "La Mairie",
+    "id": "way/377110877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1387441,
+      8.9838996
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,136 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3589607734",
+  "properties": {
+    "amenity": "marketplace",
+    "description": "Market",
+    "location": "Bojon Street-Fenton Road",
+    "name": "Bo Central Market",
+    "no_": "27.000000",
+    "shop": "mall",
+    "x": "198118.000000",
+    "y": "881496.000000",
+    "id": "node/3589607734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7379802,
+      7.9657926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607765",
+  "properties": {
+    "addr:full": "Railway line off Sewa Road",
+    "addr:street": "Old Railway Line",
+    "amenity": "marketplace",
+    "name": "Gbongo Market",
+    "shop": "mall",
+    "id": "node/3589607765"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7339832,
+      7.9565104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607774",
+  "properties": {
+    "amenity": "marketplace",
+    "description": "Market",
+    "location": "Towama Road",
+    "name": "Kandeh Town Market",
+    "no_": "34.000000",
+    "shop": "mall",
+    "x": "196343.000000",
+    "y": "880068.000000",
+    "id": "node/3589607774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7542055,
+      7.9525995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589607791",
+  "properties": {
+    "Location": "Musa Street",
+    "amenity": "marketplace",
+    "name": "Musa Street Market",
+    "id": "node/3589607791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7366128,
+      7.9452663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589640126",
+  "properties": {
+    "addr:street": "Matru Road",
+    "amenity": "marketplace",
+    "name": "Sobawan Market",
+    "shop": "department_store",
+    "id": "node/3589640126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7469553,
+      7.9592261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3684871482",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Manjama Market",
+    "shop": "department_store",
+    "id": "node/3684871482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7287513,
+      7.9413452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3685699565",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Salina Market",
+    "id": "node/3685699565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7210762,
+      7.9515247
+    ]
+  }
+}
+]
+}

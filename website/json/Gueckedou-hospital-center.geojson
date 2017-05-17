@@ -1,0 +1,116 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4218028765",
+  "properties": {
+    "addr:city": "sokourani",
+    "amenity": "hospital",
+    "bed_count": "0",
+    "contact:phone": "620133456",
+    "dispensing": "yes",
+    "doctors_num": "1",
+    "electricity": "solar",
+    "emergency": "no",
+    "name": "poste de santé sokourani",
+    "nature_of_facility": "poste de santé",
+    "nurses_num": "2",
+    "opening_hours": "8h a 17h",
+    "operator": "government",
+    "operator_name": "lvan ketone",
+    "water_source": "tubewell",
+    "id": "node/4218028765"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1252747,
+      8.5436766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4532565409",
+  "properties": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "hospital",
+    "bed_count": "12",
+    "building": "yes",
+    "contact:phone": "622019549",
+    "dispensing": "yes",
+    "doctors_num": "4",
+    "emergency": "yes",
+    "healthcare:specialty": "emergency",
+    "name": "Hôpital Central de Gueckedou",
+    "nurses_num": "8",
+    "operator": "government",
+    "operator_name": "Minisere Sante Publique",
+    "source": "Red Cross Field Survey",
+    "id": "node/4532565409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1370395,
+      8.5610435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4532565411",
+  "properties": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "hospital",
+    "building": "yes",
+    "dispensing": "yes",
+    "emergency": "yes",
+    "healthcare:specialty": "general",
+    "name": "Hôpital Préfectoral de Gueckedou",
+    "opening_hours": "24/7",
+    "source": "Red Cross Field Survey",
+    "id": "node/4532565411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1350808,
+      8.5590146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4532565412",
+  "properties": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "hospital",
+    "building": "yes",
+    "contact:phone": "628009129",
+    "dispensing": "yes",
+    "doctors_num": "2",
+    "emergency": "yes",
+    "healthcare:specialty": "general",
+    "name": "Hôpital Central de Guekédou",
+    "nurses_num": "3",
+    "opening_hours": "8:00-16:30",
+    "operator": "government",
+    "operator_name": "Sidiki Kouroura",
+    "source": "Red Cross Field Survey",
+    "id": "node/4532565412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1353502,
+      8.5593032
+    ]
+  }
+}
+]
+}

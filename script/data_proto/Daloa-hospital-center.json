@@ -1,0 +1,62 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 168583661,
+  "center": {
+    "lat": 6.8827094,
+    "lon": -6.4396620
+  },
+  "nodes": [
+    1798249698,
+    4542760622,
+    4542901064,
+    1798249701,
+    1798249699,
+    1798249702,
+    1798249697,
+    4542760623,
+    4542760624,
+    1798249694,
+    1798249695,
+    1798249698
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier Régional de Daloa"
+  }
+},
+{
+  "type": "way",
+  "id": 168583661,
+  "nodes": [
+    1798249698,
+    4542760622,
+    4542901064,
+    1798249701,
+    1798249699,
+    1798249702,
+    1798249697,
+    4542760623,
+    4542760624,
+    1798249694,
+    1798249695,
+    1798249698
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier Régional de Daloa"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,54 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/441984754",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Science Market",
+    "wheelchair": "no",
+    "id": "way/441984754"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2924339,
+      5.1150639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021309703",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Central Market",
+    "id": "node/2021309703"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.3571948,
+      5.0806924
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021309705",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Fish Market",
+    "id": "node/2021309705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.351987,
+      5.08203
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2177482930",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Mallam Karto Park",
+    "id": "node/2177482930"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398965,
+      12.007106
+    ]
+  }
+}
+]
+}

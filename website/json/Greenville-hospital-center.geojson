@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3273816218",
+  "properties": {
+    "amenity": "hospital",
+    "capacity:beds": "50",
+    "name": "Greenville ETU",
+    "id": "node/3273816218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.0606111,
+      5.0452778
+    ]
+  }
+}
+]
+}

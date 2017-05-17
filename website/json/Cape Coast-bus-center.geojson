@@ -1,0 +1,133 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/219817802",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kotokraba Market Lorry Station",
+    "id": "way/219817802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2460224,
+      5.1136593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356194408",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/356194408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2501561,
+      5.1036938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021262294",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra Kumasi",
+    "id": "node/2021262294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2414146,
+      5.1128258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021262326",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "MMT",
+    "id": "node/2021262326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2419963,
+      5.1062607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021310537",
+  "properties": {
+    "amenity": "bus_station",
+    "fixme": "check location",
+    "name": "east",
+    "id": "node/2021310537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.3498413,
+      5.086507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021310538",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "west",
+    "id": "node/2021310538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.3608606,
+      5.0807328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4010964673",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Metro Mass",
+    "operator": "Metro Mass Transit Ltd",
+    "id": "node/4010964673"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2525646,
+      5.1072514
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400085083",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4400085083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.269738,
+      5.123389
+    ]
+  }
+}
+]
+}

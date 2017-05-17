@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/491696380",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Grand Marché Gagnoa",
+    "id": "way/491696380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9463769,
+      6.12803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/492217982",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/492217982"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.965155,
+      6.129016
+    ]
+  }
+}
+]
+}

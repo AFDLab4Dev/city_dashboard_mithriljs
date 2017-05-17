@@ -86,6 +86,22 @@
 },
 {
   "type": "Feature",
+  "id": "way/369080520",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marche de Bomono",
+    "id": "way/369080520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5978319,
+      4.1685577
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/369080798",
   "properties": {
     "amenity": "marketplace",

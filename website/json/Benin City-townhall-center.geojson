@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/44615766",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Uzebu Community Secretariat",
+    "id": "way/44615766"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6108205,
+      6.3394006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1799104532",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/1799104532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5807456,
+      6.3627381
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154548095",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Forum of Nigerian Women in Politice",
+    "id": "node/2154548095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6277527,
+      6.3338782
+    ]
+  }
+}
+]
+}

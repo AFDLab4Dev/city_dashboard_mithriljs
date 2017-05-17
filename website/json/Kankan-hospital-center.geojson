@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3357427367",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital Régional de Kankan",
+    "id": "node/3357427367"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.3051328,
+      10.3690538
+    ]
+  }
+}
+]
+}

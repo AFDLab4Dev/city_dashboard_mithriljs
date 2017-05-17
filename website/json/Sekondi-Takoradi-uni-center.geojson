@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/204593548",
+  "properties": {
+    "amenity": "university",
+    "name": "Takoradi Polytechnic",
+    "operator": "Ghana Education Service",
+    "id": "way/204593548"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7556371,
+      4.9093487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/317966580",
+  "properties": {
+    "amenity": "university",
+    "name": "Community University College Takoradi",
+    "source": "Bing Maps",
+    "id": "way/317966580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7822378,
+      4.9258817
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,87 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4547687889",
+  "properties": {
+    "amenity": "bus_station",
+    "name:en": "Bikpassiba",
+    "id": "node/4547687889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7560977,
+      9.250838
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4727485591",
+  "properties": {
+    "amenity": "bus_station",
+    "name:en": "Koupoulou",
+    "id": "node/4727485591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7600079,
+      9.1328657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4734119622",
+  "properties": {
+    "amenity": "bus_station",
+    "name:en": "Kitang",
+    "id": "node/4734119622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7481082,
+      9.1365319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4770778222",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "25",
+    "name:fr": "25",
+    "id": "node/4770778222"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7889431,
+      9.2317314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4770790121",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "23",
+    "name:fr": "23",
+    "id": "node/4770790121"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7886566,
+      9.2319361
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,176 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2148020792,
+  "lat": 5.6081302,
+  "lon": -0.2564115,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Chantan New Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020840,
+  "lat": 5.6392602,
+  "lon": -0.2138419,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kisseman Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2148021097,
+  "lat": 5.5523258,
+  "lon": -0.2376556,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Sabon Zongo Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3109282498,
+  "lat": 5.5686389,
+  "lon": -0.2168619,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Odoornaa Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3154426148,
+  "lat": 5.6074700,
+  "lon": -0.2480086,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Lapaz Street Market"
+  }
+},
+{
+  "type": "way",
+  "id": 204809586,
+  "center": {
+    "lat": 5.5532155,
+    "lon": -0.4350119
+  },
+  "nodes": [
+    2147841083,
+    2147841074,
+    2147841075,
+    2147841094,
+    3079785848,
+    2147841083
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oduponkpehe Ofaakor New Market"
+  }
+},
+{
+  "type": "way",
+  "id": 295106221,
+  "center": {
+    "lat": 5.5551570,
+    "lon": -0.2264128
+  },
+  "nodes": [
+    2987757368,
+    2995447021,
+    2497162655,
+    2987757362,
+    2917311760,
+    2917311759,
+    2987757363,
+    4713828360,
+    2987757368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Agbogbloshie Onion Market"
+  }
+},
+{
+  "type": "way",
+  "id": 414615655,
+  "center": {
+    "lat": 5.5798146,
+    "lon": -0.2083065
+  },
+  "nodes": [
+    4157336074,
+    4157336071,
+    4157336069,
+    4157336070,
+    4157336074
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mallam Atta Market",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "way",
+  "id": 204809586,
+  "nodes": [
+    2147841083,
+    2147841074,
+    2147841075,
+    2147841094,
+    3079785848,
+    2147841083
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Oduponkpehe Ofaakor New Market"
+  }
+},
+{
+  "type": "way",
+  "id": 295106221,
+  "nodes": [
+    2987757368,
+    2995447021,
+    2497162655,
+    2987757362,
+    2917311760,
+    2917311759,
+    2987757363,
+    4713828360,
+    2987757368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Agbogbloshie Onion Market"
+  }
+},
+{
+  "type": "way",
+  "id": 414615655,
+  "nodes": [
+    4157336074,
+    4157336071,
+    4157336069,
+    4157336070,
+    4157336074
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mallam Atta Market",
+    "shop": "greengrocer"
+  }
+}
+
+  ]
+}

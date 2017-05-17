@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4531925395",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park for Liberia Border(Jendema)",
+    "id": "node/4531925395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7434277,
+      7.9602524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4532007190",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shated Taxi Park for Kenema",
+    "name:en": "Shated Taxi Park for Kenema",
+    "id": "node/4532007190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.737394,
+      7.9649737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4532060589",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park for Makeni Kono",
+    "name:en": "Shared Taxi Station",
+    "id": "node/4532060589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.737095,
+      7.965084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4533776992",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park",
+    "name:en": "Shared Taxi Park",
+    "id": "node/4533776992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7365145,
+      7.9455045
+    ]
+  }
+}
+]
+}

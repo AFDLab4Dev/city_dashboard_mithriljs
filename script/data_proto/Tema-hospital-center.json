@@ -1,0 +1,361 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1590950043,
+  "lat": 5.5733758,
+  "lon": -0.1125237,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Family Health Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1590950091,
+  "lat": 5.6029471,
+  "lon": -0.1200350,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lekma Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1590950115,
+  "lat": 5.6194939,
+  "lon": -0.1460652,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lister Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2550534170,
+  "lat": 5.6920930,
+  "lon": 0.0586900,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3872176339,
+  "lat": 5.6745022,
+  "lon": -0.0251795,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tema General Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4286159109,
+  "lat": 5.6574049,
+  "lon": -0.0107327,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Narh-Bita Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4311879592,
+  "lat": 5.6240883,
+  "lon": -0.0696843,
+  "tags": {
+    "amenity": "hospital",
+    "name": "C & J Medicare"
+  }
+},
+{
+  "type": "node",
+  "id": 4311941089,
+  "lat": 5.6223697,
+  "lon": -0.0628674,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Sakumono Community Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4349951489,
+  "lat": 5.6520807,
+  "lon": -0.0188053,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pro Vita Specialist Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4350177512,
+  "lat": 5.6723181,
+  "lon": -0.0195889,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bethel Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4350187523,
+  "lat": 5.6696048,
+  "lon": 0.0338969,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Valco Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4350212050,
+  "lat": 5.7186710,
+  "lon": 0.0085894,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Atlantis Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4350212053,
+  "lat": 5.7366437,
+  "lon": -0.0142969,
+  "tags": {
+    "amenity": "hospital",
+    "name": "New Crystal Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4400510890,
+  "lat": 5.7104424,
+  "lon": -0.0507497,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Mother of God"
+  }
+},
+{
+  "type": "node",
+  "id": 4400511298,
+  "lat": 5.6654302,
+  "lon": -0.0189960,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tema Women's Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4799957391,
+  "lat": 5.6356516,
+  "lon": -0.1610568,
+  "tags": {
+    "amenity": "hospital",
+    "name": "International Homeopatic Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 205221630,
+  "center": {
+    "lat": 5.6059721,
+    "lon": -0.1086759
+  },
+  "nodes": [
+    2151945300,
+    2151945299,
+    2151945303,
+    2151945305,
+    2151945300
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Manna Mission",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 481195130,
+  "center": {
+    "lat": 5.6458791,
+    "lon": -0.1567972
+  },
+  "nodes": [
+    4741326754,
+    4741326757,
+    4741326756,
+    4741326755,
+    4741326754
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bemuah Royal Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 443765697,
+  "center": {
+    "lat": 5.6356521,
+    "lon": -0.0067991
+  },
+  "nodes": [
+    4413035486,
+    4413035890,
+    4413035889,
+    4413035475,
+    4413035473,
+    4413035476,
+    4413035483,
+    4413035486
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tema Polyclinic"
+  }
+},
+{
+  "type": "way",
+  "id": 358337142,
+  "center": {
+    "lat": 5.6740992,
+    "lon": -0.0248940
+  },
+  "nodes": [
+    3256279974,
+    3632729389,
+    3632729390,
+    3632729391,
+    3632729392,
+    3632732693,
+    3632732694,
+    3256279974
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tema General Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 459562807,
+  "center": {
+    "lat": 5.7980855,
+    "lon": -0.1260621
+  },
+  "nodes": [
+    4553799282,
+    4553799283,
+    4553799284,
+    4553799287,
+    4553799285,
+    4553799286,
+    4553799282
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building:levels": "1",
+    "name": "Valley View University Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 205221630,
+  "nodes": [
+    2151945300,
+    2151945299,
+    2151945303,
+    2151945305,
+    2151945300
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Manna Mission",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 481195130,
+  "nodes": [
+    4741326754,
+    4741326757,
+    4741326756,
+    4741326755,
+    4741326754
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bemuah Royal Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 443765697,
+  "nodes": [
+    4413035486,
+    4413035890,
+    4413035889,
+    4413035475,
+    4413035473,
+    4413035476,
+    4413035483,
+    4413035486
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tema Polyclinic"
+  }
+},
+{
+  "type": "way",
+  "id": 358337142,
+  "nodes": [
+    3256279974,
+    3632729389,
+    3632729390,
+    3632729391,
+    3632729392,
+    3632732693,
+    3632732694,
+    3256279974
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tema General Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 459562807,
+  "nodes": [
+    4553799282,
+    4553799283,
+    4553799284,
+    4553799287,
+    4553799285,
+    4553799286,
+    4553799282
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building:levels": "1",
+    "name": "Valley View University Hospital"
+  }
+}
+
+  ]
+}

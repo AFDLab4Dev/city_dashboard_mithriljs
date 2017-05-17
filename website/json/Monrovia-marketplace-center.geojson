@@ -1,0 +1,234 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/112390850",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Jorkpenkin Market",
+    "source": "Bing",
+    "id": "way/112390850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7870219,
+      6.2948558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/134903087",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Magai Market",
+    "id": "way/134903087"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.8028625,
+      6.3079941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/161048350",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "West Point Market",
+    "id": "way/161048350"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.8071399,
+      6.3242043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/161049608",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "New Market",
+    "id": "way/161049608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.8077178,
+      6.3222946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297124583",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/297124583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6871474,
+      6.2915632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/298578789",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Fama Market",
+    "source": "Local Knowledge",
+    "id": "way/298578789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7725704,
+      6.2941072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/304027688",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/304027688"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6741743,
+      6.2456113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305000954",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm.",
+    "id": "way/305000954"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.8035961,
+      6.3239042
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305072250",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Dry Rice Market",
+    "id": "way/305072250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.732586,
+      6.3474336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305077457",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/305077457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7319504,
+      6.4008129
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1565176369",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Nancy Doe General Market",
+    "id": "node/1565176369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.8029385,
+      6.3080464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2812531564",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/2812531564"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7343883,
+      6.2765859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2812532381",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Red Light Market",
+    "id": "node/2812532381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.6907501,
+      6.2923878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3708485896",
+  "properties": {
+    "addr:city": "sinkor",
+    "addr:street": "8th Street",
+    "amenity": "marketplace",
+    "name": "Nancy B.Doe Market",
+    "opening_hours": "9:00am-6:30pm",
+    "operator": "Former Pres.Samuel K.Doe Wife Nancy B.Doe",
+    "id": "node/3708485896"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7872957,
+      6.2928061
+    ]
+  }
+}
+]
+}

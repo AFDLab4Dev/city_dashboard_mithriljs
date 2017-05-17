@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/300274471",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Man",
+    "id": "way/300274471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5482857,
+      7.4094864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/461229019",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/461229019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5540682,
+      7.4200516
+    ]
+  }
+}
+]
+}

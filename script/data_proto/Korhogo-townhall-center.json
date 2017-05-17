@@ -1,0 +1,36 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4117502786,
+  "lat": 9.4517434,
+  "lon": -5.6334712,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Korhogo",
+    "projet:eboci": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4119148158,
+  "lat": 9.4521311,
+  "lon": -5.6338272,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie Externe",
+    "projet:eboci": "yes",
+    "source": "survey"
+  }
+}
+
+  ]
+}

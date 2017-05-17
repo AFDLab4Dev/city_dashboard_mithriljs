@@ -1,0 +1,128 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 427803208,
+  "center": {
+    "lat": 9.5471049,
+    "lon": -13.6725880
+  },
+  "nodes": [
+    4269822297,
+    4269822298,
+    4269822299,
+    4269822300,
+    4269822297
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE DIXINN"
+  }
+},
+{
+  "type": "way",
+  "id": 445920840,
+  "center": {
+    "lat": 9.5815711,
+    "lon": -13.6588129
+  },
+  "nodes": [
+    4432678817,
+    2754450288,
+    4432678818,
+    4432678819,
+    4432678820,
+    4432678821,
+    4432678822,
+    4432678823,
+    4432678817
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Ratoma"
+  }
+},
+{
+  "type": "way",
+  "id": 270765814,
+  "center": {
+    "lat": 9.6021332,
+    "lon": -13.6015942
+  },
+  "nodes": [
+    2757595927,
+    2757595895,
+    2757595904,
+    2757595931,
+    2757595927
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE MATOTO"
+  }
+},
+{
+  "type": "way",
+  "id": 427803208,
+  "nodes": [
+    4269822297,
+    4269822298,
+    4269822299,
+    4269822300,
+    4269822297
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE DIXINN"
+  }
+},
+{
+  "type": "way",
+  "id": 445920840,
+  "nodes": [
+    4432678817,
+    2754450288,
+    4432678818,
+    4432678819,
+    4432678820,
+    4432678821,
+    4432678822,
+    4432678823,
+    4432678817
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Ratoma"
+  }
+},
+{
+  "type": "way",
+  "id": 270765814,
+  "nodes": [
+    2757595927,
+    2757595895,
+    2757595904,
+    2757595931,
+    2757595927
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE MATOTO"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:28:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2732343162,
+  "lat": 10.7385613,
+  "lon": 13.8109815,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopitale"
+  }
+},
+{
+  "type": "way",
+  "id": 267837016,
+  "center": {
+    "lat": 10.7377259,
+    "lon": 13.8106972
+  },
+  "nodes": [
+    2732388082,
+    2732388084,
+    2732388086,
+    2732388089,
+    2732388082
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 267837016,
+  "nodes": [
+    2732388082,
+    2732388084,
+    2732388086,
+    2732388089,
+    2732388082
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+}
+
+  ]
+}

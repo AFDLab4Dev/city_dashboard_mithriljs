@@ -1,0 +1,100 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2021262315,
+  "lat": 5.1287219,
+  "lon": -1.2286853,
+  "tags": {
+    "amenity": "university",
+    "name": "Ghana National College"
+  }
+},
+{
+  "type": "way",
+  "id": 330376417,
+  "center": {
+    "lat": 5.1187694,
+    "lon": -1.2889669
+  },
+  "nodes": [
+    3373392297,
+    3373392296,
+    3373392294,
+    3373391592,
+    3373391590,
+    3373391588,
+    3373391589,
+    3373391591,
+    3373392293,
+    3373392295,
+    3373392298,
+    3373392303,
+    3373392313,
+    3373392314,
+    3373392316,
+    3373392319,
+    3373392321,
+    3373392317,
+    3373392318,
+    3373392320,
+    3373392315,
+    3373392304,
+    3373392299,
+    3373392297
+  ],
+  "tags": {
+    "alt_name": "UCC",
+    "amenity": "university",
+    "fixme": "Boundary needs some fix",
+    "name": "University of Cape Coast",
+    "official_name": "University of Cape Coast"
+  }
+},
+{
+  "type": "way",
+  "id": 330376417,
+  "nodes": [
+    3373392297,
+    3373392296,
+    3373392294,
+    3373391592,
+    3373391590,
+    3373391588,
+    3373391589,
+    3373391591,
+    3373392293,
+    3373392295,
+    3373392298,
+    3373392303,
+    3373392313,
+    3373392314,
+    3373392316,
+    3373392319,
+    3373392321,
+    3373392317,
+    3373392318,
+    3373392320,
+    3373392315,
+    3373392304,
+    3373392299,
+    3373392297
+  ],
+  "tags": {
+    "alt_name": "UCC",
+    "amenity": "university",
+    "fixme": "Boundary needs some fix",
+    "name": "University of Cape Coast",
+    "official_name": "University of Cape Coast"
+  }
+}
+
+  ]
+}

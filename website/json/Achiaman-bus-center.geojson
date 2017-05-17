@@ -1,0 +1,505 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/3933988",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Imperial Express Yard",
+    "operator": "Imperial Express Transport",
+    "type": "multipolygon",
+    "website": "http://www.imperialexpress.com.gh/",
+    "id": "relation/3933988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2288963,
+      5.557417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/17914757",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "STC",
+    "id": "way/17914757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2250549,
+      5.5642377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/298830279",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VIP Bus Terminal",
+    "id": "way/298830279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2197208,
+      5.5679657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302376253",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Achimota Transport Terminal",
+    "id": "way/302376253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2260549,
+      5.6221739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356777847",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Odornaa Bus station",
+    "id": "way/356777847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.216073,
+      5.5680478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356779684",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/356779684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2156738,
+      5.5678749
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/404426046",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "way/404426046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2202356,
+      5.5804036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1986177611",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "ACP Station",
+    "id": "node/1986177611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2774403,
+      5.6839647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815303473",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Banana Inn",
+    "id": "node/2815303473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2362276,
+      5.5643203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815311888",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Takoradi Station",
+    "id": "node/2815311888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2367868,
+      5.5652982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815317517",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Dansoman Station",
+    "id": "node/2815317517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2380686,
+      5.5640112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815320007",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Korlebu Station",
+    "id": "node/2815320007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2359508,
+      5.5640056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2815320133",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kaneshie Station",
+    "id": "node/2815320133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2353524,
+      5.5656917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3073421167",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Public Transport",
+    "id": "node/3073421167"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1944473,
+      5.6173445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3109289830",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Odornaa Bus station",
+    "id": "node/3109289830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2173233,
+      5.5673255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3109291911",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3109291911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.213241,
+      5.5696427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3137754354",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tarkwa Ford Station",
+    "id": "node/3137754354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2351681,
+      5.5650574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154416434",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Darkuman Bus",
+    "id": "node/3154416434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2494881,
+      5.6058011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154420241",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3154420241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2465969,
+      5.6072901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154423237",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3154423237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2462694,
+      5.6080599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154429400",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "37 station",
+    "id": "node/3154429400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2496745,
+      5.6068069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3621763485",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Olla Balm Station",
+    "id": "node/3621763485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2382096,
+      5.5755793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3621763710",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/3621763710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2398299,
+      5.5803983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324512075",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra, Circle",
+    "operator": "VVIP",
+    "id": "node/4324512075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2151299,
+      5.5703101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4461423012",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Public Transport",
+    "id": "node/4461423012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1909616,
+      5.61859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4621497990",
+  "properties": {
+    "addr:postcode": "+233",
+    "addr:street": "TROPPO ST",
+    "amenity": "bus_station",
+    "id": "node/4621497990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.254849,
+      5.5532709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4727380590",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VVIP Bus Station",
+    "name:en": "VVIP Bus Station",
+    "id": "node/4727380590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2191757,
+      5.5690679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4740601928",
+  "properties": {
+    "addr:street": "Accra-Winneba Road",
+    "amenity": "bus_station",
+    "name": "Mile eleven",
+    "id": "node/4740601928"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.3555612,
+      5.5506014
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4740602036",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Odorkor Bus Stop",
+    "id": "node/4740602036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2648468,
+      5.5796764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4740602042",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tema station",
+    "name:en": "Tema station",
+    "id": "node/4740602042"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2373184,
+      5.5659266
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4747205323",
+  "properties": {
+    "addr:postcode": "00233",
+    "addr:street": "Naa Ayele Slater Street",
+    "amenity": "bus_station",
+    "id": "node/4747205323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2087537,
+      5.582633
+    ]
+  }
+}
+]
+}

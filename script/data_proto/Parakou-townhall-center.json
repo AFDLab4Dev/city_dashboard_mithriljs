@@ -1,0 +1,43 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:34:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 465952048,
+  "lat": 9.3475961,
+  "lon": 2.6363716,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie Annexe"
+  }
+},
+{
+  "type": "node",
+  "id": 2432365196,
+  "lat": 9.3411371,
+  "lon": 2.6286209,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Prefeture du Borgou / Alibori",
+    "office": "administrative"
+  }
+},
+{
+  "type": "node",
+  "id": 4554062246,
+  "lat": 9.3390052,
+  "lon": 2.6291833,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Parakou"
+  }
+}
+
+  ]
+}

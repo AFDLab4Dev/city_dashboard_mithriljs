@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2606118841",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de Djougou",
+    "office": "administrative",
+    "source": "GPS",
+    "id": "node/2606118841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6685946,
+      9.7071307
+    ]
+  }
+}
+]
+}

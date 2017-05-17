@@ -1,0 +1,219 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2999860534,
+  "lat": 6.2368165,
+  "lon": 1.6089395,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier d'Aneho Adjido",
+    "short_name": "CHA",
+    "source": "bing;survey 2014",
+    "source:date": "2014/08/06"
+  }
+},
+{
+  "type": "node",
+  "id": 3003241717,
+  "lat": 6.2238621,
+  "lon": 1.5724310,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de l'Habitat"
+  }
+},
+{
+  "type": "node",
+  "id": 4089665767,
+  "lat": 6.3475242,
+  "lon": 1.5242999,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHP Vogan"
+  }
+},
+{
+  "type": "node",
+  "id": 4089693133,
+  "lat": 6.3477463,
+  "lon": 1.5244812,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Préfectoral de Vogan"
+  }
+},
+{
+  "type": "node",
+  "id": 4407715886,
+  "lat": 6.2408046,
+  "lon": 1.6304866,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Corridor"
+  }
+},
+{
+  "type": "node",
+  "id": 4407717684,
+  "lat": 6.2405546,
+  "lon": 1.6321013,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Poste d'inspection phytosanitaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4407720834,
+  "lat": 6.2407312,
+  "lon": 1.6291643,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Poste de contrôle de vaccination"
+  }
+},
+{
+  "type": "node",
+  "id": 4407724576,
+  "lat": 6.2405186,
+  "lon": 1.6284467,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Poste d'inspection phytosanitaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4726205234,
+  "lat": 6.2117321,
+  "lon": 1.4810025,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMS Agbodrafo"
+  }
+},
+{
+  "type": "way",
+  "id": 244124470,
+  "center": {
+    "lat": 6.2172455,
+    "lon": 1.5319725
+  },
+  "nodes": [
+    2514743023,
+    2514743026,
+    2514743024,
+    2514743025,
+    2514743022,
+    2514743021,
+    2514743023
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Goumou Kopé",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 367087918,
+  "center": {
+    "lat": 6.2293473,
+    "lon": 1.5948329
+  },
+  "nodes": [
+    3710469314,
+    3710469313,
+    3710469322,
+    2449601391,
+    2449601401,
+    2449601395,
+    3710469314
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "PoMEFa Polyclinique Mère et Enfant"
+  }
+},
+{
+  "type": "way",
+  "id": 295867586,
+  "center": {
+    "lat": 6.2404485,
+    "lon": 1.6301020
+  },
+  "nodes": [
+    2996292406,
+    2996292405,
+    2996292403,
+    2996292404,
+    2996292406
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Contrôle de Vacinations"
+  }
+},
+{
+  "type": "way",
+  "id": 244124470,
+  "nodes": [
+    2514743023,
+    2514743026,
+    2514743024,
+    2514743025,
+    2514743022,
+    2514743021,
+    2514743023
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Goumou Kopé",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 367087918,
+  "nodes": [
+    3710469314,
+    3710469313,
+    3710469322,
+    2449601391,
+    2449601401,
+    2449601395,
+    3710469314
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "PoMEFa Polyclinique Mère et Enfant"
+  }
+},
+{
+  "type": "way",
+  "id": 295867586,
+  "nodes": [
+    2996292406,
+    2996292405,
+    2996292403,
+    2996292404,
+    2996292406
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Contrôle de Vacinations"
+  }
+}
+
+  ]
+}

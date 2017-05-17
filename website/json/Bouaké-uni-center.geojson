@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/183164961",
+  "properties": {
+    "addr:city": "Bouaké",
+    "addr:street": "Route de Béoumi",
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Université Alassane Ouattara - Campus 1",
+    "name:en": "Alassane Ouattara University - Campus 1",
+    "old_name": "Université de Bouaké",
+    "wikipedia": "fr:Université Alassane Ouattara",
+    "id": "way/183164961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0651211,
+      7.6880497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/341270317",
+  "properties": {
+    "addr:city": "Bouaké",
+    "addr:street": "Route de Béoumi",
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Université Alassane Ouattara - Campus 2",
+    "name:en": "Alassane Ouattara University - Campus 2",
+    "wikipedia": "fr:Université Alassane Ouattara",
+    "id": "way/341270317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0769171,
+      7.676172
+    ]
+  }
+}
+]
+}

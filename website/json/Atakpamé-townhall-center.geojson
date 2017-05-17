@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/215164466",
+  "properties": {
+    "alt_name": "Mairie d'Atakpamé",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de ville",
+    "source": "bing",
+    "id": "way/215164466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1283349,
+      7.5248245
+    ]
+  }
+}
+]
+}

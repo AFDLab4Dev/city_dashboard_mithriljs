@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/264961768",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Tashan Bama",
+    "id": "way/264961768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.182083,
+      11.8114284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/264963043",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Adamwa Sunshine Motor Park",
+    "id": "way/264963043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1468342,
+      11.8393647
+    ]
+  }
+}
+]
+}

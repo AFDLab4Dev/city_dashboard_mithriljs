@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2165195247,
+  "lat": 9.1929053,
+  "lon": -10.0574515,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut biblique de Télékoro"
+  }
+}
+
+  ]
+}

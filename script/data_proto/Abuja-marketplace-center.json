@@ -1,0 +1,98 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:33:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4549849151,
+  "lat": 9.0654075,
+  "lon": 7.4461702,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "New Utako Modern Market"
+  }
+},
+{
+  "type": "way",
+  "id": 176918838,
+  "center": {
+    "lat": 9.0864450,
+    "lon": 7.4942854
+  },
+  "nodes": [
+    1874022353,
+    1874022356,
+    1874022350,
+    1874022345,
+    1874022353
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "FCT Farmers Market",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 176918849,
+  "center": {
+    "lat": 9.0862713,
+    "lon": 7.4943746
+  },
+  "nodes": [
+    1874022343,
+    1874022347,
+    1874022338,
+    1874022334,
+    1874022343
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "FCT Farmers Market",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 176918838,
+  "nodes": [
+    1874022353,
+    1874022356,
+    1874022350,
+    1874022345,
+    1874022353
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "FCT Farmers Market",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 176918849,
+  "nodes": [
+    1874022343,
+    1874022347,
+    1874022338,
+    1874022334,
+    1874022343
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "FCT Farmers Market",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

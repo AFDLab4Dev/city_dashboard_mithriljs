@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3589640094",
+  "properties": {
+    "addr:street": "Bo-Tiama Highway",
+    "amenity": "university",
+    "name": "Njala University - Kowama campus",
+    "operator": "Njala University",
+    "id": "node/3589640094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7487296,
+      7.9495986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589640095",
+  "properties": {
+    "addr:street": "Bo-Tikonko Highway",
+    "amenity": "university",
+    "name": "Njala University - Towama Campus",
+    "operator": "Njala University",
+    "id": "node/3589640095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.7647568,
+      7.9354801
+    ]
+  }
+}
+]
+}

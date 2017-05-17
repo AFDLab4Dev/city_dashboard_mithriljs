@@ -1,0 +1,88 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/224729043",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Holy Spirit Hospital",
+    "source": "Bing",
+    "id": "way/224729043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.0362046,
+      8.8925117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/401191049",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Magbenteh Community Hospital",
+    "source": "Bing",
+    "id": "way/401191049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.0732312,
+      8.8827308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3197529891",
+  "properties": {
+    "accuracy": "Needs location validation",
+    "amenity": "hospital",
+    "capacity:beds": "110",
+    "capacity:beds:planned": "110",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0020",
+    "health_facility:type": "field_hospital",
+    "is_in": "Kagbaran Dokom B",
+    "is_in:district": "Bombali",
+    "is_in:region": "Northern",
+    "name": "Magbenteh Hospital",
+    "operational_status": "open",
+    "operator": "MoH/ADAX/AU/WAHO",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00",
+    "id": "node/3197529891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.058,
+      8.846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578791",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Magbenteh Hospital",
+    "osm_id": "3197529891",
+    "type": "hospital",
+    "id": "node/3589578791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.058,
+      8.846
+    ]
+  }
+}
+]
+}

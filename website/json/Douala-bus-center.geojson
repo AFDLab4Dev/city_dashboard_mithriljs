@@ -58,6 +58,38 @@
 },
 {
   "type": "Feature",
+  "id": "way/363171017",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "T.G.V de Bomono",
+    "id": "way/363171017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5969587,
+      4.1684403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/369337762",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Yapaki",
+    "id": "way/369337762"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.589596,
+      4.1160608
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/449371637",
   "properties": {
     "amenity": "bus_station",

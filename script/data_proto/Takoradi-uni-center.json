@@ -1,0 +1,90 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 204593548,
+  "center": {
+    "lat": 4.9093487,
+    "lon": -1.7556371
+  },
+  "nodes": [
+    2145888257,
+    2145888254,
+    2145888256,
+    2145888251,
+    2145888258,
+    2145888260,
+    2145888262,
+    2145888257
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Takoradi Polytechnic",
+    "operator": "Ghana Education Service"
+  }
+},
+{
+  "type": "way",
+  "id": 317966580,
+  "center": {
+    "lat": 4.9258817,
+    "lon": -1.7822378
+  },
+  "nodes": [
+    3243042135,
+    3243042134,
+    3243042132,
+    3243042133,
+    3243042135
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Community University College Takoradi",
+    "source": "Bing Maps"
+  }
+},
+{
+  "type": "way",
+  "id": 204593548,
+  "nodes": [
+    2145888257,
+    2145888254,
+    2145888256,
+    2145888251,
+    2145888258,
+    2145888260,
+    2145888262,
+    2145888257
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Takoradi Polytechnic",
+    "operator": "Ghana Education Service"
+  }
+},
+{
+  "type": "way",
+  "id": 317966580,
+  "nodes": [
+    3243042135,
+    3243042134,
+    3243042132,
+    3243042133,
+    3243042135
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Community University College Takoradi",
+    "source": "Bing Maps"
+  }
+}
+
+  ]
+}

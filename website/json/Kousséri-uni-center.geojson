@@ -1,0 +1,359 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/197729247",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Ecole ENTP",
+    "id": "way/197729247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0415194,
+      12.1265249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/199599560",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "building_base_material:sheet_metal": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "medium",
+    "historic": "yes",
+    "name": "Faculté des Lettres et Sciences Humaines",
+    "project:eurosha_2012": "yes",
+    "source": "bing:ortofoto",
+    "id": "way/199599560"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0614358,
+      12.0973635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/199599581",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "building_status": "medium",
+    "project:eurosha_2012": "yes",
+    "source": "bing:ortofoto",
+    "id": "way/199599581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.062295,
+      12.0954034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205389920",
+  "properties": {
+    "addr:housename": "TCHAD",
+    "amenity": "university",
+    "barrier": "wall",
+    "source": "bing",
+    "id": "way/205389920"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0888844,
+      12.1289667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205764874",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "id": "way/205764874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0424046,
+      12.1288098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205770038",
+  "properties": {
+    "addr:street": "rue Charle de Gaulle",
+    "amenity": "university",
+    "building": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "place:nearestlandmark": "Rond Point Bololo",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "id": "way/205770038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0440148,
+      12.1093421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206136160",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:canvas": "yes",
+    "building_roof_material:concrete": "no",
+    "building_status": "medium",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "id": "way/206136160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.089974,
+      12.1283043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206136191",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "medium",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing",
+    "id": "way/206136191"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0888739,
+      12.1291349
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206348775",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:concrete": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bING",
+    "id": "way/206348775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0541893,
+      12.1379392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206348776",
+  "properties": {
+    "amenity": "university",
+    "name": "Institut ISTA",
+    "id": "way/206348776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0541432,
+      12.1379882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297518813",
+  "properties": {
+    "amenity": "university",
+    "id": "way/297518813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1151471,
+      12.0169436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/438541531",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "highway": "residential",
+    "name": "Institut AVD",
+    "source": "bing",
+    "id": "way/438541531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1316432,
+      12.091255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/480023494",
+  "properties": {
+    "amenity": "university",
+    "name": "ISTD",
+    "operator": "Privé",
+    "id": "way/480023494"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1317175,
+      12.0914541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2163801460",
+  "properties": {
+    "amenity": "university",
+    "name": "HEC TCHAD",
+    "id": "node/2163801460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0899974,
+      12.1283023
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2163801464",
+  "properties": {
+    "amenity": "university",
+    "name": "HEC TCHAD",
+    "id": "node/2163801464"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0888445,
+      12.129214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2163801468",
+  "properties": {
+    "amenity": "university",
+    "name": "Institut ISCAM",
+    "id": "node/2163801468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0541924,
+      12.1379293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2514908771",
+  "properties": {
+    "amenity": "university",
+    "building": "school",
+    "name": "Faculté des Sciences Exactes et Appliquées",
+    "id": "node/2514908771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0001343,
+      12.127812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2590284276",
+  "properties": {
+    "amenity": "university",
+    "name": "Lycée Roi Faiçal",
+    "operator:type": "government",
+    "source": "bING",
+    "id": "node/2590284276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0500597,
+      12.1106828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2610905939",
+  "properties": {
+    "abandoned": "no",
+    "amenity": "university",
+    "name": "Université Libre (Sup Management)",
+    "operator:type": "community",
+    "source": "bING",
+    "id": "node/2610905939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0587751,
+      12.0941058
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3589640094,
+  "lat": 7.9495986,
+  "lon": -11.7487296,
+  "tags": {
+    "addr:street": "Bo-Tiama Highway",
+    "amenity": "university",
+    "name": "Njala University - Kowama campus",
+    "operator": "Njala University"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640095,
+  "lat": 7.9354801,
+  "lon": -11.7647568,
+  "tags": {
+    "addr:street": "Bo-Tikonko Highway",
+    "amenity": "university",
+    "name": "Njala University - Towama Campus",
+    "operator": "Njala University"
+  }
+}
+
+  ]
+}

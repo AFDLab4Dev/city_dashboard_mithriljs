@@ -1,0 +1,144 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2986609751,
+  "lat": 10.5231473,
+  "lon": 7.4149557,
+  "tags": {
+    "amenity": "university",
+    "name": "Kaduna Polytechnic University"
+  }
+},
+{
+  "type": "way",
+  "id": 491206923,
+  "center": {
+    "lat": 10.5234104,
+    "lon": 7.4141968
+  },
+  "nodes": [
+    4833503666,
+    4833503667,
+    4833503668,
+    4833503669,
+    4833503670,
+    4833503671,
+    4833503672,
+    4833503674,
+    4833503676,
+    4833503675,
+    4833503673,
+    4833503666
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 488835906,
+  "center": {
+    "lat": 10.5067334,
+    "lon": 7.4327021
+  },
+  "nodes": [
+    4811234641,
+    4811234640,
+    4811234639,
+    4811234638,
+    4811234641
+  ],
+  "tags": {
+    "addr:housename": "Old Auxillary Building",
+    "addr:street": "Abubakar Kigo - off Dan-Iya Road",
+    "amenity": "university",
+    "name": "Kaduna State University Annex"
+  }
+},
+{
+  "type": "way",
+  "id": 38868010,
+  "center": {
+    "lat": 10.5526900,
+    "lon": 7.4458791
+  },
+  "nodes": [
+    461707961,
+    557707052,
+    461707963,
+    461707964,
+    461707965,
+    557707049,
+    461707961
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ahmadu Bello University Arewa House"
+  }
+},
+{
+  "type": "way",
+  "id": 491206923,
+  "nodes": [
+    4833503666,
+    4833503667,
+    4833503668,
+    4833503669,
+    4833503670,
+    4833503671,
+    4833503672,
+    4833503674,
+    4833503676,
+    4833503675,
+    4833503673,
+    4833503666
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 488835906,
+  "nodes": [
+    4811234641,
+    4811234640,
+    4811234639,
+    4811234638,
+    4811234641
+  ],
+  "tags": {
+    "addr:housename": "Old Auxillary Building",
+    "addr:street": "Abubakar Kigo - off Dan-Iya Road",
+    "amenity": "university",
+    "name": "Kaduna State University Annex"
+  }
+},
+{
+  "type": "way",
+  "id": 38868010,
+  "nodes": [
+    461707961,
+    557707052,
+    461707963,
+    461707964,
+    461707965,
+    557707049,
+    461707961
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ahmadu Bello University Arewa House"
+  }
+}
+
+  ]
+}

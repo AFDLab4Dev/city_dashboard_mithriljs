@@ -1,0 +1,45 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4526166389,
+  "lat": 8.4796016,
+  "lon": -13.2067971,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi to Guinea Station",
+    "name:en": "Shared Taxi Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4526412290,
+  "lat": 8.4744160,
+  "lon": -13.1911460,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Mini Bus Terminal Shell",
+    "name:en": "Mini Bus Terminal Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4751127021,
+  "lat": 8.4910111,
+  "lon": -13.2351044,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "buses to kanema",
+    "name:en": "buses to kanema"
+  }
+}
+
+  ]
+}

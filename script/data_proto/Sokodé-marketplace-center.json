@@ -1,0 +1,86 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3804724055,
+  "lat": 8.9754196,
+  "lon": 1.1425369,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Komah",
+    "opening_hours": "Lundi, Jeudi"
+  }
+},
+{
+  "type": "node",
+  "id": 4215522294,
+  "lat": 8.9873335,
+  "lon": 1.1419697,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Petit Marché"
+  }
+},
+{
+  "type": "node",
+  "id": 4221442017,
+  "lat": 8.9543463,
+  "lon": 1.1704178,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "MARCHE DE KADAMBARA"
+  }
+},
+{
+  "type": "node",
+  "id": 4222327100,
+  "lat": 9.0293878,
+  "lon": 1.1035731,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 376524838,
+  "center": {
+    "lat": 8.9859600,
+    "lon": 1.1398314
+  },
+  "nodes": [
+    3799364096,
+    3799364097,
+    3799364098,
+    3799364099,
+    3799364096
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 376524838,
+  "nodes": [
+    3799364096,
+    3799364097,
+    3799364098,
+    3799364099,
+    3799364096
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+}
+
+  ]
+}

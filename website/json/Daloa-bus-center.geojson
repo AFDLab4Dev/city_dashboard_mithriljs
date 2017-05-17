@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4361768789",
+  "properties": {
+    "addr:street": "Daloa-Issia",
+    "amenity": "bus_station",
+    "name": "Gare CTE",
+    "id": "node/4361768789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.4439203,
+      6.8703313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4463422393",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "UTB",
+    "name:fr": "UTB",
+    "id": "node/4463422393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.447385,
+      6.8860483
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,121 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/113403491",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier Régional de Man",
+    "operator": "Ministerie de la Santé",
+    "phone": "+225-33790033",
+    "id": "way/113403491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5478467,
+      7.4063835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/426314641",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Grandes Endemies",
+    "id": "way/426314641"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5510285,
+      7.3960406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4256145343",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé HKB",
+    "id": "node/4256145343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5654146,
+      7.4106274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4256165004",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé rural deTrokpadrou",
+    "projet:eboci": "yes",
+    "id": "node/4256165004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.4709641,
+      7.3201645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4262568992",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Dispensaire",
+    "id": "node/4262568992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5317961,
+      7.5538011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4262568993",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4262568993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.629761,
+      7.5300088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4312371396",
+  "properties": {
+    "amenity": "hospital",
+    "name": "centre de santé de grand gbapleu",
+    "id": "node/4312371396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.5298002,
+      7.4092233
+    ]
+  }
+}
+]
+}

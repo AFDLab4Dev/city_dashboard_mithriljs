@@ -1,0 +1,87 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/268725231",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "height": "2",
+    "name": "HOPITAL CHR",
+    "id": "way/268725231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1349191,
+      8.9845854
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1560869486",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Polyclinique",
+    "id": "node/1560869486"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1389611,
+      8.9813916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4221432679",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Esperance",
+    "id": "node/4221432679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1580442,
+      8.9745069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4221442459",
+  "properties": {
+    "amenity": "hospital",
+    "name": "USP KADAMBARA",
+    "id": "node/4221442459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1711433,
+      8.9542928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4222512789",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Unité de Soins Périphérique Komah 2",
+    "id": "node/4222512789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1466811,
+      8.9723507
+    ]
+  }
+}
+]
+}

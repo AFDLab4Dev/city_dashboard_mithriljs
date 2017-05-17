@@ -1,0 +1,77 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2435638196,
+  "lat": 7.1763505,
+  "lon": 2.0655653,
+  "tags": {
+    "addr:city": "Bohicon",
+    "amenity": "marketplace",
+    "name": "Marché Ganhi de Bohicon"
+  }
+},
+{
+  "type": "node",
+  "id": 2435638370,
+  "lat": 7.1971233,
+  "lon": 1.9831678,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 4849511986,
+  "lat": 7.1777770,
+  "lon": 2.0658158,
+  "tags": {
+    "addr:city": "Bohicon",
+    "amenity": "marketplace",
+    "name": "Marché Sèhi de Bohicon"
+  }
+},
+{
+  "type": "way",
+  "id": 245784099,
+  "center": {
+    "lat": 7.1808093,
+    "lon": 1.9916744
+  },
+  "nodes": [
+    4340971194,
+    2529094147,
+    2529094143,
+    2529094155,
+    4340971194
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Houndjlo"
+  }
+},
+{
+  "type": "way",
+  "id": 245784099,
+  "nodes": [
+    4340971194,
+    2529094147,
+    2529094143,
+    2529094155,
+    4340971194
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Houndjlo"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4401311210",
+  "properties": {
+    "addr:city": "Abuja",
+    "addr:housenumber": "Plot 686",
+    "addr:street": "Cadastral Zone C 00, Jabi Airport Road Bypass (Ring Road), Behind National Judicial Institute",
+    "amenity": "university",
+    "name": "Baze university",
+    "operator": "Senator Datti Baba-Ahmad PhD",
+    "phone": "+234 (0) 813-376-9658",
+    "website": "http://www.bazeuniversity.edu.ng/",
+    "id": "node/4401311210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4040884,
+      9.0063181
+    ]
+  }
+}
+]
+}

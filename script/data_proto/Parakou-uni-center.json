@@ -1,0 +1,46 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:34:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2399881555,
+  "lat": 9.3365671,
+  "lon": 2.6440731,
+  "tags": {
+    "amenity": "university",
+    "name": "Université de Parakou"
+  }
+},
+{
+  "type": "node",
+  "id": 4557444888,
+  "lat": 9.3381967,
+  "lon": 2.6471353,
+  "tags": {
+    "amenity": "university",
+    "name": "FLASH",
+    "phone": "0022923614597",
+    "source": "Bing;Gps;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4557445089,
+  "lat": 9.3381662,
+  "lon": 2.6471882,
+  "tags": {
+    "amenity": "university",
+    "name": "LARDES",
+    "phone": "0022997320856",
+    "source": "Bing;Gps;Survey"
+  }
+}
+
+  ]
+}

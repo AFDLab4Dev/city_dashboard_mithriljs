@@ -1,0 +1,111 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/309660062",
+  "properties": {
+    "alt_name": "UPSA",
+    "amenity": "university",
+    "name": "University of Professional Studies, Accra",
+    "old_name": "University of Professional Studies",
+    "wikipedia": "en:University of Professional Studies",
+    "id": "way/309660062"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1664293,
+      5.6608307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366033236",
+  "properties": {
+    "addr:place": "Miotso",
+    "alt_name": "CUC",
+    "amenity": "university",
+    "name": "Central University",
+    "wikidata": "Q1054042",
+    "wikipedia": "en:Central University (Ghana)",
+    "id": "way/366033236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0846339,
+      5.7700504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154259267",
+  "properties": {
+    "amenity": "university",
+    "name": "Christian Service University College",
+    "id": "node/2154259267"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1390659,
+      5.7762988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2605944608",
+  "properties": {
+    "addr:city": "Accra",
+    "addr:housenumber": "Plot #4",
+    "addr:street": "4th Circular Road",
+    "amenity": "university",
+    "name": "Webster University Campus Ghana",
+    "id": "node/2605944608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1662988,
+      5.5820471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2622097846",
+  "properties": {
+    "amenity": "university",
+    "name": "Regional Maritime University",
+    "id": "node/2622097846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0600694,
+      5.607476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3802490986",
+  "properties": {
+    "amenity": "university",
+    "name": "Islamic University",
+    "id": "node/3802490986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.118677,
+      5.6556096
+    ]
+  }
+}
+]
+}

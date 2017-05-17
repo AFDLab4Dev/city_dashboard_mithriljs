@@ -1,0 +1,45 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1625189809,
+  "lat": 6.8123178,
+  "lon": -5.2648453,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare UTB"
+  }
+},
+{
+  "type": "node",
+  "id": 4323552994,
+  "lat": 6.8194438,
+  "lon": -5.2798647,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare des villages"
+  }
+},
+{
+  "type": "node",
+  "id": 4744660221,
+  "lat": 6.8097013,
+  "lon": -5.2625795,
+  "tags": {
+    "addr:postcode": "225",
+    "addr:street": "Rue  des Banques",
+    "amenity": "bus_station",
+    "name": "CTE",
+    "name:fr": "CTE"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:33:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 264961768,
+  "center": {
+    "lat": 11.8114284,
+    "lon": 13.1820830
+  },
+  "nodes": [
+    2706101365,
+    2706101368,
+    2706101370,
+    2706101373,
+    2706101375,
+    2706101376,
+    2706101365
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Tashan Bama"
+  }
+},
+{
+  "type": "way",
+  "id": 264963043,
+  "center": {
+    "lat": 11.8393647,
+    "lon": 13.1468342
+  },
+  "nodes": [
+    2706114598,
+    4674761130,
+    2706114600,
+    4663343637,
+    2706114602,
+    4674803876,
+    4674803877,
+    2706114604,
+    2706114606,
+    2706114598
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Adamwa Sunshine Motor Park"
+  }
+},
+{
+  "type": "way",
+  "id": 264961768,
+  "nodes": [
+    2706101365,
+    2706101368,
+    2706101370,
+    2706101373,
+    2706101375,
+    2706101376,
+    2706101365
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Tashan Bama"
+  }
+},
+{
+  "type": "way",
+  "id": 264963043,
+  "nodes": [
+    2706114598,
+    4674761130,
+    2706114600,
+    4663343637,
+    2706114602,
+    4674803876,
+    4674803877,
+    2706114604,
+    2706114606,
+    2706114598
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Adamwa Sunshine Motor Park"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:27:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4391694825,
+  "lat": 7.3151335,
+  "lon": 13.5841190,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital régional de Ngaoundéré"
+  }
+},
+{
+  "type": "node",
+  "id": 4453234586,
+  "lat": 7.3100248,
+  "lon": 13.5961226,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Protestant Hospital of Ngaoundéré",
+    "operator": "EELC",
+    "url": "http://www.oseelc.org/",
+    "wikidata": "Q7251608",
+    "wikipedia": "en:Protestant Hospital of Ngaoundéré"
+  }
+}
+
+  ]
+}

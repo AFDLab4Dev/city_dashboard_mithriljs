@@ -1,0 +1,169 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:41:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3371831066,
+  "lat": 8.3868965,
+  "lon": -13.1442114,
+  "tags": {
+    "amenity": "university",
+    "name": "Medicine University",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 307764451,
+  "center": {
+    "lat": 8.4512054,
+    "lon": -13.2383939
+  },
+  "nodes": [
+    3129679967,
+    3129679968,
+    3129679969,
+    3129679970,
+    3129679967
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Limkokwing University of Creative Technology",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 307096805,
+  "center": {
+    "lat": 8.4793494,
+    "lon": -13.2368504
+  },
+  "nodes": [
+    3121614999,
+    3121615000,
+    3121615001,
+    3121615002,
+    3121615003,
+    3121614999
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Njala University",
+    "operator": "Njala University",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 28548338,
+  "center": {
+    "lat": 8.4779289,
+    "lon": -13.2210378
+  },
+  "nodes": [
+    313599603,
+    3140949907,
+    3140949906,
+    313599605,
+    313599606,
+    3140949902,
+    313599607,
+    313599609,
+    313599611,
+    313599613,
+    313599614,
+    313599615,
+    313599618,
+    4697834628,
+    313599620,
+    4697834629,
+    3140949904,
+    313599621,
+    3133693716,
+    313599622,
+    313599603
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fourah Bay College"
+  }
+},
+{
+  "type": "way",
+  "id": 307764451,
+  "nodes": [
+    3129679967,
+    3129679968,
+    3129679969,
+    3129679970,
+    3129679967
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Limkokwing University of Creative Technology",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 307096805,
+  "nodes": [
+    3121614999,
+    3121615000,
+    3121615001,
+    3121615002,
+    3121615003,
+    3121614999
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Njala University",
+    "operator": "Njala University",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 28548338,
+  "nodes": [
+    313599603,
+    3140949907,
+    3140949906,
+    313599605,
+    313599606,
+    3140949902,
+    313599607,
+    313599609,
+    313599611,
+    313599613,
+    313599614,
+    313599615,
+    313599618,
+    4697834628,
+    313599620,
+    4697834629,
+    3140949904,
+    313599621,
+    3133693716,
+    313599622,
+    313599603
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Fourah Bay College"
+  }
+}
+
+  ]
+}

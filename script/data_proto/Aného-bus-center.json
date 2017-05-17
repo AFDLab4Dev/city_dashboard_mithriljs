@@ -1,0 +1,35 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2999860545,
+  "lat": 6.2379999,
+  "lon": 1.6102950,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "USYNDICTO",
+    "note": "Gare",
+    "source": "bing,survey",
+    "source:date": "2014/08/06"
+  }
+},
+{
+  "type": "node",
+  "id": 3001121768,
+  "lat": 6.2410305,
+  "lon": 1.6263463,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Sanvee-Condji"
+  }
+}
+
+  ]
+}

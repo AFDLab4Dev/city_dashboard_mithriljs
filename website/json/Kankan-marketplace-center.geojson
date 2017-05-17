@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/455599479",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "id": "way/455599479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.3082877,
+      10.3797546
+    ]
+  }
+}
+]
+}

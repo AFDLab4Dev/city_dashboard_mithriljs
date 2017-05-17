@@ -1,0 +1,274 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/35220563",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nigeria National Eye Centre Kaduna",
+    "id": "way/35220563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4042059,
+      10.5746562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295009049",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nwada Hospital",
+    "id": "way/295009049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4165737,
+      10.5201495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295009924",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ahmadu Bello Hospital",
+    "id": "way/295009924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4496426,
+      10.5194822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/317909388",
+  "properties": {
+    "amenity": "hospital",
+    "name": "National Eye Centre Nigeria",
+    "id": "node/317909388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4053223,
+      10.573804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479666487",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Ear Care Center",
+    "id": "way/479666487"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4413799,
+      10.5192601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479668235",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Military Hospital",
+    "id": "way/479668235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4208516,
+      10.533793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487208409",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/487208409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4527783,
+      10.5138745
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/488835905",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "Local Health Office",
+    "emergency": "yes",
+    "name": "Zakari Isah Memorial Hospital",
+    "source": "Kaduna State",
+    "id": "way/488835905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.432059,
+      10.5092613
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/544297959",
+  "properties": {
+    "amenity": "hospital",
+    "name": "The Chasel Hospital",
+    "id": "node/544297959"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4458214,
+      10.5452139
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/556987914",
+  "properties": {
+    "amenity": "hospital",
+    "name": "1 Division Hospital",
+    "id": "node/556987914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4494087,
+      10.5906849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/560945782",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St Gerards Catholic Hospital",
+    "id": "node/560945782"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4209643,
+      10.467021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1191103945",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Prime Hospital",
+    "operator": "Dr. Buhari",
+    "id": "node/1191103945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4347873,
+      10.5082502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1191103979",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Prime Hospital",
+    "operator": "Dr. Buhari",
+    "id": "node/1191103979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.435041,
+      10.5082258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1754874188",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "Hospital & Maternity",
+    "emergency": "yes",
+    "name": "Rakiya Hospital",
+    "id": "node/1754874188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4316318,
+      10.5087795
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1880783077",
+  "properties": {
+    "amenity": "hospital",
+    "designation": "National",
+    "emergency": "yes",
+    "name": "Alba Clinic",
+    "source": "Kaduna State",
+    "id": "node/1880783077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4333831,
+      10.5038417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2862390778",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Kaduna Emergency Operations Center",
+    "operator": "eHealth Africa",
+    "id": "node/2862390778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4525528,
+      10.51355
+    ]
+  }
+}
+]
+}

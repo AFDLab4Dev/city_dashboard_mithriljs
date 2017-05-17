@@ -1,0 +1,158 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 391525748,
+  "center": {
+    "lat": 9.5856804,
+    "lon": -5.6869483
+  },
+  "nodes": [
+    3947353430,
+    3947353425,
+    3947353436,
+    3947353441,
+    3947353444,
+    3947353430
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 385407187,
+  "center": {
+    "lat": 9.4542395,
+    "lon": -5.6260101
+  },
+  "nodes": [
+    3887541009,
+    3887541117,
+    3887541099,
+    3887541109,
+    3887541009
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 386078875,
+  "center": {
+    "lat": 9.4590155,
+    "lon": -5.6308716
+  },
+  "nodes": [
+    3894189454,
+    3894191283,
+    3894189445,
+    3894189443,
+    3894191292,
+    3894191289,
+    3894191286,
+    3894183725,
+    3894192871,
+    3894189454
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 411920993,
+  "center": {
+    "lat": 9.4701021,
+    "lon": -5.6352728
+  },
+  "nodes": [
+    4134986977,
+    4134986971,
+    4134986968,
+    4134986972,
+    4134986977
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Haoussabougou",
+    "projet:eboci": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 391525748,
+  "nodes": [
+    3947353430,
+    3947353425,
+    3947353436,
+    3947353441,
+    3947353444,
+    3947353430
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 385407187,
+  "nodes": [
+    3887541009,
+    3887541117,
+    3887541099,
+    3887541109,
+    3887541009
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 386078875,
+  "nodes": [
+    3894189454,
+    3894191283,
+    3894189445,
+    3894189443,
+    3894191292,
+    3894191289,
+    3894191286,
+    3894183725,
+    3894192871,
+    3894189454
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 411920993,
+  "nodes": [
+    4134986977,
+    4134986971,
+    4134986968,
+    4134986972,
+    4134986977
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Haoussabougou",
+    "projet:eboci": "yes",
+    "source": "survey"
+  }
+}
+
+  ]
+}

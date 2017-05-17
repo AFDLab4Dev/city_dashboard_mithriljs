@@ -7,7 +7,7 @@
   "properties": {
     "amenity": "university",
     "name": "Institut national polytechnique Houphouët-Boigny",
-    "source": "Google, university official website",
+    "source": "university official website",
     "id": "way/183319586"
   },
   "geometry": {

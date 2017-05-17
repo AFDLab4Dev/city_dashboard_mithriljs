@@ -1,0 +1,73 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/232367236",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Lavié",
+    "note": "marché hebdomadaire: vendredi",
+    "source": "Bing;survey",
+    "id": "way/232367236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6769047,
+      7.0099972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299683745",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Kpimé Tomégbé",
+    "opening_hours": "08:30-17:30",
+    "id": "way/299683745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6450908,
+      6.9691818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311051305",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Grand marché de Kpalimé",
+    "id": "way/311051305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6338809,
+      6.9061709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368492361",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "grand marché agou gadzépé",
+    "note": "a lot of smaller buildings",
+    "id": "way/368492361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7141574,
+      6.8481072
+    ]
+  }
+}
+]
+}

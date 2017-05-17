@@ -1,0 +1,395 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:48:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2148021144,
+  "lat": 5.5393973,
+  "lon": -0.2295662,
+  "tags": {
+    "amenity": "university",
+    "name": "University of Ghana Medical School"
+  }
+},
+{
+  "type": "node",
+  "id": 2605944608,
+  "lat": 5.5820471,
+  "lon": -0.1662988,
+  "tags": {
+    "addr:city": "Accra",
+    "addr:housenumber": "Plot #4",
+    "addr:street": "4th Circular Road",
+    "amenity": "university",
+    "name": "Webster University Campus Ghana"
+  }
+},
+{
+  "type": "node",
+  "id": 2622097846,
+  "lat": 5.6074760,
+  "lon": -0.0600694,
+  "tags": {
+    "amenity": "university",
+    "name": "Regional Maritime University"
+  }
+},
+{
+  "type": "node",
+  "id": 3043620371,
+  "lat": 5.5708833,
+  "lon": -0.2090898,
+  "tags": {
+    "amenity": "university",
+    "name": "Sikkim Manipal University Ghana"
+  }
+},
+{
+  "type": "node",
+  "id": 3063488061,
+  "lat": 5.6671241,
+  "lon": -0.2305864,
+  "tags": {
+    "amenity": "university",
+    "name": "Graduate School of Nuclear and Allied Sciences - University of Ghana"
+  }
+},
+{
+  "type": "node",
+  "id": 3802490986,
+  "lat": 5.6556096,
+  "lon": -0.1186770,
+  "tags": {
+    "amenity": "university",
+    "name": "Islamic University"
+  }
+},
+{
+  "type": "way",
+  "id": 276975605,
+  "center": {
+    "lat": 5.5659595,
+    "lon": -0.2415902
+  },
+  "nodes": [
+    2815262801,
+    2815262804,
+    2815262803,
+    2815258798,
+    2815258800,
+    2815258799,
+    2815262801
+  ],
+  "tags": {
+    "addr:place": "Kaneshie",
+    "amenity": "university",
+    "name": "Central University College - Mataheko Campus"
+  }
+},
+{
+  "type": "way",
+  "id": 357120832,
+  "center": {
+    "lat": 5.5997018,
+    "lon": -0.2361504
+  },
+  "nodes": [
+    3624797000,
+    3624790573,
+    3624790567,
+    3624790590,
+    3624796994,
+    3624797000
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 357120833,
+  "center": {
+    "lat": 5.5961092,
+    "lon": -0.2235940
+  },
+  "nodes": [
+    392641225,
+    3624790566,
+    3624790561,
+    392641223,
+    392641225
+  ],
+  "tags": {
+    "addr:place": "Tesano",
+    "alt_name": "GTUC",
+    "amenity": "university",
+    "name": "Ghana Technology University College",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 453505983,
+  "center": {
+    "lat": 5.6361083,
+    "lon": -0.2020950
+  },
+  "nodes": [
+    4502305494,
+    4502305492,
+    4502305075,
+    4502305076,
+    4502305494
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ghana Institute of Management and Public Administration (GIMPA)",
+    "website": "www.gimpa.edu.gh"
+  }
+},
+{
+  "type": "way",
+  "id": 308668766,
+  "center": {
+    "lat": 5.6471715,
+    "lon": -0.1891820
+  },
+  "nodes": [
+    3139329413,
+    3139329412,
+    3139329409,
+    4847169841,
+    3139329401,
+    3139329398,
+    3139329397,
+    3139329396,
+    3139329395,
+    3139329392,
+    4625579112,
+    3139329393,
+    4419677227,
+    4419677232,
+    3139329394,
+    3139329400,
+    4294693051,
+    3139329402,
+    4294693083,
+    4294693084,
+    3139329403,
+    3139329405,
+    3139329406,
+    3139329407,
+    3139329408,
+    3139329411,
+    3139329410,
+    3139329413
+  ],
+  "tags": {
+    "addr:city": "Accra",
+    "amenity": "university",
+    "name": "University of Ghana",
+    "opening_hours": "24/7",
+    "wikidata": "Q2303765"
+  }
+},
+{
+  "type": "way",
+  "id": 358536692,
+  "center": {
+    "lat": 5.6695533,
+    "lon": -0.1898557
+  },
+  "nodes": [
+    3634450687,
+    3634450688,
+    3634450689,
+    3634450690,
+    3634450691,
+    3634450692,
+    3634450687
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Wisconsin International College"
+  }
+},
+{
+  "type": "way",
+  "id": 309660062,
+  "center": {
+    "lat": 5.6608307,
+    "lon": -0.1664293
+  },
+  "nodes": [
+    3149970162,
+    3636994713,
+    3149970165,
+    3149970164,
+    3636994714,
+    3149970167,
+    3149970163,
+    3149970162
+  ],
+  "tags": {
+    "alt_name": "UPSA",
+    "amenity": "university",
+    "name": "University of Professional Studies, Accra",
+    "old_name": "University of Professional Studies",
+    "wikipedia": "en:University of Professional Studies"
+  }
+},
+{
+  "type": "way",
+  "id": 276975605,
+  "nodes": [
+    2815262801,
+    2815262804,
+    2815262803,
+    2815258798,
+    2815258800,
+    2815258799,
+    2815262801
+  ],
+  "tags": {
+    "addr:place": "Kaneshie",
+    "amenity": "university",
+    "name": "Central University College - Mataheko Campus"
+  }
+},
+{
+  "type": "way",
+  "id": 357120832,
+  "nodes": [
+    3624797000,
+    3624790573,
+    3624790567,
+    3624790590,
+    3624796994,
+    3624797000
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 357120833,
+  "nodes": [
+    392641225,
+    3624790566,
+    3624790561,
+    392641223,
+    392641225
+  ],
+  "tags": {
+    "addr:place": "Tesano",
+    "alt_name": "GTUC",
+    "amenity": "university",
+    "name": "Ghana Technology University College",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 453505983,
+  "nodes": [
+    4502305494,
+    4502305492,
+    4502305075,
+    4502305076,
+    4502305494
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ghana Institute of Management and Public Administration (GIMPA)",
+    "website": "www.gimpa.edu.gh"
+  }
+},
+{
+  "type": "way",
+  "id": 308668766,
+  "nodes": [
+    3139329413,
+    3139329412,
+    3139329409,
+    4847169841,
+    3139329401,
+    3139329398,
+    3139329397,
+    3139329396,
+    3139329395,
+    3139329392,
+    4625579112,
+    3139329393,
+    4419677227,
+    4419677232,
+    3139329394,
+    3139329400,
+    4294693051,
+    3139329402,
+    4294693083,
+    4294693084,
+    3139329403,
+    3139329405,
+    3139329406,
+    3139329407,
+    3139329408,
+    3139329411,
+    3139329410,
+    3139329413
+  ],
+  "tags": {
+    "addr:city": "Accra",
+    "amenity": "university",
+    "name": "University of Ghana",
+    "opening_hours": "24/7",
+    "wikidata": "Q2303765"
+  }
+},
+{
+  "type": "way",
+  "id": 358536692,
+  "nodes": [
+    3634450687,
+    3634450688,
+    3634450689,
+    3634450690,
+    3634450691,
+    3634450692,
+    3634450687
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Wisconsin International College"
+  }
+},
+{
+  "type": "way",
+  "id": 309660062,
+  "nodes": [
+    3149970162,
+    3636994713,
+    3149970165,
+    3149970164,
+    3636994714,
+    3149970167,
+    3149970163,
+    3149970162
+  ],
+  "tags": {
+    "alt_name": "UPSA",
+    "amenity": "university",
+    "name": "University of Professional Studies, Accra",
+    "old_name": "University of Professional Studies",
+    "wikipedia": "en:University of Professional Studies"
+  }
+}
+
+  ]
+}

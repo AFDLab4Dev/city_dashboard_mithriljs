@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/224729045",
+  "properties": {
+    "amenity": "university",
+    "name": "University of Makeni",
+    "id": "way/224729045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.0564086,
+      8.8874712
+    ]
+  }
+}
+]
+}

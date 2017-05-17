@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/168583661",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier Régional de Daloa",
+    "id": "way/168583661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.439662,
+      6.8827094
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,189 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:33:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3096908281,
+  "lat": 10.0259756,
+  "lon": 8.9537819,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sabon Garin Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3096908282,
+  "lat": 10.0676573,
+  "lon": 8.9644934,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tumu Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3096930142,
+  "lat": 10.0136143,
+  "lon": 8.9997056,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bujiyel Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3096930149,
+  "lat": 10.0436397,
+  "lon": 8.9943878,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Latahazan Health Clinic",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3096930150,
+  "lat": 10.0366634,
+  "lon": 9.0199713,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Toro, Toro, Bauchi",
+    "addr:municipality": "Toro",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Loro Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3096930156,
+  "lat": 10.0401048,
+  "lon": 8.9867400,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "alt_name": "Tilde Maternity and Tilde Health Clinic",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Tilde Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3096930157,
+  "lat": 10.0558394,
+  "lon": 9.0416452,
+  "tags": {
+    "addr:district": "Toro",
+    "addr:full": "Toro, Toro, Bauchi",
+    "addr:municipality": "Toro",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Toro General Hospital",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013"
+  }
+},
+{
+  "type": "way",
+  "id": 211846252,
+  "center": {
+    "lat": 9.8955338,
+    "lon": 8.8841952
+  },
+  "nodes": [
+    2217912722,
+    2217912723,
+    2217912724,
+    2217912725,
+    2217912726,
+    2217912727,
+    2217912728,
+    2217912729,
+    2217912730,
+    2217912731,
+    2217912732,
+    2217912722
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 211846252,
+  "nodes": [
+    2217912722,
+    2217912723,
+    2217912724,
+    2217912725,
+    2217912726,
+    2217912727,
+    2217912728,
+    2217912729,
+    2217912730,
+    2217912731,
+    2217912732,
+    2217912722
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

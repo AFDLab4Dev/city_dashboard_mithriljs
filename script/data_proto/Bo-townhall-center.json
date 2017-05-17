@@ -1,0 +1,404 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3589578506,
+  "lat": 7.9669298,
+  "lon": -11.7416945,
+  "tags": {
+    "Sanitry Office": "office",
+    "amenity": "townhall",
+    "building": "Sanitry Office",
+    "name": "District Sanitry Office"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579807,
+  "lat": 7.9625138,
+  "lon": -11.7406018,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "information": "office",
+    "name": "SLBC Bo",
+    "office": "government",
+    "osm_id": "623892605",
+    "type": "studio"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579913,
+  "lat": 7.9574171,
+  "lon": -11.7274163,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Pastorial Center"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607720,
+  "lat": 7.9581349,
+  "lon": -11.7437856,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Political Party office",
+    "location": "Tikonko Road",
+    "name": "APC Office",
+    "no_": "89.000000",
+    "x": "197492.000000",
+    "y": "880684.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607721,
+  "lat": 7.9664105,
+  "lon": -11.7403253,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Company",
+    "location": "Bojon Street",
+    "name": "Africel Regional Office",
+    "no_": "99.000000",
+    "x": "197885.000000",
+    "y": "881592.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607723,
+  "lat": 7.9592949,
+  "lon": -11.7425136,
+  "tags": {
+    "Agriculture Compound": "Office",
+    "amenity": "townhall",
+    "building": "warehouse",
+    "name": "Agriculture Compound"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607726,
+  "lat": 7.9657337,
+  "lon": -11.7392395,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Company",
+    "location": "Bojon Street",
+    "name": "Airtel Regional Office",
+    "no_": "95.000000",
+    "x": "197999.000000",
+    "y": "881516.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607729,
+  "lat": 7.9699936,
+  "lon": -11.7387450,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Parastata",
+    "location": "Kissy Town Road",
+    "name": "Anti Corruption Commission",
+    "no_": "94.000000",
+    "x": "198068.000000",
+    "y": "881979.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607730,
+  "lat": 7.9476120,
+  "lon": -11.7293645,
+  "tags": {
+    "amenity": "townhall",
+    "building": "industrial",
+    "description": "Company",
+    "location": "Alie Street (Shellmingo)",
+    "name": "Benimix",
+    "no_": "86.000000",
+    "x": "199104.000000",
+    "y": "879497.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607732,
+  "lat": 7.9600860,
+  "lon": -11.7399927,
+  "tags": {
+    "amenity": "townhall",
+    "building": "Union",
+    "location": "Tikonko Road",
+    "name": "Bike Rider's Union",
+    "no_": "81.000000",
+    "x": "197919.000000",
+    "y": "880883.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607737,
+  "lat": 7.9681331,
+  "lon": -11.7464213,
+  "tags": {
+    "addr:street": "Reservation Road",
+    "amenity": "townhall",
+    "description": "Council",
+    "name": "Bo City Council"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607740,
+  "lat": 7.9824012,
+  "lon": -11.7632566,
+  "tags": {
+    "amenity": "townhall",
+    "description": "Council",
+    "location": "Bo-Tiama Highway",
+    "name": "Bo District Council",
+    "no_": "79.000000",
+    "x": "195364.000000",
+    "y": "883373.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607759,
+  "lat": 7.9598060,
+  "lon": -11.7436410,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Union",
+    "location": "Matru Road",
+    "no_": "83.000000",
+    "x": "197513.000000",
+    "y": "880865.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607767,
+  "lat": 7.9597555,
+  "lon": -11.7404092,
+  "tags": {
+    "addr:street": "Tikonko Road",
+    "amenity": "townhall",
+    "description": "Institution",
+    "name": "Growth Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607775,
+  "lat": 7.9665773,
+  "lon": -11.7402587,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Radio Station",
+    "location": "Bojon Street",
+    "name": "Kiss 104 FM",
+    "no_": "48.000000",
+    "x": "197887.000000",
+    "y": "881603.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607790,
+  "lat": 7.9622479,
+  "lon": -11.7407741,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Minstry Of Lands",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 3589607792,
+  "lat": 7.9674000,
+  "lon": -11.7438648,
+  "tags": {
+    "amenity": "townhall",
+    "name": "NASSIT Building"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640097,
+  "lat": 7.9618293,
+  "lon": -11.7341454,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Political Party office",
+    "location": "Mahei-Boima Road",
+    "name": "PMDC Office",
+    "no_": "90.000000",
+    "x": "198566.000000",
+    "y": "881081.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640100,
+  "lat": 7.9588452,
+  "lon": -11.7439532,
+  "tags": {
+    "addr:street": "Tikonko Road",
+    "amenity": "townhall",
+    "description": "Parastata",
+    "name": "Provincial Secretary (PS) office"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640101,
+  "lat": 7.9600192,
+  "lon": -11.7401541,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Political Party office",
+    "location": "Tikonko Road",
+    "name": "RUFP Office",
+    "no_": "91.000000",
+    "x": "197911.000000",
+    "y": "880880.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640106,
+  "lat": 7.9635038,
+  "lon": -11.7400203,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Road Authority Office"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640109,
+  "lat": 7.9593081,
+  "lon": -11.7439791,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Parastatal",
+    "location": "Tikonko Road",
+    "man_made": "water_works",
+    "name": "SALWACO (Water Supply)",
+    "no_": "78.000000",
+    "x": "197438.000000",
+    "y": "880796.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640120,
+  "lat": 7.9637883,
+  "lon": -11.7480872,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Union",
+    "location": "Gbaima Road",
+    "name": "Sierra Leone Teacher's Union (Bo)",
+    "no_": "87.000000",
+    "x": "197038.000000",
+    "y": "881289.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640129,
+  "lat": 7.9640012,
+  "lon": -11.7465768,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Parastatal",
+    "location": "Gbaima Road",
+    "name": "Statistics Sierra Leone, Regional Office",
+    "no_": "80.000000",
+    "x": "197210.000000",
+    "y": "881336.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640134,
+  "lat": 7.9660595,
+  "lon": -11.7385301,
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "description": "Union",
+    "location": "Labour Road Central Market",
+    "name": "Trader's Union",
+    "no_": "82.000000",
+    "x": "198086.000000",
+    "y": "881544.000000"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640139,
+  "lat": 7.9619466,
+  "lon": -11.7410839,
+  "tags": {
+    "amenity": "townhall",
+    "building": "warehouse",
+    "name": "WFP Warehouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3589640140,
+  "lat": 7.9596962,
+  "lon": -11.7440351,
+  "tags": {
+    "Wanword Link Building": "Office",
+    "amenity": "townhall",
+    "building": "office",
+    "name": "One World  Link"
+  }
+},
+{
+  "type": "node",
+  "id": 3602703788,
+  "lat": 7.9645495,
+  "lon": -11.7389230,
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "2",
+    "description": "Parastatal",
+    "name": "SLPP Party Office"
+  }
+}
+
+  ]
+}

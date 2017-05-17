@@ -1,0 +1,122 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/299257023",
+  "properties": {
+    "amenity": "bus_station",
+    "barrier": "wall",
+    "name": "Gare AVS",
+    "operator": "Transports A Votre Service (Transports AVS)",
+    "public_transport": "station",
+    "id": "way/299257023"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0288082,
+      7.6815073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/428012391",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare de Diabo",
+    "id": "way/428012391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0324215,
+      7.6951309
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/484678225",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare UTB",
+    "id": "way/484678225"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0268507,
+      7.6874923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2354702071",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière du grand marché",
+    "id": "node/2354702071"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0284825,
+      7.6890917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3127447005",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "B-Trans",
+    "id": "node/3127447005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0240934,
+      7.6830056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4390046316",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4390046316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0233593,
+      7.6888678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4754502128",
+  "properties": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Gare de Yorobodi",
+    "name:fr": "Gare de Yorobodi",
+    "public_transport": "stop_position",
+    "id": "node/4754502128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0196933,
+      7.6905604
+    ]
+  }
+}
+]
+}

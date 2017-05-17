@@ -1,0 +1,80 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4136197114",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Palmer Clinic",
+    "id": "node/4136197114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.981609,
+      4.8120204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4295640590",
+  "properties": {
+    "addr:street": "Gynescope Street",
+    "amenity": "hospital",
+    "email": "gynescope@yahoo.com",
+    "name": "Gynescope Specialist Hospital",
+    "opening_hours": "24/7",
+    "phone": "+2348166593030",
+    "website": "http://www.gynescopesh.com",
+    "id": "node/4295640590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0143895,
+      4.8532827
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323241792",
+  "properties": {
+    "addr:street": "Gynescope street Rukpakulosi",
+    "amenity": "hospital",
+    "email": "gynescope@yahoo.com",
+    "name": "Gynescope Specialist Hospital",
+    "opening_hours": "24/7",
+    "phone": "+2348166593030",
+    "website": "http://www.gynescopesh.com",
+    "id": "node/4323241792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0153046,
+      4.8550343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4556016594",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Global Rayfield Medical Center",
+    "name:en": "Global Rayfield Medical Center",
+    "id": "node/4556016594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0397285,
+      4.7894736
+    ]
+  }
+}
+]
+}

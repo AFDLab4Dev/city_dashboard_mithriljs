@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3748004122",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Kamsar",
+    "id": "node/3748004122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -14.6037392,
+      10.65994
+    ]
+  }
+}
+]
+}

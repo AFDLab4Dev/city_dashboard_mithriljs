@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:44:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3658619613,
+  "lat": 9.5473213,
+  "lon": 1.1898564,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de KARA",
+    "wheelchair": "no"
+  }
+}
+
+  ]
+}

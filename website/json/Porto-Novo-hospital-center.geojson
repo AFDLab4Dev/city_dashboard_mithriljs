@@ -1,0 +1,308 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/376980825",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hopital de Zone d'EKPE",
+    "source": "bing",
+    "source:date": "12/16/2013",
+    "id": "way/376980825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5415107,
+      6.3867284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/379586649",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Islamic Hospital",
+    "name:fr": "Hôpital Musulman",
+    "id": "way/379586649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6022948,
+      6.517814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415781860",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé de Tohoué",
+    "id": "way/415781860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6660667,
+      6.4325059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2619439185",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre Medico Social \"Salem\"",
+    "id": "node/2619439185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6348347,
+      6.5149012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2619439229",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St. Nom de Jesus",
+    "id": "node/2619439229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.630456,
+      6.5085373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2619447817",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Les Oliviers",
+    "id": "node/2619447817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6300123,
+      6.4940863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3629965075",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Antonio",
+    "id": "node/3629965075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6239369,
+      6.5112614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3995344803",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CENTRE DE SANTÉ DE TCHAADA",
+    "id": "node/3995344803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6942461,
+      6.5837592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3995348457",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CENTRE DE SANTÉ DOKE",
+    "id": "node/3995348457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.7301459,
+      6.6067592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3995348459",
+  "properties": {
+    "addr:street": "AVRANKOU",
+    "amenity": "hospital",
+    "name": "CLINIQUE LA PAIX",
+    "id": "node/3995348459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.73156,
+      6.5379257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4113030008",
+  "properties": {
+    "abandoned": "no",
+    "amenity": "hospital",
+    "disused": "no",
+    "health_facility:type": "hospital",
+    "name": "CENTRE MEDICO SOCIAL DE HOULAZOUME",
+    "operator": "CROIX ROUGE",
+    "operator:type": "ngo",
+    "source": "Bing;survey",
+    "id": "node/4113030008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.541073,
+      6.4524724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4167450224",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Maternité de Tohoué",
+    "id": "node/4167450224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6615525,
+      6.4298099
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4172329288",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital de Zone de SURU LERE",
+    "id": "node/4172329288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4629357,
+      6.3819772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4228082414",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Hopitalier Universitaire Départemental de l'Ouémé-Plateau",
+    "source": "bing",
+    "id": "node/4228082414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6131516,
+      6.474103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4312742170",
+  "properties": {
+    "addr:hamlet": "Houedo-Aguekon",
+    "amenity": "hospital",
+    "name": "Centre de santé de Houedo-Aguekon",
+    "id": "node/4312742170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4575849,
+      6.4982139
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323401508",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4323401508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5440858,
+      6.4547159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4327005626",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé le pardon est divin",
+    "id": "node/4327005626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5178645,
+      6.5786271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4405020928",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Médécine Générale",
+    "operator": "CHUD-OP",
+    "id": "node/4405020928"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6136117,
+      6.4729714
+    ]
+  }
+}
+]
+}

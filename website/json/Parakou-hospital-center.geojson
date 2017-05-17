@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2088298280",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre hospitalier départemental de Borgou",
+    "id": "node/2088298280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6362138,
+      9.3361779
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2222780878",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital du Militaire",
+    "id": "node/2222780878"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6024453,
+      9.3145149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2529951882",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé de Kpebie",
+    "id": "node/2529951882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6149412,
+      9.3413099
+    ]
+  }
+}
+]
+}

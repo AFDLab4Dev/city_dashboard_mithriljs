@@ -1,0 +1,33 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:45:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3165540166,
+  "lat": 6.9096941,
+  "lon": 0.6336318,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Kpalimé"
+  }
+},
+{
+  "type": "node",
+  "id": 4596779989,
+  "lat": 6.8483374,
+  "lon": 0.7170158,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Station de Taxi voiture",
+    "name:fr": "Station de Taxi voiture"
+  }
+}
+
+  ]
+}

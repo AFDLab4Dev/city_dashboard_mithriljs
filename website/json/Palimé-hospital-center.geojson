@@ -1,0 +1,235 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/193773019",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "id": "way/193773019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6297371,
+      6.910331
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/232368347",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Dispensaire de Lavié",
+    "operator:type": "government",
+    "source": "Bing;survey",
+    "id": "way/232368347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6768477,
+      7.0107556
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275049566",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Unité de Soins Périphériques de Tové",
+    "id": "way/275049566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6484132,
+      6.8795132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308634074",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier Préfectoral de Kpalimé",
+    "operator": "Etat",
+    "id": "way/308634074"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6276066,
+      6.9125028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/358654376",
+  "properties": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "capacity:beds": "8",
+    "disused": "yes",
+    "healthcare:cholera": "no",
+    "name": "Diepensaire de Kouma Apoti",
+    "operator:type": "government",
+    "source": "bing;survey",
+    "id": "way/358654376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.5614291,
+      6.983804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2407209028",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "laboratory",
+    "name": "Laboratoire d'Analyses Médicales",
+    "operator": "ONG Chance de Vivre; SILD Togo",
+    "operator:type": "ngo",
+    "source": "Bing;survey",
+    "id": "node/2407209028"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6769506,
+      7.0109047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2407617783",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Dispensaire de Lavié-agoviefe",
+    "operator:type": "public",
+    "source": "Bing;survey",
+    "id": "node/2407617783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7036793,
+      7.0140346
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2407899547",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Kpimé-Hloma",
+    "operator:type": "government",
+    "source": "survey",
+    "id": "node/2407899547"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6509808,
+      6.9745936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2513577075",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Maternité",
+    "source": "bing;survey",
+    "id": "node/2513577075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6589993,
+      6.9349279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4563543920",
+  "properties": {
+    "amenity": "hospital",
+    "name": "USP Akata Agame",
+    "id": "node/4563543920"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7092394,
+      7.0475863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4596780090",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital de Bethesda",
+    "name:fr": "Hopital de Bethesda",
+    "id": "node/4596780090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7267077,
+      6.8841607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4596780091",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/4596780091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7171479,
+      6.8438167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4602823592",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital de Bethesda",
+    "name:fr": "Hopital de Bethesda",
+    "id": "node/4602823592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7262718,
+      6.8830913
+    ]
+  }
+}
+]
+}

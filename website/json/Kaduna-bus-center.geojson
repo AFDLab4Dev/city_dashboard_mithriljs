@@ -1,0 +1,86 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/38919157",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kawo Motor Park",
+    "id": "way/38919157"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4482621,
+      10.5855004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/39275310",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Television Bus Station Kaduna",
+    "id": "way/39275310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4248708,
+      10.4540263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/39469591",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kaduna Long haul Bus station",
+    "id": "way/39469591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.44018,
+      10.5860731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/559470468",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Television Motor Park Kaduna",
+    "id": "node/559470468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4248613,
+      10.4540399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1880810674",
+  "properties": {
+    "addr:street": "Ahmadu Bello Way",
+    "amenity": "bus_station",
+    "name": "Kantin Kwari",
+    "id": "node/1880810674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4305451,
+      10.5200288
+    ]
+  }
+}
+]
+}

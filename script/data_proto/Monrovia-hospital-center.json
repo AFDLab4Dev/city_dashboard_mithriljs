@@ -1,0 +1,484 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2996153468,
+  "lat": 6.2500000,
+  "lon": -10.6666670,
+  "tags": {
+    "amenity": "hospital",
+    "fixme": "Location approximate",
+    "gns:ufi": "-2130833",
+    "name": "Catherine Mills Hospital",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 2996153469,
+  "lat": 6.2393809,
+  "lon": -10.6965137,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "gns:ufi": "-2131427",
+    "name": "Eternal Love Winning Africa Hospital",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3003566637,
+  "lat": 6.3697076,
+  "lon": -10.7919744,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Redemption Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3040191771,
+  "lat": 6.2755146,
+  "lon": -10.6902303,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Duport Road Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3040192808,
+  "lat": 6.2834063,
+  "lon": -10.6900157,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Benson Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3066992692,
+  "lat": 6.3843716,
+  "lon": -10.7871135,
+  "tags": {
+    "alt_name": "Amagashie Clinic",
+    "alt_name:2": "Island Hospital",
+    "amenity": "hospital",
+    "name": "Island Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3106601787,
+  "lat": 6.2446579,
+  "lon": -10.7005686,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "alt_name": "ELWA3 Hospital",
+    "amenity": "hospital",
+    "capacity:beds": "250",
+    "capacity:beds:planned": "250",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_019",
+    "health_facility:type": "field_hospital",
+    "is_in": "Wamba Town",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "ELWA-3 Hospital",
+    "note": "Type1 = ETC; Type2 = Triage; Plans to expand to 300 beds by 2nd September. An estimated 200 to 400 personnel are required to run the facility, the largest Ebola Treatment Unit",
+    "operational_status": "open",
+    "operator": "MSF",
+    "source": "BRC;UNMEER;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers;http://www.doctorswithoutborders.org/news-stories/field-news/liberia-msfs-new-ebola-management-centers-already-overwhelmed; WHO Foreign Medical Teams International Response; WHO data",
+    "source:location": "MapAction; UAV video (http://youtu.be/4jakGYoR-Jk)",
+    "start_date": "2014-08-17"
+  }
+},
+{
+  "type": "node",
+  "id": 3106631771,
+  "lat": 6.2700317,
+  "lon": -10.7344058,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "10",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_016",
+    "health_facility:type": "field_hospital",
+    "is_in": "Monrovia",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "MoD ETU",
+    "note": "Type1 = ETC ; Opened on 2014-10-31",
+    "operational_status": "open",
+    "operator": "N/A",
+    "source": "https://twitter.com/Moro_Cedric/status/528322705461112832; BRC; http://reliefweb.int/sites/reliefweb.int/files/resources/MA002_T01C01P01_Monrovia-300dpi.pdf.pdf; UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "source:location": "MapAction",
+    "start_date": "2014-10-31"
+  }
+},
+{
+  "type": "node",
+  "id": 3198032313,
+  "lat": 6.3130000,
+  "lon": -10.8010000,
+  "tags": {
+    "accuracy": "Needs Validation",
+    "amenity": "hospital",
+    "capacity:beds": "25",
+    "capacity:beds:planned": "25",
+    "check_date": "2014-11-16T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_015",
+    "health_facility:type": "field_hospital",
+    "is_in": "Monrovia",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "Monrovia Medical Unit ETU",
+    "note": "Was listed as 'Monrovia', needs verification",
+    "operational_status": "open",
+    "operator": "USPHS",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3198032314,
+  "lat": 6.2400000,
+  "lon": -10.6960000,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "100",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_018",
+    "health_facility:type": "field_hospital",
+    "is_in": "Wamba Town",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "Montserrado (ELWA 2) ETU",
+    "operational_status": "open",
+    "operator": "MoH/WHO",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3198032315,
+  "lat": 6.3840000,
+  "lon": -10.7870000,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "150",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETU_LBR_020",
+    "health_facility:type": "field_hospital",
+    "is_in": "Monrovia",
+    "is_in:county": "Montserrado",
+    "is_in:district": "Greater Monrovia",
+    "name": "Montserrado (Island Clinic) ETU",
+    "operational_status": "open",
+    "operator": "MoH/WHO/AU",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-16T00:00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3628712875,
+  "lat": 6.2869084,
+  "lon": -10.7735039,
+  "tags": {
+    "addr:city": "Monrovia",
+    "addr:housenumber": "24th",
+    "addr:postcode": "1000",
+    "addr:street": "24th Street",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "JFK",
+    "operator": "Government"
+  }
+},
+{
+  "type": "node",
+  "id": 3708466720,
+  "lat": 6.3160019,
+  "lon": -10.7984028,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Slipway Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 295843164,
+  "center": {
+    "lat": 6.2734002,
+    "lon": -10.7550855
+  },
+  "nodes": [
+    2996016942,
+    2996016936,
+    2996016933,
+    2996016531,
+    2996016530,
+    2996016934,
+    2996016532,
+    2996016935,
+    1277540417,
+    2996016937,
+    2996016938,
+    2996016940,
+    2996016939,
+    2996016941,
+    2996016942
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "St. Joseph's Catholic Hospital",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 305491804,
+  "center": {
+    "lat": 6.2754896,
+    "lon": -10.7494605
+  },
+  "nodes": [
+    3101286596,
+    3101286594,
+    3101286579,
+    3101286585,
+    3101286596
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "SOS Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 94957267,
+  "center": {
+    "lat": 6.2872259,
+    "lon": -10.7732468
+  },
+  "nodes": [
+    1102111098,
+    1102111477,
+    1102110645,
+    1102111863,
+    3094219224,
+    3094219162,
+    1102111631,
+    1102111209,
+    1102110733,
+    1102112003,
+    1102111717,
+    1102110961,
+    1102110570,
+    1102111856,
+    3094219641,
+    1102111589,
+    1102111526,
+    1102111103,
+    1102111098
+  ],
+  "tags": {
+    "alt_name": "JFK Hospital",
+    "alt_name2": "Kennedy Memorial Hospital",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "gns:ufi": "-2132961",
+    "name": "John F. Kennedy Memorial Medical Center",
+    "short_name": "J.F.Kennedy Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 142061458,
+  "center": {
+    "lat": 6.2971993,
+    "lon": -10.7810836
+  },
+  "nodes": [
+    1554847866,
+    3068562092,
+    1724655910,
+    1554847664,
+    3099813390,
+    3099813387,
+    1554847938,
+    3035668115,
+    1724656197,
+    1554847772,
+    1554847866
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "SDA Cooper Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 366860877,
+  "center": {
+    "lat": 6.4031197,
+    "lon": -10.7903894
+  },
+  "nodes": [
+    3708428548,
+    3708428549,
+    3708428550,
+    3708428551,
+    3708428548
+  ],
+  "tags": {
+    "addr:city": "Monrovia",
+    "addr:street": "Hotel africa Road",
+    "amenity": "hospital",
+    "name": "Faith Clinic",
+    "operator": "Private Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 295843164,
+  "nodes": [
+    2996016942,
+    2996016936,
+    2996016933,
+    2996016531,
+    2996016530,
+    2996016934,
+    2996016532,
+    2996016935,
+    1277540417,
+    2996016937,
+    2996016938,
+    2996016940,
+    2996016939,
+    2996016941,
+    2996016942
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "St. Joseph's Catholic Hospital",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 305491804,
+  "nodes": [
+    3101286596,
+    3101286594,
+    3101286579,
+    3101286585,
+    3101286596
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "SOS Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 94957267,
+  "nodes": [
+    1102111098,
+    1102111477,
+    1102110645,
+    1102111863,
+    3094219224,
+    3094219162,
+    1102111631,
+    1102111209,
+    1102110733,
+    1102112003,
+    1102111717,
+    1102110961,
+    1102110570,
+    1102111856,
+    3094219641,
+    1102111589,
+    1102111526,
+    1102111103,
+    1102111098
+  ],
+  "tags": {
+    "alt_name": "JFK Hospital",
+    "alt_name2": "Kennedy Memorial Hospital",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "gns:ufi": "-2132961",
+    "name": "John F. Kennedy Memorial Medical Center",
+    "short_name": "J.F.Kennedy Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 142061458,
+  "nodes": [
+    1554847866,
+    3068562092,
+    1724655910,
+    1554847664,
+    3099813390,
+    3099813387,
+    1554847938,
+    3035668115,
+    1724656197,
+    1554847772,
+    1554847866
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "SDA Cooper Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 366860877,
+  "nodes": [
+    3708428548,
+    3708428549,
+    3708428550,
+    3708428551,
+    3708428548
+  ],
+  "tags": {
+    "addr:city": "Monrovia",
+    "addr:street": "Hotel africa Road",
+    "amenity": "hospital",
+    "name": "Faith Clinic",
+    "operator": "Private Clinic"
+  }
+}
+
+  ]
+}

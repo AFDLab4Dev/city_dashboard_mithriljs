@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4249999089",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché zounhè",
+    "id": "node/4249999089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.7057988,
+      6.603773
+    ]
+  }
+}
+]
+}

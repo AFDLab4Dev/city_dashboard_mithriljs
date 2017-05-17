@@ -1,0 +1,432 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:26:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4268489093,
+  "lat": 4.0133148,
+  "lon": 9.7175718,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "机场"
+  }
+},
+{
+  "type": "node",
+  "id": 4268513291,
+  "lat": 4.0547019,
+  "lon": 9.6976364,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "撒瓦娜办公室"
+  }
+},
+{
+  "type": "node",
+  "id": 4369050892,
+  "lat": 4.0433600,
+  "lon": 9.7096029,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "La Kribienne"
+  }
+},
+{
+  "type": "node",
+  "id": 4369209992,
+  "lat": 4.0437256,
+  "lon": 9.7023884,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Finexs voyage",
+    "name:de": "Busbahnhof nach Yaounde",
+    "name:en": "Finexs voyage",
+    "name:fr": "Finexs Voyage Douala"
+  }
+},
+{
+  "type": "node",
+  "id": 4563751090,
+  "lat": 4.0434225,
+  "lon": 9.7061738,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Garanti Express",
+    "name:de": "Garanti Express",
+    "name:en": "Garanti Express",
+    "name:fr": "Garanti Express",
+    "operator": "Garanti Express",
+    "phone": "33426169"
+  }
+},
+{
+  "type": "way",
+  "id": 369337762,
+  "center": {
+    "lat": 4.1160608,
+    "lon": 9.5895960
+  },
+  "nodes": [
+    3731365519,
+    3731365517,
+    3731365518,
+    3731365520,
+    3731365519
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Yapaki"
+  }
+},
+{
+  "type": "way",
+  "id": 363171017,
+  "center": {
+    "lat": 4.1684403,
+    "lon": 9.5969587
+  },
+  "nodes": [
+    3673596012,
+    3743036946,
+    3673595950,
+    3673595958,
+    3673596022,
+    3673596012
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "T.G.V de Bomono"
+  }
+},
+{
+  "type": "way",
+  "id": 339170958,
+  "center": {
+    "lat": 4.0437158,
+    "lon": 9.7011895
+  },
+  "nodes": [
+    3036158625,
+    4524558545,
+    3052348891,
+    3052349034,
+    4524558536,
+    3036158940,
+    3036159234,
+    3036158766,
+    3463549007,
+    3036158381,
+    3036158350,
+    3036157933,
+    3036157598,
+    3036156668,
+    3036156605,
+    3036156496,
+    3463549006,
+    3052345133,
+    3036155597,
+    3036155047,
+    3036154555,
+    3036154596,
+    3052344921,
+    3036156267,
+    3036157541,
+    3036157844,
+    3036158625
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "no",
+    "name": "Gare Routière Touristique",
+    "name:de": "Busbahnhof nach Yaounde",
+    "operator": "Central Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 456644454,
+  "center": {
+    "lat": 4.0418005,
+    "lon": 9.7167699
+  },
+  "nodes": [
+    4528996196,
+    4528996195,
+    4528996194,
+    3037810730,
+    3052495049,
+    4528996232,
+    4528996231,
+    3052495104,
+    3052495136,
+    4528996206,
+    4528996207,
+    4528996193,
+    4528996192,
+    4528996191,
+    4528996190,
+    4528996196
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Mboppi"
+  }
+},
+{
+  "type": "way",
+  "id": 449371637,
+  "center": {
+    "lat": 4.0975410,
+    "lon": 9.6537178
+  },
+  "nodes": [
+    4463358701,
+    4463358702,
+    3048587275,
+    4463358697,
+    3048585270,
+    3048585254,
+    3022921082,
+    4463358696,
+    4463358698,
+    4463358699,
+    4463358701
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Bonaberi"
+  }
+},
+{
+  "type": "way",
+  "id": 299875376,
+  "center": {
+    "lat": 4.0710365,
+    "lon": 9.7295584
+  },
+  "nodes": [
+    3039518589,
+    3039518542,
+    3039518565,
+    3039518560,
+    3039518562,
+    3039518555,
+    3039518561,
+    3039520261,
+    3039520244,
+    3039518624,
+    3039518622,
+    3039520317,
+    3039520313,
+    3039520318,
+    3039520297,
+    3039520290,
+    3039520287,
+    3039518589
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Destiny Voyage",
+    "source": "Plan polyvalent Douala"
+  }
+},
+{
+  "type": "way",
+  "id": 299884957,
+  "center": {
+    "lat": 4.0717377,
+    "lon": 9.7291350
+  },
+  "nodes": [
+    3039522890,
+    3039521795,
+    3039520003,
+    3039522857,
+    3039522858,
+    3039522939,
+    3039522890
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Camrad Voyage",
+    "source": "Plan polyvalent Douala"
+  }
+},
+{
+  "type": "way",
+  "id": 369337762,
+  "nodes": [
+    3731365519,
+    3731365517,
+    3731365518,
+    3731365520,
+    3731365519
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare routière de Yapaki"
+  }
+},
+{
+  "type": "way",
+  "id": 363171017,
+  "nodes": [
+    3673596012,
+    3743036946,
+    3673595950,
+    3673595958,
+    3673596022,
+    3673596012
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "T.G.V de Bomono"
+  }
+},
+{
+  "type": "way",
+  "id": 339170958,
+  "nodes": [
+    3036158625,
+    4524558545,
+    3052348891,
+    3052349034,
+    4524558536,
+    3036158940,
+    3036159234,
+    3036158766,
+    3463549007,
+    3036158381,
+    3036158350,
+    3036157933,
+    3036157598,
+    3036156668,
+    3036156605,
+    3036156496,
+    3463549006,
+    3052345133,
+    3036155597,
+    3036155047,
+    3036154555,
+    3036154596,
+    3052344921,
+    3036156267,
+    3036157541,
+    3036157844,
+    3036158625
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "no",
+    "name": "Gare Routière Touristique",
+    "name:de": "Busbahnhof nach Yaounde",
+    "operator": "Central Voyage"
+  }
+},
+{
+  "type": "way",
+  "id": 456644454,
+  "nodes": [
+    4528996196,
+    4528996195,
+    4528996194,
+    3037810730,
+    3052495049,
+    4528996232,
+    4528996231,
+    3052495104,
+    3052495136,
+    4528996206,
+    4528996207,
+    4528996193,
+    4528996192,
+    4528996191,
+    4528996190,
+    4528996196
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Mboppi"
+  }
+},
+{
+  "type": "way",
+  "id": 449371637,
+  "nodes": [
+    4463358701,
+    4463358702,
+    3048587275,
+    4463358697,
+    3048585270,
+    3048585254,
+    3022921082,
+    4463358696,
+    4463358698,
+    4463358699,
+    4463358701
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare Routière de Bonaberi"
+  }
+},
+{
+  "type": "way",
+  "id": 299875376,
+  "nodes": [
+    3039518589,
+    3039518542,
+    3039518565,
+    3039518560,
+    3039518562,
+    3039518555,
+    3039518561,
+    3039520261,
+    3039520244,
+    3039518624,
+    3039518622,
+    3039520317,
+    3039520313,
+    3039520318,
+    3039520297,
+    3039520290,
+    3039520287,
+    3039518589
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Destiny Voyage",
+    "source": "Plan polyvalent Douala"
+  }
+},
+{
+  "type": "way",
+  "id": 299884957,
+  "nodes": [
+    3039522890,
+    3039521795,
+    3039520003,
+    3039522857,
+    3039522858,
+    3039522939,
+    3039522890
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Camrad Voyage",
+    "source": "Plan polyvalent Douala"
+  }
+}
+
+  ]
+}

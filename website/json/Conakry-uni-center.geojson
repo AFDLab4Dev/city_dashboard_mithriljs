@@ -1,0 +1,215 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/338945649",
+  "properties": {
+    "amenity": "university",
+    "name": "Université Kofi Annan de Guinée",
+    "short_name": "UNIKAG",
+    "id": "way/338945649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6379146,
+      9.6157144
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2866896319",
+  "properties": {
+    "addr:city": "Conakry",
+    "amenity": "university",
+    "name": "Cheik Modibo Diarra",
+    "id": "node/2866896319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5602899,
+      9.6709646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3476325217",
+  "properties": {
+    "amenity": "university",
+    "name": "Dpt de médecine",
+    "id": "node/3476325217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6781835,
+      9.544434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3476325218",
+  "properties": {
+    "amenity": "university",
+    "name": "Laboratoire de statistiques et analyses de données",
+    "id": "node/3476325218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6780222,
+      9.5445489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3476325220",
+  "properties": {
+    "amenity": "university",
+    "name": "Universite Médecine",
+    "id": "node/3476325220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6766694,
+      9.5432412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4176980191",
+  "properties": {
+    "amenity": "university",
+    "name": "ENAM",
+    "id": "node/4176980191"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6882295,
+      9.5228611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4179488654",
+  "properties": {
+    "amenity": "university",
+    "name": "University Ahmadou campus",
+    "id": "node/4179488654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5763912,
+      9.6257403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4179509674",
+  "properties": {
+    "amenity": "university",
+    "name": "university hassan",
+    "id": "node/4179509674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5566159,
+      9.6462462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4347458908",
+  "properties": {
+    "amenity": "university",
+    "name": "Université Winfrey Oprah de Guinée",
+    "id": "node/4347458908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.535121,
+      9.6817221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4353748678",
+  "properties": {
+    "amenity": "university",
+    "name": "Complexe scolaire et Universitaire la Source",
+    "id": "node/4353748678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6619129,
+      9.564561
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4405097689",
+  "properties": {
+    "amenity": "university",
+    "name": "Université Général Lansana Conté de Sonfonia",
+    "id": "node/4405097689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5804452,
+      9.6808804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4544001358",
+  "properties": {
+    "amenity": "university",
+    "name": "Université Libre de Guinée",
+    "id": "node/4544001358"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6213,
+      9.5786867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4582101655",
+  "properties": {
+    "amenity": "university",
+    "name": "UNC",
+    "id": "node/4582101655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6342353,
+      9.6152224
+    ]
+  }
+}
+]
+}

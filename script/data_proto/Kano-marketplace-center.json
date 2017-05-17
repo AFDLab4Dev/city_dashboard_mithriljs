@@ -1,0 +1,122 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2177220019,
+  "lat": 11.9748315,
+  "lon": 8.5589770,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Tarauni Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2877344411,
+  "lat": 12.0050093,
+  "lon": 8.5450880,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Central Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2990890928,
+  "lat": 12.0085803,
+  "lon": 8.5233096,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Wambai Market North",
+    "source": "ehealthafrica.org",
+    "source:date": "2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2990890929,
+  "lat": 12.0068352,
+  "lon": 8.5241073,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Wambai Market South",
+    "source": "ehealthafrica.org",
+    "source:date": "2014"
+  }
+},
+{
+  "type": "way",
+  "id": 207548968,
+  "center": {
+    "lat": 12.0123423,
+    "lon": 8.5371109
+  },
+  "nodes": [
+    2178104149,
+    2178104066,
+    2178104138,
+    2178104165,
+    2178104173,
+    2178104159,
+    2178104157,
+    2178104143,
+    2178104121,
+    2178104119,
+    2178104085,
+    2178104130,
+    2178104112,
+    2178104156,
+    2178104094,
+    2178104104,
+    2178104055,
+    2178104061,
+    2178104096,
+    2178104128,
+    2178104149
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bata Market"
+  }
+},
+{
+  "type": "way",
+  "id": 207548968,
+  "nodes": [
+    2178104149,
+    2178104066,
+    2178104138,
+    2178104165,
+    2178104173,
+    2178104159,
+    2178104157,
+    2178104143,
+    2178104121,
+    2178104119,
+    2178104085,
+    2178104130,
+    2178104112,
+    2178104156,
+    2178104094,
+    2178104104,
+    2178104055,
+    2178104061,
+    2178104096,
+    2178104128,
+    2178104149
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bata Market"
+  }
+}
+
+  ]
+}

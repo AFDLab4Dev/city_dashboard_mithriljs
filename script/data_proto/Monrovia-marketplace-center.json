@@ -1,0 +1,451 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1565176369,
+  "lat": 6.3080464,
+  "lon": -10.8029385,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Nancy Doe General Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2812531564,
+  "lat": 6.2765859,
+  "lon": -10.7343883,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2812532381,
+  "lat": 6.2923878,
+  "lon": -10.6907501,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Red Light Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3708485896,
+  "lat": 6.2928061,
+  "lon": -10.7872957,
+  "tags": {
+    "addr:city": "sinkor",
+    "addr:street": "8th Street",
+    "amenity": "marketplace",
+    "name": "Nancy B.Doe Market",
+    "opening_hours": "9:00am-6:30pm",
+    "operator": "Former Pres.Samuel K.Doe Wife Nancy B.Doe"
+  }
+},
+{
+  "type": "way",
+  "id": 134903087,
+  "center": {
+    "lat": 6.3079941,
+    "lon": -10.8028625
+  },
+  "nodes": [
+    1482317478,
+    1482317492,
+    1482317485,
+    1482317483,
+    1482317480,
+    1482317463,
+    1482317478
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Magai Market"
+  }
+},
+{
+  "type": "way",
+  "id": 112390850,
+  "center": {
+    "lat": 6.2948558,
+    "lon": -10.7870219
+  },
+  "nodes": [
+    1277499559,
+    1277499562,
+    1277499564,
+    1277499567,
+    1277499559
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Jorkpenkin Market",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 298578789,
+  "center": {
+    "lat": 6.2941072,
+    "lon": -10.7725704
+  },
+  "nodes": [
+    3024695977,
+    3095708764,
+    3095708763,
+    3024695978,
+    3024695979,
+    3024695980,
+    3024695977
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fama Market",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 304027688,
+  "center": {
+    "lat": 6.2456113,
+    "lon": -10.6741743
+  },
+  "nodes": [
+    3085442295,
+    3085442304,
+    3085442308,
+    3085442301,
+    3085442263,
+    3085442247,
+    3085442245,
+    3085442261,
+    3085442295
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 297124583,
+  "center": {
+    "lat": 6.2915632,
+    "lon": -10.6871474
+  },
+  "nodes": [
+    3009653291,
+    3009653292,
+    3077987025,
+    3009653293,
+    3077987210,
+    3009653291
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 161048350,
+  "center": {
+    "lat": 6.3242043,
+    "lon": -10.8071399
+  },
+  "nodes": [
+    1730498392,
+    1730498445,
+    1730498399,
+    1730498433,
+    1730498392
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "West Point Market"
+  }
+},
+{
+  "type": "way",
+  "id": 161049608,
+  "center": {
+    "lat": 6.3222946,
+    "lon": -10.8077178
+  },
+  "nodes": [
+    1730515757,
+    1730515838,
+    1730515859,
+    1730515808,
+    1730515757
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "New Market"
+  }
+},
+{
+  "type": "way",
+  "id": 305000954,
+  "center": {
+    "lat": 6.3239042,
+    "lon": -10.8035961
+  },
+  "nodes": [
+    3095701150,
+    3095701151,
+    3095701154,
+    3095701156,
+    3095701155,
+    3095701158,
+    3095701161,
+    3095701162,
+    3095701159,
+    3095701160,
+    3095701157,
+    3095701153,
+    3095701152,
+    3095701150
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm."
+  }
+},
+{
+  "type": "way",
+  "id": 305072250,
+  "center": {
+    "lat": 6.3474336,
+    "lon": -10.7325860
+  },
+  "nodes": [
+    1729638954,
+    3096453704,
+    3096453706,
+    3096453708,
+    3096453710,
+    3096453711,
+    3096453707,
+    3096453709,
+    3096453705,
+    1729638954
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Dry Rice Market"
+  }
+},
+{
+  "type": "way",
+  "id": 305077457,
+  "center": {
+    "lat": 6.4008129,
+    "lon": -10.7319504
+  },
+  "nodes": [
+    3096522692,
+    3096522696,
+    3096522698,
+    3096522697,
+    3096522694,
+    3096522695,
+    3096522693,
+    3096522692
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 134903087,
+  "nodes": [
+    1482317478,
+    1482317492,
+    1482317485,
+    1482317483,
+    1482317480,
+    1482317463,
+    1482317478
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Magai Market"
+  }
+},
+{
+  "type": "way",
+  "id": 112390850,
+  "nodes": [
+    1277499559,
+    1277499562,
+    1277499564,
+    1277499567,
+    1277499559
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Jorkpenkin Market",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 298578789,
+  "nodes": [
+    3024695977,
+    3095708764,
+    3095708763,
+    3024695978,
+    3024695979,
+    3024695980,
+    3024695977
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fama Market",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 304027688,
+  "nodes": [
+    3085442295,
+    3085442304,
+    3085442308,
+    3085442301,
+    3085442263,
+    3085442247,
+    3085442245,
+    3085442261,
+    3085442295
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 297124583,
+  "nodes": [
+    3009653291,
+    3009653292,
+    3077987025,
+    3009653293,
+    3077987210,
+    3009653291
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 161048350,
+  "nodes": [
+    1730498392,
+    1730498445,
+    1730498399,
+    1730498433,
+    1730498392
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "West Point Market"
+  }
+},
+{
+  "type": "way",
+  "id": 161049608,
+  "nodes": [
+    1730515757,
+    1730515838,
+    1730515859,
+    1730515808,
+    1730515757
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "New Market"
+  }
+},
+{
+  "type": "way",
+  "id": 305000954,
+  "nodes": [
+    3095701150,
+    3095701151,
+    3095701154,
+    3095701156,
+    3095701155,
+    3095701158,
+    3095701161,
+    3095701162,
+    3095701159,
+    3095701160,
+    3095701157,
+    3095701153,
+    3095701152,
+    3095701150
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm."
+  }
+},
+{
+  "type": "way",
+  "id": 305072250,
+  "nodes": [
+    1729638954,
+    3096453704,
+    3096453706,
+    3096453708,
+    3096453710,
+    3096453711,
+    3096453707,
+    3096453709,
+    3096453705,
+    1729638954
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Dry Rice Market"
+  }
+},
+{
+  "type": "way",
+  "id": 305077457,
+  "nodes": [
+    3096522692,
+    3096522696,
+    3096522698,
+    3096522697,
+    3096522694,
+    3096522695,
+    3096522693,
+    3096522692
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2944572908,
+  "lat": 11.3159633,
+  "lon": -12.2868655,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Prefecture"
+  }
+}
+
+  ]
+}

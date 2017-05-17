@@ -1,0 +1,42 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:34:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2088298280,
+  "lat": 9.3361779,
+  "lon": 2.6362138,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre hospitalier départemental de Borgou"
+  }
+},
+{
+  "type": "node",
+  "id": 2222780878,
+  "lat": 9.3145149,
+  "lon": 2.6024453,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital du Militaire"
+  }
+},
+{
+  "type": "node",
+  "id": 2529951882,
+  "lat": 9.3413099,
+  "lon": 2.6149412,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé de Kpebie"
+  }
+}
+
+  ]
+}

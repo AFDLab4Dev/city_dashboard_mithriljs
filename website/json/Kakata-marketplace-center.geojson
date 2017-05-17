@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/309124351",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm.",
+    "id": "way/309124351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.3524744,
+      6.670586
+    ]
+  }
+}
+]
+}

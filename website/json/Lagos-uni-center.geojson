@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2723187283",
+  "properties": {
+    "amenity": "university",
+    "name": "University of Lagos",
+    "id": "node/2723187283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3983169,
+      6.519899
+    ]
+  }
+}
+]
+}

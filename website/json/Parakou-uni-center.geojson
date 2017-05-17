@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2399881555",
+  "properties": {
+    "amenity": "university",
+    "name": "Université de Parakou",
+    "id": "node/2399881555"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6440731,
+      9.3365671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4557444888",
+  "properties": {
+    "amenity": "university",
+    "name": "FLASH",
+    "phone": "0022923614597",
+    "source": "Bing;Gps;Survey",
+    "id": "node/4557444888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6471353,
+      9.3381967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4557445089",
+  "properties": {
+    "amenity": "university",
+    "name": "LARDES",
+    "phone": "0022997320856",
+    "source": "Bing;Gps;Survey",
+    "id": "node/4557445089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6471882,
+      9.3381662
+    ]
+  }
+}
+]
+}

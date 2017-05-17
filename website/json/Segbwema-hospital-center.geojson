@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3137528786",
+  "properties": {
+    "amenity": "hospital",
+    "fixme": "check name and location",
+    "name": "Segbwema Nixon Memorial Hospital",
+    "source": "Bing; http://segbwema.blogspot.de/2014/10/robin-fallay-calls-for-closure-of.html ; https://www.youtube.com/watch?v=hT0ANgcRGKY",
+    "id": "node/3137528786"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.9486916,
+      8.0049372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579833",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Segbwema Nixon Memorial Hospital",
+    "osm_id": "3137528786",
+    "type": "hospital",
+    "id": "node/3589579833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.9486916,
+      8.0049372
+    ]
+  }
+}
+]
+}

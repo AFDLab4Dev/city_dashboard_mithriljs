@@ -120,22 +120,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2340217604",
-  "properties": {
-    "amenity": "university",
-    "name": "IUT Victor FOTSO",
-    "id": "node/2340217604"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      10.4260175,
-      5.3552444
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4404320254",
   "properties": {
     "amenity": "university",

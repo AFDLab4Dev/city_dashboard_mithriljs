@@ -1,0 +1,54 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 267812313,
+  "center": {
+    "lat": 10.7419303,
+    "lon": 13.8032383
+  },
+  "nodes": [
+    2732166779,
+    2732166781,
+    2732166782,
+    2732166784,
+    2732166786,
+    2732166788,
+    2732166789,
+    2732166779
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Gran Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 267812313,
+  "nodes": [
+    2732166779,
+    2732166781,
+    2732166782,
+    2732166784,
+    2732166786,
+    2732166788,
+    2732166789,
+    2732166779
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Gran Marché"
+  }
+}
+
+  ]
+}

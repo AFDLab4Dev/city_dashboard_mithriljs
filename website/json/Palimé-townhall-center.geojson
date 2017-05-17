@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3166183103",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Hotel de Ville de Kpalimé",
+    "id": "node/3166183103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6325784,
+      6.9062913
+    ]
+  }
+}
+]
+}

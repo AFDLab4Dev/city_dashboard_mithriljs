@@ -1,0 +1,884 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/82467201",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University College Hospital (UCH)",
+    "website": "http://www.uch-ibadan.org.ng/",
+    "wikipedia": "en:University College Hospital, Ibadan",
+    "id": "way/82467201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9036044,
+      7.4027753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/198982303",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Government House Clinic",
+    "id": "way/198982303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9166484,
+      7.4016229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/303922293",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/303922293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8928714,
+      7.3737122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451324709",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Radiation Oncology Department",
+    "id": "way/451324709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9005861,
+      7.4031653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451325060",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nuclear Medicine",
+    "id": "way/451325060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9001792,
+      7.402886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/959852212",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Alafia Hospital",
+    "id": "node/959852212"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8882299,
+      7.3992111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2401172681",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Adeoyo State Hospital",
+    "id": "node/2401172681"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.861259,
+      7.3519054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2627690901",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Jaja health Clinic",
+    "id": "node/2627690901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9008813,
+      7.4424644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2627690902",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Poly Clinic",
+    "id": "node/2627690902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9084103,
+      7.4413047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084313969",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Isale Osi Primary Health Centre",
+    "id": "node/3084313969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8912181,
+      7.3739061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084321283",
+  "properties": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Police hospital Eleyele Ibadan",
+    "id": "node/3084321283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8651303,
+      7.408235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084824646",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Tosin Medical Centre",
+    "id": "node/3084824646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8940483,
+      7.3744818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084880385",
+  "properties": {
+    "amenity": "hospital",
+    "name": "sabo public healthcare centre",
+    "id": "node/3084880385"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8856101,
+      7.4021988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084881235",
+  "properties": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Odinjo Comprehensive Health Center",
+    "id": "node/3084881235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9131339,
+      7.3589408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084912685",
+  "properties": {
+    "amenity": "hospital",
+    "name": "sango pataki community health center",
+    "id": "node/3084912685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8933804,
+      7.4273008
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084912686",
+  "properties": {
+    "amenity": "hospital",
+    "name": "the polytechnic health center",
+    "id": "node/3084912686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8845257,
+      7.4365373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084930759",
+  "properties": {
+    "amenity": "hospital",
+    "name": "oke-are health center",
+    "id": "node/3084930759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8977309,
+      7.3815941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084930763",
+  "properties": {
+    "amenity": "hospital",
+    "name": "ade oyo maternity teaching hospital",
+    "id": "node/3084930763"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9025066,
+      7.3870162
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084932303",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Oluyole Health Centre",
+    "id": "node/3084932303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.859795,
+      7.3690215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084933444",
+  "properties": {
+    "amenity": "hospital",
+    "name": "idiogun maternity health clinic",
+    "id": "node/3084933444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9180045,
+      7.394936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084935806",
+  "properties": {
+    "addr:city": "Ibadan",
+    "addr:postcode": "23402",
+    "addr:street": "Adebayo Onakoya Street",
+    "amenity": "hospital",
+    "name": "Elewura Health Centre",
+    "id": "node/3084935806"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.874019,
+      7.3479233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084951446",
+  "properties": {
+    "amenity": "hospital",
+    "name": "samonda health center",
+    "id": "node/3084951446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9048776,
+      7.4324904
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084951451",
+  "properties": {
+    "amenity": "hospital",
+    "name": "ladisa memorial health center",
+    "id": "node/3084951451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9111281,
+      7.4479156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084951452",
+  "properties": {
+    "amenity": "hospital",
+    "name": "agbowo community maternity  health center",
+    "id": "node/3084951452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9136983,
+      7.4496303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084951453",
+  "properties": {
+    "amenity": "hospital",
+    "name": "bodija health center",
+    "id": "node/3084951453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9155446,
+      7.4378007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084951454",
+  "properties": {
+    "amenity": "hospital",
+    "name": "ashi health center ( basorun)",
+    "id": "node/3084951454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.930782,
+      7.4264855
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084951455",
+  "properties": {
+    "amenity": "hospital",
+    "name": "primary health care center basorun",
+    "id": "node/3084951455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9323118,
+      7.4152934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084955367",
+  "properties": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Jericho Nursing Home",
+    "id": "node/3084955367"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8694811,
+      7.3996643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084959933",
+  "properties": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Jericho Specialist Hospital",
+    "id": "node/3084959933"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8708284,
+      7.3969121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084963901",
+  "properties": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Government Chest Hospital,Jericho",
+    "id": "node/3084963901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8720569,
+      7.3942642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084968031",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ibadan North East LG",
+    "id": "node/3084968031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9337956,
+      7.4036503
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084970435",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ibadan North East LG Primary Health Care Centre, Iwo Road",
+    "id": "node/3084970435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9338235,
+      7.4043821
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084971271",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Akeke/Olorombo Health Centre, Bashorun",
+    "id": "node/3084971271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9388607,
+      7.415782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084974659",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Akere Health Centre",
+    "id": "node/3084974659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8945857,
+      7.3764407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084979398",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ogundipe Health Post, Oke Adu",
+    "id": "node/3084979398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9185971,
+      7.3935526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084990095",
+  "properties": {
+    "addr:city": "Ibadab",
+    "addr:postcode": "23402",
+    "amenity": "hospital",
+    "name": "Royal Immaculate Hospital",
+    "id": "node/3084990095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9200626,
+      7.3647318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084992533",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Alafara Aderogba Health Centre",
+    "id": "node/3084992533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9048908,
+      7.382775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084993579",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/3084993579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9198794,
+      7.3652458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084993580",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Health Clinic, Aremo, Atipe",
+    "id": "node/3084993580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9155873,
+      7.3781837
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084994677",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ode Aje Health Centre",
+    "id": "node/3084994677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9161335,
+      7.3819811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084995130",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St.Mary's Health Centre",
+    "id": "node/3084995130"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9184464,
+      7.3862829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085001501",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Mapo Health Center",
+    "id": "node/3085001501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8976242,
+      7.3765199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085001502",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Immaculate Maternity",
+    "id": "node/3085001502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8976158,
+      7.3765179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085004172",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Agugu Community Health Centre, Agugu",
+    "id": "node/3085004172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9221997,
+      7.3844254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085009647",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Oke'badan Community Health And Maternity Centre",
+    "id": "node/3085009647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9230983,
+      7.3873567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085013780",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Oke Adu Health Centre, Oke Adu",
+    "id": "node/3085013780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9171223,
+      7.3893436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085021410",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lagelu Youth Friendly Health Centre, Agugu",
+    "id": "node/3085021410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9268353,
+      7.3837492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085023100",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Lagelu Ilupeju Health Centre, Agugu",
+    "id": "node/3085023100"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9271413,
+      7.3866102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085028208",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Ayekale Community Maternity Centre, Agugu",
+    "id": "node/3085028208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9278671,
+      7.377318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3085040128",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St. Peters Maternity  Health Centre, Aperin",
+    "id": "node/3085040128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9183595,
+      7.3752158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3702047299",
+  "properties": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Alegongo Primary Health Care Centre",
+    "id": "node/3702047299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9521113,
+      7.4409428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3711163926",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Banby Specialist Hospital",
+    "id": "node/3711163926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9436785,
+      7.433823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3711163927",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Chrisbo Medical Centre",
+    "id": "node/3711163927"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9455364,
+      7.4352551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3768191845",
+  "properties": {
+    "amenity": "hospital",
+    "name": "The Grace Hospital",
+    "id": "node/3768191845"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9329659,
+      7.4265543
+    ]
+  }
+}
+]
+}

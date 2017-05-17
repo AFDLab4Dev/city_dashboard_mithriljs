@@ -1,0 +1,118 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 94957275,
+  "center": {
+    "lat": 6.2998570,
+    "lon": -10.7944385
+  },
+  "nodes": [
+    1102111859,
+    1102111396,
+    1102110501,
+    1102111815,
+    1102111523,
+    3035663440,
+    1102111101,
+    1102111030,
+    1102110650,
+    3098524426,
+    1102111922,
+    1102111638,
+    3101361866,
+    1102110872,
+    1102110431,
+    1102111810,
+    1102111515,
+    1102111485,
+    1102111020,
+    1102110638,
+    1102111859
+  ],
+  "tags": {
+    "amenity": "university",
+    "gns:ufi": "-2133519",
+    "name": "University of Liberia",
+    "wikidata": "Q3044628",
+    "wikipedia": "en:University of Liberia"
+  }
+},
+{
+  "type": "way",
+  "id": 299926349,
+  "center": {
+    "lat": 6.3178426,
+    "lon": -10.8045755
+  },
+  "nodes": [
+    3040142878,
+    3040142879,
+    3040142880,
+    3040142881,
+    3040142878
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UMU University"
+  }
+},
+{
+  "type": "way",
+  "id": 94957275,
+  "nodes": [
+    1102111859,
+    1102111396,
+    1102110501,
+    1102111815,
+    1102111523,
+    3035663440,
+    1102111101,
+    1102111030,
+    1102110650,
+    3098524426,
+    1102111922,
+    1102111638,
+    3101361866,
+    1102110872,
+    1102110431,
+    1102111810,
+    1102111515,
+    1102111485,
+    1102111020,
+    1102110638,
+    1102111859
+  ],
+  "tags": {
+    "amenity": "university",
+    "gns:ufi": "-2133519",
+    "name": "University of Liberia",
+    "wikidata": "Q3044628",
+    "wikipedia": "en:University of Liberia"
+  }
+},
+{
+  "type": "way",
+  "id": 299926349,
+  "nodes": [
+    3040142878,
+    3040142879,
+    3040142880,
+    3040142881,
+    3040142878
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UMU University"
+  }
+}
+
+  ]
+}

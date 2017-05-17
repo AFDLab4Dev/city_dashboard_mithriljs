@@ -1,0 +1,91 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/273055235",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/273055235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1349194,
+      8.563654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4114763402",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/4114763402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1345827,
+      8.5627339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4114763410",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Gueckedou Central Market",
+    "id": "node/4114763410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1348951,
+      8.5636941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4534784678",
+  "properties": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Marché de Gueckedou",
+    "source": "Red Cross Field Survey",
+    "id": "node/4534784678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1345846,
+      8.5626557
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4534784680",
+  "properties": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Petit marché Camp",
+    "source": "Red Cross Field Survey",
+    "id": "node/4534784680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1275787,
+      8.6086348
+    ]
+  }
+}
+]
+}

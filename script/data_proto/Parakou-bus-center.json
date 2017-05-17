@@ -1,0 +1,119 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:34:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 457947956,
+  "lat": 9.3541628,
+  "lon": 2.6263108,
+  "tags": {
+    "amenity": "bus_station",
+    "created_by": "created_by",
+    "name": "Inter City Lines"
+  }
+},
+{
+  "type": "node",
+  "id": 4164183792,
+  "lat": 9.3618250,
+  "lon": 2.6200883,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Rimbo Transport Voyageurs"
+  }
+},
+{
+  "type": "node",
+  "id": 4203022815,
+  "lat": 9.3615200,
+  "lon": 2.6202100,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "STM"
+  }
+},
+{
+  "type": "way",
+  "id": 321339826,
+  "center": {
+    "lat": 9.3352255,
+    "lon": 2.6271779
+  },
+  "nodes": [
+    3280808493,
+    3280808492,
+    3280808490,
+    3280808491,
+    3280808493
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GARE ROUTIERE DE TCHAOUROU",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 235016114,
+  "center": {
+    "lat": 9.3424263,
+    "lon": 2.6265569
+  },
+  "nodes": [
+    2431238565,
+    2431238562,
+    2431238561,
+    2431238564,
+    2431238565
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "highway": "pedestrian",
+    "name": "Parc ATT (Ayina Tourisme Transport)",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 321339826,
+  "nodes": [
+    3280808493,
+    3280808492,
+    3280808490,
+    3280808491,
+    3280808493
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "GARE ROUTIERE DE TCHAOUROU",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 235016114,
+  "nodes": [
+    2431238565,
+    2431238562,
+    2431238561,
+    2431238564,
+    2431238565
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "highway": "pedestrian",
+    "name": "Parc ATT (Ayina Tourisme Transport)",
+    "source": "bing"
+  }
+}
+
+  ]
+}

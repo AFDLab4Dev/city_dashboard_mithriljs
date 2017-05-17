@@ -1,0 +1,37 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:41:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4131212879,
+  "lat": 7.5755633,
+  "lon": -8.5391235,
+  "tags": {
+    "addr:city": "Yekepa",
+    "amenity": "hospital",
+    "bed_count": "60",
+    "dispensing": "yes",
+    "doctors_num": "2",
+    "electricity": "generator",
+    "emergency": "yes",
+    "healthcare:speciality": "Doctor Valentine Sawyerr",
+    "is_in": "Yarmain",
+    "name": "Arcelormittal Hospital",
+    "nature_of_facility": "General Services",
+    "nurses_num": "6",
+    "opening_hours": "24/7",
+    "operator": "private_np",
+    "operator_name": "Arcelormittal Liberia",
+    "source": "Red Cross Field Survey",
+    "water_source": "piped"
+  }
+}
+
+  ]
+}

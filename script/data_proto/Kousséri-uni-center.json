@@ -1,0 +1,670 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:27:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2163801460,
+  "lat": 12.1283023,
+  "lon": 15.0899974,
+  "tags": {
+    "amenity": "university",
+    "name": "HEC TCHAD"
+  }
+},
+{
+  "type": "node",
+  "id": 2163801464,
+  "lat": 12.1292140,
+  "lon": 15.0888445,
+  "tags": {
+    "amenity": "university",
+    "name": "HEC TCHAD"
+  }
+},
+{
+  "type": "node",
+  "id": 2163801468,
+  "lat": 12.1379293,
+  "lon": 15.0541924,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut ISCAM"
+  }
+},
+{
+  "type": "node",
+  "id": 2514908771,
+  "lat": 12.1278120,
+  "lon": 15.0001343,
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "Faculté des Sciences Exactes et Appliquées"
+  }
+},
+{
+  "type": "node",
+  "id": 2590284276,
+  "lat": 12.1106828,
+  "lon": 15.0500597,
+  "tags": {
+    "amenity": "university",
+    "name": "Lycée Roi Faiçal",
+    "operator:type": "government",
+    "source": "bING"
+  }
+},
+{
+  "type": "node",
+  "id": 2610905939,
+  "lat": 12.0941058,
+  "lon": 15.0587751,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "university",
+    "name": "Université Libre (Sup Management)",
+    "operator:type": "community",
+    "source": "bING"
+  }
+},
+{
+  "type": "way",
+  "id": 205770038,
+  "center": {
+    "lat": 12.1093421,
+    "lon": 15.0440148
+  },
+  "nodes": [
+    2157480375,
+    2157480376,
+    2153385233,
+    2157480368,
+    2163827256,
+    2157480375
+  ],
+  "tags": {
+    "addr:street": "rue Charle de Gaulle",
+    "amenity": "university",
+    "building": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "place:nearestlandmark": "Rond Point Bololo",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 197729247,
+  "center": {
+    "lat": 12.1265249,
+    "lon": 15.0415194
+  },
+  "nodes": [
+    2079383252,
+    2079383238,
+    2079383228,
+    2079383226,
+    2079383240,
+    2079383252
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Ecole ENTP"
+  }
+},
+{
+  "type": "way",
+  "id": 199599581,
+  "center": {
+    "lat": 12.0954034,
+    "lon": 15.0622950
+  },
+  "nodes": [
+    2095917432,
+    2095917418,
+    2095917420,
+    2095917436,
+    2095917432
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building_status": "medium",
+    "project:eurosha_2012": "yes",
+    "source": "bing:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 199599560,
+  "center": {
+    "lat": 12.0973635,
+    "lon": 15.0614358
+  },
+  "nodes": [
+    2095917513,
+    2163801470,
+    3417254834,
+    2095917499,
+    2095917490,
+    2095917496,
+    2095917498,
+    2095917533,
+    2095917534,
+    2095917537,
+    2095917542,
+    2095917540,
+    2095917530,
+    2139080179,
+    2139080169,
+    2139080176,
+    2095917513
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building_base_material:sheet_metal": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "medium",
+    "historic": "yes",
+    "name": "Faculté des Lettres et Sciences Humaines",
+    "project:eurosha_2012": "yes",
+    "source": "bing:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 205764874,
+  "center": {
+    "lat": 12.1288098,
+    "lon": 15.0424046
+  },
+  "nodes": [
+    2157443161,
+    2163801770,
+    2157443162,
+    2157443163,
+    2157443164,
+    2157443161
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 206348775,
+  "center": {
+    "lat": 12.1379392,
+    "lon": 15.0541893
+  },
+  "nodes": [
+    2163561380,
+    2163561359,
+    2163561349,
+    2163561346,
+    2163561351,
+    2163561355,
+    2163561353,
+    2163561361,
+    2163561363,
+    2163561367,
+    2163561371,
+    2163561380
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:concrete": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bING"
+  }
+},
+{
+  "type": "way",
+  "id": 206348776,
+  "center": {
+    "lat": 12.1379882,
+    "lon": 15.0541432
+  },
+  "nodes": [
+    2163561369,
+    2163561372,
+    2163561371,
+    2163561363,
+    2163561361,
+    2163561365,
+    2163561369
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut ISTA"
+  }
+},
+{
+  "type": "way",
+  "id": 205389920,
+  "center": {
+    "lat": 12.1289667,
+    "lon": 15.0888844
+  },
+  "nodes": [
+    2153610190,
+    2153610191,
+    2153610189,
+    2153610192,
+    2163801464,
+    2153610190
+  ],
+  "tags": {
+    "addr:housename": "TCHAD",
+    "amenity": "university",
+    "barrier": "wall",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 206136191,
+  "center": {
+    "lat": 12.1291349,
+    "lon": 15.0888739
+  },
+  "nodes": [
+    2161378949,
+    2161378947,
+    2161378944,
+    2161378942,
+    2161378949
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "medium",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 206136160,
+  "center": {
+    "lat": 12.1283043,
+    "lon": 15.0899740
+  },
+  "nodes": [
+    2161377518,
+    2161377517,
+    2689575277,
+    2161377519,
+    2689575447,
+    2161377516,
+    2161377518
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:canvas": "yes",
+    "building_roof_material:concrete": "no",
+    "building_status": "medium",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 297518813,
+  "center": {
+    "lat": 12.0169436,
+    "lon": 15.1151471
+  },
+  "nodes": [
+    3014111425,
+    3014111426,
+    3014111427,
+    3014111428,
+    3014111429,
+    3014111432,
+    3014111430,
+    3014111431,
+    3014111425
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 438541531,
+  "center": {
+    "lat": 12.0912550,
+    "lon": 15.1316432
+  },
+  "nodes": [
+    4730500687,
+    4362798386,
+    4362798387,
+    4362799290,
+    4730500687
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "highway": "residential",
+    "name": "Institut AVD",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 480023494,
+  "center": {
+    "lat": 12.0914541,
+    "lon": 15.1317175
+  },
+  "nodes": [
+    4730500689,
+    4362798386,
+    4362798387,
+    4730500688,
+    4730500689
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ISTD",
+    "operator": "Privé"
+  }
+},
+{
+  "type": "way",
+  "id": 205770038,
+  "nodes": [
+    2157480375,
+    2157480376,
+    2153385233,
+    2157480368,
+    2163827256,
+    2157480375
+  ],
+  "tags": {
+    "addr:street": "rue Charle de Gaulle",
+    "amenity": "university",
+    "building": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "place:nearestlandmark": "Rond Point Bololo",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 197729247,
+  "nodes": [
+    2079383252,
+    2079383238,
+    2079383228,
+    2079383226,
+    2079383240,
+    2079383252
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Ecole ENTP"
+  }
+},
+{
+  "type": "way",
+  "id": 199599581,
+  "nodes": [
+    2095917432,
+    2095917418,
+    2095917420,
+    2095917436,
+    2095917432
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building_status": "medium",
+    "project:eurosha_2012": "yes",
+    "source": "bing:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 199599560,
+  "nodes": [
+    2095917513,
+    2163801470,
+    3417254834,
+    2095917499,
+    2095917490,
+    2095917496,
+    2095917498,
+    2095917533,
+    2095917534,
+    2095917537,
+    2095917542,
+    2095917540,
+    2095917530,
+    2139080179,
+    2139080169,
+    2139080176,
+    2095917513
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building_base_material:sheet_metal": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "medium",
+    "historic": "yes",
+    "name": "Faculté des Lettres et Sciences Humaines",
+    "project:eurosha_2012": "yes",
+    "source": "bing:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 205764874,
+  "nodes": [
+    2157443161,
+    2163801770,
+    2157443162,
+    2157443163,
+    2157443164,
+    2157443161
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 206348775,
+  "nodes": [
+    2163561380,
+    2163561359,
+    2163561349,
+    2163561346,
+    2163561351,
+    2163561355,
+    2163561353,
+    2163561361,
+    2163561363,
+    2163561367,
+    2163561371,
+    2163561380
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:concrete": "yes",
+    "building_status": "good",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bING"
+  }
+},
+{
+  "type": "way",
+  "id": 206348776,
+  "nodes": [
+    2163561369,
+    2163561372,
+    2163561371,
+    2163561363,
+    2163561361,
+    2163561365,
+    2163561369
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut ISTA"
+  }
+},
+{
+  "type": "way",
+  "id": 205389920,
+  "nodes": [
+    2153610190,
+    2153610191,
+    2153610189,
+    2153610192,
+    2163801464,
+    2153610190
+  ],
+  "tags": {
+    "addr:housename": "TCHAD",
+    "amenity": "university",
+    "barrier": "wall",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 206136191,
+  "nodes": [
+    2161378949,
+    2161378947,
+    2161378944,
+    2161378942,
+    2161378949
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:sheet_metal": "yes",
+    "building_status": "medium",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 206136160,
+  "nodes": [
+    2161377518,
+    2161377517,
+    2689575277,
+    2161377519,
+    2689575447,
+    2161377516,
+    2161377518
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "building_base_material:concrete": "yes",
+    "building_roof_material:canvas": "yes",
+    "building_roof_material:concrete": "no",
+    "building_status": "medium",
+    "historic": "yes",
+    "project:eurosha_2012": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 297518813,
+  "nodes": [
+    3014111425,
+    3014111426,
+    3014111427,
+    3014111428,
+    3014111429,
+    3014111432,
+    3014111430,
+    3014111431,
+    3014111425
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 438541531,
+  "nodes": [
+    4730500687,
+    4362798386,
+    4362798387,
+    4362799290,
+    4730500687
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "highway": "residential",
+    "name": "Institut AVD",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 480023494,
+  "nodes": [
+    4730500689,
+    4362798386,
+    4362798387,
+    4730500688,
+    4730500689
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ISTD",
+    "operator": "Privé"
+  }
+}
+
+  ]
+}

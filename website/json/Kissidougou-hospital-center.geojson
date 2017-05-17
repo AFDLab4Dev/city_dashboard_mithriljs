@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2774629273",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital de Kissidougou",
+    "id": "node/2774629273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.1035194,
+      9.198437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4532563099",
+  "properties": {
+    "addr:city": "Kissidougou",
+    "addr:state": "Kissidougou",
+    "amenity": "hospital",
+    "bed_count": "5",
+    "building": "yes",
+    "dispensing": "no",
+    "doctors_num": "1",
+    "name": "Infirmerie du Camp d'Instruction de Kissidougou",
+    "nurses_num": "2",
+    "opening_hours": "8:00-18:00",
+    "operator_name": "Alima Bangoura",
+    "source": "Red Cross Field Survey",
+    "id": "node/4532563099"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.0917652,
+      9.1634973
+    ]
+  }
+}
+]
+}

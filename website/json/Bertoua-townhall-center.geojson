@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3787817144",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de Bertoua II",
+    "id": "node/3787817144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6852417,
+      4.5778283
+    ]
+  }
+}
+]
+}

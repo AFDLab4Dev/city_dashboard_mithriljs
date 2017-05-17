@@ -1,0 +1,278 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 318535945,
+  "center": {
+    "lat": 9.3730120,
+    "lon": -0.8850384
+  },
+  "nodes": [
+    3249427397,
+    3249427398,
+    3249427396,
+    3249427395,
+    3249427397
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "University for Development Studies - Tamale Campus",
+    "source": "MapBox",
+    "website": "http://www.uds.edu.gh/",
+    "wikipedia": "en:University for Development Studies"
+  }
+},
+{
+  "type": "way",
+  "id": 243539704,
+  "center": {
+    "lat": 9.4300671,
+    "lon": -0.8657716
+  },
+  "nodes": [
+    2509303248,
+    2509303251,
+    2509303250,
+    2509303249,
+    2509303248
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T poly Administration"
+  }
+},
+{
+  "type": "way",
+  "id": 243539818,
+  "center": {
+    "lat": 9.4300987,
+    "lon": -0.8659655
+  },
+  "nodes": [
+    2509304281,
+    2509304280,
+    2509304286,
+    2509304282,
+    2509304285,
+    2509304284,
+    2509304279,
+    2509304283,
+    2509304281
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T poly Administration "
+  }
+},
+{
+  "type": "way",
+  "id": 243541517,
+  "center": {
+    "lat": 9.4308661,
+    "lon": -0.8650045
+  },
+  "nodes": [
+    2509321612,
+    2509321613,
+    2509321609,
+    2509321619,
+    2509321617,
+    2509321612
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 243541734,
+  "center": {
+    "lat": 9.4318689,
+    "lon": -0.8650883
+  },
+  "nodes": [
+    2509325719,
+    2509325721,
+    2509325717,
+    2509325723,
+    2509325719
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Computer Lab"
+  }
+},
+{
+  "type": "way",
+  "id": 243541515,
+  "center": {
+    "lat": 9.4311360,
+    "lon": -0.8648917
+  },
+  "nodes": [
+    2509321607,
+    2509321616,
+    2509321618,
+    2509321608,
+    2509321607
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 243541516,
+  "center": {
+    "lat": 9.4315990,
+    "lon": -0.8649382
+  },
+  "nodes": [
+    2509321614,
+    2509321610,
+    2509321615,
+    2509321611,
+    2509321614
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 318535945,
+  "nodes": [
+    3249427397,
+    3249427398,
+    3249427396,
+    3249427395,
+    3249427397
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "University for Development Studies - Tamale Campus",
+    "source": "MapBox",
+    "website": "http://www.uds.edu.gh/",
+    "wikipedia": "en:University for Development Studies"
+  }
+},
+{
+  "type": "way",
+  "id": 243539704,
+  "nodes": [
+    2509303248,
+    2509303251,
+    2509303250,
+    2509303249,
+    2509303248
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T poly Administration"
+  }
+},
+{
+  "type": "way",
+  "id": 243539818,
+  "nodes": [
+    2509304281,
+    2509304280,
+    2509304286,
+    2509304282,
+    2509304285,
+    2509304284,
+    2509304279,
+    2509304283,
+    2509304281
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T poly Administration "
+  }
+},
+{
+  "type": "way",
+  "id": 243541517,
+  "nodes": [
+    2509321612,
+    2509321613,
+    2509321609,
+    2509321619,
+    2509321617,
+    2509321612
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 243541734,
+  "nodes": [
+    2509325719,
+    2509325721,
+    2509325717,
+    2509325723,
+    2509325719
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Computer Lab"
+  }
+},
+{
+  "type": "way",
+  "id": 243541515,
+  "nodes": [
+    2509321607,
+    2509321616,
+    2509321618,
+    2509321608,
+    2509321607
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 243541516,
+  "nodes": [
+    2509321614,
+    2509321610,
+    2509321615,
+    2509321611,
+    2509321614
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "T Poly Lecture Hall"
+  }
+}
+
+  ]
+}

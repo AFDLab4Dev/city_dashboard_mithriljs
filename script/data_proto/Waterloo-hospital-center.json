@@ -1,0 +1,443 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:43:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3197529881,
+  "lat": 8.3884202,
+  "lon": -13.1427559,
+  "tags": {
+    "accuracy": "Needs location validation",
+    "amenity": "hospital",
+    "capacity:beds": "2",
+    "capacity:beds:planned": "2",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0010",
+    "health_facility:type": "field_hospital",
+    "is_in": "Hastings Village A",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "China-SL Friendship Hospital, Jui",
+    "operational_status": "open",
+    "operator": "Chinese CDC",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers"
+  }
+},
+{
+  "type": "node",
+  "id": 3197529886,
+  "lat": 8.2626204,
+  "lon": -13.0904841,
+  "tags": {
+    "accuracy": "Best guess from driving past",
+    "amenity": "hospital",
+    "capacity:beds": "10",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0005",
+    "health_facility:type": "field_hospital",
+    "is_in": "Sattia/Tombo",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "Kerry Town ETU",
+    "operational_status": "open",
+    "operator": "Save the Children",
+    "source": "UNMEER;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers"
+  }
+},
+{
+  "type": "node",
+  "id": 3197529894,
+  "lat": 8.3859704,
+  "lon": -13.1303418,
+  "tags": {
+    "accuracy": "Needs location validation",
+    "amenity": "hospital",
+    "capacity:beds": "120",
+    "capacity:beds:planned": "120",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0004",
+    "health_facility:type": "field_hospital",
+    "is_in": "Hastings Village A",
+    "is_in:district": "Western Area Rural",
+    "is_in:region": "Western",
+    "name": "Police Training Sch-Hastings 1 ETC",
+    "operational_status": "open",
+    "operator": "MOH",
+    "source": "UNMEER;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers"
+  }
+},
+{
+  "type": "node",
+  "id": 3342221217,
+  "lat": 8.4644505,
+  "lon": -13.1937086,
+  "tags": {
+    "amenity": "hospital",
+    "name": "DOCTOR QUARTER",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3342221223,
+  "lat": 8.4653906,
+  "lon": -13.1938195,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SL SACRIFICE HOSPITAL MENTAL",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3371553300,
+  "lat": 8.3646760,
+  "lon": -13.0958875,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Biola Wright Memorial Hospital",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3371967176,
+  "lat": 8.3372742,
+  "lon": -13.0752279,
+  "tags": {
+    "amenity": "hospital",
+    "name": "AHS hospital building main water loo",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578377,
+  "lat": 8.3372742,
+  "lon": -13.0752279,
+  "tags": {
+    "amenity": "hospital",
+    "name": "AHS hospital building main water loo",
+    "osm_id": "3371967176",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578442,
+  "lat": 8.3646760,
+  "lon": -13.0958875,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Biola Wright Memorial Hospital",
+    "osm_id": "3371553300",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578482,
+  "lat": 8.3884202,
+  "lon": -13.1427559,
+  "tags": {
+    "amenity": "hospital",
+    "name": "China-SL Friendship Hospital, Jui",
+    "osm_id": "3197529881",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578501,
+  "lat": 8.4644505,
+  "lon": -13.1937086,
+  "tags": {
+    "amenity": "hospital",
+    "name": "DOCTOR QUARTER",
+    "osm_id": "3342221217",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578738,
+  "lat": 8.2626204,
+  "lon": -13.0904841,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kerry Town ETU",
+    "osm_id": "3197529886",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579567,
+  "lat": 8.3859979,
+  "lon": -13.1304882,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Police Training Sch-Hastings 1 ETC",
+    "osm_id": "3197529894",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579805,
+  "lat": 8.4653906,
+  "lon": -13.1938195,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SL SACRIFICE HOSPITAL MENTAL",
+    "osm_id": "3342221223",
+    "type": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 298793988,
+  "center": {
+    "lat": 8.2883583,
+    "lon": -13.1832799
+  },
+  "nodes": [
+    3027310344,
+    3027310345,
+    3027310343,
+    3027310342,
+    3137675208,
+    3027310344
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "York Hospital",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 314868716,
+  "center": {
+    "lat": 8.3886230,
+    "lon": -13.1428262
+  },
+  "nodes": [
+    3162393377,
+    3162393378,
+    3162393364,
+    3162393363,
+    3162393160,
+    3162393157,
+    3162393153,
+    3162393410,
+    3162393445,
+    3162393600,
+    3162393596,
+    3162393435,
+    3162393431,
+    3162393377
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "China Sierra Leone Friendship Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 308521068,
+  "center": {
+    "lat": 8.3357112,
+    "lon": -13.0734965
+  },
+  "nodes": [
+    3137904053,
+    3137904040,
+    3137904034,
+    3137904035,
+    3137904031,
+    3137904022,
+    3137904015,
+    3137904014,
+    3137904002,
+    3137903997,
+    3137904011,
+    3137903995,
+    3137904009,
+    3137904023,
+    3137904029,
+    3137904032,
+    3137904050,
+    3137904053
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AHS - Waterloo Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 311195619,
+  "center": {
+    "lat": 8.4200465,
+    "lon": -13.1537535
+  },
+  "nodes": [
+    3167733441,
+    3167733442,
+    3167733443,
+    3167733444,
+    3167733441
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AWAKE HOSPITAL",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 314755417,
+  "center": {
+    "lat": 8.4602830,
+    "lon": -13.1724226
+  },
+  "nodes": [
+    3192084614,
+    3192084629,
+    3208025228,
+    3208025229,
+    3208025230,
+    3208025231,
+    3208025232,
+    3192084614
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rokupa Hospital",
+    "operator": "Government of Sierra Leone"
+  }
+},
+{
+  "type": "way",
+  "id": 298793988,
+  "nodes": [
+    3027310344,
+    3027310345,
+    3027310343,
+    3027310342,
+    3137675208,
+    3027310344
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "York Hospital",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 314868716,
+  "nodes": [
+    3162393377,
+    3162393378,
+    3162393364,
+    3162393363,
+    3162393160,
+    3162393157,
+    3162393153,
+    3162393410,
+    3162393445,
+    3162393600,
+    3162393596,
+    3162393435,
+    3162393431,
+    3162393377
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "China Sierra Leone Friendship Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 308521068,
+  "nodes": [
+    3137904053,
+    3137904040,
+    3137904034,
+    3137904035,
+    3137904031,
+    3137904022,
+    3137904015,
+    3137904014,
+    3137904002,
+    3137903997,
+    3137904011,
+    3137903995,
+    3137904009,
+    3137904023,
+    3137904029,
+    3137904032,
+    3137904050,
+    3137904053
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AHS - Waterloo Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 311195619,
+  "nodes": [
+    3167733441,
+    3167733442,
+    3167733443,
+    3167733444,
+    3167733441
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AWAKE HOSPITAL",
+    "source": "MSF-CH"
+  }
+},
+{
+  "type": "way",
+  "id": 314755417,
+  "nodes": [
+    3192084614,
+    3192084629,
+    3208025228,
+    3208025229,
+    3208025230,
+    3208025231,
+    3208025232,
+    3192084614
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rokupa Hospital",
+    "operator": "Government of Sierra Leone"
+  }
+}
+
+  ]
+}

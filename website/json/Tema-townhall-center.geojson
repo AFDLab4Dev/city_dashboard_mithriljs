@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1585121692",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Ashaiman Municipal Assembly",
+    "id": "node/1585121692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0257157,
+      5.6923535
+    ]
+  }
+}
+]
+}

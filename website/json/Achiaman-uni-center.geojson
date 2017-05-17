@@ -1,0 +1,192 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/244176341",
+  "properties": {
+    "addr:city": "Accra",
+    "amenity": "university",
+    "name": "Regent University College of Science and Technology (King's Campus)",
+    "phone": "+233-302-662885",
+    "website": "http://www.regentghana.net/",
+    "wikipedia": "en:Regent University College of Science and Technology",
+    "id": "way/244176341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2744798,
+      5.5545435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/276975605",
+  "properties": {
+    "addr:place": "Kaneshie",
+    "amenity": "university",
+    "name": "Central University College - Mataheko Campus",
+    "id": "way/276975605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2415902,
+      5.5659595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308668766",
+  "properties": {
+    "addr:city": "Accra",
+    "amenity": "university",
+    "name": "University of Ghana",
+    "opening_hours": "24/7",
+    "wikidata": "Q2303765",
+    "id": "way/308668766"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.189182,
+      5.6471715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/329085983",
+  "properties": {
+    "amenity": "university",
+    "name": "Ashesi University College",
+    "id": "way/329085983"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2200985,
+      5.7593983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/357120832",
+  "properties": {
+    "amenity": "university",
+    "id": "way/357120832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2361504,
+      5.5997018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/357120833",
+  "properties": {
+    "addr:place": "Tesano",
+    "alt_name": "GTUC",
+    "amenity": "university",
+    "name": "Ghana Technology University College",
+    "source": "Bing",
+    "id": "way/357120833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.223594,
+      5.5961092
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/358536692",
+  "properties": {
+    "amenity": "university",
+    "name": "Wisconsin International College",
+    "id": "way/358536692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1898557,
+      5.6695533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453505983",
+  "properties": {
+    "amenity": "university",
+    "name": "Ghana Institute of Management and Public Administration (GIMPA)",
+    "website": "www.gimpa.edu.gh",
+    "id": "way/453505983"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.202095,
+      5.6361083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2147840765",
+  "properties": {
+    "amenity": "university",
+    "name": "Methodist University College",
+    "id": "node/2147840765"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2611379,
+      5.5670731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3043620371",
+  "properties": {
+    "amenity": "university",
+    "name": "Sikkim Manipal University Ghana",
+    "id": "node/3043620371"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2090898,
+      5.5708833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3063488061",
+  "properties": {
+    "amenity": "university",
+    "name": "Graduate School of Nuclear and Allied Sciences - University of Ghana",
+    "id": "node/3063488061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2305864,
+      5.6671241
+    ]
+  }
+}
+]
+}

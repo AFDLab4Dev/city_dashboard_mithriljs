@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3780985692",
+  "properties": {
+    "addr:city": "Takoradi",
+    "amenity": "marketplace",
+    "name": "Amanful Clothing Line",
+    "opening_hours": "7:00 - 5:00",
+    "operator": "Men and Women",
+    "id": "node/3780985692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.7614155,
+      4.8995937
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,69 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/381699173",
+  "properties": {
+    "amenity": "hospital",
+    "name": "benen",
+    "id": "way/381699173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.7055296,
+      6.5342049
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4249998704",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Mission médicale chinoise",
+    "id": "node/4249998704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.7149894,
+      6.6449836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4249999414",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Kpinnou",
+    "id": "node/4249999414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.774376,
+      6.5816141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4508195763",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital de zone de Lokossa",
+    "id": "node/4508195763"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.7132059,
+      6.633621
+    ]
+  }
+}
+]
+}

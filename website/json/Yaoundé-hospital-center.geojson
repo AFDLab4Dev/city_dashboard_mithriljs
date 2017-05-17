@@ -1890,18 +1890,17 @@
 },
 {
   "type": "Feature",
-  "id": "node/1067289788",
+  "id": "node/1067272619",
   "properties": {
-    "Infomation": "No data sheet fllled",
     "amenity": "hospital",
-    "name": "Centre de Sante Integre de Nkoldjobe",
-    "id": "node/1067289788"
+    "name": "Centre de sante integre de Lebot",
+    "id": "node/1067272619"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.3608778,
-      3.9632157
+      11.412775,
+      3.9983989
     ]
   }
 },
@@ -1937,6 +1936,28 @@
     "coordinates": [
       11.5060201,
       3.8343137
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4361807958",
+  "properties": {
+    "addr:postcode": "BP 16415",
+    "amenity": "hospital",
+    "contact:email": "Somerville.sarl@yahoo.fr",
+    "contact:fax": "222229222",
+    "contact:phone": "699442734",
+    "firxme": "please verify \"hospital\"",
+    "name": "SIDJE LOIC",
+    "operator": "societe medicale du Cameroun",
+    "id": "node/4361807958"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.505654,
+      3.8716233
     ]
   }
 },

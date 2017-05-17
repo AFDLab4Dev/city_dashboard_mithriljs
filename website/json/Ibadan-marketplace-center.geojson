@@ -1,0 +1,132 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/55874017",
+  "properties": {
+    "amenity": "marketplace",
+    "source": "Yahoo",
+    "id": "way/55874017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9262751,
+      7.3808518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/82466578",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Gbagi New International Market",
+    "id": "way/82466578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.955768,
+      7.3928593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2453679849",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Bodija Market",
+    "id": "node/2453679849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9157745,
+      7.4371869
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2639209659",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Tolulope Plaza",
+    "id": "node/2639209659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.9096256,
+      7.4377999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2639256357",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Aleshinloye Market",
+    "id": "node/2639256357"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8701763,
+      7.3894522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084824648",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Oja Oba Market",
+    "id": "node/3084824648"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8951313,
+      7.3742579
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084824650",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/3084824650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8956143,
+      7.3741824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3084974661",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Mapo Market",
+    "id": "node/3084974661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8957192,
+      7.3762823
+    ]
+  }
+}
+]
+}

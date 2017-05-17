@@ -1,0 +1,63 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:33:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4136197114,
+  "lat": 4.8120204,
+  "lon": 6.9816090,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Palmer Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4295640590,
+  "lat": 4.8532827,
+  "lon": 7.0143895,
+  "tags": {
+    "addr:street": "Gynescope Street",
+    "amenity": "hospital",
+    "email": "gynescope@yahoo.com",
+    "name": "Gynescope Specialist Hospital",
+    "opening_hours": "24/7",
+    "phone": "+2348166593030",
+    "website": "http://www.gynescopesh.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4323241792,
+  "lat": 4.8550343,
+  "lon": 7.0153046,
+  "tags": {
+    "addr:street": "Gynescope street Rukpakulosi",
+    "amenity": "hospital",
+    "email": "gynescope@yahoo.com",
+    "name": "Gynescope Specialist Hospital",
+    "opening_hours": "24/7",
+    "phone": "+2348166593030",
+    "website": "http://www.gynescopesh.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4556016594,
+  "lat": 4.7894736,
+  "lon": 7.0397285,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Global Rayfield Medical Center",
+    "name:en": "Global Rayfield Medical Center"
+  }
+}
+
+  ]
+}

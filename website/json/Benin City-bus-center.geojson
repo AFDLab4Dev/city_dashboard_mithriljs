@@ -1,0 +1,247 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/981284618",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Edo Line",
+    "id": "node/981284618"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6282402,
+      6.3435934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2153201050",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "ECTS (Comrade Bus)",
+    "id": "node/2153201050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6225742,
+      6.3340996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349475706",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Akwa Ibom Motor Park",
+    "id": "node/2349475706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6350974,
+      6.3457435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349475716",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Bob Izua Motor Park",
+    "id": "node/2349475716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6332002,
+      6.342684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349475726",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Crystay Line Park",
+    "id": "node/2349475726"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6319149,
+      6.3438095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2349475731",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Glory Motor Park",
+    "id": "node/2349475731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6317854,
+      6.3490552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350849579",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Osaro Motors park",
+    "id": "node/2350849579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6207806,
+      6.3363948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350849580",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Osaro Motors park",
+    "id": "node/2350849580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6205344,
+      6.3372857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350879747",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Edegbe Line",
+    "id": "node/2350879747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6286195,
+      6.3453079
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350879761",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Owan West Mass Transit",
+    "id": "node/2350879761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6269471,
+      6.3443351
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350899852",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Cliffosa Motor Park",
+    "id": "node/2350899852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6237987,
+      6.3469551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350899853",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "De Modern Bus Station",
+    "id": "node/2350899853"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6233136,
+      6.3474182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2350899867",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Iyare Motor Park",
+    "id": "node/2350899867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6220656,
+      6.3485686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4755886707",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "AKTC Motors",
+    "name:en": "AKTC Motors",
+    "id": "node/4755886707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6355293,
+      6.345332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4755886708",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Faith Motors",
+    "name:en": "Faith Motors",
+    "id": "node/4755886708"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.636357,
+      6.3443671
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2435638491",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "only minibuses",
+    "id": "node/2435638491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.9956293,
+      7.1798366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2437598561",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Gare routière",
+    "id": "node/2437598561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0907632,
+      7.1822424
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,34 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4537714890,
+  "lat": 6.3755718,
+  "lon": -10.7860241,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Station to Bo waterside (Duala Motor Park)",
+    "name:en": "Shared Taxi Station to Bo waterside"
+  }
+},
+{
+  "type": "node",
+  "id": 4663849290,
+  "lat": 6.3559394,
+  "lon": -10.7321412,
+  "tags": {
+    "addr:postcode": "+231",
+    "addr:street": "barnersville bend & stop",
+    "amenity": "bus_station"
+  }
+}
+
+  ]
+}

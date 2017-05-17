@@ -1,0 +1,33 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1309028041,
+  "lat": 4.7466375,
+  "lon": -6.6362977,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier Régional de San Pédro"
+  }
+},
+{
+  "type": "node",
+  "id": 4806184022,
+  "lat": 4.7783024,
+  "lon": -6.6517799,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternité Municipale Déléguée Henriette Konan Bédié du Bardot",
+    "name:fr": "Maternité Municipale Déléguée Henriette Konan Bédié du Bardot"
+  }
+}
+
+  ]
+}

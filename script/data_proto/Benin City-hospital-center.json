@@ -1,0 +1,2278 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 981246654,
+  "lat": 6.3302288,
+  "lon": 5.6228643,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1994156658,
+  "lat": 6.3666100,
+  "lon": 5.6256996,
+  "tags": {
+    "amenity": "hospital",
+    "name": "A1 Winnes Maternity and Nursing Home"
+  }
+},
+{
+  "type": "node",
+  "id": 1994156659,
+  "lat": 6.3686488,
+  "lon": 5.6334298,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Adumah Maternity and Nursing"
+  }
+},
+{
+  "type": "node",
+  "id": 1994156772,
+  "lat": 6.3705247,
+  "lon": 5.6343403,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Aljumah Maternity and Nursing Home"
+  }
+},
+{
+  "type": "node",
+  "id": 1994157307,
+  "lat": 6.3699171,
+  "lon": 5.6292833,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Eromosele Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1994157308,
+  "lat": 6.3795518,
+  "lon": 5.6407133,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Everest Medica lCentre"
+  }
+},
+{
+  "type": "node",
+  "id": 1994157326,
+  "lat": 6.3721671,
+  "lon": 5.6353867,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Excellent Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1994157347,
+  "lat": 6.3604606,
+  "lon": 5.6255555,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Itohan Medical Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1994157680,
+  "lat": 6.3797718,
+  "lon": 5.6319238,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Quality Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1995055415,
+  "lat": 6.3629675,
+  "lon": 5.5895093,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Mega Clinic and Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2000020573,
+  "lat": 6.3721666,
+  "lon": 5.5839451,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Lord Maternity and Nursing Home",
+    "operator": "THE LORD MATERNITY AND NURSING HOME"
+  }
+},
+{
+  "type": "node",
+  "id": 2072621416,
+  "lat": 6.3775431,
+  "lon": 5.6351859,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Osimike Health Service"
+  }
+},
+{
+  "type": "node",
+  "id": 2072621417,
+  "lat": 6.3626748,
+  "lon": 5.6224549,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Oviasu Medical Materinty"
+  }
+},
+{
+  "type": "node",
+  "id": 2072621443,
+  "lat": 6.3587850,
+  "lon": 5.6257580,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ST. John Hospital & Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2072662391,
+  "lat": 6.3661059,
+  "lon": 5.5817533,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Redeem Medical and Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2072662450,
+  "lat": 6.3663258,
+  "lon": 5.5828438,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ST James Clinic and Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846068,
+  "lat": 6.3109713,
+  "lon": 5.6273816,
+  "tags": {
+    "amenity": "hospital",
+    "name": "DDS Eye Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846144,
+  "lat": 6.3116598,
+  "lon": 5.6283229,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Igbenedion Teaching Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846183,
+  "lat": 6.3076664,
+  "lon": 5.6188964,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lella Specialist Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846368,
+  "lat": 6.3049885,
+  "lon": 5.6270095,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St Rapheal Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846400,
+  "lat": 6.3061384,
+  "lon": 5.6210009,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Rock Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2075846427,
+  "lat": 6.3140812,
+  "lon": 5.6259184,
+  "tags": {
+    "amenity": "hospital",
+    "name": "University Of Benin Teaching Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2152941677,
+  "lat": 6.3024422,
+  "lon": 5.6062087,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ajayi Orioafo Memoria Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2154223853,
+  "lat": 6.3309984,
+  "lon": 5.6298245,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Abe Medical Clinic and Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2154481142,
+  "lat": 6.3312020,
+  "lon": 5.6265270,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ayolik medical Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2154569171,
+  "lat": 6.3206707,
+  "lon": 5.6275919,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Irowa medical center"
+  }
+},
+{
+  "type": "node",
+  "id": 2154569723,
+  "lat": 6.3184315,
+  "lon": 5.6309214,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Jonos Medical Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2154570764,
+  "lat": 6.2980668,
+  "lon": 5.5862114,
+  "tags": {
+    "amenity": "hospital",
+    "highway": "emergency_access_point",
+    "name": "Kris. O. physiotherapy Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2154571096,
+  "lat": 6.3314667,
+  "lon": 5.6267477,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Life Line Medicare Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2154575306,
+  "lat": 6.2984609,
+  "lon": 5.6003104,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maxi Heath Medical Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2155702032,
+  "lat": 6.3184794,
+  "lon": 5.6310177,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Jonos Medical Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2155708192,
+  "lat": 6.3285132,
+  "lon": 5.6124147,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Oretse Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2155730552,
+  "lat": 6.3228765,
+  "lon": 5.6183182,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Sickle Cell Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2155731331,
+  "lat": 6.3127440,
+  "lon": 5.6168271,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Syncamore hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2160629643,
+  "lat": 6.3368862,
+  "lon": 5.6307463,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Aronsaye Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2160629703,
+  "lat": 6.3307076,
+  "lon": 5.6261102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Assurance Medical Lab"
+  }
+},
+{
+  "type": "node",
+  "id": 2160845043,
+  "lat": 6.2984263,
+  "lon": 5.6002852,
+  "tags": {
+    "amenity": "hospital",
+    "name": "MaxiHealth Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2161051792,
+  "lat": 6.3278675,
+  "lon": 5.6250310,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fouintain Of Life Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2161071114,
+  "lat": 6.3119927,
+  "lon": 5.6032412,
+  "tags": {
+    "amenity": "hospital",
+    "name": "NNPC Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2161101543,
+  "lat": 6.3236996,
+  "lon": 5.6295419,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St Mathias Anglican hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2161101547,
+  "lat": 6.3082442,
+  "lon": 5.6178101,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St. Robina Hospitle"
+  }
+},
+{
+  "type": "node",
+  "id": 2161108211,
+  "lat": 6.3205143,
+  "lon": 5.6282007,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Sumel optomentry"
+  }
+},
+{
+  "type": "node",
+  "id": 2161111314,
+  "lat": 6.3358449,
+  "lon": 5.6307845,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Urban Health Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2344220914,
+  "lat": 6.3417570,
+  "lon": 5.5973350,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Westend Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2344258133,
+  "lat": 6.3411490,
+  "lon": 5.6100930,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Igbinobaro Medical center"
+  }
+},
+{
+  "type": "node",
+  "id": 2344271062,
+  "lat": 6.3384324,
+  "lon": 5.5979947,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hanora Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2344280071,
+  "lat": 6.3343199,
+  "lon": 5.6044260,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Calvary Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2344280078,
+  "lat": 6.3355777,
+  "lon": 5.5959619,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St. Lawrence Medical Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2344305773,
+  "lat": 6.3318386,
+  "lon": 5.5983861,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Danzee Memorial Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2344305801,
+  "lat": 6.3317339,
+  "lon": 5.5971064,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ultimate health medical centre/laboratory"
+  }
+},
+{
+  "type": "node",
+  "id": 2344305970,
+  "lat": 6.3475747,
+  "lon": 5.6010974,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Shalom clinic & Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2344316133,
+  "lat": 6.3322083,
+  "lon": 5.6067505,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bupa Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2344316139,
+  "lat": 6.3297104,
+  "lon": 5.6088075,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Gims Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2344328623,
+  "lat": 6.3250906,
+  "lon": 5.6005415,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Quick Recovery Medical Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2344424488,
+  "lat": 6.3302555,
+  "lon": 5.6041556,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Okorare Clinic and Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2344426939,
+  "lat": 6.3511547,
+  "lon": 5.6105238,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Azuwa Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2344448401,
+  "lat": 6.3155887,
+  "lon": 5.6060622,
+  "tags": {
+    "amenity": "hospital",
+    "name": "NAF Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2344466059,
+  "lat": 6.3295129,
+  "lon": 5.6262050,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Christ medical center"
+  }
+},
+{
+  "type": "node",
+  "id": 2344503123,
+  "lat": 6.3332441,
+  "lon": 5.5931306,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fred Okhomina Nursing Home & Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2344543055,
+  "lat": 6.3354251,
+  "lon": 5.6097721,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rose of Sharon Mediplex"
+  }
+},
+{
+  "type": "node",
+  "id": 2344584292,
+  "lat": 6.3412577,
+  "lon": 5.5965902,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Itual Medical centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2344590775,
+  "lat": 6.3269614,
+  "lon": 5.5805978,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Chisi Cottage Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2349397490,
+  "lat": 6.3368143,
+  "lon": 5.6157171,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ewaen Clinic&Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 2349424016,
+  "lat": 6.3530968,
+  "lon": 5.6269552,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St. Bridget X - Ray Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2349475745,
+  "lat": 6.3448945,
+  "lon": 5.6306475,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Laboratory Building"
+  }
+},
+{
+  "type": "node",
+  "id": 2349477426,
+  "lat": 6.3380042,
+  "lon": 5.6262827,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fenoma hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2350879760,
+  "lat": 6.3418331,
+  "lon": 5.6257815,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Osula Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2350879796,
+  "lat": 6.3450508,
+  "lon": 5.6275173,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ukponmwan Foudation Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2350899871,
+  "lat": 6.3441675,
+  "lon": 5.6194709,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lemik Specialist Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4255715489,
+  "lat": 6.3611895,
+  "lon": 5.6195517,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Psychiatric Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4558682977,
+  "lat": 6.3206410,
+  "lon": 5.5714049,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "Edo-Osagie-Street",
+    "amenity": "hospital",
+    "email": "contact@lilyhospitals.com",
+    "emergency": "yes",
+    "name": "Lily Hospitals Limited",
+    "opening_hours": "24/7",
+    "phone": "+2348113690592",
+    "website": "http://www.lilyhospitals.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4770515573,
+  "lat": 6.4133568,
+  "lon": 5.6793467,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 283791637,
+  "center": {
+    "lat": 6.2550676,
+    "lon": 5.7241430
+  },
+  "nodes": [
+    2876193153,
+    2876193154,
+    2876193152,
+    2876193151,
+    2876193153
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "UKHIRI HEALTH CENTRE"
+  }
+},
+{
+  "type": "way",
+  "id": 47161450,
+  "center": {
+    "lat": 6.3096329,
+    "lon": 5.6025081
+  },
+  "nodes": [
+    601236031,
+    601236033,
+    601236027,
+    601236035,
+    601236031
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ben Oni Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85515964,
+  "center": {
+    "lat": 6.3164911,
+    "lon": 5.6092555
+  },
+  "nodes": [
+    991759165,
+    991758223,
+    991758431,
+    991759270,
+    991759345,
+    991758858,
+    991759064,
+    991758522,
+    991758339,
+    991759179,
+    991759380,
+    991758891,
+    991758973,
+    991758422,
+    991758686,
+    991758142,
+    991758466,
+    991759301,
+    991758183,
+    991759017,
+    991759093,
+    991758577,
+    991758812,
+    991758256,
+    991758108,
+    991758931,
+    991759134,
+    991758626,
+    991758735,
+    991758173,
+    991758378,
+    991759216,
+    991758215,
+    991759050,
+    991759260,
+    991758772,
+    991758854,
+    991758295,
+    991758513,
+    991759338,
+    991759173,
+    991758671,
+    991758880,
+    991758330,
+    991759165
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85516137,
+  "center": {
+    "lat": 6.3163803,
+    "lon": 5.6099469
+  },
+  "nodes": [
+    991758903,
+    991759248,
+    991758312,
+    991758528,
+    991759349,
+    991758351,
+    991759199,
+    991758092,
+    991758903
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44529882,
+  "center": {
+    "lat": 6.3167850,
+    "lon": 5.6085339
+  },
+  "nodes": [
+    565637797,
+    565637799,
+    565637801,
+    565637802,
+    565637797
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 47159867,
+  "center": {
+    "lat": 6.3164589,
+    "lon": 5.6080028
+  },
+  "nodes": [
+    601181828,
+    601181855,
+    601181858,
+    601181831,
+    601181828
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 47159927,
+  "center": {
+    "lat": 6.3177212,
+    "lon": 5.6075451
+  },
+  "nodes": [
+    601182364,
+    601182367,
+    601182370,
+    601182372,
+    601182364
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169044,
+  "center": {
+    "lat": 6.3170585,
+    "lon": 5.6076377
+  },
+  "nodes": [
+    979117375,
+    979116057,
+    979118201,
+    979116597,
+    979117375
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85515978,
+  "center": {
+    "lat": 6.3173844,
+    "lon": 5.6075177
+  },
+  "nodes": [
+    991758875,
+    991758146,
+    991759079,
+    991759267,
+    991758875
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85515979,
+  "center": {
+    "lat": 6.3171136,
+    "lon": 5.6086145
+  },
+  "nodes": [
+    991758982,
+    991758581,
+    991759001,
+    991759387,
+    991758982
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85516009,
+  "center": {
+    "lat": 6.3169163,
+    "lon": 5.6081848
+  },
+  "nodes": [
+    991758243,
+    991758894,
+    991759077,
+    991758690,
+    991758243
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85516026,
+  "center": {
+    "lat": 6.3172579,
+    "lon": 5.6084198
+  },
+  "nodes": [
+    991758262,
+    991758724,
+    991759100,
+    991758166,
+    991758262
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 124707662,
+  "center": {
+    "lat": 6.3258404,
+    "lon": 5.5955087
+  },
+  "nodes": [
+    1387204511,
+    1387204516,
+    1387204509,
+    1387204501,
+    1387204511
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ihenhen medical centre"
+  }
+},
+{
+  "type": "way",
+  "id": 124707617,
+  "center": {
+    "lat": 6.3282183,
+    "lon": 5.5936523
+  },
+  "nodes": [
+    1387204625,
+    1387204629,
+    1387204624,
+    1387204620,
+    1387204625
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Bethel faith medical centre and maternity"
+  }
+},
+{
+  "type": "way",
+  "id": 84257882,
+  "center": {
+    "lat": 6.3323175,
+    "lon": 5.5982125
+  },
+  "nodes": [
+    979962594,
+    979962866,
+    979963030,
+    979962441,
+    979962594
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Shepherd's Lab"
+  }
+},
+{
+  "type": "way",
+  "id": 44962191,
+  "center": {
+    "lat": 6.3391886,
+    "lon": 5.5978521
+  },
+  "nodes": [
+    570079294,
+    570079314,
+    570079324,
+    570079332,
+    570079294
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Center for Research and Preventive Health Care"
+  }
+},
+{
+  "type": "way",
+  "id": 84257767,
+  "center": {
+    "lat": 6.3374043,
+    "lon": 5.5985832
+  },
+  "nodes": [
+    979962728,
+    979962993,
+    979962415,
+    979962565,
+    979962728
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ideal Maternity and Nursing Home"
+  }
+},
+{
+  "type": "way",
+  "id": 47380654,
+  "center": {
+    "lat": 6.3355031,
+    "lon": 5.6051806
+  },
+  "nodes": [
+    603180474,
+    603180476,
+    603180478,
+    603180480,
+    603180474
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Time Medical Clinic & Maternity"
+  }
+},
+{
+  "type": "way",
+  "id": 47419701,
+  "center": {
+    "lat": 6.3344115,
+    "lon": 5.6043423
+  },
+  "nodes": [
+    603573194,
+    603573195,
+    603573169,
+    603573168,
+    603573194
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Calvary Medical Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 47395584,
+  "center": {
+    "lat": 6.3468474,
+    "lon": 5.5991705
+  },
+  "nodes": [
+    603317491,
+    603317494,
+    603317493,
+    603317492,
+    603317491
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Amuiuwu Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84435530,
+  "center": {
+    "lat": 6.3419886,
+    "lon": 5.6090797
+  },
+  "nodes": [
+    981284702,
+    981283955,
+    981284311,
+    981284545,
+    981284702
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Globa Medical  Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 85516130,
+  "center": {
+    "lat": 6.3196325,
+    "lon": 5.6118188
+  },
+  "nodes": [
+    991758721,
+    991759098,
+    991758165,
+    991758579,
+    991758721
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 84169502,
+  "center": {
+    "lat": 6.3252703,
+    "lon": 5.6156975
+  },
+  "nodes": [
+    979112995,
+    979111760,
+    979114921,
+    979114011,
+    979112995
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Prime Optical Eye Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 85704339,
+  "center": {
+    "lat": 6.3269255,
+    "lon": 5.6196578
+  },
+  "nodes": [
+    994705936,
+    994705667,
+    994706148,
+    994705809,
+    994705936
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Edi International Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44618856,
+  "center": {
+    "lat": 6.3315533,
+    "lon": 5.6229343
+  },
+  "nodes": [
+    566449500,
+    566449502,
+    566449504,
+    566449506,
+    566449508,
+    566449509,
+    566449500
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44689343,
+  "center": {
+    "lat": 6.3312368,
+    "lon": 5.6228623
+  },
+  "nodes": [
+    567106850,
+    567106851,
+    567106852,
+    567106854,
+    567106850
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169069,
+  "center": {
+    "lat": 6.3307825,
+    "lon": 5.6228218
+  },
+  "nodes": [
+    979115633,
+    979114613,
+    979116114,
+    979115092,
+    979115633
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169397,
+  "center": {
+    "lat": 6.3305889,
+    "lon": 5.6228352
+  },
+  "nodes": [
+    979117497,
+    979115035,
+    979114098,
+    979117418,
+    979117497
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44615779,
+  "center": {
+    "lat": 6.3302734,
+    "lon": 5.6224923
+  },
+  "nodes": [
+    566430314,
+    566430330,
+    566430339,
+    566430346,
+    566430352,
+    566430357,
+    566430314
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 45417583,
+  "center": {
+    "lat": 6.3293297,
+    "lon": 5.6222876
+  },
+  "nodes": [
+    577485734,
+    577485735,
+    577485736,
+    577485737,
+    577485734
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169182,
+  "center": {
+    "lat": 6.3297283,
+    "lon": 5.6225296
+  },
+  "nodes": [
+    979117513,
+    979116126,
+    979112638,
+    979119390,
+    979117513
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169832,
+  "center": {
+    "lat": 6.3298632,
+    "lon": 5.6221512
+  },
+  "nodes": [
+    979116042,
+    979116659,
+    979113776,
+    979114626,
+    979116042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169917,
+  "center": {
+    "lat": 6.3299098,
+    "lon": 5.6225247
+  },
+  "nodes": [
+    979115048,
+    979119315,
+    979117433,
+    979111998,
+    979115048
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169606,
+  "center": {
+    "lat": 6.3303663,
+    "lon": 5.6237001
+  },
+  "nodes": [
+    979113612,
+    979117256,
+    979115417,
+    979116433,
+    979113612
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Children Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 84396752,
+  "center": {
+    "lat": 6.3418493,
+    "lon": 5.6209480
+  },
+  "nodes": [
+    981102887,
+    981104704,
+    981106270,
+    981100860,
+    981102887
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gift Medical Center"
+  }
+},
+{
+  "type": "way",
+  "id": 188794646,
+  "center": {
+    "lat": 6.3603300,
+    "lon": 5.6250168
+  },
+  "nodes": [
+    1994158850,
+    1994158532,
+    1994158788,
+    1994158917,
+    1994158850
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Blue Cross Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 189364697,
+  "center": {
+    "lat": 6.3611405,
+    "lon": 5.5808820
+  },
+  "nodes": [
+    2000015214,
+    2000015038,
+    2000014810,
+    2000014939,
+    2000015214
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "OSASIMA NURSING AND MATERNITY HOME"
+  }
+},
+{
+  "type": "way",
+  "id": 160171778,
+  "center": {
+    "lat": 6.3917690,
+    "lon": 5.6023553
+  },
+  "nodes": [
+    1722369645,
+    1722369647,
+    1722369644,
+    1722369650,
+    1722369648,
+    1722369646,
+    1722369642,
+    1722369649,
+    1722369643,
+    1722369645
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Itidiare Care"
+  }
+},
+{
+  "type": "way",
+  "id": 188794645,
+  "center": {
+    "lat": 6.3611176,
+    "lon": 5.6308795
+  },
+  "nodes": [
+    1994159412,
+    980837237,
+    980833643,
+    980830464,
+    980821599,
+    1994159412
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "BETHSAIDA MISSIONARY CLINIC"
+  }
+},
+{
+  "type": "way",
+  "id": 188794680,
+  "center": {
+    "lat": 6.3774836,
+    "lon": 5.6350551
+  },
+  "nodes": [
+    1994160753,
+    1994160755,
+    1994160750,
+    1994160749,
+    1994160753
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "OSIMIKE HEALTH SERVICE"
+  }
+},
+{
+  "type": "way",
+  "id": 283791637,
+  "nodes": [
+    2876193153,
+    2876193154,
+    2876193152,
+    2876193151,
+    2876193153
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "UKHIRI HEALTH CENTRE"
+  }
+},
+{
+  "type": "way",
+  "id": 47161450,
+  "nodes": [
+    601236031,
+    601236033,
+    601236027,
+    601236035,
+    601236031
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ben Oni Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85515964,
+  "nodes": [
+    991759165,
+    991758223,
+    991758431,
+    991759270,
+    991759345,
+    991758858,
+    991759064,
+    991758522,
+    991758339,
+    991759179,
+    991759380,
+    991758891,
+    991758973,
+    991758422,
+    991758686,
+    991758142,
+    991758466,
+    991759301,
+    991758183,
+    991759017,
+    991759093,
+    991758577,
+    991758812,
+    991758256,
+    991758108,
+    991758931,
+    991759134,
+    991758626,
+    991758735,
+    991758173,
+    991758378,
+    991759216,
+    991758215,
+    991759050,
+    991759260,
+    991758772,
+    991758854,
+    991758295,
+    991758513,
+    991759338,
+    991759173,
+    991758671,
+    991758880,
+    991758330,
+    991759165
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85516137,
+  "nodes": [
+    991758903,
+    991759248,
+    991758312,
+    991758528,
+    991759349,
+    991758351,
+    991759199,
+    991758092,
+    991758903
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44529882,
+  "nodes": [
+    565637797,
+    565637799,
+    565637801,
+    565637802,
+    565637797
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 47159867,
+  "nodes": [
+    601181828,
+    601181855,
+    601181858,
+    601181831,
+    601181828
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 47159927,
+  "nodes": [
+    601182364,
+    601182367,
+    601182370,
+    601182372,
+    601182364
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169044,
+  "nodes": [
+    979117375,
+    979116057,
+    979118201,
+    979116597,
+    979117375
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85515978,
+  "nodes": [
+    991758875,
+    991758146,
+    991759079,
+    991759267,
+    991758875
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85515979,
+  "nodes": [
+    991758982,
+    991758581,
+    991759001,
+    991759387,
+    991758982
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85516009,
+  "nodes": [
+    991758243,
+    991758894,
+    991759077,
+    991758690,
+    991758243
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 85516026,
+  "nodes": [
+    991758262,
+    991758724,
+    991759100,
+    991758166,
+    991758262
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 124707662,
+  "nodes": [
+    1387204511,
+    1387204516,
+    1387204509,
+    1387204501,
+    1387204511
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ihenhen medical centre"
+  }
+},
+{
+  "type": "way",
+  "id": 124707617,
+  "nodes": [
+    1387204625,
+    1387204629,
+    1387204624,
+    1387204620,
+    1387204625
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Bethel faith medical centre and maternity"
+  }
+},
+{
+  "type": "way",
+  "id": 84257882,
+  "nodes": [
+    979962594,
+    979962866,
+    979963030,
+    979962441,
+    979962594
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Shepherd's Lab"
+  }
+},
+{
+  "type": "way",
+  "id": 44962191,
+  "nodes": [
+    570079294,
+    570079314,
+    570079324,
+    570079332,
+    570079294
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Center for Research and Preventive Health Care"
+  }
+},
+{
+  "type": "way",
+  "id": 84257767,
+  "nodes": [
+    979962728,
+    979962993,
+    979962415,
+    979962565,
+    979962728
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Ideal Maternity and Nursing Home"
+  }
+},
+{
+  "type": "way",
+  "id": 47380654,
+  "nodes": [
+    603180474,
+    603180476,
+    603180478,
+    603180480,
+    603180474
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Time Medical Clinic & Maternity"
+  }
+},
+{
+  "type": "way",
+  "id": 47419701,
+  "nodes": [
+    603573194,
+    603573195,
+    603573169,
+    603573168,
+    603573194
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Calvary Medical Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 47395584,
+  "nodes": [
+    603317491,
+    603317494,
+    603317493,
+    603317492,
+    603317491
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Amuiuwu Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84435530,
+  "nodes": [
+    981284702,
+    981283955,
+    981284311,
+    981284545,
+    981284702
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Globa Medical  Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 85516130,
+  "nodes": [
+    991758721,
+    991759098,
+    991758165,
+    991758579,
+    991758721
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 84169502,
+  "nodes": [
+    979112995,
+    979111760,
+    979114921,
+    979114011,
+    979112995
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Prime Optical Eye Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 85704339,
+  "nodes": [
+    994705936,
+    994705667,
+    994706148,
+    994705809,
+    994705936
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Edi International Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44618856,
+  "nodes": [
+    566449500,
+    566449502,
+    566449504,
+    566449506,
+    566449508,
+    566449509,
+    566449500
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44689343,
+  "nodes": [
+    567106850,
+    567106851,
+    567106852,
+    567106854,
+    567106850
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169069,
+  "nodes": [
+    979115633,
+    979114613,
+    979116114,
+    979115092,
+    979115633
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169397,
+  "nodes": [
+    979117497,
+    979115035,
+    979114098,
+    979117418,
+    979117497
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 44615779,
+  "nodes": [
+    566430314,
+    566430330,
+    566430339,
+    566430346,
+    566430352,
+    566430357,
+    566430314
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 45417583,
+  "nodes": [
+    577485734,
+    577485735,
+    577485736,
+    577485737,
+    577485734
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169182,
+  "nodes": [
+    979117513,
+    979116126,
+    979112638,
+    979119390,
+    979117513
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169832,
+  "nodes": [
+    979116042,
+    979116659,
+    979113776,
+    979114626,
+    979116042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169917,
+  "nodes": [
+    979115048,
+    979119315,
+    979117433,
+    979111998,
+    979115048
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 84169606,
+  "nodes": [
+    979113612,
+    979117256,
+    979115417,
+    979116433,
+    979113612
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Children Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 84396752,
+  "nodes": [
+    981102887,
+    981104704,
+    981106270,
+    981100860,
+    981102887
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gift Medical Center"
+  }
+},
+{
+  "type": "way",
+  "id": 188794646,
+  "nodes": [
+    1994158850,
+    1994158532,
+    1994158788,
+    1994158917,
+    1994158850
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Blue Cross Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 189364697,
+  "nodes": [
+    2000015214,
+    2000015038,
+    2000014810,
+    2000014939,
+    2000015214
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "OSASIMA NURSING AND MATERNITY HOME"
+  }
+},
+{
+  "type": "way",
+  "id": 160171778,
+  "nodes": [
+    1722369645,
+    1722369647,
+    1722369644,
+    1722369650,
+    1722369648,
+    1722369646,
+    1722369642,
+    1722369649,
+    1722369643,
+    1722369645
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Itidiare Care"
+  }
+},
+{
+  "type": "way",
+  "id": 188794645,
+  "nodes": [
+    1994159412,
+    980837237,
+    980833643,
+    980830464,
+    980821599,
+    1994159412
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "BETHSAIDA MISSIONARY CLINIC"
+  }
+},
+{
+  "type": "way",
+  "id": 188794680,
+  "nodes": [
+    1994160753,
+    1994160755,
+    1994160750,
+    1994160749,
+    1994160753
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "OSIMIKE HEALTH SERVICE"
+  }
+}
+
+  ]
+}

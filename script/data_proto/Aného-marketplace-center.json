@@ -1,0 +1,71 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2460698293,
+  "lat": 6.2282176,
+  "lon": 1.5934946,
+  "tags": {
+    "amenity": "marketplace",
+    "source": "SURVEY"
+  }
+},
+{
+  "type": "node",
+  "id": 2999860539,
+  "lat": 6.2361618,
+  "lon": 1.6078959,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marche Municipale Ablodessime"
+  }
+},
+{
+  "type": "node",
+  "id": 3001121770,
+  "lat": 6.2403696,
+  "lon": 1.6274302,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de la Frontière"
+  }
+},
+{
+  "type": "node",
+  "id": 4088778953,
+  "lat": 6.3326272,
+  "lon": 1.5268267,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Adrigogbonou"
+  }
+},
+{
+  "type": "node",
+  "id": 4088806697,
+  "lat": 6.3384502,
+  "lon": 1.5242286,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand Marché de Vogan (Gbeke)"
+  }
+},
+{
+  "type": "node",
+  "id": 4088806725,
+  "lat": 6.3325910,
+  "lon": 1.5267654,
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

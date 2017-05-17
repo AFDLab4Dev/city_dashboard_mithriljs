@@ -1,0 +1,76 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2435638246,
+  "lat": 7.1971552,
+  "lon": 1.9821915,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie d'Abomey"
+  }
+},
+{
+  "type": "node",
+  "id": 2437350662,
+  "lat": 7.0672417,
+  "lon": 2.1189156,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Zogbodomey"
+  }
+},
+{
+  "type": "way",
+  "id": 297546129,
+  "center": {
+    "lat": 7.1712723,
+    "lon": 2.0675609
+  },
+  "nodes": [
+    3014343804,
+    3014343802,
+    3014343800,
+    3014343798,
+    3014343797,
+    3014343799,
+    3014343801,
+    3014343803,
+    3014343804
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Bohicon"
+  }
+},
+{
+  "type": "way",
+  "id": 297546129,
+  "nodes": [
+    3014343804,
+    3014343802,
+    3014343800,
+    3014343798,
+    3014343797,
+    3014343799,
+    3014343801,
+    3014343803,
+    3014343804
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Bohicon"
+  }
+}
+
+  ]
+}

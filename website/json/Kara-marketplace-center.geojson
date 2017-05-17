@@ -1,0 +1,85 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/113793454",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/113793454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.190115,
+      9.5334598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1292969599",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Tchintchinda",
+    "id": "node/1292969599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2111966,
+      9.5473539
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1292970741",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Yèou",
+    "id": "node/1292970741"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2116668,
+      9.5580402
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1292980431",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "marche de wakada",
+    "id": "node/1292980431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1730021,
+      9.5442697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3570642493",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Grand Marhé de KARA",
+    "id": "node/3570642493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1934404,
+      9.563917
+    ]
+  }
+}
+]
+}

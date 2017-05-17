@@ -1,0 +1,1241 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:25:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 448853866,
+  "lat": 3.9815965,
+  "lon": 11.3874081,
+  "tags": {
+    "amenity": "townhall",
+    "ele": "667m",
+    "name": "Maison du Chef",
+    "name:en": "Chief House"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272322,
+  "lat": 3.9288603,
+  "lon": 11.4433126,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi I"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272324,
+  "lat": 3.9667848,
+  "lon": 11.4524668,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Nkong"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272340,
+  "lat": 3.9305707,
+  "lon": 11.4649234,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Ngoya II"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272347,
+  "lat": 3.9202281,
+  "lon": 11.4726021,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Ngoya III"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272351,
+  "lat": 3.9816747,
+  "lon": 11.4683871,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Ebot"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272415,
+  "lat": 3.9203790,
+  "lon": 11.4454220,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi II"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272432,
+  "lat": 3.9982409,
+  "lon": 11.4090870,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie de Oma"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272450,
+  "lat": 4.0008633,
+  "lon": 11.4450797,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Obak"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272469,
+  "lat": 3.9228233,
+  "lon": 11.4444230,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi II"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272515,
+  "lat": 3.9920590,
+  "lon": 11.4713020,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  et Centre d'etat civil de Yegassi"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272525,
+  "lat": 3.9072190,
+  "lon": 11.4246265,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Etoud"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272558,
+  "lat": 3.9830460,
+  "lon": 11.4805273,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Nkolondom"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272561,
+  "lat": 3.9669107,
+  "lon": 11.4244918,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Centre d'etat civil de Nouma"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272577,
+  "lat": 3.9321773,
+  "lon": 11.4645079,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Centre Special d'etat civil de Ngoya I"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272581,
+  "lat": 3.9422095,
+  "lon": 11.4602142,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  d'Ekong"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272590,
+  "lat": 3.9668228,
+  "lon": 11.4240962,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Nouma"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272617,
+  "lat": 3.9974423,
+  "lon": 11.4921623,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Mintotomo"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272640,
+  "lat": 3.9363003,
+  "lon": 11.4165451,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie  de Metak"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272680,
+  "lat": 3.9434737,
+  "lon": 11.4595316,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Centre Special d'etat civil d'Ekong"
+  }
+},
+{
+  "type": "node",
+  "id": 1067289805,
+  "lat": 4.0084467,
+  "lon": 11.4023858,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie de Nkolmekouma"
+  }
+},
+{
+  "type": "node",
+  "id": 1067289821,
+  "lat": 3.9787843,
+  "lon": 11.3782127,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie de Nkolakie"
+  }
+},
+{
+  "type": "node",
+  "id": 1366949424,
+  "lat": 3.8633620,
+  "lon": 11.4617950,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie Ebang 1"
+  }
+},
+{
+  "type": "node",
+  "id": 1366949425,
+  "lat": 3.9479992,
+  "lon": 11.4590516,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Chefferie Ngoya 1"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807755,
+  "lat": 3.8348880,
+  "lon": 11.5088354,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807756,
+  "lat": 3.8381686,
+  "lon": 11.4863245,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807757,
+  "lat": 3.8520901,
+  "lon": 11.5355612,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807758,
+  "lat": 3.8711305,
+  "lon": 11.5331127,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807759,
+  "lat": 3.8727495,
+  "lon": 11.4629065,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807760,
+  "lat": 3.8768937,
+  "lon": 11.5207406,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2989807761,
+  "lat": 3.8848477,
+  "lon": 11.5033031,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "way",
+  "id": 210970089,
+  "center": {
+    "lat": 3.7875483,
+    "lon": 11.4021366
+  },
+  "nodes": [
+    2209877982,
+    2209877966,
+    2209877945,
+    2209877952,
+    2209877982
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie de Mbankomo",
+    "source": "ATANGANA Jacques Landry"
+  }
+},
+{
+  "type": "way",
+  "id": 192857178,
+  "center": {
+    "lat": 3.8366454,
+    "lon": 11.4842591
+  },
+  "nodes": [
+    2034004654,
+    2034005832,
+    2034006196,
+    2034006855,
+    2034006689,
+    2034008072,
+    2034008282,
+    2034008948,
+    2034008789,
+    2034009397,
+    2034008853,
+    2034008546,
+    2034008381,
+    2034006916,
+    2034007090,
+    2034006462,
+    2034006314,
+    2034004020,
+    2034004319,
+    2034003880,
+    2034004654
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture de Yaoundé 6",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192858369,
+  "center": {
+    "lat": 3.8381678,
+    "lon": 11.4863225
+  },
+  "nodes": [
+    2034028473,
+    2034028742,
+    2034030069,
+    2034029519,
+    2034028473
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 6"
+  }
+},
+{
+  "type": "way",
+  "id": 250520257,
+  "center": {
+    "lat": 3.8410098,
+    "lon": 11.4876347
+  },
+  "nodes": [
+    2569550879,
+    2569550872,
+    2569550868,
+    2569550874,
+    2569550875,
+    2569550877,
+    2569550879
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Sous-Préfecture de Yaoundé 6"
+  }
+},
+{
+  "type": "way",
+  "id": 193526629,
+  "center": {
+    "lat": 3.8335152,
+    "lon": 11.5066555
+  },
+  "nodes": [
+    2040427832,
+    2040428073,
+    2040429256,
+    2040429316,
+    2040431280,
+    2040431190,
+    2040432672,
+    2040432634,
+    2040433071,
+    2040432832,
+    2040432199,
+    2040432027,
+    2040430185,
+    2040430278,
+    2040428922,
+    2040428976,
+    2040427832
+  ],
+  "tags": {
+    "alt_name": "Sous-Préfecture d'Efoulan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 3",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193526587,
+  "center": {
+    "lat": 3.8348894,
+    "lon": 11.5088333
+  },
+  "nodes": [
+    2040440784,
+    2040440836,
+    2040440803,
+    2040440983,
+    2040440856,
+    2040440925,
+    2040441026,
+    2040441084,
+    2040441108,
+    2040441283,
+    2040441317,
+    2040441443,
+    2040442035,
+    2040441266,
+    2040440731,
+    2040440784
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 3",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192797866,
+  "center": {
+    "lat": 3.8727867,
+    "lon": 11.4628352
+  },
+  "nodes": [
+    2033303217,
+    2033303194,
+    2033303729,
+    2033304036,
+    2033303771,
+    2033304011,
+    2033304154,
+    2033304204,
+    2033304111,
+    2033304007,
+    2033303217
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 7",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192733782,
+  "center": {
+    "lat": 3.8868481,
+    "lon": 11.5009332
+  },
+  "nodes": [
+    2032602640,
+    2032603444,
+    2032606103,
+    2032605100,
+    2032602640
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture Yaoundé 2",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192782827,
+  "center": {
+    "lat": 3.8848457,
+    "lon": 11.5033047
+  },
+  "nodes": [
+    2033178615,
+    2033176915,
+    2033179082,
+    2033181744,
+    2033178615
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Marie de Yaoundé 2",
+    "name:fr": "Ancienne Mairie de Yaoundé 2",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192778770,
+  "center": {
+    "lat": 3.8806035,
+    "lon": 11.5158102
+  },
+  "nodes": [
+    2033020380,
+    2033019545,
+    2033023750,
+    2033023342,
+    2033026000,
+    2033028554,
+    2033030283,
+    2033032908,
+    2033039656,
+    2033031362,
+    2033034580,
+    2033041064,
+    2033039901,
+    2033040156,
+    2033041946,
+    2033039001,
+    2033047446,
+    2033052759,
+    2033042932,
+    2033042381,
+    2033043247,
+    2033041535,
+    2033046187,
+    2033049758,
+    2033055034,
+    2033052408,
+    2033054410,
+    2033050242,
+    2033047761,
+    2033044706,
+    2033040171,
+    2033042420,
+    2033036002,
+    2033023456,
+    2033020380
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture Yaoundé 1",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192809989,
+  "center": {
+    "lat": 3.8768934,
+    "lon": 11.5207432
+  },
+  "nodes": [
+    2556368576,
+    2033484892,
+    2033484795,
+    2033484455,
+    2033483503,
+    2033483933,
+    2033483511,
+    2556368574,
+    2556368576
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 1",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192824271,
+  "center": {
+    "lat": 3.8711308,
+    "lon": 11.5331094
+  },
+  "nodes": [
+    2033666552,
+    2033662910,
+    2033665471,
+    2033670908,
+    2033666552
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 5",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 211549823,
+  "center": {
+    "lat": 3.9904934,
+    "lon": 11.4035989
+  },
+  "nodes": [
+    2215382541,
+    2215382539,
+    2215382535,
+    2215382537,
+    2215382541
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Chefferie de Nkolnyada"
+  }
+},
+{
+  "type": "way",
+  "id": 193508210,
+  "center": {
+    "lat": 3.8418085,
+    "lon": 11.5409601
+  },
+  "nodes": [
+    2040258901,
+    2040260030,
+    2040260077,
+    2040261524,
+    2040261444,
+    2040263202,
+    2040262995,
+    2040261270,
+    2040261238,
+    2040260546,
+    2040260390,
+    2040260257,
+    2040259846,
+    2040259890,
+    2040258811,
+    2040258901
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 4",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192854794,
+  "center": {
+    "lat": 3.8522043,
+    "lon": 11.5363599
+  },
+  "nodes": [
+    2033889086,
+    2033888830,
+    2033890604,
+    2033891719,
+    2033892806,
+    2033893223,
+    2033892061,
+    2033893162,
+    2033891441,
+    2033889086
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous Préfecture de Yaoundé 4",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192850146,
+  "center": {
+    "lat": 3.8521092,
+    "lon": 11.5355485
+  },
+  "nodes": [
+    2033889083,
+    2033891007,
+    2033891744,
+    2033889777,
+    2033890721,
+    2033888208,
+    2033887079,
+    2033886720,
+    2033886204,
+    2033889240,
+    2033889083
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ancienne Mairie de Yaoundé 4",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192729491,
+  "center": {
+    "lat": 3.8933013,
+    "lon": 11.5673226
+  },
+  "nodes": [
+    2032701446,
+    2032700971,
+    2032701080,
+    2032701542,
+    2032701636,
+    2032703552,
+    2032703533,
+    2032703670,
+    2032703640,
+    2032703483,
+    2032703408,
+    2032703061,
+    2032703039,
+    2032701787,
+    2032701816,
+    2032701305,
+    2032701446
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 5",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 292851306,
+  "center": {
+    "lat": 3.9771922,
+    "lon": 11.5953874
+  },
+  "nodes": [
+    2964111485,
+    2964111502,
+    2964111505,
+    2964111518,
+    2964111490,
+    2964111488,
+    2964111478,
+    2964111480,
+    2964111460,
+    2964111485
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hotel de Ville",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "source": "survey TSF Cameroun 2014"
+  }
+},
+{
+  "type": "way",
+  "id": 210970089,
+  "nodes": [
+    2209877982,
+    2209877966,
+    2209877945,
+    2209877952,
+    2209877982
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie de Mbankomo",
+    "source": "ATANGANA Jacques Landry"
+  }
+},
+{
+  "type": "way",
+  "id": 192857178,
+  "nodes": [
+    2034004654,
+    2034005832,
+    2034006196,
+    2034006855,
+    2034006689,
+    2034008072,
+    2034008282,
+    2034008948,
+    2034008789,
+    2034009397,
+    2034008853,
+    2034008546,
+    2034008381,
+    2034006916,
+    2034007090,
+    2034006462,
+    2034006314,
+    2034004020,
+    2034004319,
+    2034003880,
+    2034004654
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture de Yaoundé 6",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192858369,
+  "nodes": [
+    2034028473,
+    2034028742,
+    2034030069,
+    2034029519,
+    2034028473
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 6"
+  }
+},
+{
+  "type": "way",
+  "id": 250520257,
+  "nodes": [
+    2569550879,
+    2569550872,
+    2569550868,
+    2569550874,
+    2569550875,
+    2569550877,
+    2569550879
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Sous-Préfecture de Yaoundé 6"
+  }
+},
+{
+  "type": "way",
+  "id": 193526629,
+  "nodes": [
+    2040427832,
+    2040428073,
+    2040429256,
+    2040429316,
+    2040431280,
+    2040431190,
+    2040432672,
+    2040432634,
+    2040433071,
+    2040432832,
+    2040432199,
+    2040432027,
+    2040430185,
+    2040430278,
+    2040428922,
+    2040428976,
+    2040427832
+  ],
+  "tags": {
+    "alt_name": "Sous-Préfecture d'Efoulan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 3",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193526587,
+  "nodes": [
+    2040440784,
+    2040440836,
+    2040440803,
+    2040440983,
+    2040440856,
+    2040440925,
+    2040441026,
+    2040441084,
+    2040441108,
+    2040441283,
+    2040441317,
+    2040441443,
+    2040442035,
+    2040441266,
+    2040440731,
+    2040440784
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 3",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192797866,
+  "nodes": [
+    2033303217,
+    2033303194,
+    2033303729,
+    2033304036,
+    2033303771,
+    2033304011,
+    2033304154,
+    2033304204,
+    2033304111,
+    2033304007,
+    2033303217
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 7",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192733782,
+  "nodes": [
+    2032602640,
+    2032603444,
+    2032606103,
+    2032605100,
+    2032602640
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture Yaoundé 2",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192782827,
+  "nodes": [
+    2033178615,
+    2033176915,
+    2033179082,
+    2033181744,
+    2033178615
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Marie de Yaoundé 2",
+    "name:fr": "Ancienne Mairie de Yaoundé 2",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192778770,
+  "nodes": [
+    2033020380,
+    2033019545,
+    2033023750,
+    2033023342,
+    2033026000,
+    2033028554,
+    2033030283,
+    2033032908,
+    2033039656,
+    2033031362,
+    2033034580,
+    2033041064,
+    2033039901,
+    2033040156,
+    2033041946,
+    2033039001,
+    2033047446,
+    2033052759,
+    2033042932,
+    2033042381,
+    2033043247,
+    2033041535,
+    2033046187,
+    2033049758,
+    2033055034,
+    2033052408,
+    2033054410,
+    2033050242,
+    2033047761,
+    2033044706,
+    2033040171,
+    2033042420,
+    2033036002,
+    2033023456,
+    2033020380
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture Yaoundé 1",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192809989,
+  "nodes": [
+    2556368576,
+    2033484892,
+    2033484795,
+    2033484455,
+    2033483503,
+    2033483933,
+    2033483511,
+    2556368574,
+    2556368576
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 1",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192824271,
+  "nodes": [
+    2033666552,
+    2033662910,
+    2033665471,
+    2033670908,
+    2033666552
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 5",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 211549823,
+  "nodes": [
+    2215382541,
+    2215382539,
+    2215382535,
+    2215382537,
+    2215382541
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Chefferie de Nkolnyada"
+  }
+},
+{
+  "type": "way",
+  "id": 193508210,
+  "nodes": [
+    2040258901,
+    2040260030,
+    2040260077,
+    2040261524,
+    2040261444,
+    2040263202,
+    2040262995,
+    2040261270,
+    2040261238,
+    2040260546,
+    2040260390,
+    2040260257,
+    2040259846,
+    2040259890,
+    2040258811,
+    2040258901
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 4",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192854794,
+  "nodes": [
+    2033889086,
+    2033888830,
+    2033890604,
+    2033891719,
+    2033892806,
+    2033893223,
+    2033892061,
+    2033893162,
+    2033891441,
+    2033889086
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous Préfecture de Yaoundé 4",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192850146,
+  "nodes": [
+    2033889083,
+    2033891007,
+    2033891744,
+    2033889777,
+    2033890721,
+    2033888208,
+    2033887079,
+    2033886720,
+    2033886204,
+    2033889240,
+    2033889083
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ancienne Mairie de Yaoundé 4",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192729491,
+  "nodes": [
+    2032701446,
+    2032700971,
+    2032701080,
+    2032701542,
+    2032701636,
+    2032703552,
+    2032703533,
+    2032703670,
+    2032703640,
+    2032703483,
+    2032703408,
+    2032703061,
+    2032703039,
+    2032701787,
+    2032701816,
+    2032701305,
+    2032701446
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 5",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 292851306,
+  "nodes": [
+    2964111485,
+    2964111502,
+    2964111505,
+    2964111518,
+    2964111490,
+    2964111488,
+    2964111478,
+    2964111480,
+    2964111460,
+    2964111485
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hotel de Ville",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "source": "survey TSF Cameroun 2014"
+  }
+}
+
+  ]
+}

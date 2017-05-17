@@ -1,0 +1,145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2021262294,
+  "lat": 5.1128258,
+  "lon": -1.2414146,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Accra Kumasi"
+  }
+},
+{
+  "type": "node",
+  "id": 2021262326,
+  "lat": 5.1062607,
+  "lon": -1.2419963,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "MMT"
+  }
+},
+{
+  "type": "node",
+  "id": 2021310537,
+  "lat": 5.0865070,
+  "lon": -1.3498413,
+  "tags": {
+    "amenity": "bus_station",
+    "fixme": "check location",
+    "name": "east"
+  }
+},
+{
+  "type": "node",
+  "id": 2021310538,
+  "lat": 5.0807328,
+  "lon": -1.3608606,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "west"
+  }
+},
+{
+  "type": "node",
+  "id": 4010964673,
+  "lat": 5.1072514,
+  "lon": -1.2525646,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Metro Mass",
+    "operator": "Metro Mass Transit Ltd"
+  }
+},
+{
+  "type": "node",
+  "id": 4400085083,
+  "lat": 5.1233890,
+  "lon": -1.2697380,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 356194408,
+  "center": {
+    "lat": 5.1036938,
+    "lon": -1.2501561
+  },
+  "nodes": [
+    2021263952,
+    3616902173,
+    3616902172,
+    3616902171,
+    3616902170,
+    2021263952
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 219817802,
+  "center": {
+    "lat": 5.1136593,
+    "lon": -1.2460224
+  },
+  "nodes": [
+    2289483382,
+    2289483385,
+    2289483386,
+    2289483388,
+    2289483390,
+    2289483391,
+    2289483382
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kotokraba Market Lorry Station"
+  }
+},
+{
+  "type": "way",
+  "id": 356194408,
+  "nodes": [
+    2021263952,
+    3616902173,
+    3616902172,
+    3616902171,
+    3616902170,
+    2021263952
+  ],
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 219817802,
+  "nodes": [
+    2289483382,
+    2289483385,
+    2289483386,
+    2289483388,
+    2289483390,
+    2289483391,
+    2289483382
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Kotokraba Market Lorry Station"
+  }
+}
+
+  ]
+}

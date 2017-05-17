@@ -1,0 +1,54 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4541343971,
+  "lat": 7.8007997,
+  "lon": -8.6983180,
+  "tags": {
+    "addr:city": "Konia Aviation",
+    "addr:state": "N'Zérékoré",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Table du marché",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4541927551,
+  "lat": 7.7902125,
+  "lon": -8.8179807,
+  "tags": {
+    "addr:city": "N'Zérékoré",
+    "addr:state": "N'Zérékoré",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Petit marché de Boma sud",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4541931002,
+  "lat": 7.6364529,
+  "lon": -8.7981162,
+  "tags": {
+    "addr:city": "Bounouma",
+    "addr:state": "N'Zérékoré",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Marché de Bounouma",
+    "source": "Red Cross Field Survey"
+  }
+}
+
+  ]
+}

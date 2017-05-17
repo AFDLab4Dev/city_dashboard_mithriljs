@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/297041242",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Please confirm.",
+    "id": "way/297041242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.54146,
+      6.8494614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309802699",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Confirm",
+    "id": "way/309802699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.3509799,
+      7.0097364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309802702",
+  "properties": {
+    "amenity": "marketplace",
+    "fixme": "Confirm",
+    "id": "way/309802702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.4731768,
+      6.9976103
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,73 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2959065474,
+  "lat": 7.8751733,
+  "lon": -11.1847248,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kenema Government Hospital",
+    "source": "http://instagram.com/p/qHW7nYLfyB"
+  }
+},
+{
+  "type": "node",
+  "id": 3106738524,
+  "lat": 8.0050000,
+  "lon": -11.1160000,
+  "tags": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "25",
+    "capacity:beds:planned": "25",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0013",
+    "health_facility:type": "field_hospital",
+    "is_in": "Kona Kpindibu",
+    "is_in:district": "Kenema",
+    "is_in:region": "Eastern",
+    "name": "Rural Kenema Field Hospital",
+    "note": "Type1 = ETC; Tented Structure. The IFRC is establishing the new facility. Plan to open 10 Sept.",
+    "operational_status": "open",
+    "operator": "IFRC; MOH Sierra Leone",
+    "source": "UNMEER ;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers;British Red Cross",
+    "start_date": "2014-09-15"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578737,
+  "lat": 7.8751733,
+  "lon": -11.1847248,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kenema Government Hospital",
+    "name:en": "District Health Management Team (DHMT)",
+    "osm_id": "2959065474",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579796,
+  "lat": 8.0050000,
+  "lon": -11.1160000,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rural Kenema Field Hospital",
+    "osm_id": "3106738524",
+    "type": "hospital"
+  }
+}
+
+  ]
+}

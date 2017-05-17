@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4360196566",
+  "properties": {
+    "amenity": "townhall",
+    "email": "mairiedapaong@gmail.com",
+    "email2": "communedapaong@yahoo.fr",
+    "name": "Mairie de Dapaong",
+    "phone": "+22827708455",
+    "source": "bing;survey",
+    "id": "node/4360196566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.2029816,
+      10.8640806
+    ]
+  }
+}
+]
+}

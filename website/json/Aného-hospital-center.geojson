@@ -1,0 +1,202 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/244124470",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Goumou Kopé",
+    "source": "bing;survey",
+    "id": "way/244124470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5319725,
+      6.2172455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295867586",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Contrôle de Vacinations",
+    "id": "way/295867586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.630102,
+      6.2404485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/367087918",
+  "properties": {
+    "amenity": "hospital",
+    "name": "PoMEFa Polyclinique Mère et Enfant",
+    "id": "way/367087918"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5948329,
+      6.2293473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2999860534",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier d'Aneho Adjido",
+    "short_name": "CHA",
+    "source": "bing;survey 2014",
+    "source:date": "2014/08/06",
+    "id": "node/2999860534"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6089395,
+      6.2368165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3003241717",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Dispensaire de l'Habitat",
+    "id": "node/3003241717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.572431,
+      6.2238621
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4089665767",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CHP Vogan",
+    "id": "node/4089665767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5242999,
+      6.3475242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4089693133",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital Préfectoral de Vogan",
+    "id": "node/4089693133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.5244812,
+      6.3477463
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4407715886",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de santé Corridor",
+    "id": "node/4407715886"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6304866,
+      6.2408046
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4407717684",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Poste d'inspection phytosanitaire",
+    "id": "node/4407717684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6321013,
+      6.2405546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4407720834",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Poste de contrôle de vaccination",
+    "id": "node/4407720834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6291643,
+      6.2407312
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4407724576",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Poste d'inspection phytosanitaire",
+    "id": "node/4407724576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6284467,
+      6.2405186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4726205234",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CMS Agbodrafo",
+    "id": "node/4726205234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.4810025,
+      6.2117321
+    ]
+  }
+}
+]
+}

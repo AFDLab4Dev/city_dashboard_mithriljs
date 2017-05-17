@@ -496,22 +496,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2148020822",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Greater Grace Hospital",
-    "id": "node/2148020822"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.1741432,
-      5.7184825
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2148020834",
   "properties": {
     "amenity": "hospital",
@@ -523,22 +507,6 @@
     "coordinates": [
       -0.2351065,
       5.5864145
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2154259317",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Pantang Hospital",
-    "id": "node/2154259317"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.1890739,
-      5.7173175
     ]
   }
 },
@@ -701,22 +669,6 @@
     "coordinates": [
       -0.1987446,
       5.56138
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4400510890",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Mother of God",
-    "id": "node/4400510890"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.0507497,
-      5.7104424
     ]
   }
 },

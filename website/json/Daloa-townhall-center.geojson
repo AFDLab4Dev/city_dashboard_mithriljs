@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/458652098",
+  "properties": {
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Mairie de Daloa",
+    "id": "way/458652098"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.4514772,
+      6.8859675
+    ]
+  }
+}
+]
+}

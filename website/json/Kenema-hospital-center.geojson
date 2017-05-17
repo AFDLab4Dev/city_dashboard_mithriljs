@@ -1,0 +1,90 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2959065474",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Kenema Government Hospital",
+    "source": "http://instagram.com/p/qHW7nYLfyB",
+    "id": "node/2959065474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.1847248,
+      7.8751733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3106738524",
+  "properties": {
+    "accuracy": "British Red Cross - GPS",
+    "amenity": "hospital",
+    "capacity:beds": "25",
+    "capacity:beds:planned": "25",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0013",
+    "health_facility:type": "field_hospital",
+    "is_in": "Kona Kpindibu",
+    "is_in:district": "Kenema",
+    "is_in:region": "Eastern",
+    "name": "Rural Kenema Field Hospital",
+    "note": "Type1 = ETC; Tented Structure. The IFRC is establishing the new facility. Plan to open 10 Sept.",
+    "operational_status": "open",
+    "operator": "IFRC; MOH Sierra Leone",
+    "source": "UNMEER ;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers;British Red Cross",
+    "start_date": "2014-09-15",
+    "id": "node/3106738524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.116,
+      8.005
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589578737",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Kenema Government Hospital",
+    "name:en": "District Health Management Team (DHMT)",
+    "osm_id": "2959065474",
+    "type": "hospital",
+    "id": "node/3589578737"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.1847248,
+      7.8751733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3589579796",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Rural Kenema Field Hospital",
+    "osm_id": "3106738524",
+    "type": "hospital",
+    "id": "node/3589579796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.116,
+      8.005
+    ]
+  }
+}
+]
+}

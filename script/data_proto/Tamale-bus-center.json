@@ -1,0 +1,112 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 31032416,
+  "lat": 9.4063192,
+  "lon": -0.8426672,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "STC Station"
+  }
+},
+{
+  "type": "node",
+  "id": 1791481012,
+  "lat": 9.4066138,
+  "lon": -0.8432613,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Trotro Station"
+  }
+},
+{
+  "type": "node",
+  "id": 1791545648,
+  "lat": 9.3970399,
+  "lon": -0.8458792,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Sankpala Station"
+  }
+},
+{
+  "type": "node",
+  "id": 1823687830,
+  "lat": 9.4027500,
+  "lon": -0.8411213,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "VVIP Station"
+  }
+},
+{
+  "type": "node",
+  "id": 1836476554,
+  "lat": 9.4068293,
+  "lon": -0.8481641,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Metro Mass Bus Station",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4741636453,
+  "lat": 9.3973306,
+  "lon": -0.8456683,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Real VVIP Bus Station",
+    "name:en": "Real VVIP Bus Station"
+  }
+},
+{
+  "type": "way",
+  "id": 154032903,
+  "center": {
+    "lat": 9.4062578,
+    "lon": -0.8428968
+  },
+  "nodes": [
+    1666356960,
+    1666356957,
+    1666356915,
+    1666356917,
+    1666356960
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "STC Bus Terminal",
+    "source": "digitalglobe"
+  }
+},
+{
+  "type": "way",
+  "id": 154032903,
+  "nodes": [
+    1666356960,
+    1666356957,
+    1666356915,
+    1666356917,
+    1666356960
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "STC Bus Terminal",
+    "source": "digitalglobe"
+  }
+}
+
+  ]
+}

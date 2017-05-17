@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/196206213",
+  "properties": {
+    "amenity": "university",
+    "barrier": "fence",
+    "name": "University of Maiduguri",
+    "id": "way/196206213"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1994378,
+      11.8086013
+    ]
+  }
+}
+]
+}

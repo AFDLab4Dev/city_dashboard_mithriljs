@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/183044276",
+  "properties": {
+    "addr:city": "ߞߌ߲ߘߌߦߊ߫",
+    "amenity": "townhall",
+    "building": "office",
+    "name": "KINDIA",
+    "name:fr": "Mairie",
+    "id": "way/183044276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8607718,
+      10.0477388
+    ]
+  }
+}
+]
+}

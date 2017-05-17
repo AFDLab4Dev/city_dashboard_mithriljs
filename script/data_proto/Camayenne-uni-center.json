@@ -1,0 +1,183 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:37:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2866896319,
+  "lat": 9.6709646,
+  "lon": -13.5602899,
+  "tags": {
+    "addr:city": "Conakry",
+    "amenity": "university",
+    "name": "Cheik Modibo Diarra"
+  }
+},
+{
+  "type": "node",
+  "id": 3476325217,
+  "lat": 9.5444340,
+  "lon": -13.6781835,
+  "tags": {
+    "amenity": "university",
+    "name": "Dpt de médecine"
+  }
+},
+{
+  "type": "node",
+  "id": 3476325218,
+  "lat": 9.5445489,
+  "lon": -13.6780222,
+  "tags": {
+    "amenity": "university",
+    "name": "Laboratoire de statistiques et analyses de données"
+  }
+},
+{
+  "type": "node",
+  "id": 3476325220,
+  "lat": 9.5432412,
+  "lon": -13.6766694,
+  "tags": {
+    "amenity": "university",
+    "name": "Universite Médecine"
+  }
+},
+{
+  "type": "node",
+  "id": 4176980191,
+  "lat": 9.5228611,
+  "lon": -13.6882295,
+  "tags": {
+    "amenity": "university",
+    "name": "ENAM"
+  }
+},
+{
+  "type": "node",
+  "id": 4179488654,
+  "lat": 9.6257403,
+  "lon": -13.5763912,
+  "tags": {
+    "amenity": "university",
+    "name": "University Ahmadou campus"
+  }
+},
+{
+  "type": "node",
+  "id": 4179509674,
+  "lat": 9.6462462,
+  "lon": -13.5566159,
+  "tags": {
+    "amenity": "university",
+    "name": "university hassan"
+  }
+},
+{
+  "type": "node",
+  "id": 4353748678,
+  "lat": 9.5645610,
+  "lon": -13.6619129,
+  "tags": {
+    "amenity": "university",
+    "name": "Complexe scolaire et Universitaire la Source"
+  }
+},
+{
+  "type": "node",
+  "id": 4405097689,
+  "lat": 9.6808804,
+  "lon": -13.5804452,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Général Lansana Conté de Sonfonia"
+  }
+},
+{
+  "type": "node",
+  "id": 4544001358,
+  "lat": 9.5786867,
+  "lon": -13.6213000,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Libre de Guinée"
+  }
+},
+{
+  "type": "node",
+  "id": 4582101655,
+  "lat": 9.6152224,
+  "lon": -13.6342353,
+  "tags": {
+    "amenity": "university",
+    "name": "UNC"
+  }
+},
+{
+  "type": "way",
+  "id": 338945649,
+  "center": {
+    "lat": 9.6157144,
+    "lon": -13.6379146
+  },
+  "nodes": [
+    3461329818,
+    3461329822,
+    3461329837,
+    3461329840,
+    3461329841,
+    3461329834,
+    3461329845,
+    3461329846,
+    3461329838,
+    3461329832,
+    3461329821,
+    3461329816,
+    3461329812,
+    3461329813,
+    3461329814,
+    3461329815,
+    3461329818
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université Kofi Annan de Guinée",
+    "short_name": "UNIKAG"
+  }
+},
+{
+  "type": "way",
+  "id": 338945649,
+  "nodes": [
+    3461329818,
+    3461329822,
+    3461329837,
+    3461329840,
+    3461329841,
+    3461329834,
+    3461329845,
+    3461329846,
+    3461329838,
+    3461329832,
+    3461329821,
+    3461329816,
+    3461329812,
+    3461329813,
+    3461329814,
+    3461329815,
+    3461329818
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université Kofi Annan de Guinée",
+    "short_name": "UNIKAG"
+  }
+}
+
+  ]
+}

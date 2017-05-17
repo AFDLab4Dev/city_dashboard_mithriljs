@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4130812939",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CHR Korhogo",
+    "projet:eboci": "yes",
+    "id": "node/4130812939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6319441,
+      9.4428271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4135328487",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Urbain de Koko-Ton",
+    "projet:eboci": "yes",
+    "source": "survey",
+    "id": "node/4135328487"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6397038,
+      9.4610628
+    ]
+  }
+}
+]
+}

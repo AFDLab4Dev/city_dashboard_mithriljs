@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4179488653",
+  "properties": {
+    "amenity": "university",
+    "name": "Universite Amadou Dieng",
+    "id": "node/4179488653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.4489714,
+      9.7249903
+    ]
+  }
+}
+]
+}

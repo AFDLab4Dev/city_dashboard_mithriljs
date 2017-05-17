@@ -1,0 +1,22 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:28:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3787817144,
+  "lat": 4.5778283,
+  "lon": 13.6852417,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Bertoua II"
+  }
+}
+
+  ]
+}

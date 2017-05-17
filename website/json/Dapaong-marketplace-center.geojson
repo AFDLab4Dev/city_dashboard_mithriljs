@@ -1,0 +1,55 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/333323432",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Dapaong",
+    "source": "bing;survey",
+    "id": "way/333323432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.204742,
+      10.8632586
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2494771839",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Carrefour",
+    "id": "node/2494771839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.2247876,
+      10.9772833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3890979926",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Koiboitou",
+    "name:Moba": "Sou Sou",
+    "id": "node/3890979926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.207224,
+      10.9188312
+    ]
+  }
+}
+]
+}

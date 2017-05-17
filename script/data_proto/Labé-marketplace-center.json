@@ -1,0 +1,78 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 210983011,
+  "center": {
+    "lat": 11.3156606,
+    "lon": -12.2772384
+  },
+  "nodes": [
+    2210026788,
+    2210026794,
+    2210026787,
+    2210026785,
+    2210026788
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Medina"
+  }
+},
+{
+  "type": "way",
+  "id": 417770592,
+  "center": {
+    "lat": 11.3314459,
+    "lon": -12.2819414
+  },
+  "nodes": [
+    4182582563,
+    4182582564,
+    4182582565,
+    4182582566,
+    4182582563
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 210983011,
+  "nodes": [
+    2210026788,
+    2210026794,
+    2210026787,
+    2210026785,
+    2210026788
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Medina"
+  }
+},
+{
+  "type": "way",
+  "id": 417770592,
+  "nodes": [
+    4182582563,
+    4182582564,
+    4182582565,
+    4182582566,
+    4182582563
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:30:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 458652098,
+  "center": {
+    "lat": 6.8859675,
+    "lon": -6.4514772
+  },
+  "nodes": [
+    4546184806,
+    4546184801,
+    4546184805,
+    4546184804,
+    4546184803,
+    4546184806
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Mairie de Daloa"
+  }
+},
+{
+  "type": "way",
+  "id": 458652098,
+  "nodes": [
+    4546184806,
+    4546184801,
+    4546184805,
+    4546184804,
+    4546184803,
+    4546184806
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Mairie de Daloa"
+  }
+}
+
+  ]
+}

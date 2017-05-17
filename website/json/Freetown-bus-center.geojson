@@ -1,0 +1,56 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4526166389",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi to Guinea Station",
+    "name:en": "Shared Taxi Station",
+    "id": "node/4526166389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2067971,
+      8.4796016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4526412290",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Mini Bus Terminal Shell",
+    "name:en": "Mini Bus Terminal Shell",
+    "id": "node/4526412290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.191146,
+      8.474416
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4751127021",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "buses to kanema",
+    "name:en": "buses to kanema",
+    "id": "node/4751127021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2351044,
+      8.4910111
+    ]
+  }
+}
+]
+}

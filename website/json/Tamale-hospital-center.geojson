@@ -1,0 +1,209 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/167589267",
+  "properties": {
+    "addr:street": "Gukpegu",
+    "amenity": "hospital",
+    "building": "yes",
+    "designation": "District Hospital",
+    "emergency": "yes",
+    "name": "Tamale West Hospital",
+    "source": "digitalglobe",
+    "id": "way/167589267"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8508305,
+      9.4017688
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243542766",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Fulera Maternity Clinic",
+    "id": "way/243542766"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.860596,
+      9.4321907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1791536000",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hajj Adams Clinic",
+    "id": "node/1791536000"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8451442,
+      9.3957697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1791548336",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Tamale West Hospital",
+    "id": "node/1791548336"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8508627,
+      9.4019248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1791586274",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Seventh Day Adventist (SDA) Hospital",
+    "id": "node/1791586274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8318888,
+      9.3995644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1793745315",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Tamale Teaching Hospital",
+    "id": "node/1793745315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8232896,
+      9.3938274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1799093706",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Kabsad Scientific Hospital",
+    "id": "node/1799093706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8273509,
+      9.398749
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1799111500",
+  "properties": {
+    "amenity": "hospital",
+    "name": "New Life Laboratory & Clinic",
+    "id": "node/1799111500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8209887,
+      9.3937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1802246298",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Tamale Central Hospital",
+    "id": "node/1802246298"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8372214,
+      9.405936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1880284133",
+  "properties": {
+    "amenity": "hospital",
+    "name": "TIZAA Specialist Hospital",
+    "id": "node/1880284133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8648885,
+      9.4487744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1936094984",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Kamina Medical Center",
+    "id": "node/1936094984"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8489027,
+      9.4614434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2509333360",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Choggu Health Center",
+    "id": "node/2509333360"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.8566901,
+      9.4304008
+    ]
+  }
+}
+]
+}

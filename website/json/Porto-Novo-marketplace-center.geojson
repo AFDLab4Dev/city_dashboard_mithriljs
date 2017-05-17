@@ -1,0 +1,271 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/256268159",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché d'Adjerra",
+    "id": "way/256268159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6641288,
+      6.5316559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256270415",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Ouando",
+    "source": "Bing",
+    "id": "way/256270415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6109511,
+      6.5064313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356471210",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché",
+    "id": "way/356471210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6459074,
+      6.5020843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/364745356",
+  "properties": {
+    "addr:city": "Avrankou",
+    "amenity": "marketplace",
+    "fixme": "check",
+    "name": "Marché central d'Avrankou",
+    "source": "bing",
+    "source:date": "12/16/2013",
+    "id": "way/364745356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6539135,
+      6.5511246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377325432",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Houéssi",
+    "operator": "Marché Houéssi",
+    "id": "way/377325432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5397009,
+      6.3953867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/398778218",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/398778218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6089867,
+      6.4730288
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/433786089",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché",
+    "id": "way/433786089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5501819,
+      6.5856907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4135367700",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/4135367700"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5381807,
+      6.5867455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4172381291",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de N'vènamedé",
+    "id": "node/4172381291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4598064,
+      6.3745678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4207422049",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Sekandji",
+    "id": "node/4207422049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5074534,
+      6.3756425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4254736032",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché PK3",
+    "operator": "SOGEMA",
+    "id": "node/4254736032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.461551,
+      6.3708036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323430692",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "KINTOCOME",
+    "id": "node/4323430692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5440886,
+      6.4564482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4326288469",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Zoukpa",
+    "id": "node/4326288469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5051175,
+      6.5815083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4327137789",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Hètin Sota",
+    "id": "node/4327137789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.503018,
+      6.5869161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4341923948",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché public de Glahounsa",
+    "source": "gps,survey",
+    "id": "node/4341923948"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5014881,
+      6.5826901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4431338551",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché central",
+    "id": "node/4431338551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6269016,
+      6.4711879
+    ]
+  }
+}
+]
+}

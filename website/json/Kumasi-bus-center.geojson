@@ -1,0 +1,88 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/351926830",
+  "properties": {
+    "amenity": "bus_station",
+    "construction": "yes",
+    "description": "currently under reconstruction",
+    "name": "Kejetia Bus Terminal",
+    "id": "way/351926830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.623434,
+      6.6987215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2167621796",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Agogo Lorry Station",
+    "id": "node/2167621796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5864055,
+      6.6528125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4327137092",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VIP Bus Station",
+    "id": "node/4327137092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.614368,
+      6.6869686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350177531",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "VVIP Bus Station",
+    "id": "node/4350177531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6171735,
+      6.688878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4727389489",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Long Distance Trotro Station",
+    "name:en": "Long Distance Bus Station",
+    "id": "node/4727389489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6150787,
+      6.6875038
+    ]
+  }
+}
+]
+}

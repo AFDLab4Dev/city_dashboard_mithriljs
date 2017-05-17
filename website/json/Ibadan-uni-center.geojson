@@ -1,0 +1,343 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/5399579",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Student Union Building",
+    "type": "multipolygon",
+    "id": "relation/5399579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8982551,
+      7.4446484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97622306",
+  "properties": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/97622306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8992983,
+      7.44433
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97622322",
+  "properties": {
+    "amenity": "university",
+    "name": "Student Union Building",
+    "source": "Yahoo",
+    "id": "way/97622322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8982551,
+      7.4446484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97622375",
+  "properties": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/97622375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8991182,
+      7.4440598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97622463",
+  "properties": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/97622463"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8989076,
+      7.4445089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97622517",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Swimming Pool's Pavillion",
+    "source": "Yahoo",
+    "id": "way/97622517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.897786,
+      7.4447598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97622612",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Administration Building",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "Yahoo",
+    "id": "way/97622612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8992211,
+      7.4445475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949622",
+  "properties": {
+    "amenity": "university",
+    "name": "Fculty of Nursing",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "wheelchair": "yes",
+    "id": "way/362949622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8979277,
+      7.4483734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949623",
+  "properties": {
+    "amenity": "university",
+    "name": "Fculty of Nursing",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "wheelchair": "yes",
+    "id": "way/362949623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8979509,
+      7.448382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949624",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362949624"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8956676,
+      7.4476444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949625",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362949625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8953523,
+      7.4479112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949626",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362949626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8954114,
+      7.4481012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949627",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362949627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8952467,
+      7.4477272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949628",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362949628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8950857,
+      7.4480214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362949630",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Education",
+    "opening_hours": "24/7",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362949630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8950894,
+      7.447578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362967183",
+  "properties": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362967183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8990218,
+      7.4444507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362967184",
+  "properties": {
+    "amenity": "university",
+    "name": "Students Affairs",
+    "opening_hours": "Mo-Fr 08:00-05:00",
+    "operator": "University",
+    "source": "bing",
+    "id": "way/362967184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8989784,
+      7.4442673
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2639220712",
+  "properties": {
+    "amenity": "university",
+    "name": "Lead City University Jericho Campus",
+    "id": "node/2639220712"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8662452,
+      7.4002908
+    ]
+  }
+}
+]
+}

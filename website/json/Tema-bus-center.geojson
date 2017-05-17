@@ -1,0 +1,371 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/419690753",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Trotro Station",
+    "id": "way/419690753"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0142555,
+      5.6862154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1285191175",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/1285191175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.016702,
+      5.6455393
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1546419253",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ashaiman Main Tro Tro Station",
+    "id": "node/1546419253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0326619,
+      5.6867648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1603831964",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Afariwa Tro Tro station",
+    "id": "node/1603831964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0157345,
+      5.7074972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2018321246",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/2018321246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0028199,
+      5.6459634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2151944574",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "La Main Lorry Station",
+    "id": "node/2151944574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1584786,
+      5.5594713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2154259204",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Adenta Trotro Station",
+    "id": "node/2154259204"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1656165,
+      5.705993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3602639338",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Prampram Station",
+    "id": "node/3602639338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.1089864,
+      5.7114979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286157299",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Kufour Station",
+    "id": "node/4286157299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0335596,
+      5.6852362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286157300",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Taxi Station",
+    "id": "node/4286157300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0300319,
+      5.6879223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4286173001",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Ash Newtown Station",
+    "id": "node/4286173001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0301139,
+      5.7028863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4313557006",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Zenu Trotro",
+    "id": "node/4313557006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0533144,
+      5.7189454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4313597216",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "New Town Station",
+    "id": "node/4313597216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0243627,
+      5.6512576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4313654189",
+  "properties": {
+    "amenity": "bus_station",
+    "id": "node/4313654189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0309887,
+      5.6934518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324423391",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Apaapa lorry station",
+    "id": "node/4324423391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1637839,
+      5.5672987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324512074",
+  "properties": {
+    "amenity": "bus_station",
+    "operator": "VVIP",
+    "id": "node/4324512074"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0015949,
+      5.6494437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4327136891",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Atadeka Station",
+    "id": "node/4327136891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.032007,
+      5.6905686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350218309",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Manhean Bus Station",
+    "id": "node/4350218309"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.020953,
+      5.6569424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400503924",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Community 11 Station",
+    "id": "node/4400503924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0278298,
+      5.6643441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400503926",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Aflao Bus Station (GPRTU Of TUC)",
+    "id": "node/4400503926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0132236,
+      5.6855276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4400510898",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Accra Bus Station",
+    "id": "node/4400510898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0139812,
+      5.6860165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4545132189",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Taxi Rank",
+    "name:en": "Taxi Rank",
+    "id": "node/4545132189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0051969,
+      5.6603778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4582412093",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Apaapa lorry station",
+    "id": "node/4582412093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1637263,
+      5.5672919
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,54 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/979903491",
+  "properties": {
+    "amenity": "university",
+    "name": "University of Benin",
+    "url": "http://www.uniben.edu/",
+    "id": "node/979903491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.600647,
+      6.3343603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2075846236",
+  "properties": {
+    "amenity": "university",
+    "name": "National VET. Institute",
+    "id": "node/2075846236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6180805,
+      6.3158809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161111298",
+  "properties": {
+    "amenity": "university",
+    "name": "University Of Benin Teaching Hospital",
+    "id": "node/2161111298"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.6259184,
+      6.3140812
+    ]
+  }
+}
+]
+}

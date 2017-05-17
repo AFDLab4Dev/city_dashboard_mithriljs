@@ -1,0 +1,155 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:26:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2349489921,
+  "lat": 9.3033148,
+  "lon": 13.3952153,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "WOILA Voyage",
+    "source": "MEADEN"
+  }
+},
+{
+  "type": "node",
+  "id": 2354848295,
+  "lat": 9.2983171,
+  "lon": 13.4004458,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Touristique Express"
+  }
+},
+{
+  "type": "node",
+  "id": 2358423352,
+  "lat": 9.2987000,
+  "lon": 13.4030752,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Stationnement de Poli et Tcholliré",
+    "source": "MEADEN"
+  }
+},
+{
+  "type": "node",
+  "id": 2360400621,
+  "lat": 9.3037448,
+  "lon": 13.4004458,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Narral Voyage",
+    "source": "MEADEN"
+  }
+},
+{
+  "type": "node",
+  "id": 4471677089,
+  "lat": 9.3115400,
+  "lon": 13.4005749,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Danay Express",
+    "name:fr": "Danay Express"
+  }
+},
+{
+  "type": "node",
+  "id": 4674898194,
+  "lat": 9.3116445,
+  "lon": 13.4006685,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Danay express",
+    "name:fr": "Danay express"
+  }
+},
+{
+  "type": "way",
+  "id": 220730901,
+  "center": {
+    "lat": 9.3087949,
+    "lon": 13.3992679
+  },
+  "nodes": [
+    2298233400,
+    2298233394,
+    2298233346,
+    2298233357,
+    2298233400
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Star express"
+  }
+},
+{
+  "type": "way",
+  "id": 222892645,
+  "center": {
+    "lat": 9.3038841,
+    "lon": 13.3962539
+  },
+  "nodes": [
+    2318362182,
+    2318362178,
+    2318362173,
+    2318362175,
+    2318362180,
+    2318362184,
+    2318362182
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "hedge",
+    "name": "Tsanaga Voyage",
+    "source": "MEADEN"
+  }
+},
+{
+  "type": "way",
+  "id": 220730901,
+  "nodes": [
+    2298233400,
+    2298233394,
+    2298233346,
+    2298233357,
+    2298233400
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Star express"
+  }
+},
+{
+  "type": "way",
+  "id": 222892645,
+  "nodes": [
+    2318362182,
+    2318362178,
+    2318362173,
+    2318362175,
+    2318362180,
+    2318362184,
+    2318362182
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "barrier": "hedge",
+    "name": "Tsanaga Voyage",
+    "source": "MEADEN"
+  }
+}
+
+  ]
+}

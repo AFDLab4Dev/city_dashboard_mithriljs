@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:35:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4402557289,
+  "lat": 11.1322980,
+  "lon": 2.9264910,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé GANSOSSO",
+    "name:fr": "Centre de santé GANSOSSO"
+  }
+}
+
+  ]
+}

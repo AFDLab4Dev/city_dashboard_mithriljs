@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1565176470",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Executive Mansion",
+    "id": "node/1565176470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.798322,
+      6.3002321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1565176814",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Capitol Building",
+    "id": "node/1565176814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.7959353,
+      6.3017387
+    ]
+  }
+}
+]
+}

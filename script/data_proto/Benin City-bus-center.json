@@ -1,0 +1,164 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:32:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 981284618,
+  "lat": 6.3435934,
+  "lon": 5.6282402,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Edo Line"
+  }
+},
+{
+  "type": "node",
+  "id": 2153201050,
+  "lat": 6.3340996,
+  "lon": 5.6225742,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "ECTS (Comrade Bus)"
+  }
+},
+{
+  "type": "node",
+  "id": 2349475706,
+  "lat": 6.3457435,
+  "lon": 5.6350974,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Akwa Ibom Motor Park"
+  }
+},
+{
+  "type": "node",
+  "id": 2349475716,
+  "lat": 6.3426840,
+  "lon": 5.6332002,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bob Izua Motor Park"
+  }
+},
+{
+  "type": "node",
+  "id": 2349475726,
+  "lat": 6.3438095,
+  "lon": 5.6319149,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Crystay Line Park"
+  }
+},
+{
+  "type": "node",
+  "id": 2349475731,
+  "lat": 6.3490552,
+  "lon": 5.6317854,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Glory Motor Park"
+  }
+},
+{
+  "type": "node",
+  "id": 2350849579,
+  "lat": 6.3363948,
+  "lon": 5.6207806,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Osaro Motors park"
+  }
+},
+{
+  "type": "node",
+  "id": 2350849580,
+  "lat": 6.3372857,
+  "lon": 5.6205344,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Osaro Motors park"
+  }
+},
+{
+  "type": "node",
+  "id": 2350879747,
+  "lat": 6.3453079,
+  "lon": 5.6286195,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Edegbe Line"
+  }
+},
+{
+  "type": "node",
+  "id": 2350879761,
+  "lat": 6.3443351,
+  "lon": 5.6269471,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Owan West Mass Transit"
+  }
+},
+{
+  "type": "node",
+  "id": 2350899852,
+  "lat": 6.3469551,
+  "lon": 5.6237987,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Cliffosa Motor Park"
+  }
+},
+{
+  "type": "node",
+  "id": 2350899853,
+  "lat": 6.3474182,
+  "lon": 5.6233136,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "De Modern Bus Station"
+  }
+},
+{
+  "type": "node",
+  "id": 2350899867,
+  "lat": 6.3485686,
+  "lon": 5.6220656,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Iyare Motor Park"
+  }
+},
+{
+  "type": "node",
+  "id": 4755886707,
+  "lat": 6.3453320,
+  "lon": 5.6355293,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "AKTC Motors",
+    "name:en": "AKTC Motors"
+  }
+},
+{
+  "type": "node",
+  "id": 4755886708,
+  "lat": 6.3443671,
+  "lon": 5.6363570,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Faith Motors",
+    "name:en": "Faith Motors"
+  }
+}
+
+  ]
+}

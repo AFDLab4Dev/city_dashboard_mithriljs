@@ -1,0 +1,32 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:38:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1565176470,
+  "lat": 6.3002321,
+  "lon": -10.7983220,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Executive Mansion"
+  }
+},
+{
+  "type": "node",
+  "id": 1565176814,
+  "lat": 6.3017387,
+  "lon": -10.7959353,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Capitol Building"
+  }
+}
+
+  ]
+}

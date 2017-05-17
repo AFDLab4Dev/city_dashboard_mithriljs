@@ -1,0 +1,145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3165535722,
+  "lat": 8.7607432,
+  "lon": -12.7679908,
+  "tags": {
+    "amenity": "hospital",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3197529890,
+  "lat": 8.7740000,
+  "lon": -12.7970000,
+  "tags": {
+    "accuracy": "Needs location validation",
+    "alt_name": "Former Red Cross Vocational Center",
+    "amenity": "hospital",
+    "capacity:beds": "22",
+    "capacity:beds:planned": "40",
+    "check_date": "2014-11-14T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0023",
+    "health_facility:type": "field_hospital",
+    "is_in": "Sendugu",
+    "is_in:district": "Port Loko",
+    "is_in:region": "Northern",
+    "name": "Maforki ETU",
+    "operational_status": "open",
+    "operator": "MoH / Cuba / Plan",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers"
+  }
+},
+{
+  "type": "node",
+  "id": 3197529896,
+  "lat": 8.7756581,
+  "lon": -12.7615257,
+  "tags": {
+    "accuracy": "surveyed with GPS",
+    "amenity": "hospital",
+    "capacity:beds": "-1",
+    "capacity:beds:planned": "100",
+    "check_date": "2014-11-10T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "SLE_ETU_0006",
+    "health_facility:type": "field_hospital",
+    "is_in": "Romaka",
+    "is_in:district": "Port Loko",
+    "is_in:region": "Northern",
+    "name": "Port Loko ETU",
+    "operational_status": "open",
+    "operator": "GOAL",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-12-08T00:00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3589577852,
+  "lat": 8.7607432,
+  "lon": -12.7679908,
+  "tags": {
+    "amenity": "hospital",
+    "osm_id": "3165535722",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589578790,
+  "lat": 8.7740000,
+  "lon": -12.7970000,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maforki ETU",
+    "osm_id": "3197529890",
+    "type": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3589579569,
+  "lat": 8.7756581,
+  "lon": -12.7615257,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Port Loko ETU",
+    "osm_id": "3197529896",
+    "type": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 331939089,
+  "center": {
+    "lat": 8.7655470,
+    "lon": -12.7849864
+  },
+  "nodes": [
+    3390371223,
+    3390371247,
+    3390371261,
+    3390371265,
+    3390371228,
+    3390371223
+  ],
+  "tags": {
+    "addr:city": "Port Loko",
+    "amenity": "hospital",
+    "name": "Port Loko Hospital",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 331939089,
+  "nodes": [
+    3390371223,
+    3390371247,
+    3390371261,
+    3390371265,
+    3390371228,
+    3390371223
+  ],
+  "tags": {
+    "addr:city": "Port Loko",
+    "amenity": "hospital",
+    "name": "Port Loko Hospital",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

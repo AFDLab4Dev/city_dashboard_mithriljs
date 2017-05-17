@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/620790529",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Dispensaire",
+    "id": "node/620790529"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.3080929,
+      10.9080884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4804000839",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Nikpourma Dispensaire",
+    "id": "node/4804000839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.1327767,
+      10.8300898
+    ]
+  }
+}
+]
+}

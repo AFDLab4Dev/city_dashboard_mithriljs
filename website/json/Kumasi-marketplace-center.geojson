@@ -1,0 +1,132 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/437382990",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Kumasi Central Market",
+    "id": "way/437382990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6182015,
+      6.6978546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2167621800",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Agogo Market",
+    "id": "node/2167621800"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5867397,
+      6.6527637
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2167621805",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Antonsu New Market",
+    "id": "node/2167621805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5942101,
+      6.6593684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2167621813",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Atonsu Market",
+    "id": "node/2167621813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.590499,
+      6.6551284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2169660910",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Ahodwo Market",
+    "id": "node/2169660910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6174084,
+      6.6593528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2700531239",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/2700531239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.572199,
+      6.6778833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3144540448",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Asafo Market",
+    "id": "node/3144540448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6158537,
+      6.688432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3577283350",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Kejetia Market",
+    "id": "node/3577283350"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6210457,
+      6.6958325
+    ]
+  }
+}
+]
+}

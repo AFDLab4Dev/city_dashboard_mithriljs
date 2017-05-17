@@ -1,0 +1,56 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/270765814",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE MATOTO",
+    "id": "way/270765814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6015942,
+      9.6021332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/427803208",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE DIXINN",
+    "id": "way/427803208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.672588,
+      9.5471049
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/445920840",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Ratoma",
+    "id": "way/445920840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6588129,
+      9.5815711
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,147 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2154259267,
+  "lat": 5.7762988,
+  "lon": -0.1390659,
+  "tags": {
+    "amenity": "university",
+    "name": "Christian Service University College"
+  }
+},
+{
+  "type": "node",
+  "id": 2605944608,
+  "lat": 5.5820471,
+  "lon": -0.1662988,
+  "tags": {
+    "addr:city": "Accra",
+    "addr:housenumber": "Plot #4",
+    "addr:street": "4th Circular Road",
+    "amenity": "university",
+    "name": "Webster University Campus Ghana"
+  }
+},
+{
+  "type": "node",
+  "id": 2622097846,
+  "lat": 5.6074760,
+  "lon": -0.0600694,
+  "tags": {
+    "amenity": "university",
+    "name": "Regional Maritime University"
+  }
+},
+{
+  "type": "node",
+  "id": 3802490986,
+  "lat": 5.6556096,
+  "lon": -0.1186770,
+  "tags": {
+    "amenity": "university",
+    "name": "Islamic University"
+  }
+},
+{
+  "type": "way",
+  "id": 309660062,
+  "center": {
+    "lat": 5.6608307,
+    "lon": -0.1664293
+  },
+  "nodes": [
+    3149970162,
+    3636994713,
+    3149970165,
+    3149970164,
+    3636994714,
+    3149970167,
+    3149970163,
+    3149970162
+  ],
+  "tags": {
+    "alt_name": "UPSA",
+    "amenity": "university",
+    "name": "University of Professional Studies, Accra",
+    "old_name": "University of Professional Studies",
+    "wikipedia": "en:University of Professional Studies"
+  }
+},
+{
+  "type": "way",
+  "id": 366033236,
+  "center": {
+    "lat": 5.7700504,
+    "lon": 0.0846339
+  },
+  "nodes": [
+    3700251324,
+    3700252525,
+    3700251321,
+    3700251320,
+    3700251322,
+    3700251323,
+    3700251324
+  ],
+  "tags": {
+    "addr:place": "Miotso",
+    "alt_name": "CUC",
+    "amenity": "university",
+    "name": "Central University",
+    "wikidata": "Q1054042",
+    "wikipedia": "en:Central University (Ghana)"
+  }
+},
+{
+  "type": "way",
+  "id": 309660062,
+  "nodes": [
+    3149970162,
+    3636994713,
+    3149970165,
+    3149970164,
+    3636994714,
+    3149970167,
+    3149970163,
+    3149970162
+  ],
+  "tags": {
+    "alt_name": "UPSA",
+    "amenity": "university",
+    "name": "University of Professional Studies, Accra",
+    "old_name": "University of Professional Studies",
+    "wikipedia": "en:University of Professional Studies"
+  }
+},
+{
+  "type": "way",
+  "id": 366033236,
+  "nodes": [
+    3700251324,
+    3700252525,
+    3700251321,
+    3700251320,
+    3700251322,
+    3700251323,
+    3700251324
+  ],
+  "tags": {
+    "addr:place": "Miotso",
+    "alt_name": "CUC",
+    "amenity": "university",
+    "name": "Central University",
+    "wikidata": "Q1054042",
+    "wikipedia": "en:Central University (Ghana)"
+  }
+}
+
+  ]
+}

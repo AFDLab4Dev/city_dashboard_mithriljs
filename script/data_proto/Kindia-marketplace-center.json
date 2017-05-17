@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4179488688,
+  "lat": 10.0241337,
+  "lon": -12.8772911,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "KHALIA KHORY"
+  }
+},
+{
+  "type": "node",
+  "id": 4258692751,
+  "lat": 10.0490973,
+  "lon": -12.8564907,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "grand marché"
+  }
+},
+{
+  "type": "way",
+  "id": 182192260,
+  "center": {
+    "lat": 10.0480799,
+    "lon": -12.8562492
+  },
+  "nodes": [
+    1925374321,
+    1925374456,
+    1925374454,
+    1925374309,
+    1925374321
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 183050480,
+  "center": {
+    "lat": 10.0485737,
+    "lon": -12.8563260
+  },
+  "nodes": [
+    1934108859,
+    1934108705,
+    1934108819,
+    1934108901,
+    1934108807,
+    1934108698,
+    1934108859
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "MARCHE"
+  }
+},
+{
+  "type": "way",
+  "id": 182192260,
+  "nodes": [
+    1925374321,
+    1925374456,
+    1925374454,
+    1925374309,
+    1925374321
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 183050480,
+  "nodes": [
+    1934108859,
+    1934108705,
+    1934108819,
+    1934108901,
+    1934108807,
+    1934108698,
+    1934108859
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "MARCHE"
+  }
+}
+
+  ]
+}

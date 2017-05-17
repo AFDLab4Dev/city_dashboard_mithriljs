@@ -1,0 +1,132 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:28:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 314117825,
+  "center": {
+    "lat": 4.5743260,
+    "lon": 13.6869630
+  },
+  "nodes": [
+    3201635046,
+    3201635040,
+    3201635043,
+    3201634982,
+    3201635010,
+    3201635027,
+    3201635047,
+    3201635050,
+    3201635046
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Ndoumbi"
+  }
+},
+{
+  "type": "way",
+  "id": 374595967,
+  "center": {
+    "lat": 4.5779885,
+    "lon": 13.7094143
+  },
+  "nodes": [
+    3779932379,
+    3779932376,
+    3779932366,
+    3779932371,
+    3779932379
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Petit marché",
+    "opening_hours": "24/7",
+    "operator": "Commune",
+    "organic": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 374595969,
+  "center": {
+    "lat": 4.5780819,
+    "lon": 13.7092420
+  },
+  "nodes": [
+    3779932378,
+    3779932377,
+    3779932374,
+    3779932375,
+    3779932378
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "opening_hours": "06:30-12:30,18:30"
+  }
+},
+{
+  "type": "way",
+  "id": 314117825,
+  "nodes": [
+    3201635046,
+    3201635040,
+    3201635043,
+    3201634982,
+    3201635010,
+    3201635027,
+    3201635047,
+    3201635050,
+    3201635046
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Ndoumbi"
+  }
+},
+{
+  "type": "way",
+  "id": 374595967,
+  "nodes": [
+    3779932379,
+    3779932376,
+    3779932366,
+    3779932371,
+    3779932379
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Petit marché",
+    "opening_hours": "24/7",
+    "operator": "Commune",
+    "organic": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 374595969,
+  "nodes": [
+    3779932378,
+    3779932377,
+    3779932374,
+    3779932375,
+    3779932378
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "opening_hours": "06:30-12:30,18:30"
+  }
+}
+
+  ]
+}

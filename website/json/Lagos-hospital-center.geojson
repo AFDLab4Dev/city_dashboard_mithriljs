@@ -1,0 +1,178 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/394119616",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Gbagada General Hospital",
+    "id": "way/394119616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3868425,
+      6.5528623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/765394844",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Surulere General Hospital",
+    "id": "node/765394844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.357255,
+      6.5099363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/928544939",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Parklande Specialist Hospital",
+    "id": "node/928544939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3612431,
+      6.4956585
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1632860856",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Lagos University Teaching Hospital",
+    "source": "bing",
+    "id": "node/1632860856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3543433,
+      6.5200304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2541436664",
+  "properties": {
+    "amenity": "hospital",
+    "name": "General Hospital, Igando",
+    "id": "node/2541436664"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.2512224,
+      6.5620264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3024218835",
+  "properties": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Lagos Emergency Operations Center",
+    "operator": "eHealth Africa",
+    "id": "node/3024218835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3710629,
+      6.5114037
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3943694823",
+  "properties": {
+    "addr:city": "lagos",
+    "addr:housenumber": "18",
+    "addr:street": "Olatunji Moore Street",
+    "amenity": "hospital",
+    "level": "0,1",
+    "name": "Medison Specialist Women's Hospital",
+    "operator": "Dr L. A. Akinola",
+    "id": "node/3943694823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.464246,
+      6.4284303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4348744893",
+  "properties": {
+    "addr:street": "Harvey Road",
+    "amenity": "hospital",
+    "name": "Lagos Health Center Harvey Road",
+    "opening_hours": "24/7",
+    "id": "node/4348744893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3747308,
+      6.5106168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4348751590",
+  "properties": {
+    "addr:street": "Murtala Mohammed Way",
+    "amenity": "hospital",
+    "name": "Federal Psychiatric Hospital Yaba",
+    "opening_hours": "24/7",
+    "id": "node/4348751590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3731842,
+      6.5100391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4721893032",
+  "properties": {
+    "amenity": "hospital",
+    "name": "St Nicholas",
+    "id": "node/4721893032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3976159,
+      6.4492307
+    ]
+  }
+}
+]
+}

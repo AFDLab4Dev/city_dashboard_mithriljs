@@ -1,0 +1,55 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4261595027",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé",
+    "id": "node/4261595027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.0043967,
+      6.3878269
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4264119136",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "yes",
+    "name": "Unité Villageoise de Santé de Dohi",
+    "id": "node/4264119136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.9388013,
+      6.3809272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4264120629",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Avlékété",
+    "source": "gps,survey",
+    "id": "node/4264120629"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.2062775,
+      6.3461326
+    ]
+  }
+}
+]
+}

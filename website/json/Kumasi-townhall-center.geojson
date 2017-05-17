@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2167622295",
+  "properties": {
+    "amenity": "townhall",
+    "id": "node/2167622295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5899267,
+      6.6548479
+    ]
+  }
+}
+]
+}

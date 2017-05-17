@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4344374476",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CHU Bassar",
+    "id": "node/4344374476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7808973,
+      9.268682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4844201459",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CHP BASSAR",
+    "id": "node/4844201459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7804331,
+      9.2646928
+    ]
+  }
+}
+]
+}

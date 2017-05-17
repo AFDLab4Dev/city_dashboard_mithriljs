@@ -1,0 +1,213 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/102858259",
+  "properties": {
+    "amenity": "hospital",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "SOS VILLAGES D'ENFANTS",
+    "id": "way/102858259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2104389,
+      9.5616012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/113792782",
+  "properties": {
+    "amenity": "hospital",
+    "name": "DISPENSAIRE ST LUC",
+    "id": "way/113792782"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.181435,
+      9.5275672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/113982089",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CMS Agnaram",
+    "id": "way/113982089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.203413,
+      9.5339258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/267429663",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "AED",
+    "id": "way/267429663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1711448,
+      9.5442491
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1289272919",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Clinique Ma Vie",
+    "id": "node/1289272919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1907702,
+      9.5536649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1291662405",
+  "properties": {
+    "amenity": "hospital",
+    "is_in": "Kara;Kara;Togo;Africa",
+    "is_in:city": "Kara",
+    "is_in:continent": "Africa",
+    "is_in:country": "Togo",
+    "is_in:region": "Kara",
+    "name": "USP",
+    "id": "node/1291662405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.168376,
+      9.5463014
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1291724394",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Croix Rouge",
+    "id": "node/1291724394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2183584,
+      9.5630569
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1292980131",
+  "properties": {
+    "amenity": "hospital",
+    "name": "A T B E F",
+    "id": "node/1292980131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1796772,
+      9.5471499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1293018817",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/1293018817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1808459,
+      9.5727703
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1293270627",
+  "properties": {
+    "amenity": "hospital",
+    "name": "SOS Villages D'Efants",
+    "id": "node/1293270627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2105139,
+      9.561635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4466586020",
+  "properties": {
+    "abandoned": "no",
+    "amenity": "hospital",
+    "disused": "no",
+    "health_facility:type": "hospital",
+    "name": "Centre hospitalier Régional",
+    "operator:type": "public",
+    "source": "Bing; Survey",
+    "id": "node/4466586020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2024425,
+      9.5614361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4749135523",
+  "properties": {
+    "amenity": "hospital",
+    "name": "CHR KARA",
+    "id": "node/4749135523"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2025312,
+      9.5618272
+    ]
+  }
+}
+]
+}

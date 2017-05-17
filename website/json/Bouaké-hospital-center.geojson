@@ -1,0 +1,178 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/315450061",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Hospitalier et Universitaire (CHU) de Bouaké",
+    "operator": "Ministère de la santé",
+    "short_name": "CHU de Bouaké",
+    "id": "way/315450061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0363806,
+      7.6996464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368822200",
+  "properties": {
+    "addr:city": "Bouaké",
+    "addr:street": "Rue de la boulangerie Koko",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Maternité de Koko",
+    "id": "way/368822200"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0332848,
+      7.687236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/414112053",
+  "properties": {
+    "amenity": "hospital",
+    "building": "residential",
+    "name": "Centre Medico-Social SITARAIL",
+    "id": "way/414112053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0332241,
+      7.685183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482900296",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Maternité de Sokoura",
+    "id": "way/482900296"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0129637,
+      7.6917989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/484025643",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "no",
+    "name": "Hôpital psychiatrique de Bouaké",
+    "id": "way/484025643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0417956,
+      7.6757878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/484025706",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Clinique CMENA",
+    "id": "way/484025706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0381737,
+      7.6824078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2095732369",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital Sainte-Camille",
+    "name:en": "Saint-Camilla Hospital",
+    "id": "node/2095732369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0384625,
+      7.7011634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2164262680",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Maternité d'Ahougnansou",
+    "id": "node/2164262680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0575714,
+      7.6812009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2622391929",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Polyclinique Belle-Ville 2",
+    "id": "node/2622391929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0004779,
+      7.7151292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3080426114",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Maternité de Belle-Ville-2",
+    "id": "node/3080426114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0019422,
+      7.7211474
+    ]
+  }
+}
+]
+}

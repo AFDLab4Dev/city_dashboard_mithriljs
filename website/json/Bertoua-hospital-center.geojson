@@ -1,0 +1,87 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/313420384",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital Régional de Bertoua",
+    "id": "way/313420384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6979219,
+      4.572834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/435620322",
+  "properties": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "KK",
+    "operator": "NN",
+    "id": "way/435620322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6679835,
+      4.5757538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3359806172",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hopital Regional de Bertoua",
+    "id": "node/3359806172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6980074,
+      4.5729263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3779854152",
+  "properties": {
+    "amenity": "hospital",
+    "id": "node/3779854152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.701261,
+      4.5780067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4378115841",
+  "properties": {
+    "amenity": "hospital",
+    "name": "C.S.I. de Bendongoue",
+    "id": "node/4378115841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6860492,
+      4.5785711
+    ]
+  }
+}
+]
+}

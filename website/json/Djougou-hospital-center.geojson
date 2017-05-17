@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/352671273",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/352671273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6714917,
+      9.708809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/394142739",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital de l'Ordre de Malte",
+    "operator": "Ordre de Malte",
+    "id": "way/394142739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6723382,
+      9.706789
+    ]
+  }
+}
+]
+}

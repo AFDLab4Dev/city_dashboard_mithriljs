@@ -211,6 +211,22 @@
 },
 {
   "type": "Feature",
+  "id": "way/368960274",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Hôpital de cardiologie",
+    "id": "way/368960274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5923715,
+      4.1204546
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/368961365",
   "properties": {
     "amenity": "hospital",

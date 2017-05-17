@@ -1,0 +1,68 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/182192260",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/182192260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8562492,
+      10.0480799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183050480",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "MARCHE",
+    "id": "way/183050480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.856326,
+      10.0485737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4179488688",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "KHALIA KHORY",
+    "id": "node/4179488688"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8772911,
+      10.0241337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4258692751",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "grand marché",
+    "id": "node/4258692751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.8564907,
+      10.0490973
+    ]
+  }
+}
+]
+}

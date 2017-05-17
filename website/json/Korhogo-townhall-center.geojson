@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4117502786",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de Korhogo",
+    "projet:eboci": "yes",
+    "source": "survey",
+    "id": "node/4117502786"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6334712,
+      9.4517434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4119148158",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie Externe",
+    "projet:eboci": "yes",
+    "source": "survey",
+    "id": "node/4119148158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.6338272,
+      9.4521311
+    ]
+  }
+}
+]
+}

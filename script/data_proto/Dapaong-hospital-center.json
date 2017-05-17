@@ -1,0 +1,32 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:45:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 620790529,
+  "lat": 10.9080884,
+  "lon": 0.3080929,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4804000839,
+  "lat": 10.8300898,
+  "lon": 0.1327767,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nikpourma Dispensaire"
+  }
+}
+
+  ]
+}

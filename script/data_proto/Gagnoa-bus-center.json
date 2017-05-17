@@ -1,0 +1,112 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4317744252,
+  "lat": 6.1267873,
+  "lon": -5.9479263,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare"
+  }
+},
+{
+  "type": "node",
+  "id": 4459066871,
+  "lat": 6.1278531,
+  "lon": -5.9409246,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Gare SBTA Abidjan - Gagnoa"
+  }
+},
+{
+  "type": "way",
+  "id": 432823038,
+  "center": {
+    "lat": 6.1249765,
+    "lon": -5.9488208
+  },
+  "nodes": [
+    4317743858,
+    4317743859,
+    4317743860,
+    4317743861,
+    4317743862,
+    4317743858
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare KS"
+  }
+},
+{
+  "type": "way",
+  "id": 432822932,
+  "center": {
+    "lat": 6.1260927,
+    "lon": -5.9475200
+  },
+  "nodes": [
+    4317742166,
+    4317742167,
+    4839766442,
+    4317742168,
+    4839766441,
+    4317742169,
+    4839766260,
+    4317742166
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare UTB"
+  }
+},
+{
+  "type": "way",
+  "id": 432823038,
+  "nodes": [
+    4317743858,
+    4317743859,
+    4317743860,
+    4317743861,
+    4317743862,
+    4317743858
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare KS"
+  }
+},
+{
+  "type": "way",
+  "id": 432822932,
+  "nodes": [
+    4317742166,
+    4317742167,
+    4839766442,
+    4317742168,
+    4839766441,
+    4317742169,
+    4839766260,
+    4317742166
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare UTB"
+  }
+}
+
+  ]
+}

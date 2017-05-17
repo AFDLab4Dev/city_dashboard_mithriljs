@@ -1,0 +1,23 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:46:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2723181787,
+  "lat": 10.3705377,
+  "lon": 0.4759782,
+  "tags": {
+    "amenity": "hospital",
+    "fixme": "not sure about position, opened 01/2014, not available at bing sat",
+    "name": "Hospital of Hope"
+  }
+}
+
+  ]
+}

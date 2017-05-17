@@ -1,0 +1,734 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:31:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 959852212,
+  "lat": 7.3992111,
+  "lon": 3.8882299,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Alafia Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2401172681,
+  "lat": 7.3519054,
+  "lon": 3.8612590,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Adeoyo State Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2627690901,
+  "lat": 7.4424644,
+  "lon": 3.9008813,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Jaja health Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2627690902,
+  "lat": 7.4413047,
+  "lon": 3.9084103,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Poly Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3084313969,
+  "lat": 7.3739061,
+  "lon": 3.8912181,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Isale Osi Primary Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084321283,
+  "lat": 7.4082350,
+  "lon": 3.8651303,
+  "tags": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Police hospital Eleyele Ibadan"
+  }
+},
+{
+  "type": "node",
+  "id": 3084824646,
+  "lat": 7.3744818,
+  "lon": 3.8940483,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tosin Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084880385,
+  "lat": 7.4021988,
+  "lon": 3.8856101,
+  "tags": {
+    "amenity": "hospital",
+    "name": "sabo public healthcare centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084881235,
+  "lat": 7.3589408,
+  "lon": 3.9131339,
+  "tags": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Odinjo Comprehensive Health Center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084912685,
+  "lat": 7.4273008,
+  "lon": 3.8933804,
+  "tags": {
+    "amenity": "hospital",
+    "name": "sango pataki community health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084912686,
+  "lat": 7.4365373,
+  "lon": 3.8845257,
+  "tags": {
+    "amenity": "hospital",
+    "name": "the polytechnic health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084930759,
+  "lat": 7.3815941,
+  "lon": 3.8977309,
+  "tags": {
+    "amenity": "hospital",
+    "name": "oke-are health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084930763,
+  "lat": 7.3870162,
+  "lon": 3.9025066,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ade oyo maternity teaching hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3084932303,
+  "lat": 7.3690215,
+  "lon": 3.8597950,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Oluyole Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084933444,
+  "lat": 7.3949360,
+  "lon": 3.9180045,
+  "tags": {
+    "amenity": "hospital",
+    "name": "idiogun maternity health clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3084935806,
+  "lat": 7.3479233,
+  "lon": 3.8740190,
+  "tags": {
+    "addr:city": "Ibadan",
+    "addr:postcode": "23402",
+    "addr:street": "Adebayo Onakoya Street",
+    "amenity": "hospital",
+    "name": "Elewura Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084951446,
+  "lat": 7.4324904,
+  "lon": 3.9048776,
+  "tags": {
+    "amenity": "hospital",
+    "name": "samonda health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084951451,
+  "lat": 7.4479156,
+  "lon": 3.9111281,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ladisa memorial health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084951452,
+  "lat": 7.4496303,
+  "lon": 3.9136983,
+  "tags": {
+    "amenity": "hospital",
+    "name": "agbowo community maternity  health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084951453,
+  "lat": 7.4378007,
+  "lon": 3.9155446,
+  "tags": {
+    "amenity": "hospital",
+    "name": "bodija health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084951454,
+  "lat": 7.4264855,
+  "lon": 3.9307820,
+  "tags": {
+    "amenity": "hospital",
+    "name": "ashi health center ( basorun)"
+  }
+},
+{
+  "type": "node",
+  "id": 3084951455,
+  "lat": 7.4152934,
+  "lon": 3.9323118,
+  "tags": {
+    "amenity": "hospital",
+    "name": "primary health care center basorun"
+  }
+},
+{
+  "type": "node",
+  "id": 3084955367,
+  "lat": 7.3996643,
+  "lon": 3.8694811,
+  "tags": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Jericho Nursing Home"
+  }
+},
+{
+  "type": "node",
+  "id": 3084959933,
+  "lat": 7.3969121,
+  "lon": 3.8708284,
+  "tags": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Jericho Specialist Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3084963901,
+  "lat": 7.3942642,
+  "lon": 3.8720569,
+  "tags": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "name": "Government Chest Hospital,Jericho"
+  }
+},
+{
+  "type": "node",
+  "id": 3084968031,
+  "lat": 7.4036503,
+  "lon": 3.9337956,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ibadan North East LG"
+  }
+},
+{
+  "type": "node",
+  "id": 3084970435,
+  "lat": 7.4043821,
+  "lon": 3.9338235,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ibadan North East LG Primary Health Care Centre, Iwo Road"
+  }
+},
+{
+  "type": "node",
+  "id": 3084971271,
+  "lat": 7.4157820,
+  "lon": 3.9388607,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Akeke/Olorombo Health Centre, Bashorun"
+  }
+},
+{
+  "type": "node",
+  "id": 3084974659,
+  "lat": 7.3764407,
+  "lon": 3.8945857,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Akere Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084979398,
+  "lat": 7.3935526,
+  "lon": 3.9185971,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ogundipe Health Post, Oke Adu"
+  }
+},
+{
+  "type": "node",
+  "id": 3084990095,
+  "lat": 7.3647318,
+  "lon": 3.9200626,
+  "tags": {
+    "addr:city": "Ibadab",
+    "addr:postcode": "23402",
+    "amenity": "hospital",
+    "name": "Royal Immaculate Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3084992533,
+  "lat": 7.3827750,
+  "lon": 3.9048908,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Alafara Aderogba Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084993579,
+  "lat": 7.3652458,
+  "lon": 3.9198794,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3084993580,
+  "lat": 7.3781837,
+  "lon": 3.9155873,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Health Clinic, Aremo, Atipe"
+  }
+},
+{
+  "type": "node",
+  "id": 3084994677,
+  "lat": 7.3819811,
+  "lon": 3.9161335,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ode Aje Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084995130,
+  "lat": 7.3862829,
+  "lon": 3.9184464,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St.Mary's Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3085001501,
+  "lat": 7.3765199,
+  "lon": 3.8976242,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Mapo Health Center"
+  }
+},
+{
+  "type": "node",
+  "id": 3085001502,
+  "lat": 7.3765179,
+  "lon": 3.8976158,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Immaculate Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 3085004172,
+  "lat": 7.3844254,
+  "lon": 3.9221997,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Agugu Community Health Centre, Agugu"
+  }
+},
+{
+  "type": "node",
+  "id": 3085009647,
+  "lat": 7.3873567,
+  "lon": 3.9230983,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Oke'badan Community Health And Maternity Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3085013780,
+  "lat": 7.3893436,
+  "lon": 3.9171223,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Oke Adu Health Centre, Oke Adu"
+  }
+},
+{
+  "type": "node",
+  "id": 3085021410,
+  "lat": 7.3837492,
+  "lon": 3.9268353,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lagelu Youth Friendly Health Centre, Agugu"
+  }
+},
+{
+  "type": "node",
+  "id": 3085023100,
+  "lat": 7.3866102,
+  "lon": 3.9271413,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lagelu Ilupeju Health Centre, Agugu"
+  }
+},
+{
+  "type": "node",
+  "id": 3085028208,
+  "lat": 7.3773180,
+  "lon": 3.9278671,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ayekale Community Maternity Centre, Agugu"
+  }
+},
+{
+  "type": "node",
+  "id": 3085040128,
+  "lat": 7.3752158,
+  "lon": 3.9183595,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St. Peters Maternity  Health Centre, Aperin"
+  }
+},
+{
+  "type": "node",
+  "id": 3702047299,
+  "lat": 7.4409428,
+  "lon": 3.9521113,
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Alegongo Primary Health Care Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3711163926,
+  "lat": 7.4338230,
+  "lon": 3.9436785,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Banby Specialist Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3711163927,
+  "lat": 7.4352551,
+  "lon": 3.9455364,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Chrisbo Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3768191845,
+  "lat": 7.4265543,
+  "lon": 3.9329659,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Grace Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 303922293,
+  "center": {
+    "lat": 7.3737122,
+    "lon": 3.8928714
+  },
+  "nodes": [
+    3084313965,
+    3084313966,
+    3084313967,
+    3084313968,
+    3084313965
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 82467201,
+  "center": {
+    "lat": 7.4027753,
+    "lon": 3.9036044
+  },
+  "nodes": [
+    959839705,
+    959839706,
+    959839708,
+    959839710,
+    959839713,
+    959839719,
+    959839723,
+    959839725,
+    959839728,
+    959839730,
+    959839732,
+    959839734,
+    959839737,
+    959839740,
+    959839743,
+    959839746,
+    959839749,
+    959839763,
+    959839766,
+    959839769,
+    959839772,
+    959839705
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University College Hospital (UCH)",
+    "website": "http://www.uch-ibadan.org.ng/",
+    "wikipedia": "en:University College Hospital, Ibadan"
+  }
+},
+{
+  "type": "way",
+  "id": 451324709,
+  "center": {
+    "lat": 7.4031653,
+    "lon": 3.9005861
+  },
+  "nodes": [
+    4481505710,
+    4481505711,
+    4481505712,
+    4481505713,
+    4481505710
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Radiation Oncology Department"
+  }
+},
+{
+  "type": "way",
+  "id": 451325060,
+  "center": {
+    "lat": 7.4028860,
+    "lon": 3.9001792
+  },
+  "nodes": [
+    4481508012,
+    4481508013,
+    4481508014,
+    4481508015,
+    4481508016,
+    4481508017,
+    4481508018,
+    4481508019,
+    4481508020,
+    4481508012
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nuclear Medicine"
+  }
+},
+{
+  "type": "way",
+  "id": 198982303,
+  "center": {
+    "lat": 7.4016229,
+    "lon": 3.9166484
+  },
+  "nodes": [
+    2090450795,
+    2090450797,
+    2090450791,
+    2090450789,
+    2090450795
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Government House Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 303922293,
+  "nodes": [
+    3084313965,
+    3084313966,
+    3084313967,
+    3084313968,
+    3084313965
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 82467201,
+  "nodes": [
+    959839705,
+    959839706,
+    959839708,
+    959839710,
+    959839713,
+    959839719,
+    959839723,
+    959839725,
+    959839728,
+    959839730,
+    959839732,
+    959839734,
+    959839737,
+    959839740,
+    959839743,
+    959839746,
+    959839749,
+    959839763,
+    959839766,
+    959839769,
+    959839772,
+    959839705
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University College Hospital (UCH)",
+    "website": "http://www.uch-ibadan.org.ng/",
+    "wikipedia": "en:University College Hospital, Ibadan"
+  }
+},
+{
+  "type": "way",
+  "id": 451324709,
+  "nodes": [
+    4481505710,
+    4481505711,
+    4481505712,
+    4481505713,
+    4481505710
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Radiation Oncology Department"
+  }
+},
+{
+  "type": "way",
+  "id": 451325060,
+  "nodes": [
+    4481508012,
+    4481508013,
+    4481508014,
+    4481508015,
+    4481508016,
+    4481508017,
+    4481508018,
+    4481508019,
+    4481508020,
+    4481508012
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nuclear Medicine"
+  }
+},
+{
+  "type": "way",
+  "id": 198982303,
+  "nodes": [
+    2090450795,
+    2090450797,
+    2090450791,
+    2090450789,
+    2090450795
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Government House Clinic"
+  }
+}
+
+  ]
+}

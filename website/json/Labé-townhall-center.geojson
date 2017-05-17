@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2944572908",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Prefecture",
+    "id": "node/2944572908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -12.2868655,
+      11.3159633
+    ]
+  }
+}
+]
+}

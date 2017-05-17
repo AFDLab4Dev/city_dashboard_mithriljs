@@ -1,0 +1,82 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/300382180",
+  "properties": {
+    "addr:city": "Zwedru",
+    "addr:street": "Water Street",
+    "amenity": "marketplace",
+    "description": "variety",
+    "name": "Zwedru Market Place",
+    "id": "way/300382180"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1322736,
+      6.0678559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/487985599",
+  "properties": {
+    "addr:city": "Zwedru",
+    "addr:street": "Water Street",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:material": "brick",
+    "description": "variety",
+    "name": "Zwedru Market Place",
+    "id": "way/487985599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1318586,
+      6.0672297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/492405537",
+  "properties": {
+    "addr:street": "Sinoe Road",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Friendship Market",
+    "opening_hours": "Mo-Sa 06:00-18:00",
+    "id": "way/492405537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.1397972,
+      6.0571095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/492631878",
+  "properties": {
+    "addr:city": "Zwedru",
+    "amenity": "marketplace",
+    "description": "Market Place with many smaller mischief booths selling variety of things",
+    "id": "way/492631878"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.13245,
+      6.0664791
+    ]
+  }
+}
+]
+}

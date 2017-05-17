@@ -1,0 +1,48 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:36:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 455599478,
+  "center": {
+    "lat": 10.3890281,
+    "lon": -9.3156232
+  },
+  "nodes": [
+    4519867559,
+    4519867557,
+    4519867560,
+    2751968896,
+    4519867559
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Gare Routiere"
+  }
+},
+{
+  "type": "way",
+  "id": 455599478,
+  "nodes": [
+    4519867559,
+    4519867557,
+    4519867560,
+    2751968896,
+    4519867559
+  ],
+  "tags": {
+    "amenity": "bus_station",
+    "area": "yes",
+    "name": "Gare Routiere"
+  }
+}
+
+  ]
+}

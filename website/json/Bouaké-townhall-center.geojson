@@ -1,0 +1,61 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/244815970",
+  "properties": {
+    "addr:city": "Bouaké",
+    "addr:street": "Avenue de la fraternité",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Bouaké",
+    "name:en": "Bouaké city hall",
+    "id": "way/244815970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0293734,
+      7.6797444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456811954",
+  "properties": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building:part": "office",
+    "name": "Mairie Annexe Gonfreville",
+    "opening_hours": "08:30-12:30,15:30-20:00",
+    "id": "way/456811954"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0561219,
+      7.7241798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/484571984",
+  "properties": {
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Marié de Bouaké - Annexe Koko",
+    "id": "way/484571984"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0344942,
+      7.6906394
+    ]
+  }
+}
+]
+}

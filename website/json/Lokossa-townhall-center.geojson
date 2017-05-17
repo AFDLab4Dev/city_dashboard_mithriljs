@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1106919315",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Hôtel de ville de Lokossa",
+    "operator": "Ville de Lokossa",
+    "id": "node/1106919315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.7114988,
+      6.6395202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1126550524",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de la commune d'Athiémé",
+    "id": "node/1126550524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.6667248,
+      6.5806678
+    ]
+  }
+}
+]
+}

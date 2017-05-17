@@ -1,0 +1,76 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2021262306,
+  "lat": 5.1027628,
+  "lon": -1.2587460,
+  "tags": {
+    "addr:street": "Bonn Street",
+    "alt_name": "District Hospital",
+    "amenity": "hospital",
+    "name": "Cape Coast Metropolitan Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2021262943,
+  "lat": 5.1199607,
+  "lon": -1.2680563,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2021263931,
+  "lat": 5.1084965,
+  "lon": -1.2470822,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Red Cross"
+  }
+},
+{
+  "type": "node",
+  "id": 2021263934,
+  "lat": 5.1337819,
+  "lon": -1.2661608,
+  "tags": {
+    "alt_name": "Central Regional Hospital",
+    "amenity": "hospital",
+    "name": "Cape Coast Teaching Hospital",
+    "website": "http://www.ccthghana.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2021263955,
+  "lat": 5.1049718,
+  "lon": -1.2828683,
+  "tags": {
+    "amenity": "hospital",
+    "name": "University Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4014339248,
+  "lat": 5.1319838,
+  "lon": -1.2711693,
+  "tags": {
+    "addr:city": "Cape Coast",
+    "amenity": "hospital",
+    "name": "Tantri Clinic"
+  }
+}
+
+  ]
+}

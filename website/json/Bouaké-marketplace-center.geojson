@@ -1,0 +1,298 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/244396962",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/244396962"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0286044,
+      7.7197109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/244685333",
+  "properties": {
+    "addr:city": "Bouaké",
+    "amenity": "marketplace",
+    "name": "Marché de Broukro",
+    "id": "way/244685333"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0522557,
+      7.6725154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/244817449",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Koko",
+    "id": "way/244817449"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0350794,
+      7.6918066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/298457039",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit marché de N'Guattakro",
+    "id": "way/298457039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0426961,
+      7.6801076
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/373237273",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Ahougnanssou",
+    "id": "way/373237273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0547455,
+      7.6833025
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377440716",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit Marché de Air-France",
+    "id": "way/377440716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0170731,
+      7.6718945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/440774356",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Tolakouadiokro",
+    "source": "bing",
+    "id": "way/440774356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0472112,
+      7.7292908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/440939480",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Djanbourou",
+    "opening_hours": "\"08:30-12:30,15:30\"",
+    "operator": "Marché de Djanbourou",
+    "id": "way/440939480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0247382,
+      7.7070562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/440948097",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/440948097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0369883,
+      7.6939601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/445898577",
+  "properties": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "Centre Commercial, vente d'habits",
+    "operator": "Ventes d'habits en solde",
+    "id": "way/445898577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0274745,
+      7.6853336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/445898578",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Vente d'habits en solde",
+    "id": "way/445898578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0265683,
+      7.684815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/446130479",
+  "properties": {
+    "alt_name": "Marché de gros de Bouaké",
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "Marché de gros de Bouaké",
+    "id": "way/446130479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0247262,
+      7.6967135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482847679",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/482847679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0269492,
+      7.6905741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482847680",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/482847680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0265872,
+      7.6937053
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/483066806",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché d'Attiékè",
+    "source": "survey",
+    "id": "way/483066806"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0260872,
+      7.6869074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3763576774",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit marché du CHU",
+    "id": "node/3763576774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0347985,
+      7.699917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3766340032",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "petit marché pour élève",
+    "id": "node/3766340032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0493628,
+      7.6886317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4119295991",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit marché de Ndakro",
+    "id": "node/4119295991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.065693,
+      7.6718562
+    ]
+  }
+}
+]
+}

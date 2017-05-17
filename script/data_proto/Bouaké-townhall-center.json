@@ -1,0 +1,162 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:29:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 484571984,
+  "center": {
+    "lat": 7.6906394,
+    "lon": -5.0344942
+  },
+  "nodes": [
+    4773210723,
+    4773210722,
+    3783319987,
+    3783319992,
+    3762699862,
+    3762699863,
+    3762694745,
+    3762694746,
+    3762694747,
+    3762694749,
+    4432451769,
+    4432451760,
+    4773210723
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Marié de Bouaké - Annexe Koko"
+  }
+},
+{
+  "type": "way",
+  "id": 456811954,
+  "center": {
+    "lat": 7.7241798,
+    "lon": -5.0561219
+  },
+  "nodes": [
+    4530465637,
+    4530465641,
+    4530465638,
+    4530465636,
+    4530465635,
+    4530465633,
+    4530465637
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building:part": "office",
+    "name": "Mairie Annexe Gonfreville",
+    "opening_hours": "08:30-12:30,15:30-20:00"
+  }
+},
+{
+  "type": "way",
+  "id": 244815970,
+  "center": {
+    "lat": 7.6797444,
+    "lon": -5.0293734
+  },
+  "nodes": [
+    4760831219,
+    2520867844,
+    2520867848,
+    2520867850,
+    2520867852,
+    2520867854,
+    2520867857,
+    4760830083,
+    4760831217,
+    4760831218,
+    4760831219
+  ],
+  "tags": {
+    "addr:city": "Bouaké",
+    "addr:street": "Avenue de la fraternité",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Bouaké",
+    "name:en": "Bouaké city hall"
+  }
+},
+{
+  "type": "way",
+  "id": 484571984,
+  "nodes": [
+    4773210723,
+    4773210722,
+    3783319987,
+    3783319992,
+    3762699862,
+    3762699863,
+    3762694745,
+    3762694746,
+    3762694747,
+    3762694749,
+    4432451769,
+    4432451760,
+    4773210723
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Marié de Bouaké - Annexe Koko"
+  }
+},
+{
+  "type": "way",
+  "id": 456811954,
+  "nodes": [
+    4530465637,
+    4530465641,
+    4530465638,
+    4530465636,
+    4530465635,
+    4530465633,
+    4530465637
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building:part": "office",
+    "name": "Mairie Annexe Gonfreville",
+    "opening_hours": "08:30-12:30,15:30-20:00"
+  }
+},
+{
+  "type": "way",
+  "id": 244815970,
+  "nodes": [
+    4760831219,
+    2520867844,
+    2520867848,
+    2520867850,
+    2520867852,
+    2520867854,
+    2520867857,
+    4760830083,
+    4760831217,
+    4760831218,
+    4760831219
+  ],
+  "tags": {
+    "addr:city": "Bouaké",
+    "addr:street": "Avenue de la fraternité",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Bouaké",
+    "name:en": "Bouaké city hall"
+  }
+}
+
+  ]
+}

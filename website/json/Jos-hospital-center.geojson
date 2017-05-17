@@ -1,0 +1,191 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/211846252",
+  "properties": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "source": "Bing",
+    "id": "way/211846252"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8841952,
+      9.8955338
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096908281",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Sabon Garin Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013",
+    "id": "node/3096908281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9537819,
+      10.0259756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096908282",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Tumu Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013",
+    "id": "node/3096908282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9644934,
+      10.0676573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096930142",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Bujiyel Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013",
+    "id": "node/3096930142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9997056,
+      10.0136143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096930149",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Latahazan Health Clinic",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013",
+    "id": "node/3096930149"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9943878,
+      10.0436397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096930150",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Toro, Toro, Bauchi",
+    "addr:municipality": "Toro",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Loro Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013",
+    "id": "node/3096930150"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0199713,
+      10.0366634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096930156",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Tilde, Toro, Bauchi",
+    "addr:municipality": "Tilde",
+    "addr:state": "Bauchi",
+    "alt_name": "Tilde Maternity and Tilde Health Clinic",
+    "amenity": "hospital",
+    "health_facility:type": "health_centre",
+    "name": "Tilde Dispensary",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2014",
+    "id": "node/3096930156"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.98674,
+      10.0401048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3096930157",
+  "properties": {
+    "addr:district": "Toro",
+    "addr:full": "Toro, Toro, Bauchi",
+    "addr:municipality": "Toro",
+    "addr:state": "Bauchi",
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Toro General Hospital",
+    "operator:type": "public",
+    "source": "ehealthafrica.org",
+    "source:date": "2013",
+    "id": "node/3096930157"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0416452,
+      10.0558394
+    ]
+  }
+}
+]
+}

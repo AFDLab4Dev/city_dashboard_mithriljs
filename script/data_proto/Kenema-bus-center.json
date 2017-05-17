@@ -1,0 +1,34 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:42:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4534008090,
+  "lat": 7.8746615,
+  "lon": -11.1936415,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Shared Taxi Park(How for do Park, Liberia Park)",
+    "name:en": "Shared Taxi Park(Bo Park)"
+  }
+},
+{
+  "type": "node",
+  "id": 4534094991,
+  "lat": 7.8795824,
+  "lon": -11.1899993,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Goverment Bus Station",
+    "name:en": "Goverment Bus Station"
+  }
+}
+
+  ]
+}

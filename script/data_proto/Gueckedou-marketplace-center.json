@@ -1,0 +1,93 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:37:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4114763402,
+  "lat": 8.5627339,
+  "lon": -10.1345827,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 4114763410,
+  "lat": 8.5636941,
+  "lon": -10.1348951,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Gueckedou Central Market"
+  }
+},
+{
+  "type": "node",
+  "id": 4534784678,
+  "lat": 8.5626557,
+  "lon": -10.1345846,
+  "tags": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Marché de Gueckedou",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4534784680,
+  "lat": 8.6086348,
+  "lon": -10.1275787,
+  "tags": {
+    "addr:city": "Gueckedou",
+    "addr:state": "Gueckedou",
+    "amenity": "marketplace",
+    "man_made": "yes",
+    "name": "Petit marché Camp",
+    "source": "Red Cross Field Survey"
+  }
+},
+{
+  "type": "way",
+  "id": 273055235,
+  "center": {
+    "lat": 8.5636540,
+    "lon": -10.1349194
+  },
+  "nodes": [
+    2779451364,
+    2779451357,
+    2779451354,
+    2745060547,
+    2779451361,
+    2779451364
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 273055235,
+  "nodes": [
+    2779451364,
+    2779451357,
+    2779451354,
+    2745060547,
+    2779451361,
+    2779451364
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,516 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/162043186",
+  "properties": {
+    "amenity": "university",
+    "name": "NorthWest University",
+    "id": "way/162043186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314449,
+      11.991553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/185718324",
+  "properties": {
+    "amenity": "university",
+    "name": "Mambayya House Bayero University",
+    "source": "Bing",
+    "id": "way/185718324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5062255,
+      12.0149756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/284840627",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Department of Accounting",
+    "id": "way/284840627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4290386,
+      11.9734005
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/284840629",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "capacity": "1000",
+    "name": "Musa Abdullahi Auditorium",
+    "source": "bing",
+    "id": "way/284840629"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4280346,
+      11.9732522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/284840634",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Vice Chancellor's Mosque",
+    "id": "way/284840634"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4271319,
+      11.9731753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/284840642",
+  "properties": {
+    "amenity": "university",
+    "name": "Faculty of Computer Science & Information Technology/Centre for Information Technology",
+    "id": "way/284840642"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4247895,
+      11.9746222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/284840643",
+  "properties": {
+    "amenity": "university",
+    "name": "Department of Business Administration and Entrepreneurship",
+    "id": "way/284840643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4287104,
+      11.9737431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285028759",
+  "properties": {
+    "amenity": "university",
+    "name": "Convocation Area",
+    "id": "way/285028759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4281078,
+      11.9665926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285197270",
+  "properties": {
+    "amenity": "university",
+    "name": "Bayero University, Kano",
+    "id": "way/285197270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4252735,
+      11.9700317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879806",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Centre for African Entrepreneurship Research & Traininng",
+    "id": "way/285879806"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4289333,
+      11.9742582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879807",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Centre for Research in Nigeria Languages and Folklore",
+    "id": "way/285879807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4300653,
+      11.9713641
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879808",
+  "properties": {
+    "amenity": "university",
+    "leisure": "park",
+    "name": "Children's Recreational Park",
+    "id": "way/285879808"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4291616,
+      11.967532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879809",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Department of Education",
+    "id": "way/285879809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4297161,
+      11.9737408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879810",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Department of Sociology and Geography",
+    "id": "way/285879810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4300172,
+      11.9716282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879811",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Faculty of Education Complex",
+    "id": "way/285879811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4303237,
+      11.9727799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879814",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Laboratory & Learning Resource Centre",
+    "id": "way/285879814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4305098,
+      11.972992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879815",
+  "properties": {
+    "amenity": "university",
+    "name": "School of Business Studies",
+    "id": "way/285879815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.427558,
+      11.9677785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879816",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Security Office",
+    "id": "way/285879816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4285686,
+      11.9682328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879817",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Security Office",
+    "id": "way/285879817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4288339,
+      11.9682149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879818",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Zonal Advanced Spaced Applications Laboratory",
+    "id": "way/285879818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.430261,
+      11.9748499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879819",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Zonal Advanced Spaced Applications Laboratory",
+    "id": "way/285879819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4298779,
+      11.9753515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879820",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Zonal Advanced Spaced Applications Laboratory",
+    "id": "way/285879820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4292556,
+      11.9752538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879821",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Zonal Advanced Spaced Applications Laboratory",
+    "id": "way/285879821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4299478,
+      11.9755388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879822",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Zonal Advanced Spaced Applications Laboratory",
+    "id": "way/285879822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4295927,
+      11.9758452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285879823",
+  "properties": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Zonal Advanced Spaced Applications Laboratory",
+    "id": "way/285879823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4304973,
+      11.9755027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/285880582",
+  "properties": {
+    "amenity": "university",
+    "name": "Centre for Excellence",
+    "id": "way/285880582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4275633,
+      11.9705621
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/291923762",
+  "properties": {
+    "addr:city": "BUK Old Site",
+    "addr:street": "BUK Road",
+    "amenity": "university",
+    "name": "Bayero University Kano",
+    "operator": "Federal Government of Nigeria",
+    "source": "steadfast.com.ng",
+    "website": "http://buk.edu.ng",
+    "id": "way/291923762"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4776017,
+      11.9794114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/359579022",
+  "properties": {
+    "amenity": "university",
+    "name": "Bayero University",
+    "id": "node/359579022"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5065423,
+      12.0160591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/359579065",
+  "properties": {
+    "amenity": "university",
+    "name": "Bayero University Kano (new campus)",
+    "id": "node/359579065"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4255078,
+      11.9692949
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/441894679",
+  "properties": {
+    "addr:city": "Sharada",
+    "addr:street": "BUK Road",
+    "amenity": "university",
+    "name": "Isiyaka Rabiu College of Quranic Studies",
+    "operator": "Bayero University Kano - BUK",
+    "source": "steadfast.com.ng",
+    "website": "http://buk.edu.ng",
+    "id": "way/441894679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4948143,
+      11.9786354
+    ]
+  }
+}
+]
+}

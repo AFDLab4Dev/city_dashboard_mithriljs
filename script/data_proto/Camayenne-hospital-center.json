@@ -1,0 +1,389 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:37:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2865708938,
+  "lat": 9.6024704,
+  "lon": -13.6407142,
+  "tags": {
+    "addr:city": "Conakry",
+    "amenity": "hospital",
+    "name": "Clinique Mere et Enfant"
+  }
+},
+{
+  "type": "node",
+  "id": 3054722433,
+  "lat": 9.5294350,
+  "lon": -13.6902575,
+  "tags": {
+    "amenity": "hospital",
+    "level": "3",
+    "name": "Clinique Ambroise Pare;Louis Berger",
+    "office": "company",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3198400471,
+  "lat": 9.5354210,
+  "lon": -13.6831930,
+  "tags": {
+    "accuracy": "GPS Courtest of WHO",
+    "amenity": "hospital",
+    "capacity:beds": "60",
+    "capacity:beds:planned": "60",
+    "check_date": "2014-11-17T00:00:00",
+    "disease:ebola": "yes",
+    "health_facility:id": "ETC-GIN-001",
+    "health_facility:type": "field_hospital",
+    "is_in": "Conakry Donka Hospital",
+    "is_in:prefecture": "Conakry",
+    "is_in:region": "Conakry Region",
+    "name": "CTE de l'Hôpital Donka de Conakry",
+    "name:en": "Conakry Donka Hospital ETU",
+    "operational_status": "open",
+    "operator": "MSF",
+    "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+    "start_date": "2014-11-19T16:44:30.911"
+  }
+},
+{
+  "type": "node",
+  "id": 4022859956,
+  "lat": 9.5673606,
+  "lon": -13.6640588,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4347462002,
+  "lat": 9.5854304,
+  "lon": -13.6541704,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Jean-Paul 2"
+  }
+},
+{
+  "type": "node",
+  "id": 4405092337,
+  "lat": 9.6137762,
+  "lon": -13.5889081,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternité Saint Gabriel"
+  }
+},
+{
+  "type": "node",
+  "id": 4437752844,
+  "lat": 9.5995177,
+  "lon": -13.6476179,
+  "tags": {
+    "amenity": "hospital",
+    "name": "hôpital de l'amitié sino-guinéenne"
+  }
+},
+{
+  "type": "node",
+  "id": 4831777121,
+  "lat": 9.5361267,
+  "lon": -13.6867117,
+  "tags": {
+    "amenity": "hospital",
+    "name": "AGEBEF",
+    "name:fr": "AGEBEF"
+  }
+},
+{
+  "type": "way",
+  "id": 338937678,
+  "center": {
+    "lat": 9.5064961,
+    "lon": -13.7049796
+  },
+  "nodes": [
+    3461251035,
+    3461251032,
+    3461251031,
+    3461251029,
+    1827473022,
+    1827473017,
+    3461251026,
+    3461251027,
+    470007459,
+    470007464,
+    3461251035
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Ignace Deen",
+    "name:en": "Ignace Deen Hospital",
+    "name:fr": "Hopital Ignace Deen",
+    "source": "bing imagery",
+    "wikidata": "Q5992123",
+    "wikipedia": "en:Ignace Deen Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 217967226,
+  "center": {
+    "lat": 9.5078554,
+    "lon": -13.7120580
+  },
+  "nodes": [
+    2272771394,
+    2272771410,
+    2272771412,
+    2272771402,
+    2272771394
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Pasteur"
+  }
+},
+{
+  "type": "way",
+  "id": 291396458,
+  "center": {
+    "lat": 9.5294773,
+    "lon": -13.6901399
+  },
+  "nodes": [
+    2948606633,
+    2948607033,
+    2948600435,
+    2948606833,
+    2948600434,
+    2948606733,
+    2948606633
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "(+224) 664 01 01 01 / 664 02 02 02",
+    "name": "Clinique Ambroise Paré",
+    "phone": "+224 631 40 10 40 / 664 68 57 11",
+    "website": "http://www.cliniqueambroisepare.com/",
+    "wikipedia": "en:Clinique Ambroise Paré"
+  }
+},
+{
+  "type": "way",
+  "id": 338977493,
+  "center": {
+    "lat": 9.5360818,
+    "lon": -13.6821357
+  },
+  "nodes": [
+    3461604323,
+    3461604342,
+    3461604337,
+    3461604339,
+    3461604340,
+    3461604341,
+    2783062577,
+    2783062559,
+    2783062556,
+    2783062548,
+    2783062445,
+    3461603779,
+    3461603773,
+    3461603762,
+    3461603759,
+    3461603757,
+    3461603731,
+    3461603730,
+    3461604323
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "ߘߐ߲ߞߊ߫ ߘߊ߲ߘߊߛߏ߫",
+    "name:fr": "Donka Hospital",
+    "wikidata": "Q5296214",
+    "wikipedia": "en:Donka Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 217948117,
+  "center": {
+    "lat": 9.5988467,
+    "lon": -13.6477698
+  },
+  "nodes": [
+    2272566435,
+    2272566453,
+    2272566471,
+    2272566450,
+    2272566440,
+    2272566435
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical de Kipe"
+  }
+},
+{
+  "type": "way",
+  "id": 441770300,
+  "center": {
+    "lat": 9.6186105,
+    "lon": -13.6095479
+  },
+  "nodes": [
+    4394732743,
+    4394732744,
+    4394732745,
+    4394732746,
+    4394732743
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique"
+  }
+},
+{
+  "type": "way",
+  "id": 338937678,
+  "nodes": [
+    3461251035,
+    3461251032,
+    3461251031,
+    3461251029,
+    1827473022,
+    1827473017,
+    3461251026,
+    3461251027,
+    470007459,
+    470007464,
+    3461251035
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Ignace Deen",
+    "name:en": "Ignace Deen Hospital",
+    "name:fr": "Hopital Ignace Deen",
+    "source": "bing imagery",
+    "wikidata": "Q5992123",
+    "wikipedia": "en:Ignace Deen Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 217967226,
+  "nodes": [
+    2272771394,
+    2272771410,
+    2272771412,
+    2272771402,
+    2272771394
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Pasteur"
+  }
+},
+{
+  "type": "way",
+  "id": 291396458,
+  "nodes": [
+    2948606633,
+    2948607033,
+    2948600435,
+    2948606833,
+    2948600434,
+    2948606733,
+    2948606633
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "(+224) 664 01 01 01 / 664 02 02 02",
+    "name": "Clinique Ambroise Paré",
+    "phone": "+224 631 40 10 40 / 664 68 57 11",
+    "website": "http://www.cliniqueambroisepare.com/",
+    "wikipedia": "en:Clinique Ambroise Paré"
+  }
+},
+{
+  "type": "way",
+  "id": 338977493,
+  "nodes": [
+    3461604323,
+    3461604342,
+    3461604337,
+    3461604339,
+    3461604340,
+    3461604341,
+    2783062577,
+    2783062559,
+    2783062556,
+    2783062548,
+    2783062445,
+    3461603779,
+    3461603773,
+    3461603762,
+    3461603759,
+    3461603757,
+    3461603731,
+    3461603730,
+    3461604323
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "ߘߐ߲ߞߊ߫ ߘߊ߲ߘߊߛߏ߫",
+    "name:fr": "Donka Hospital",
+    "wikidata": "Q5296214",
+    "wikipedia": "en:Donka Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 217948117,
+  "nodes": [
+    2272566435,
+    2272566453,
+    2272566471,
+    2272566450,
+    2272566440,
+    2272566435
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical de Kipe"
+  }
+},
+{
+  "type": "way",
+  "id": 441770300,
+  "nodes": [
+    4394732743,
+    4394732744,
+    4394732745,
+    4394732746,
+    4394732743
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique"
+  }
+}
+
+  ]
+}

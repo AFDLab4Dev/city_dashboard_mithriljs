@@ -1,0 +1,209 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:33:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2862390776,
+  "lat": 9.0383946,
+  "lon": 7.5057982,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "support_group_home",
+    "name": "Abuja Emergency Operations Center",
+    "operator": "eHealth Africa"
+  }
+},
+{
+  "type": "node",
+  "id": 3419865603,
+  "lat": 9.0345947,
+  "lon": 7.4800981,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dara Medical Clinic",
+    "operator": "Dara"
+  }
+},
+{
+  "type": "node",
+  "id": 3720579248,
+  "lat": 9.0593465,
+  "lon": 7.3911892,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nizamiye Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4199451008,
+  "lat": 9.0337428,
+  "lon": 7.4847914,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Garki Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4530260593,
+  "lat": 9.0774551,
+  "lon": 7.5068397,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "23409",
+    "addr:street": "Aso Drive",
+    "amenity": "hospital",
+    "email": "info@diffhospital.com",
+    "emergency": "yes",
+    "internet_access": "wlan",
+    "name": "DIFF Hospital",
+    "name:en": "DIFF HOSPITAL, ABUJA",
+    "opening_hours": "24/7",
+    "phone": "09-2906387",
+    "website": "http://www.diffhospital.com"
+  }
+},
+{
+  "type": "way",
+  "id": 98919901,
+  "center": {
+    "lat": 9.0407449,
+    "lon": 7.4617916
+  },
+  "nodes": [
+    1829268930,
+    1829269367,
+    1144357656,
+    1829269201,
+    1144357663,
+    1144357667,
+    1144357688,
+    1144357701,
+    1829268930
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Hospital, Abuja",
+    "old_name": "National Hospital For Women And Children",
+    "operator": "Federal Government of Nigeria.",
+    "website": "http://www.nationalhospitalabuja.net/",
+    "wheelchair": "limited",
+    "wikidata": "Q6973410",
+    "wikipedia": "en:National Hospital, Abuja"
+  }
+},
+{
+  "type": "way",
+  "id": 299202483,
+  "center": {
+    "lat": 9.0626897,
+    "lon": 7.4689559
+  },
+  "nodes": [
+    3031472388,
+    3031472389,
+    3031472390,
+    3031472391,
+    3031472388
+  ],
+  "tags": {
+    "addr:city": "Abuja",
+    "addr:street": "Conakry Street",
+    "amenity": "hospital",
+    "name": "Wuse Gerneral Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 435783757,
+  "center": {
+    "lat": 9.0863189,
+    "lon": 7.4718243
+  },
+  "nodes": [
+    4336779486,
+    4336779487,
+    4336779484,
+    4336779485,
+    4336779488,
+    4336779486
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "BUCHANAN CLOSE",
+    "amenity": "hospital",
+    "name": "MIGRATION HEALTH ASSESSMENT CENTER-ABUJA"
+  }
+},
+{
+  "type": "way",
+  "id": 98919901,
+  "nodes": [
+    1829268930,
+    1829269367,
+    1144357656,
+    1829269201,
+    1144357663,
+    1144357667,
+    1144357688,
+    1144357701,
+    1829268930
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "National Hospital, Abuja",
+    "old_name": "National Hospital For Women And Children",
+    "operator": "Federal Government of Nigeria.",
+    "website": "http://www.nationalhospitalabuja.net/",
+    "wheelchair": "limited",
+    "wikidata": "Q6973410",
+    "wikipedia": "en:National Hospital, Abuja"
+  }
+},
+{
+  "type": "way",
+  "id": 299202483,
+  "nodes": [
+    3031472388,
+    3031472389,
+    3031472390,
+    3031472391,
+    3031472388
+  ],
+  "tags": {
+    "addr:city": "Abuja",
+    "addr:street": "Conakry Street",
+    "amenity": "hospital",
+    "name": "Wuse Gerneral Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 435783757,
+  "nodes": [
+    4336779486,
+    4336779487,
+    4336779484,
+    4336779485,
+    4336779488,
+    4336779486
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "BUCHANAN CLOSE",
+    "amenity": "hospital",
+    "name": "MIGRATION HEALTH ASSESSMENT CENTER-ABUJA"
+  }
+}
+
+  ]
+}

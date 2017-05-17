@@ -463,6 +463,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4336501689",
+  "properties": {
+    "amenity": "hospital",
+    "name": "hopital de baham",
+    "id": "node/4336501689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3755433,
+      5.3302555
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4404298342",
   "properties": {
     "addr:city": "Mbouo, Bandjoun, Bafoussam",

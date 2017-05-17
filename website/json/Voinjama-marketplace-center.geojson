@@ -1,0 +1,64 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4514642086",
+  "properties": {
+    "addr:city": "Voinjama",
+    "addr:street": "Market Grown",
+    "amenity": "marketplace",
+    "name": "Bendu's",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "source": "Red Cross Field Survey",
+    "id": "node/4514642086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.7541213,
+      8.423449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4514643990",
+  "properties": {
+    "addr:city": "Voinjama",
+    "addr:street": "Market Ground",
+    "amenity": "marketplace",
+    "opening_hours": "Fr",
+    "source": "Red Cross Field Survey",
+    "id": "node/4514643990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.7538745,
+      8.4246271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4514643998",
+  "properties": {
+    "addr:city": "Voinjama",
+    "addr:street": "New Voinjama Community",
+    "amenity": "marketplace",
+    "name": "New Voinjama Market Ground",
+    "opening_hours": "24/7",
+    "source": "Red Cross Field Survey",
+    "id": "node/4514643998"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.7457044,
+      8.4311826
+    ]
+  }
+}
+]
+}

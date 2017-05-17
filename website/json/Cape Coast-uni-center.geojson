@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/330376417",
+  "properties": {
+    "alt_name": "UCC",
+    "amenity": "university",
+    "fixme": "Boundary needs some fix",
+    "name": "University of Cape Coast",
+    "official_name": "University of Cape Coast",
+    "id": "way/330376417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2889669,
+      5.1187694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2021262315",
+  "properties": {
+    "amenity": "university",
+    "name": "Ghana National College",
+    "id": "node/2021262315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2286853,
+      5.1287219
+    ]
+  }
+}
+]
+}

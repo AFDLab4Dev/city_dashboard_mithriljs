@@ -1,0 +1,488 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/38840407",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché Gbessia cité 2",
+    "id": "way/38840407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6293173,
+      9.5717713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/94837203",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/94837203"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5985142,
+      9.6270653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/94837377",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché",
+    "id": "way/94837377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6074975,
+      9.6391775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/270168054",
+  "properties": {
+    "amenity": "marketplace",
+    "landuse": "residential",
+    "id": "way/270168054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5431567,
+      9.6738236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/270173504",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "way/270173504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5349038,
+      9.6554692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/270390809",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/270390809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5955517,
+      9.6117631
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/270396381",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/270396381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5894821,
+      9.6273477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/270407489",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/270407489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6103155,
+      9.6073669
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425101399",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché d'Enta-Cité",
+    "id": "way/425101399"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5523459,
+      9.6487358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/438399790",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de yembeya",
+    "id": "way/438399790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6072755,
+      9.6200429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558119",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558119"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6158018,
+      9.5787711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558120",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558120"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6158858,
+      9.5788415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558121",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558121"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6159836,
+      9.5790999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558122",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6163043,
+      9.5791687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558123",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558123"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6164349,
+      9.5791764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558124",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6163272,
+      9.5793111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558126",
+  "properties": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/451558126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6156685,
+      9.5789983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/462024479",
+  "properties": {
+    "amenity": "marketplace",
+    "is_in": "Conakry",
+    "name": "Marché de Madina",
+    "name:fr": "Marché de Madina",
+    "place": "locality",
+    "unocha:pcode": "GIN0020010100001",
+    "id": "node/462024479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6687895,
+      9.5450829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1081472901",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/1081472901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.63157,
+      9.5866984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1081473319",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/1081473319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.607691,
+      9.5903108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1081473649",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/1081473649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6105078,
+      9.6069985
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2754450193",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/2754450193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6572886,
+      9.5589119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2949649435",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "L'Impérial;Marché du Niger",
+    "shop": "supermarket",
+    "wikipedia": "fr:Marché Niger (Conakry)",
+    "id": "node/2949649435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.7079224,
+      9.5108181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4269786728",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "AVARIA",
+    "shop": "supermarket",
+    "id": "node/4269786728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6650458,
+      9.5466616
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4337214559",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de Matoto",
+    "id": "node/4337214559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5932705,
+      9.6113477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4337214924",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "marché de Enta",
+    "id": "node/4337214924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5635676,
+      9.6434149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4347461778",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de sonfonia gare",
+    "id": "node/4347461778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.5608967,
+      9.6666471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4353748677",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Marché de kaporo",
+    "id": "node/4353748677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6453631,
+      9.6111723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4398901037",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "Petit Marché",
+    "id": "node/4398901037"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6657243,
+      9.5480629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4495002919",
+  "properties": {
+    "amenity": "marketplace",
+    "name": "marché",
+    "id": "node/4495002919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.6368523,
+      9.5787602
+    ]
+  }
+}
+]
+}

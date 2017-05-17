@@ -1,0 +1,105 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/435297919",
+  "properties": {
+    "amenity": "bus_station",
+    "building": "yes",
+    "name": "Gare Ndoumbi",
+    "network": "OPEP",
+    "operator": "Inconnue",
+    "id": "way/435297919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6822599,
+      4.5738048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4456127808",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Voyages Plus",
+    "id": "node/4456127808"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6717489,
+      4.5745893
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4456127809",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "National Voyages",
+    "id": "node/4456127809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6715198,
+      4.5748979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4456127810",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "MangLam",
+    "id": "node/4456127810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6711785,
+      4.5745662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4456127811",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Over Line Voyages",
+    "id": "node/4456127811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6707648,
+      4.5748521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4674886594",
+  "properties": {
+    "amenity": "bus_station",
+    "name": "Danay express",
+    "name:fr": "Danay express",
+    "id": "node/4674886594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6759857,
+      4.5752351
+    ]
+  }
+}
+]
+}

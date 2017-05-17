@@ -1,0 +1,145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-15T14:47:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1501175173,
+  "lat": 6.6971295,
+  "lon": -1.6307425,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Komfo Anokye Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2167621824,
+  "lat": 6.6516036,
+  "lon": -1.5863531,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kumasi South Urban Health Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3146437010,
+  "lat": 6.7026379,
+  "lon": -1.6419009,
+  "tags": {
+    "amenity": "hospital",
+    "name": "North Suntreso Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3146487434,
+  "lat": 6.6973314,
+  "lon": -1.6293052,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Komfo Anokye Teaching Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3430483774,
+  "lat": 6.6860335,
+  "lon": -1.5740976,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tech Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4009688827,
+  "lat": 6.6567571,
+  "lon": -1.6220770,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ahodwo New Cross Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4519735890,
+  "lat": 6.6843478,
+  "lon": -1.6439990,
+  "tags": {
+    "amenity": "hospital",
+    "name": "West End hospital",
+    "name:en": "West End hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4621957790,
+  "lat": 6.6611837,
+  "lon": -1.6769908,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Aburaso Health center",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 319040639,
+  "center": {
+    "lat": 6.6681274,
+    "lon": -1.6707201
+  },
+  "nodes": [
+    3254561911,
+    3254561913,
+    3254561905,
+    3254561915,
+    3254561927,
+    3254561900,
+    3254561914,
+    3254561864,
+    3254561868,
+    3254561932,
+    3254561911
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "General",
+    "emergency": "no",
+    "name": "Aburaso Health Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 319040639,
+  "nodes": [
+    3254561911,
+    3254561913,
+    3254561905,
+    3254561915,
+    3254561927,
+    3254561900,
+    3254561914,
+    3254561864,
+    3254561868,
+    3254561932,
+    3254561911
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "General",
+    "emergency": "no",
+    "name": "Aburaso Health Centre"
+  }
+}
+
+  ]
+}

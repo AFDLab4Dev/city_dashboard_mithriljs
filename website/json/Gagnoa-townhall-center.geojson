@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4317740674",
+  "properties": {
+    "amenity": "townhall",
+    "name": "Mairie de Gagnoa",
+    "id": "node/4317740674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.943152,
+      6.130989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4676880815",
+  "properties": {
+    "addr:city": "Gagnoa",
+    "amenity": "townhall",
+    "name": "Etat Civile",
+    "id": "node/4676880815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9440708,
+      6.130622
+    ]
+  }
+}
+]
+}

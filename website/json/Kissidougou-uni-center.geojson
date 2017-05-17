@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2165195247",
+  "properties": {
+    "amenity": "university",
+    "name": "Institut biblique de Télékoro",
+    "id": "node/2165195247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.0574515,
+      9.1929053
+    ]
+  }
+}
+]
+}
